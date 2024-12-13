@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DD9D4981-A21F-44FB-9E10-F817B8C3BAEE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Colonos.Entidades</RootNamespace>
+    <AssemblyName>Colonos.Entidades</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.5.2.8\lib\net46\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Implement\Colonos\ClaseBase\Bandeja.cs" />
+    <Compile Include="Implement\Colonos\ClaseBase\Documento.cs" />
+    <Compile Include="Implement\Colonos\ClaseBase\DocumentoLinea.cs" />
+    <Compile Include="Implement\Colonos\ClaseBase\DocumentoLineaBandeja.cs" />
+    <Compile Include="Implement\Colonos\ClaseBase\DocumentoPropiedades.cs" />
+    <Compile Include="Implement\Colonos\ClaseBase\DocumentosResult.cs" />
+    <Compile Include="Implement\Colonos\ClaseBase\ItemBandeja.cs" />
+    <Compile Include="Implement\Colonos\Config\PerfilesdeUsuario\Grupo.cs" />
+    <Compile Include="Implement\Colonos\Config\PerfilesdeUsuario\Login.cs" />
+    <Compile Include="Implement\Colonos\Config\PerfilesdeUsuario\LoginOut.cs" />
+    <Compile Include="Implement\Colonos\Config\PerfilesdeUsuario\User.cs" />
+    <Compile Include="Implement\Colonos\Inventario\Categorias.cs" />
+    <Compile Include="Implement\Colonos\Inventario\ListaPrecioFijo.cs" />
+    <Compile Include="Implement\Colonos\Inventario\ListaPrecioFijoList.cs" />
+    <Compile Include="Implement\Colonos\Inventario\Producto.cs" />
+    <Compile Include="Implement\Colonos\Inventario\ProductoPropiedades.cs" />
+    <Compile Include="Implement\Colonos\Inventario\ProductosResult.cs" />
+    <Compile Include="Implement\Colonos\Inventario\RecetaProducto.cs" />
+    <Compile Include="Implement\Colonos\Inventario\RecetaProductoList.cs" />
+    <Compile Include="Implement\Colonos\Inventario\RecetasResult.cs" />
+    <Compile Include="Implement\Colonos\Logistica\DocumentoRuta.cs" />
+    <Compile Include="Implement\Colonos\Mensajes\MensajeReturn.cs" />
+    <Compile Include="Implement\Colonos\Socios\Archivo.cs" />
+    <Compile Include="Implement\Colonos\Socios\Contacto.cs" />
+    <Compile Include="Implement\Colonos\Socios\ContactoPropiedades.cs" />
+    <Compile Include="Implement\Colonos\Socios\Direccion.cs" />
+    <Compile Include="Implement\Colonos\Socios\DireccionPropiedades.cs" />
+    <Compile Include="Implement\Colonos\Socios\HistorialModificaciones.cs" />
+    <Compile Include="Implement\Colonos\Socios\Socio.cs" />
+    <Compile Include="Implement\Colonos\Socios\SocioPropiedades.cs" />
+    <Compile Include="Implement\Colonos\Socios\SociosResult.cs" />
+    <Compile Include="Implement\Colonos\Socios\Venta.cs" />
+    <Compile Include="Implement\Colonos\Ventas\FacturadeVenta.cs" />
+    <Compile Include="Implement\Colonos\Ventas\HistorialDoc.cs" />
+    <Compile Include="Implement\Colonos\Ventas\InfoPedidos.cs" />
+    <Compile Include="Implement\Colonos\Ventas\InfoPedidos_AreaPorHora.cs" />
+    <Compile Include="Implement\Colonos\Ventas\InfoPedidos_Diario_Vendedor.cs" />
+    <Compile Include="Implement\Colonos\Ventas\InfoPedidos_Entregas.cs" />
+    <Compile Include="Implement\Colonos\Ventas\InfoPedidos_TopClientes.cs" />
+    <Compile Include="Implement\Colonos\Ventas\InfoPedidos_VendedorPorHora.cs" />
+    <Compile Include="Implement\Colonos\Ventas\PedidodeVenta.cs" />
+    <Compile Include="Implement\Colonos\Ventas\Picking.cs" />
+    <Compile Include="Implement\Colonos\Ventas\Picking_Lineas.cs" />
+    <Compile Include="Implement\Defontana\Clientes\ClienteDF.cs" />
+    <Compile Include="Implement\Defontana\Clientes\ClienteListDF.cs" />
+    <Compile Include="Implement\Defontana\Clientes\paymentElectronicDF.cs" />
+    <Compile Include="Implement\Defontana\Productos\Categorias\chield.cs" />
+    <Compile Include="Implement\Defontana\Productos\Categorias\item.cs" />
+    <Compile Include="Implement\Defontana\Productos\Categorias\itemsCategorias.cs" />
+    <Compile Include="Implement\Defontana\Productos\Transacciones\AnalisysAjuste.cs" />
+    <Compile Include="Implement\Defontana\Productos\ConsultaStockDF.cs" />
+    <Compile Include="Implement\Defontana\Productos\CostoResult.cs" />
+    <Compile Include="Implement\Defontana\Productos\Transacciones\DetailAjuste.cs" />
+    <Compile Include="Implement\Defontana\Productos\productListDF.cs" />
+    <Compile Include="Implement\Defontana\Productos\ProductosDF.cs" />
+    <Compile Include="Implement\Defontana\Productos\ProductosDF_stockDetail.cs" />
+    <Compile Include="Implement\Defontana\Productos\Transacciones\Transaccion.cs" />
+    <Compile Include="Implement\Defontana\Productos\Transacciones\TransacciondeInventario.cs" />
+    <Compile Include="Implement\Defontana\Productos\Transacciones\TransaccionLinea.cs" />
+    <Compile Include="Implement\Defontana\Token\cnnDF.cs" />
+    <Compile Include="Implement\Defontana\Token\TokenResult.cs" />
+    <Compile Include="Implement\Defontana\Venta\Analysis.cs" />
+    <Compile Include="Implement\Defontana\Venta\attachedDocument.cs" />
+    <Compile Include="Implement\Defontana\Venta\Details.cs" />
+    <Compile Include="Implement\Defontana\Venta\Discount.cs" />
+    <Compile Include="Implement\Defontana\Venta\DocumentoDF.cs" />
+    <Compile Include="Implement\Defontana\Venta\EmissionDate.cs" />
+    <Compile Include="Implement\Defontana\Venta\GetResultDF.cs" />
+    <Compile Include="Implement\Defontana\Venta\SaleTaxes.cs" />
+    <Compile Include="Implement\Defontana\Venta\SaveSaleReturn.cs" />
+    <Compile Include="Implement\Defontana\Venta\Storage.cs" />
+    <Compile Include="Implement\Drivin\ClienteRequest.cs" />
+    <Compile Include="Implement\Drivin\cnnDrivin.cs" />
+    <Compile Include="Implement\Drivin\DrivinBaseResult.cs" />
+    <Compile Include="Implement\Drivin\DrivinResult.cs" />
+    <Compile Include="Implement\Drivin\EscenarioRequest.cs" />
+    <Compile Include="Implement\Drivin\ItemRequest.cs" />
+    <Compile Include="Implement\Drivin\OrderRequest.cs" />
+    <Compile Include="Implement\Drivin\responseDrivin.cs" />
+    <Compile Include="Implement\Drivin\RutaRequest.cs" />
+    <Compile Include="Implement\Drivin\ScenarioReturn.cs" />
+    <Compile Include="Implement\Drivin\Time_windows.cs" />
+    <Compile Include="Implement\Drivin\Vehicle.cs" />
+    <Compile Include="Implement\Drivin\VehicleResult.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="NLog.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="NLog.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Implement\Defontana\Proveedores\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

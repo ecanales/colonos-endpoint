@@ -1,0 +1,3 @@
+2024-09-24 11:30:06.3158 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-24 11:30:24.0242 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-24 11:33:11.6487 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 

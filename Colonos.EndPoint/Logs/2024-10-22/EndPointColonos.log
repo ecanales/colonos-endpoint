@@ -1,0 +1,10 @@
+2024-10-22 07:42:04.3695 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-22 07:42:07.4529 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-22 07:42:16.8284 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-10-22 07:42:16.9259 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-22 07:42:23.6937 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-22 07:42:39.3957 loggerfile request https://localhost:44367/api/documentos/7057?doctipo=2010 
+2024-10-22 07:42:43.7321 loggerfile request https://localhost:44367/api/documentos/20393?doctipo=3010 
+2024-10-22 07:42:55.9150 loggerfile request https://localhost:44367/api/documentos/7057?doctipo=2010 
+2024-10-22 07:42:56.9244 loggerfile request https://localhost:44367/api/documentos/20393?doctipo=3010 
+2024-10-22 07:42:57.0716 loggerfile request https://localhost:44367/api/documentos/picking/produccion?docentry=7057 

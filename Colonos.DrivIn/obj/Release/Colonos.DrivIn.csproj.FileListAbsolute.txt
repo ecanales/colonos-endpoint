@@ -1,0 +1,16 @@
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\bin\Release\NLog.config
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\bin\Release\Colonos.DrivIn.dll
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\bin\Release\Colonos.DrivIn.pdb
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\bin\Release\Colonos.Entidades.dll
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\bin\Release\Newtonsoft.Json.dll
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\bin\Release\NLog.dll
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\bin\Release\RestSharp.dll
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\bin\Release\Colonos.Entidades.pdb
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\bin\Release\Newtonsoft.Json.xml
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\bin\Release\NLog.xml
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\bin\Release\RestSharp.xml
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\obj\Release\Colonos.DrivIn.csproj.AssemblyReference.cache
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\obj\Release\Colonos.DrivIn.csproj.CoreCompileInputs.cache
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\obj\Release\Colonos.DrivIn.csproj.CopyComplete
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\obj\Release\Colonos.DrivIn.dll
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DrivIn\obj\Release\Colonos.DrivIn.pdb

@@ -1,0 +1,1585 @@
+2024-10-13 17:13:42.1752 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-13 17:13:45.2902 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:13:46.0701 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:13:55.7615 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:13:55.8532 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:30:16.4597 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 17:30:18.0267 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 17:32:02.0054 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-13 17:32:05.6823 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:32:05.9325 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:32:16.8007 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:32:16.9321 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:32:50.6708 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-13 17:32:50.6942 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:32:50.8319 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:32:56.7172 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:32:56.8158 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:33:02.2506 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:33:02.3858 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:33:57.9327 loggerfile request https://localhost:44367/api/documentos/411007?doctipo=10 
+2024-10-13 17:34:05.1844 loggerfile request https://localhost:44367/api/documentos/411009?doctipo=10 
+2024-10-13 17:34:11.1865 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-13 17:34:30.1820 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:34:30.2867 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:35:04.0725 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:40:30.5802 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:40:38.2855 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:40:40.3485 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:42:08.0321 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:42:13.2753 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:42:31.9945 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-13 17:42:32.1411 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:42:33.2154 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 17:42:44.7335 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 17:42:44.7654 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 17:42:49.6129 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 17:42:50.7681 loggerfile request https://localhost:44367/api/documentos/search?palabras=411004%09&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-10-13 17:42:52.1765 loggerfile request https://localhost:44367/api/documentos/search?palabras=411004%09&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-10-13 17:42:55.6481 loggerfile request https://localhost:44367/api/documentos/search?palabras=411004&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-10-13 17:42:58.0755 loggerfile request https://localhost:44367/api/documentos/411004?doctipo=10 
+2024-10-13 17:42:58.2873 loggerfile request https://localhost:44367/api/socios/76266611-1C/ 
+2024-10-13 17:42:58.7628 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 17:42:59.8666 loggerfile request https://localhost:44367/api/socios/76266611-1C/TopFamilia 
+2024-10-13 17:42:59.9788 loggerfile request https://localhost:44367/api/socios/76266611-1C/TopRubro 
+2024-10-13 17:43:00.1218 loggerfile request https://localhost:44367/api/socios/76266611-1C/TopVentas 
+2024-10-13 19:09:35.9702 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:09:36.2044 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:09:52.5112 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-10-13 19:09:52.6088 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-10-13 19:09:54.0836 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-10-13 19:09:58.0657 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-13 19:09:58.0882 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:09:58.1731 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:10:02.1910 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:10:02.2886 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:10:04.2631 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:10:04.3519 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:11:10.8527 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:11:11.0704 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:11:11.5574 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:11:11.6833 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:11:12.5559 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:11:12.6408 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:11:13.2879 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:11:13.3757 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:11:13.8384 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:11:13.9262 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:11:14.5743 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:11:14.6592 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:11:54.3976 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:12:32.7262 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:17:08.2165 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-13 19:17:11.7776 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:25:57.1047 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-13 19:26:00.3402 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:26:05.6188 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:26:57.4946 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-13 19:26:57.5122 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:27:02.6156 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:31:00.7612 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-13 19:31:04.7230 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-13 19:31:04.8528 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:31:05.0193 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:31:08.4030 loggerfile request https://localhost:44367/api/documentos/411006?doctipo=10 
+2024-10-13 19:32:17.5519 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:32:17.6688 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:32:20.7169 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-13 19:32:22.5068 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-13 19:32:22.5312 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:32:22.6647 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:32:25.7109 loggerfile request https://localhost:44367/api/documentos/411007?doctipo=10 
+2024-10-13 19:32:42.3358 loggerfile request https://localhost:44367/api/documentos/411007?doctipo=10 
+2024-10-13 19:32:42.7216 loggerfile request https://localhost:44367/api/productos/AVPOLPEC13 
+2024-10-13 19:32:42.9681 loggerfile request https://localhost:44367/api/documentos 
+2024-10-13 19:33:31.1515 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:33:31.3520 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:33:36.6299 loggerfile request https://localhost:44367/api/documentos/411010?doctipo=10 
+2024-10-13 19:33:40.8063 loggerfile request https://localhost:44367/api/documentos/411008?doctipo=10 
+2024-10-13 19:33:46.0070 loggerfile request https://localhost:44367/api/documentos/411008?doctipo=10 
+2024-10-13 19:33:46.2805 loggerfile request https://localhost:44367/api/productos/LCCDNCDN36 
+2024-10-13 19:33:46.3020 loggerfile request https://localhost:44367/api/documentos 
+2024-10-13 19:34:48.0770 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:34:48.2216 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:35:02.0719 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-13 19:35:02.0973 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:35:21.2630 loggerfile request https://localhost:44367/api/documentos/20265?doctipo=3010 
+2024-10-13 19:35:35.2861 loggerfile request https://localhost:44367/api/documentos/20265?doctipo=3010 
+2024-10-13 19:35:41.5241 loggerfile request https://localhost:44367/api/documentos/20271?doctipo=3010 
+2024-10-13 19:36:44.5595 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-13 19:36:48.2429 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-13 19:36:48.3995 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:36:48.5129 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:36:53.2084 loggerfile request https://localhost:44367/api/documentos/411006?doctipo=10 
+2024-10-13 19:36:59.1179 loggerfile request https://localhost:44367/api/documentos/411006?doctipo=10 
+2024-10-13 19:36:59.8790 loggerfile request https://localhost:44367/api/productos/AVPAVMUNF6 
+2024-10-13 19:36:59.9271 loggerfile request https://localhost:44367/api/documentos 
+2024-10-13 19:37:25.9030 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:37:26.0163 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:37:31.6282 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-13 19:37:31.6546 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:37:41.5148 loggerfile request https://localhost:44367/api/documentos/20272?doctipo=3010 
+2024-10-13 19:38:19.4508 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-13 19:38:19.5124 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-13 19:38:19.5412 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:38:19.6335 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:38:21.3561 loggerfile request https://localhost:44367/api/documentos/411004?doctipo=10 
+2024-10-13 19:38:25.8819 loggerfile request https://localhost:44367/api/documentos/411009?doctipo=10 
+2024-10-13 19:38:30.3259 loggerfile request https://localhost:44367/api/documentos/411010?doctipo=10 
+2024-10-13 19:38:33.4362 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-13 19:38:37.8627 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-13 19:38:38.8183 loggerfile request https://localhost:44367/api/productos/LCCDNCDN61 
+2024-10-13 19:38:38.8398 loggerfile request https://localhost:44367/api/productos/CECERMOL01 
+2024-10-13 19:38:38.8628 loggerfile request https://localhost:44367/api/documentos 
+2024-10-13 19:41:08.8573 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:41:09.1890 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:41:37.1828 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 19:41:37.2101 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 19:41:52.0777 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-10-13 19:41:57.7041 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-13 19:41:57.9491 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 19:41:58.5904 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopFamilia 
+2024-10-13 19:41:58.6528 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopRubro 
+2024-10-13 19:41:58.7221 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopVentas 
+2024-10-13 19:42:11.0226 loggerfile request https://localhost:44367/api/productos/search?palabras=porcionado&solorecetas=&maestro=&bodegacode= 
+2024-10-13 19:42:47.0425 loggerfile request https://localhost:44367/api/documentos 
+2024-10-13 19:42:47.1631 loggerfile Input incial OPED.  Random: 19, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-13T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 124290.0,
+  "Iva": 23615.0,
+  "Total": 147905.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-13T19:42:47.0952878-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-13T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 87000.0,
+  "Margen": 0.3000241370987207337678011103,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-10-13 19:42:47.2129 loggerfile Completando Lineas.  Random: 19, DocEntry: 0, ProdCode: VCLLS21008 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VCLLS21008",
+  "ProdNombre": "1 LC LC O LOMO LISO PORCIONADO 300-320",
+  "PrecioFinal": 12429.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 10.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 149,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.300,
+  "Costo": 8700.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 10.0,
+  "TotalSolicitado": 124290.0,
+  "TotalReal": null,
+  "PrecioUnitario": 12429.0,
+  "PrecioVolumen": 11931.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.3,
+  "Disponible": 0.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 1,
+  "RefrigeraNombre": "FRESCO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "PORCIONADO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "LOMO LISO PORCIONADO",
+  "SolicitadoAnterior": 10.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-10-13 19:42:47.2129 loggerfile Antes de enviar a DB. Random: 19, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-13T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 124290.0,
+  "Iva": 23615.0,
+  "Total": 147905.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-13T19:42:47.0952878-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-13T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 87000.0,
+  "Margen": 0.3000241370987207337678011103,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VCLLS21008",
+      "ProdNombre": "1 LC LC O LOMO LISO PORCIONADO 300-320",
+      "PrecioFinal": 12429.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 149,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.300,
+      "Costo": 8700.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 124290.0,
+      "TotalReal": null,
+      "PrecioUnitario": 12429.0,
+      "PrecioVolumen": 11931.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.3,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO LISO PORCIONADO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-10-13 19:42:47.2183 loggerfile Despues de enviar a DB. Random: 19, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-13T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 124290.0,
+  "Iva": 23615.0,
+  "Total": 147905.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-13T19:42:47.0952878-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-13T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 87000.0,
+  "Margen": 0.3000241370987207337678011103,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VCLLS21008",
+      "ProdNombre": "1 LC LC O LOMO LISO PORCIONADO 300-320",
+      "PrecioFinal": 12429.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 149,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.300,
+      "Costo": 8700.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 124290.0,
+      "TotalReal": null,
+      "PrecioUnitario": 12429.0,
+      "PrecioVolumen": 11931.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.3,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO LISO PORCIONADO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-13 19:42:47.4924 loggerfile SaveChanges enviar a DB. Random: 19, DocEntry: 411026 {
+  "DocEntry": 411026,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-13T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 124290.0,
+  "Iva": 23615.0,
+  "Total": 147905.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-13T19:42:47.0952878-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-13T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 87000.0,
+  "Margen": 0.3000241370987207337678011103,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 411026,
+      "DocLinea": 1629,
+      "LineaEstado": "A",
+      "ProdCode": "VCLLS21008",
+      "ProdNombre": "1 LC LC O LOMO LISO PORCIONADO 300-320",
+      "PrecioFinal": 12429.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 149,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.300,
+      "Costo": 8700.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 124290.0,
+      "TotalReal": null,
+      "PrecioUnitario": 12429.0,
+      "PrecioVolumen": 11931.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.3,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO LISO PORCIONADO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-13 19:42:48.6050 loggerfile request https://localhost:44367/api/documentos/411026?doctipo=10 
+2024-10-13 19:42:48.8623 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-13 19:42:48.9546 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 19:42:49.3946 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopFamilia 
+2024-10-13 19:42:49.4639 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopRubro 
+2024-10-13 19:42:49.5650 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopVentas 
+2024-10-13 19:43:05.9488 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-13 19:43:08.8330 loggerfile request https://localhost:44367/api/documentos/411026?doctipo=10 
+2024-10-13 19:43:09.4353 loggerfile request https://localhost:44367/api/bandejas/CRED/411026 
+2024-10-13 19:43:09.5906 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-13 19:43:09.7768 loggerfile request https://localhost:44367/api/socios/cuenta/15375462-4C/ 
+2024-10-13 19:43:10.4009 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 204
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) 
+2024-10-13 19:43:10.5245 loggerfile request https://localhost:44367/api/socios/ventas12m/15375462-4C/ 
+2024-10-13 19:43:10.6583 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=15375462-4C&top=10 
+2024-10-13 19:43:14.8900 loggerfile request https://localhost:44367/api/bandejas/CRED/411026 
+2024-10-13 19:43:15.0248 loggerfile request https://localhost:44367/api/bandejas/CRED/411026 
+2024-10-13 19:43:22.8077 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-13 19:43:26.4910 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-13 19:43:26.5452 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-13 19:43:26.5930 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:43:26.7430 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:43:31.3190 loggerfile request https://localhost:44367/api/documentos/411026?doctipo=10 
+2024-10-13 19:43:36.0525 loggerfile request https://localhost:44367/api/documentos/411026?doctipo=10 
+2024-10-13 19:43:36.3749 loggerfile request https://localhost:44367/api/productos/VCLLS21008 
+2024-10-13 19:43:36.3984 loggerfile request https://localhost:44367/api/documentos 
+2024-10-13 19:43:49.4105 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:43:49.6550 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:44:04.8449 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-10-13 19:44:04.9120 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-10-13 19:44:23.8429 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-10-13 19:44:59.8598 loggerfile request https://localhost:44367/api/documentos/6383?doctipo=2010 
+2024-10-13 19:44:59.9350 loggerfile request https://localhost:44367/api/documentos/411007?doctipo=10 
+2024-10-13 19:45:34.0439 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-13 19:45:43.4079 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-13 19:45:43.4374 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 19:45:48.6169 loggerfile request https://localhost:44367/api/documentos/20273?doctipo=3010 
+2024-10-13 19:46:44.4130 loggerfile request https://localhost:44367/api/preciofijo/list?esdesglose= 
+2024-10-13 19:46:49.9179 loggerfile request https://localhost:44367/api/preciofijo/ENTRAÑA CANADIENCE 
+2024-10-13 19:47:18.3165 loggerfile request https://localhost:44367/api/preciofijo/CAMION ARREBEEF 
+2024-10-13 19:47:37.1827 loggerfile request https://localhost:44367/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-10-13 19:47:46.7242 loggerfile request https://localhost:44367/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-10-13 19:47:51.0094 loggerfile request https://localhost:44367/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-10-13 19:47:56.6432 loggerfile request https://localhost:44367/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-10-13 19:48:02.4426 loggerfile request https://localhost:44367/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-10-13 19:48:09.4169 loggerfile request https://localhost:44367/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-10-13 19:48:13.9888 loggerfile request https://localhost:44367/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-10-13 19:48:18.6235 loggerfile request https://localhost:44367/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-10-13 19:48:23.3004 loggerfile request https://localhost:44367/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-10-13 19:51:00.8632 loggerfile request https://localhost:44367/api/preciofijo 
+2024-10-13 19:51:01.6249 loggerfile request https://localhost:44367/api/preciofijo/list?esdesglose= 
+2024-10-13 19:51:11.8371 loggerfile request https://localhost:44367/api/preciofijo/CAMION ARREBEEF 
+2024-10-13 19:51:35.0044 loggerfile request https://localhost:44367/api/preciofijo/list?esdesglose= 
+2024-10-13 19:51:39.5233 loggerfile request https://localhost:44367/api/preciofijo/CAMION ARREBEEF 
+2024-10-13 19:52:15.0488 loggerfile request https://localhost:44367/api/preciofijo/list?esdesglose= 
+2024-10-13 19:52:17.7243 loggerfile request https://localhost:44367/api/preciofijo/CAMION ARREBEEF 
+2024-10-13 19:56:26.9904 loggerfile request https://localhost:44367/api/preciofijo/list?esdesglose= 
+2024-10-13 19:56:31.7681 loggerfile request https://localhost:44367/api/preciofijo/CAMION ARREBEEF 
+2024-10-13 20:04:51.7777 loggerfile request https://localhost:44367/api/preciofijo/list?esdesglose= 
+2024-10-13 20:04:55.6152 loggerfile request https://localhost:44367/api/preciofijo/CAMION ARREBEEF 
+2024-10-13 20:07:48.5953 loggerfile request https://localhost:44367/api/preciofijo/list?esdesglose= 
+2024-10-13 20:09:43.1722 loggerfile request https://localhost:44367/api/preciofijo/list?esdesglose= 
+2024-10-13 20:10:00.0871 loggerfile request https://localhost:44367/api/preciofijo/CAMION ARREBEEF 
+2024-10-13 20:10:45.7646 loggerfile request https://localhost:44367/api/preciofijo/list?esdesglose= 
+2024-10-13 20:10:52.8068 loggerfile request https://localhost:44367/api/preciofijo/CAMION ARREBEEF 
+2024-10-13 20:14:49.0189 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 20:14:50.2498 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 20:14:53.6512 loggerfile request https://localhost:44367/api/documentos/410628?doctipo=10 
+2024-10-13 20:14:54.0329 loggerfile request https://localhost:44367/api/socios/76270296-7C/ 
+2024-10-13 20:14:54.2125 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 20:14:54.6089 loggerfile request https://localhost:44367/api/socios/76270296-7C/TopFamilia 
+2024-10-13 20:14:54.6656 loggerfile request https://localhost:44367/api/socios/76270296-7C/TopRubro 
+2024-10-13 20:14:54.7183 loggerfile request https://localhost:44367/api/socios/76270296-7C/TopVentas 
+2024-10-13 20:15:11.9608 loggerfile request https://localhost:44367/api/documentos/410628?doctipo=10 
+2024-10-13 20:15:12.1164 loggerfile request https://localhost:44367/api/documentos/410628?doctipo=10 
+2024-10-13 20:16:10.1755 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 20:16:10.2207 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 20:16:14.5900 loggerfile request https://localhost:44367/api/documentos/410628?doctipo=10 
+2024-10-13 20:16:14.7397 loggerfile request https://localhost:44367/api/socios/76270296-7C/ 
+2024-10-13 20:16:14.8456 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 20:16:15.6240 loggerfile request https://localhost:44367/api/socios/76270296-7C/TopFamilia 
+2024-10-13 20:16:15.6704 loggerfile request https://localhost:44367/api/socios/76270296-7C/TopRubro 
+2024-10-13 20:16:15.7368 loggerfile request https://localhost:44367/api/socios/76270296-7C/TopVentas 
+2024-10-13 20:16:31.9406 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 20:16:31.9621 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 20:16:35.3835 loggerfile request https://localhost:44367/api/documentos/410690?doctipo=10 
+2024-10-13 20:16:35.5528 loggerfile request https://localhost:44367/api/socios/77761722-2C/ 
+2024-10-13 20:16:35.6309 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 20:16:35.7559 loggerfile request https://localhost:44367/api/socios/77761722-2C/TopFamilia 
+2024-10-13 20:16:35.7959 loggerfile request https://localhost:44367/api/socios/77761722-2C/TopRubro 
+2024-10-13 20:16:35.8368 loggerfile request https://localhost:44367/api/socios/77761722-2C/TopVentas 
+2024-10-13 20:17:00.0976 loggerfile request https://localhost:44367/api/documentos/410690?doctipo=10 
+2024-10-13 20:17:00.2928 loggerfile request https://localhost:44367/api/documentos/410690?doctipo=10 
+2024-10-13 20:26:00.4453 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 20:26:02.5674 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 20:26:07.7220 loggerfile request https://localhost:44367/api/documentos/410702?doctipo=10 
+2024-10-13 20:26:08.0554 loggerfile request https://localhost:44367/api/socios/76725508KC/ 
+2024-10-13 20:26:08.1834 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 20:26:08.5916 loggerfile request https://localhost:44367/api/socios/76725508KC/TopFamilia 
+2024-10-13 20:26:08.6404 loggerfile request https://localhost:44367/api/socios/76725508KC/TopRubro 
+2024-10-13 20:26:08.6960 loggerfile request https://localhost:44367/api/socios/76725508KC/TopVentas 
+2024-10-13 20:26:15.1595 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 20:26:15.1849 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 20:26:17.9106 loggerfile request https://localhost:44367/api/documentos/410706?doctipo=10 
+2024-10-13 20:26:18.1301 loggerfile request https://localhost:44367/api/socios/96872930-6C/ 
+2024-10-13 20:26:18.2243 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 20:26:18.3775 loggerfile request https://localhost:44367/api/socios/96872930-6C/TopFamilia 
+2024-10-13 20:26:18.4249 loggerfile request https://localhost:44367/api/socios/96872930-6C/TopRubro 
+2024-10-13 20:26:18.5143 loggerfile request https://localhost:44367/api/socios/96872930-6C/TopVentas 
+2024-10-13 20:26:22.6464 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 20:26:22.6747 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 20:26:26.1038 loggerfile request https://localhost:44367/api/documentos/410804?doctipo=10 
+2024-10-13 20:26:26.4056 loggerfile request https://localhost:44367/api/socios/77048433-2C/ 
+2024-10-13 20:26:26.5371 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 20:26:26.7160 loggerfile request https://localhost:44367/api/socios/77048433-2C/TopFamilia 
+2024-10-13 20:26:26.9026 loggerfile request https://localhost:44367/api/socios/77048433-2C/TopRubro 
+2024-10-13 20:26:26.9926 loggerfile request https://localhost:44367/api/socios/77048433-2C/TopVentas 
+2024-10-13 20:26:37.5913 loggerfile request https://localhost:44367/api/documentos/410804?doctipo=10 
+2024-10-13 20:26:37.7546 loggerfile request https://localhost:44367/api/documentos/410804?doctipo=10 
+2024-10-13 20:27:36.7882 loggerfile request https://localhost:44367/api/documentos/410804?doctipo=10 
+2024-10-13 20:27:36.9517 loggerfile request https://localhost:44367/api/documentos/410804?doctipo=10 
+2024-10-13 20:35:49.9845 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 20:35:51.1575 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 20:35:55.1488 loggerfile request https://localhost:44367/api/documentos/411026?doctipo=10 
+2024-10-13 20:35:55.4904 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-13 20:35:55.6384 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 20:35:56.1861 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopFamilia 
+2024-10-13 20:35:56.2633 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopRubro 
+2024-10-13 20:35:56.3173 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopVentas 
+2024-10-13 20:36:04.9079 loggerfile request https://localhost:44367/api/documentos/411026?doctipo=10 
+2024-10-13 20:36:05.1365 loggerfile request https://localhost:44367/api/documentos/411026?doctipo=10 
+2024-10-13 20:38:06.8686 loggerfile request https://localhost:44367/api/documentos/411026?doctipo=10 
+2024-10-13 20:38:07.0903 loggerfile request https://localhost:44367/api/documentos/411026?doctipo=10 
+2024-10-13 20:44:53.6216 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 20:44:56.3304 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 20:45:00.0235 loggerfile request https://localhost:44367/api/documentos/410690?doctipo=10 
+2024-10-13 20:45:00.3506 loggerfile request https://localhost:44367/api/socios/77761722-2C/ 
+2024-10-13 20:45:00.5160 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 20:45:01.0732 loggerfile request https://localhost:44367/api/socios/77761722-2C/TopFamilia 
+2024-10-13 20:45:01.2027 loggerfile request https://localhost:44367/api/socios/77761722-2C/TopRubro 
+2024-10-13 20:45:01.2729 loggerfile request https://localhost:44367/api/socios/77761722-2C/TopVentas 
+2024-10-13 20:45:10.3083 loggerfile request https://localhost:44367/api/documentos/410690?doctipo=10 
+2024-10-13 20:45:10.5111 loggerfile request https://localhost:44367/api/documentos/410690?doctipo=10 
+2024-10-13 20:49:45.7188 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 20:49:47.5826 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 20:49:53.0152 loggerfile request https://localhost:44367/api/documentos/411026?doctipo=10 
+2024-10-13 20:49:53.3188 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-13 20:49:53.4715 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 20:49:53.9414 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopFamilia 
+2024-10-13 20:49:53.9883 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopRubro 
+2024-10-13 20:49:54.0419 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopVentas 
+2024-10-13 20:50:00.4597 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 20:50:00.5153 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 20:50:02.9005 loggerfile request https://localhost:44367/api/documentos/410804?doctipo=10 
+2024-10-13 20:50:03.0720 loggerfile request https://localhost:44367/api/socios/77048433-2C/ 
+2024-10-13 20:50:03.1540 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 20:50:03.2818 loggerfile request https://localhost:44367/api/socios/77048433-2C/TopFamilia 
+2024-10-13 20:50:03.3228 loggerfile request https://localhost:44367/api/socios/77048433-2C/TopRubro 
+2024-10-13 20:50:03.3687 loggerfile request https://localhost:44367/api/socios/77048433-2C/TopVentas 
+2024-10-13 20:50:11.8670 loggerfile request https://localhost:44367/api/documentos/410804?doctipo=10 
+2024-10-13 20:50:12.0251 loggerfile request https://localhost:44367/api/documentos/410804?doctipo=10 
+2024-10-13 20:52:16.8456 loggerfile request https://localhost:44367/api/documentos/410804?doctipo=10 
+2024-10-13 20:52:17.1082 loggerfile request https://localhost:44367/api/socios/77048433-2C/ 
+2024-10-13 20:52:17.2471 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 20:52:17.4035 loggerfile request https://localhost:44367/api/socios/77048433-2C/TopFamilia 
+2024-10-13 20:52:17.4581 loggerfile request https://localhost:44367/api/socios/77048433-2C/TopRubro 
+2024-10-13 20:52:17.5021 loggerfile request https://localhost:44367/api/socios/77048433-2C/TopVentas 
+2024-10-13 20:52:27.6229 loggerfile request https://localhost:44367/api/documentos/410804?doctipo=10 
+2024-10-13 20:52:28.2117 loggerfile request https://localhost:44367/api/documentos/410804?doctipo=10 
+2024-10-13 23:33:19.2762 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 23:33:21.4040 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 23:33:28.1495 loggerfile request https://localhost:44367/api/documentos/search?palabras=411029&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-10-13 23:33:30.3397 loggerfile request https://localhost:44367/api/documentos/411029?doctipo=10 
+2024-10-13 23:33:31.5354 loggerfile request https://localhost:44367/api/socios/76.832.384-4C/ 
+2024-10-13 23:33:31.9638 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 23:33:32.5895 loggerfile request https://localhost:44367/api/socios/76.832.384-4C/TopFamilia 
+2024-10-13 23:33:32.6705 loggerfile request https://localhost:44367/api/socios/76.832.384-4C/TopRubro 
+2024-10-13 23:33:32.7525 loggerfile request https://localhost:44367/api/socios/76.832.384-4C/TopVentas 
+2024-10-13 23:34:10.6946 loggerfile request https://localhost:44367/api/documentos/411029?doctipo=10 
+2024-10-13 23:34:11.7194 loggerfile request https://localhost:44367/api/socios/76.832.384-4C/ 
+2024-10-13 23:34:12.4026 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 23:34:15.4507 loggerfile request https://localhost:44367/api/socios/76.832.384-4C/TopFamilia 
+2024-10-13 23:34:16.7313 loggerfile request https://localhost:44367/api/socios/76.832.384-4C/TopRubro 
+2024-10-13 23:34:16.9548 loggerfile request https://localhost:44367/api/socios/76.832.384-4C/TopVentas 
+2024-10-13 23:34:21.7300 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-13 23:34:21.7632 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 23:34:31.9953 loggerfile request https://localhost:44367/api/documentos/20276?doctipo=3010 
+2024-10-13 23:34:42.0298 loggerfile request https://localhost:44367/api/documentos/411029?doctipo=10 
+2024-10-13 23:34:42.3772 loggerfile request https://localhost:44367/api/socios/76.832.384-4C/ 
+2024-10-13 23:34:42.4739 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 23:34:42.6886 loggerfile request https://localhost:44367/api/socios/76.832.384-4C/TopFamilia 
+2024-10-13 23:34:42.7413 loggerfile request https://localhost:44367/api/socios/76.832.384-4C/TopRubro 
+2024-10-13 23:34:42.7803 loggerfile request https://localhost:44367/api/socios/76.832.384-4C/TopVentas 
+2024-10-13 23:34:47.8658 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-10-13 23:34:47.9390 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-13 23:38:24.8106 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 23:38:24.8281 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 23:38:34.6238 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-10-13 23:38:39.0091 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-13 23:38:39.0969 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 23:38:39.2218 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopFamilia 
+2024-10-13 23:38:39.2570 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopRubro 
+2024-10-13 23:38:39.3028 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopVentas 
+2024-10-13 23:38:44.0795 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILPOR10&solorecetas=&maestro=&bodegacode= 
+2024-10-13 23:38:57.2547 loggerfile request https://localhost:44367/api/documentos 
+2024-10-13 23:38:57.3679 loggerfile Input incial OPED.  Random: 10, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-13T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 140000.0,
+  "Iva": 26600.0,
+  "Total": 166600.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-13T23:38:57.316217-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-13T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 98000.0,
+  "Margen": 0.3,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-10-13 23:38:57.5075 loggerfile Completando Lineas.  Random: 10, DocEntry: 0, ProdCode: VAFILPOR10 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VAFILPOR10",
+  "ProdNombre": "2 LC LC O FILETE PORCIONADO 200 GR",
+  "PrecioFinal": 14000.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 10.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 132,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.3,
+  "Costo": 9800.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 10.0,
+  "TotalSolicitado": 140000.0,
+  "TotalReal": null,
+  "PrecioUnitario": 14000.0,
+  "PrecioVolumen": 13580.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.3,
+  "Disponible": -37.20,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 2,
+  "RefrigeraNombre": "CONGELADO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "PORCIONADO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "FILETE PORCIONADO",
+  "SolicitadoAnterior": 10.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-10-13 23:38:57.5075 loggerfile Antes de enviar a DB. Random: 10, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-13T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 140000.0,
+  "Iva": 26600.0,
+  "Total": 166600.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-13T23:38:57.316217-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-13T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 98000.0,
+  "Margen": 0.3,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILPOR10",
+      "ProdNombre": "2 LC LC O FILETE PORCIONADO 200 GR",
+      "PrecioFinal": 14000.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 132,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.3,
+      "Costo": 9800.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 140000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 14000.0,
+      "PrecioVolumen": 13580.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.3,
+      "Disponible": -37.20,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE PORCIONADO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-10-13 23:38:57.5153 loggerfile Despues de enviar a DB. Random: 10, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-13T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 140000.0,
+  "Iva": 26600.0,
+  "Total": 166600.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-13T23:38:57.316217-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-13T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 98000.0,
+  "Margen": 0.3,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILPOR10",
+      "ProdNombre": "2 LC LC O FILETE PORCIONADO 200 GR",
+      "PrecioFinal": 14000.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 132,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.3,
+      "Costo": 9800.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 140000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 14000.0,
+      "PrecioVolumen": 13580.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.3,
+      "Disponible": -37.20,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE PORCIONADO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-13 23:38:57.7973 loggerfile SaveChanges enviar a DB. Random: 10, DocEntry: 411033 {
+  "DocEntry": 411033,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-13T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 140000.0,
+  "Iva": 26600.0,
+  "Total": 166600.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-13T23:38:57.316217-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-13T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 98000.0,
+  "Margen": 0.3,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 411033,
+      "DocLinea": 1638,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILPOR10",
+      "ProdNombre": "2 LC LC O FILETE PORCIONADO 200 GR",
+      "PrecioFinal": 14000.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 132,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.3,
+      "Costo": 9800.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 140000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 14000.0,
+      "PrecioVolumen": 13580.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.3,
+      "Disponible": -37.20,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE PORCIONADO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-13 23:38:58.4903 loggerfile request https://localhost:44367/api/documentos/411033?doctipo=10 
+2024-10-13 23:38:58.6826 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-13 23:38:58.7968 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 23:38:58.9422 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopFamilia 
+2024-10-13 23:38:58.9745 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopRubro 
+2024-10-13 23:38:59.0135 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopVentas 
+2024-10-13 23:40:30.5429 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-13 23:40:32.5799 loggerfile request https://localhost:44367/api/documentos/411033?doctipo=10 
+2024-10-13 23:40:32.8004 loggerfile request https://localhost:44367/api/bandejas/CRED/411033 
+2024-10-13 23:40:32.8678 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-13 23:40:32.9507 loggerfile request https://localhost:44367/api/socios/cuenta/15375462-4C/ 
+2024-10-13 23:40:33.4407 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 204
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Socios\ManagerSocios.cs:línea 568 
+2024-10-13 23:40:33.5100 loggerfile request https://localhost:44367/api/socios/ventas12m/15375462-4C/ 
+2024-10-13 23:40:33.6261 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=15375462-4C&top=10 
+2024-10-13 23:40:37.1291 loggerfile request https://localhost:44367/api/bandejas/CRED/411033 
+2024-10-13 23:40:37.1886 loggerfile request https://localhost:44367/api/bandejas/CRED/411033 
+2024-10-13 23:40:42.7768 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-13 23:40:55.9090 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 23:40:55.9564 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 23:41:01.3551 loggerfile request https://localhost:44367/api/documentos/search?palabras=411033&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-10-13 23:41:02.7947 loggerfile request https://localhost:44367/api/documentos/411033?doctipo=10 
+2024-10-13 23:41:02.9967 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-13 23:41:03.0855 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 23:41:03.2271 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopFamilia 
+2024-10-13 23:41:03.2612 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopRubro 
+2024-10-13 23:41:03.3051 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopVentas 
+2024-10-13 23:41:20.0663 loggerfile request https://localhost:44367/api/productos/stock?prodcode=VAFILPOR10&bodegacode=TOLEDO 
+2024-10-13 23:41:38.4994 loggerfile request https://localhost:44367/api/documentos 
+2024-10-13 23:41:38.5648 loggerfile Input incial OPED.  Random: 21, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-13T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 140000.0,
+  "Iva": 26600.0,
+  "Total": 166600.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-13T23:41:38.5413919-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-13T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 98000.0,
+  "Margen": 0.3,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-10-13 23:41:38.5648 loggerfile Completando Lineas.  Random: 21, DocEntry: 0, ProdCode: VAFILPOR10 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VAFILPOR10",
+  "ProdNombre": "2 LC LC O FILETE PORCIONADO 200 GR",
+  "PrecioFinal": 14000.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 10.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 132,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.3,
+  "Costo": 9800.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 10.0,
+  "TotalSolicitado": 140000.0,
+  "TotalReal": null,
+  "PrecioUnitario": 14000.0,
+  "PrecioVolumen": 13580.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.3,
+  "Disponible": -47.2,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 2,
+  "RefrigeraNombre": "CONGELADO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "PORCIONADO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "FILETE PORCIONADO",
+  "SolicitadoAnterior": 10.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-10-13 23:41:38.5648 loggerfile Antes de enviar a DB. Random: 21, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-13T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 140000.0,
+  "Iva": 26600.0,
+  "Total": 166600.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-13T23:41:38.5413919-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-13T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 98000.0,
+  "Margen": 0.3,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILPOR10",
+      "ProdNombre": "2 LC LC O FILETE PORCIONADO 200 GR",
+      "PrecioFinal": 14000.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 132,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.3,
+      "Costo": 9800.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 140000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 14000.0,
+      "PrecioVolumen": 13580.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.3,
+      "Disponible": -47.2,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE PORCIONADO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-10-13 23:41:38.5775 loggerfile Despues de enviar a DB. Random: 21, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-13T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 140000.0,
+  "Iva": 26600.0,
+  "Total": 166600.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-13T23:41:38.5413919-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-13T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 98000.0,
+  "Margen": 0.3,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILPOR10",
+      "ProdNombre": "2 LC LC O FILETE PORCIONADO 200 GR",
+      "PrecioFinal": 14000.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 132,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.3,
+      "Costo": 9800.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 140000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 14000.0,
+      "PrecioVolumen": 13580.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.3,
+      "Disponible": -47.2,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE PORCIONADO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-13 23:41:38.6760 loggerfile SaveChanges enviar a DB. Random: 21, DocEntry: 411034 {
+  "DocEntry": 411034,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-13T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 140000.0,
+  "Iva": 26600.0,
+  "Total": 166600.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-13T23:41:38.5413919-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-13T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 98000.0,
+  "Margen": 0.3,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 411034,
+      "DocLinea": 1639,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILPOR10",
+      "ProdNombre": "2 LC LC O FILETE PORCIONADO 200 GR",
+      "PrecioFinal": 14000.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 132,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.3,
+      "Costo": 9800.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 140000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 14000.0,
+      "PrecioVolumen": 13580.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.3,
+      "Disponible": -47.2,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE PORCIONADO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-13 23:41:38.9942 loggerfile request https://localhost:44367/api/documentos/411034?doctipo=10 
+2024-10-13 23:41:39.2333 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-13 23:41:39.3280 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 23:41:39.4617 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopFamilia 
+2024-10-13 23:41:39.4939 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopRubro 
+2024-10-13 23:41:39.5300 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopVentas 
+2024-10-13 23:43:06.9123 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-13 23:43:08.5739 loggerfile request https://localhost:44367/api/documentos/411034?doctipo=10 
+2024-10-13 23:43:09.0150 loggerfile request https://localhost:44367/api/bandejas/CRED/411034 
+2024-10-13 23:43:09.0541 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-13 23:43:09.1468 loggerfile request https://localhost:44367/api/socios/cuenta/15375462-4C/ 
+2024-10-13 23:43:09.3410 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 204
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Socios\ManagerSocios.cs:línea 568 
+2024-10-13 23:43:09.3478 loggerfile request https://localhost:44367/api/socios/ventas12m/15375462-4C/ 
+2024-10-13 23:43:09.3810 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=15375462-4C&top=10 
+2024-10-13 23:43:12.4750 loggerfile request https://localhost:44367/api/bandejas/CRED/411034 
+2024-10-13 23:43:12.5189 loggerfile request https://localhost:44367/api/bandejas/CRED/411034 
+2024-10-13 23:45:30.0246 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-13 23:45:49.7118 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-13 23:45:56.6239 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 23:45:56.6571 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 23:46:03.7075 loggerfile request https://localhost:44367/api/documentos/411034?doctipo=10 
+2024-10-13 23:46:03.9076 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-13 23:46:03.9934 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 23:46:04.1164 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopFamilia 
+2024-10-13 23:46:04.1535 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopRubro 
+2024-10-13 23:46:04.1945 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopVentas 
+2024-10-13 23:46:11.5069 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-13 23:46:11.5508 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-13 23:46:11.5898 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 23:46:12.3843 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 23:46:17.0247 loggerfile request https://localhost:44367/api/documentos/411034?doctipo=10 
+2024-10-13 23:46:31.1164 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 23:46:35.7213 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 23:46:54.5371 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-13 23:46:54.5664 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-13 23:46:54.5830 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 23:46:54.6737 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 23:47:19.6597 loggerfile request https://localhost:44367/api/documentos/411034?doctipo=10 
+2024-10-13 23:47:19.8715 loggerfile request https://localhost:44367/api/productos/VAFILPOR10 
+2024-10-13 23:47:19.9174 loggerfile request https://localhost:44367/api/documentos 
+2024-10-13 23:47:24.8019 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 23:47:24.8907 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 23:47:34.5457 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 23:47:34.6501 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 23:47:40.1088 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-10-13 23:47:56.6440 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-13 23:47:56.6684 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-13 
+2024-10-13 23:47:59.3453 loggerfile request https://localhost:44367/api/documentos/search?palabras=https://localhost:44356/bandeja-toledo&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-10-13 23:48:10.8648 loggerfile request https://localhost:44367/api/documentos/search?palabras=411034&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-10-13 23:48:13.6562 loggerfile request https://localhost:44367/api/documentos/411034?doctipo=10 
+2024-10-13 23:48:13.9412 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-13 23:48:14.0271 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-13 23:48:14.1569 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopFamilia 
+2024-10-13 23:48:14.1901 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopRubro 
+2024-10-13 23:48:14.2379 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopVentas 
+2024-10-13 23:48:44.1692 loggerfile request https://localhost:44367/api/documentos/6394?doctipo=2010 
+2024-10-13 23:48:44.2307 loggerfile request https://localhost:44367/api/documentos/411034?doctipo=10 
+2024-10-13 23:48:49.1381 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-13 23:49:12.3621 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-13 23:49:12.4021 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 23:49:19.4229 loggerfile request https://localhost:44367/api/documentos/20277?doctipo=3010 
+2024-10-13 23:49:27.5238 loggerfile request https://localhost:44367/api/documentos/20277?doctipo=3010 
+2024-10-13 23:49:27.6351 loggerfile request https://localhost:44367/api/documentos 
+2024-10-13 23:56:21.7723 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-13 23:56:30.2873 loggerfile request https://localhost:44367/api/documentos/20277?doctipo=3010 
+2024-10-13 23:56:51.7133 loggerfile request https://localhost:44367/api/documentos/20277?doctipo=3010 
+2024-10-13 23:56:55.6320 loggerfile request https://localhost:44367/api/documentos/20277?doctipo=3010 
+2024-10-13 23:56:55.7345 loggerfile request https://localhost:44367/api/documentos 
+2024-10-13 23:56:55.7901 loggerfile mensaje: Ya Existe un picking activo. Data:  
+2024-10-13 23:58:59.9797 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-13 23:59:27.0832 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-13 23:59:29.0547 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-13 23:59:30.3274 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-13 23:59:31.2381 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-13 23:59:31.8454 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-13 23:59:32.2876 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-13 23:59:32.4906 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-13 23:59:32.6634 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-13 23:59:33.0147 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-13 23:59:33.3759 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 

@@ -1,0 +1,187 @@
+2024-09-11 02:02:33.6220 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-11 02:02:53.8808 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-11 
+2024-09-11 02:03:31.0812 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-01&hasta=2024-09-11 
+2024-09-11 02:03:41.9487 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-01&hasta=2024-09-11 
+2024-09-11 02:04:13.1327 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-09-11 02:04:13.2639 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 02:04:13.8979 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 02:04:27.7676 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 02:04:28.7384 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 02:04:58.7798 loggerfile request https://localhost:44366/api/productos/bodegas 
+2024-09-11 02:04:59.0998 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-09-11 02:05:19.2858 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-11 02:05:50.9144 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-11 02:05:50.9454 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-11 
+2024-09-11 02:06:02.2960 loggerfile request https://localhost:44366/api/documentos/search?palabras=410249&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-09-11 02:06:33.8352 loggerfile request https://localhost:44366/api/documentos/410249?doctipo=10 
+2024-09-11 02:06:36.6970 loggerfile request https://localhost:44366/api/socios/76.945.268-0C/ 
+2024-09-11 02:06:37.4918 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-11 02:06:39.4063 loggerfile request https://localhost:44366/api/socios/76.945.268-0C/TopFamilia 
+2024-09-11 02:06:39.6241 loggerfile request https://localhost:44366/api/socios/76.945.268-0C/TopRubro 
+2024-09-11 02:06:39.7261 loggerfile request https://localhost:44366/api/socios/76.945.268-0C/TopVentas 
+2024-09-11 02:09:16.9142 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-09-11 02:09:16.9786 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 02:09:17.5047 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 02:09:25.2167 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 02:09:25.6638 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 02:09:37.9717 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-09-11 02:09:38.0016 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 02:10:35.1931 loggerfile request https://localhost:44366/api/documentos/20061?doctipo=3010 
+2024-09-11 02:10:48.7139 loggerfile request https://localhost:44366/api/documentos/20062?doctipo=3010 
+2024-09-11 02:13:22.8684 loggerfile request https://localhost:44366/api/documentos/20053?doctipo=3010 
+2024-09-11 02:14:42.2730 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 02:33:30.3420 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-11 02:33:40.9486 loggerfile request https://localhost:44366/api/informes/seguimientooperacion?usuario=&fechaini=20240901&fechafin=20240911 
+2024-09-11 02:37:26.5778 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-11 02:37:26.6177 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-11 
+2024-09-11 02:37:36.6045 loggerfile request https://localhost:44366/api/documentos/search?palabras=410212&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-09-11 02:37:38.7368 loggerfile request https://localhost:44366/api/documentos/search?palabras=410212&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-09-11 02:37:42.9431 loggerfile request https://localhost:44366/api/documentos/410212?doctipo=10 
+2024-09-11 02:37:44.8332 loggerfile request https://localhost:44366/api/socios/77674417-4C/ 
+2024-09-11 02:37:44.9963 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-11 02:37:45.3098 loggerfile request https://localhost:44366/api/socios/77674417-4C/TopFamilia 
+2024-09-11 02:37:45.5263 loggerfile request https://localhost:44366/api/socios/77674417-4C/TopRubro 
+2024-09-11 02:37:45.5966 loggerfile request https://localhost:44366/api/socios/77674417-4C/TopVentas 
+2024-09-11 02:38:07.0657 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-11 02:38:07.1245 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-11 
+2024-09-11 02:38:26.4585 loggerfile request https://localhost:44366/api/documentos/search?palabras=410212&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-09-11 02:38:33.3111 loggerfile request https://localhost:44366/api/documentos/410212?doctipo=10 
+2024-09-11 02:38:34.4081 loggerfile request https://localhost:44366/api/socios/77674417-4C/ 
+2024-09-11 02:38:34.5506 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-11 02:38:34.7287 loggerfile request https://localhost:44366/api/socios/77674417-4C/TopFamilia 
+2024-09-11 02:38:34.8358 loggerfile request https://localhost:44366/api/socios/77674417-4C/TopRubro 
+2024-09-11 02:38:34.8894 loggerfile request https://localhost:44366/api/socios/77674417-4C/TopVentas 
+2024-09-11 02:48:11.7924 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-11 02:48:11.9056 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-11 
+2024-09-11 02:48:24.9296 loggerfile request https://localhost:44366/api/documentos/search?palabras=410151&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-09-11 02:53:02.6671 loggerfile request https://localhost:44366/api/documentos/search?palabras=410151&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-09-11 02:53:14.8689 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-01&hasta=2024-09-11 
+2024-09-11 02:53:49.3480 loggerfile request https://localhost:44366/api/documentos/search?palabras=410194%09&vendedorcode=&doctipo=10&usuario=Admin 
+2024-09-11 02:53:52.4902 loggerfile request https://localhost:44366/api/documentos/search?palabras=410194&vendedorcode=&doctipo=10&usuario=Admin 
+2024-09-11 02:54:15.8095 loggerfile request https://localhost:44366/api/documentos/search?palabras=410194&vendedorcode=&doctipo=10&usuario=Admin 
+2024-09-11 02:58:01.0444 loggerfile request https://localhost:44366/api/documentos/search?palabras=410194&vendedorcode=&doctipo=10&usuario=Admin 
+2024-09-11 02:58:05.1613 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-01&hasta=2024-09-11 
+2024-09-11 02:59:38.0696 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-01&hasta=2024-09-11 
+2024-09-11 02:59:42.6190 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-01&hasta=2024-09-11 
+2024-09-11 02:59:56.5595 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-01&hasta=2024-09-11 
+2024-09-11 03:00:44.4698 loggerfile request https://localhost:44366/api/documentos/410187?doctipo=10 
+2024-09-11 03:00:44.8006 loggerfile request https://localhost:44366/api/socios/76579177-4C/ 
+2024-09-11 03:00:44.9542 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-11 03:00:45.2262 loggerfile request https://localhost:44366/api/socios/76579177-4C/TopFamilia 
+2024-09-11 03:00:45.3516 loggerfile request https://localhost:44366/api/socios/76579177-4C/TopRubro 
+2024-09-11 03:00:45.4535 loggerfile request https://localhost:44366/api/socios/76579177-4C/TopVentas 
+2024-09-11 03:12:02.0089 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-11 03:12:10.9689 loggerfile request https://localhost:44366/api/informes/seguimientooperacion?usuario=Admin&fechaini=20240901&fechafin=20240911 
+2024-09-11 03:12:15.9172 loggerfile request https://localhost:44366/api/informes/seguimientooperacion?usuario=&fechaini=20240901&fechafin=20240911 
+2024-09-11 09:43:36.6504 loggerfile request https://localhost:44366/api/productos/bodegas 
+2024-09-11 09:43:36.8583 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-11 09:43:55.5076 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-11 09:44:08.8436 loggerfile request https://localhost:44366/api/documentos/5420?doctipo=2010 
+2024-09-11 09:44:10.0515 loggerfile request https://localhost:44366/api/documentos/20065?doctipo=3010 
+2024-09-11 09:44:31.5001 loggerfile request https://localhost:44366/api/documentos/base/linea/5420?doctipo=2110&baselinea=453 
+2024-09-11 09:44:38.1367 loggerfile request https://localhost:44366/api/documentos/60060?doctipo=2110 
+2024-09-11 09:44:38.6006 loggerfile request https://localhost:44366/api/documentos 
+2024-09-11 09:44:43.9984 loggerfile request https://localhost:44366/api/documentos/5420?doctipo=2010 
+2024-09-11 09:45:06.5818 loggerfile request https://localhost:44366/api/documentos 
+2024-09-11 09:45:10.5135 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-11 09:45:10.5653 loggerfile RenovarToken... 
+2024-09-11 09:45:10.5653 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-11 09:45:12.9859 loggerfile response.ErrorMessage:  
+2024-09-11 09:45:12.9859 loggerfile response.ErrorException:  
+2024-09-11 09:45:12.9859 loggerfile response.ProtocolVersion: 1.1 
+2024-09-11 09:45:12.9859 loggerfile response.StatusCode: OK 
+2024-09-11 09:45:12.9859 loggerfile response.StatusDescription: OK 
+2024-09-11 09:45:12.9859 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNjA1ODcxMiIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NzU5NDcxMiwibmJmIjoxNzI2MDU4NzEyfQ.9FvmF5jnYEy--t0r66I2iO3l8VEh1AJZY4UMecp92Bk","expires_in":31535999,"token_type":"bearer"} 
+2024-09-11 09:45:14.4055 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-11 09:45:14.4155 loggerfile RenovarToken... 
+2024-09-11 09:45:14.4155 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-11 09:45:14.6409 loggerfile response.ErrorMessage:  
+2024-09-11 09:45:14.6409 loggerfile response.ErrorException:  
+2024-09-11 09:45:14.6409 loggerfile response.ProtocolVersion: 1.1 
+2024-09-11 09:45:14.6409 loggerfile response.StatusCode: OK 
+2024-09-11 09:45:14.6409 loggerfile response.StatusDescription: OK 
+2024-09-11 09:45:14.6409 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNjA1ODcxMiIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NzU5NDcxNCwibmJmIjoxNzI2MDU4NzE0fQ.AtrtfKJV2Km16PwGLq3Iepgmzj_yA26yajnJnRfeClY","expires_in":31535999,"token_type":"bearer"} 
+2024-09-11 09:45:16.3012 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-11 09:45:16.3012 loggerfile RenovarToken... 
+2024-09-11 09:45:16.3012 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-11 09:45:16.4871 loggerfile response.ErrorMessage:  
+2024-09-11 09:45:16.4871 loggerfile response.ErrorException:  
+2024-09-11 09:45:16.4871 loggerfile response.ProtocolVersion: 1.1 
+2024-09-11 09:45:16.4871 loggerfile response.StatusCode: OK 
+2024-09-11 09:45:16.4871 loggerfile response.StatusDescription: OK 
+2024-09-11 09:45:16.4871 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNjA1ODcxMiIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NzU5NDcxNiwibmJmIjoxNzI2MDU4NzE2fQ.f5ExUkHdH_LGqnUtlw_0Z0xwToAqHRtp86rTf-AyQk0","expires_in":31535999,"token_type":"bearer"} 
+2024-09-11 09:45:17.8806 loggerfile mensaje: No existen productos a marcar
+. Data:  
+2024-09-11 09:45:33.1952 loggerfile request https://localhost:44366/api/documentos/5420?doctipo=2010 
+2024-09-11 09:45:59.1762 loggerfile request https://localhost:44366/api/documentos 
+2024-09-11 09:46:00.0705 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-11 09:46:00.0705 loggerfile RenovarToken... 
+2024-09-11 09:46:00.0705 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-11 09:46:00.3327 loggerfile response.ErrorMessage:  
+2024-09-11 09:46:00.3327 loggerfile response.ErrorException:  
+2024-09-11 09:46:00.3327 loggerfile response.ProtocolVersion: 1.1 
+2024-09-11 09:46:00.3327 loggerfile response.StatusCode: OK 
+2024-09-11 09:46:00.3327 loggerfile response.StatusDescription: OK 
+2024-09-11 09:46:00.3327 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNjA1ODcxMiIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NzU5NDc2MCwibmJmIjoxNzI2MDU4NzYwfQ.XVvi19t7bWQdJyMX8K4KPy_hLzzFma5-Sxa94Ahk3jc","expires_in":31535999,"token_type":"bearer"} 
+2024-09-11 09:46:01.5570 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-11 09:46:01.5570 loggerfile RenovarToken... 
+2024-09-11 09:46:01.5570 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-11 09:46:01.8110 loggerfile response.ErrorMessage:  
+2024-09-11 09:46:01.8110 loggerfile response.ErrorException:  
+2024-09-11 09:46:01.8110 loggerfile response.ProtocolVersion: 1.1 
+2024-09-11 09:46:01.8110 loggerfile response.StatusCode: OK 
+2024-09-11 09:46:01.8110 loggerfile response.StatusDescription: OK 
+2024-09-11 09:46:01.8110 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNjA1ODcxMiIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NzU5NDc2MSwibmJmIjoxNzI2MDU4NzYxfQ.HcuSeBxCarYC8WXQNGgTgixiCK5hOq70GQwwUJmKKdU","expires_in":31535999,"token_type":"bearer"} 
+2024-09-11 09:46:02.9643 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-11 09:46:02.9643 loggerfile RenovarToken... 
+2024-09-11 09:46:02.9643 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-11 09:46:03.1588 loggerfile response.ErrorMessage:  
+2024-09-11 09:46:03.1588 loggerfile response.ErrorException:  
+2024-09-11 09:46:03.1588 loggerfile response.ProtocolVersion: 1.1 
+2024-09-11 09:46:03.1588 loggerfile response.StatusCode: OK 
+2024-09-11 09:46:03.1588 loggerfile response.StatusDescription: OK 
+2024-09-11 09:46:03.1588 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNjA1ODcxMiIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NzU5NDc2MywibmJmIjoxNzI2MDU4NzYzfQ.RbbIsaztAZ0cTTRm_5pYw1ll3BCeXjL47zJHnC_3j_I","expires_in":31535999,"token_type":"bearer"} 
+2024-09-11 09:46:04.1482 loggerfile mensaje: No existen productos a marcar
+. Data:  
+2024-09-11 09:47:17.4599 loggerfile request https://localhost:44366/api/documentos/5420?doctipo=2010 
+2024-09-11 09:47:47.6314 loggerfile request https://localhost:44366/api/documentos 
+2024-09-11 09:53:26.3327 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-11 09:53:35.5093 loggerfile request https://localhost:44366/api/documentos/5420?doctipo=2010 
+2024-09-11 09:53:35.6599 loggerfile request https://localhost:44366/api/documentos/20065?doctipo=3010 
+2024-09-11 09:59:32.1716 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-11 09:59:35.2531 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-11 09:59:41.5689 loggerfile request https://localhost:44366/api/documentos/5420?doctipo=2010 
+2024-09-11 09:59:41.7235 loggerfile request https://localhost:44366/api/documentos/20065?doctipo=3010 
+2024-09-11 10:00:35.2798 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-11 10:00:39.5888 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-09-11 10:00:39.6097 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 10:00:39.6825 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 10:00:49.3253 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 10:00:49.5796 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 10:01:04.5792 loggerfile request https://localhost:44366/api/documentos/410290?doctipo=10 
+2024-09-11 10:01:09.8941 loggerfile request https://localhost:44366/api/documentos/410290?doctipo=10 
+2024-09-11 10:01:29.3275 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-11 10:04:07.1754 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-11 11:03:36.5534 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-11 11:03:49.1709 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-11 11:13:22.3767 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-09-11 11:13:22.4815 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 11:13:26.0475 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 11:13:33.2392 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-09-11 11:13:33.2661 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 11:13:33.3389 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-11 11:13:42.2182 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-11 11:13:42.2422 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-11 
+2024-09-11 11:13:47.5718 loggerfile request https://localhost:44366/api/documentos/search?palabras=410338&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-09-11 11:13:49.7675 loggerfile request https://localhost:44366/api/documentos/410338?doctipo=10 
+2024-09-11 11:13:50.0796 loggerfile request https://localhost:44366/api/socios/10464844-4C/ 
+2024-09-11 11:13:50.2183 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-11 11:13:50.3629 loggerfile request https://localhost:44366/api/socios/10464844-4C/TopFamilia 
+2024-09-11 11:13:50.4068 loggerfile request https://localhost:44366/api/socios/10464844-4C/TopRubro 
+2024-09-11 11:13:50.4467 loggerfile request https://localhost:44366/api/socios/10464844-4C/TopVentas 

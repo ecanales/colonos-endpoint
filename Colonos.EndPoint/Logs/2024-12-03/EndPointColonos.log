@@ -1,0 +1,1310 @@
+2024-12-03 00:05:10.6911 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:05:33.3986 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=ARAMIREZ&fechaini=20241125&fechafin=20241203 
+2024-12-03 00:05:46.3994 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:05:46.4262 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 00:05:50.7540 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-12-03 00:05:55.8704 loggerfile request https://localhost:44367/api/bandejas/PREC?estado=0&visible=1 
+2024-12-03 00:05:58.5807 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 00:05:58.5983 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 00:05:58.6174 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 00:06:05.2892 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-12-03 00:06:07.6416 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 00:06:07.6730 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 00:06:07.7005 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 00:06:09.4568 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-12-03 00:06:09.4871 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 00:06:11.5289 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-12-03 00:06:11.5523 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 00:06:13.2279 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-12-03 00:06:14.7445 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-12-03 00:06:34.5819 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-12-03 00:06:44.2068 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-12-03 00:07:02.2703 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 00:07:02.2938 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 00:07:02.3201 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 00:07:21.0221 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:07:21.0417 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 00:07:30.4135 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 00:07:30.4350 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 00:07:30.4644 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 00:08:01.7732 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-12-03 00:08:04.1659 loggerfile request https://localhost:44367/api/bandejas/PREC?estado=0&visible=1 
+2024-12-03 00:08:36.1676 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:08:36.1949 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 00:10:44.8271 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:10:44.8427 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 00:10:56.6234 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-12-03 00:12:17.5963 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:12:17.6154 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 00:12:22.4728 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:12:22.5309 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 00:13:22.9496 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:13:22.9643 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 00:18:22.1149 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:18:22.1325 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 00:18:35.5134 loggerfile request https://localhost:44367/api/bandejas/PREC?estado=0&visible=1 
+2024-12-03 00:18:38.6846 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-12-03 00:18:41.7695 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:18:41.7934 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 00:18:45.4891 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-12-03 00:18:47.5163 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:18:47.5364 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 00:18:50.1987 loggerfile request https://localhost:44367/api/bandejas/PREC?estado=0&visible=1 
+2024-12-03 00:18:53.2735 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 00:18:53.2921 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 00:18:53.3096 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 00:18:57.2415 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:18:57.3042 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 00:19:01.2732 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 00:19:01.3303 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 00:19:01.3540 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 00:19:27.3879 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:19:27.4211 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 00:20:13.1965 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 00:20:13.2205 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 00:20:13.2438 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 00:20:43.0798 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:20:43.1184 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 00:21:36.9520 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 00:21:36.9705 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 00:21:36.9871 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 00:23:09.3557 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:23:09.3714 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 00:23:17.0729 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:23:17.0904 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 00:24:01.3719 loggerfile request https://localhost:44367/api/bandejas/PREC?estado=0&visible=1 
+2024-12-03 00:24:03.9982 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 00:24:11.1904 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 00:24:11.2090 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 00:24:11.2246 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 00:24:14.0779 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-12-03 00:24:14.1082 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 00:24:16.6945 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-12-03 00:24:19.2745 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-12-03 00:24:23.6180 loggerfile request https://localhost:44367/api/vehiculos 
+2024-12-03 00:24:24.3105 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 00:24:54.3741 loggerfile request https://localhost:44367/api/vehiculos 
+2024-12-03 00:24:54.7202 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 00:28:09.9881 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:28:54.6898 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:29:02.6451 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=ARAMIREZ&fechaini=20241202&fechafin=20241203 
+2024-12-03 00:29:05.8188 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=ARAMIREZ&fechaini=20241125&fechafin=20241203 
+2024-12-03 00:29:59.8363 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 00:30:09.5269 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=ARAMIREZ&fechaini=20241125&fechafin=20241203 
+2024-12-03 00:30:37.1267 loggerfile request https://localhost:44367/api/productos/propiedades 
+2024-12-03 00:30:37.6499 loggerfile RenovarToken... 
+2024-12-03 00:30:37.6499 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21.. 
+2024-12-03 00:30:38.3966 loggerfile response.ErrorMessage:  
+2024-12-03 00:30:38.3966 loggerfile response.ErrorException:  
+2024-12-03 00:30:38.3966 loggerfile response.ProtocolVersion: 1.1 
+2024-12-03 00:30:38.3966 loggerfile response.StatusCode: OK 
+2024-12-03 00:30:38.3966 loggerfile response.StatusDescription: OK 
+2024-12-03 00:30:38.3966 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTczMzE5NjYzOCIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc2NDczMjYzOCwibmJmIjoxNzMzMTk2NjM4fQ.zXfxG5_laocYjNbJGWj3V-IIbi7_uAkkBV7LBxsZk8s","expires_in":31535999,"token_type":"bearer"} 
+2024-12-03 01:37:28.3069 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 01:39:00.2257 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2=GERENCIA 
+2024-12-03 01:39:04.7395 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 01:40:00.1564 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2=GERENCIA 
+2024-12-03 01:44:59.2252 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 01:47:01.8599 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 01:47:51.6476 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 01:51:56.4114 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 01:52:14.2889 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 01:52:26.4322 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-12-01&hasta=2024-12-03 
+2024-12-03 01:52:34.0867 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-11-29&hasta=2024-12-03 
+2024-12-03 01:53:00.5390 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=MGUZMAN&desde=2024-11-29&hasta=2024-12-03 
+2024-12-03 01:53:05.3351 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=MGUZMAN&desde=2023-11-29&hasta=2024-12-03 
+2024-12-03 01:53:18.8386 loggerfile request https://localhost:44367/api/documentos/414360?doctipo=10 
+2024-12-03 01:53:20.0669 loggerfile request https://localhost:44367/api/socios/78991080-4C/ 
+2024-12-03 01:53:20.6721 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-12-03 01:53:21.3368 loggerfile request https://localhost:44367/api/socios/78991080-4C/TopFamilia 
+2024-12-03 01:53:21.5322 loggerfile request https://localhost:44367/api/socios/78991080-4C/TopRubro 
+2024-12-03 01:53:21.6532 loggerfile request https://localhost:44367/api/socios/78991080-4C/TopVentas 
+2024-12-03 01:53:56.5435 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-12-03 01:56:46.6644 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 01:56:56.5415 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=VARANCIBIA&fechaini=20241125&fechafin=20241203 
+2024-12-03 01:57:46.0178 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=VARANCIBIA&fechaini=20241129&fechafin=20241203 
+2024-12-03 01:58:03.4198 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 01:58:39.4226 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 01:58:44.1447 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 01:59:12.3421 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-12-03 01:59:19.4597 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 01:59:19.4792 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 01:59:19.5007 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 02:03:35.5838 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 02:03:35.5994 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 02:03:35.6160 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 02:04:10.9137 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 02:04:13.8659 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 02:04:19.3648 loggerfile request https://localhost:44367/api/documentos/418247?doctipo=10 
+2024-12-03 02:04:39.1580 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-12-03 02:04:39.1800 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 02:06:05.5418 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-12-03 02:06:05.5603 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 02:06:28.6769 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-12-03 02:06:28.7013 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 02:06:49.3843 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 02:06:49.4082 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 02:06:49.4257 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 02:09:26.2472 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-12-03 02:09:26.2692 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 02:09:38.6706 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 02:10:07.8145 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-12-03 02:12:27.0565 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 02:12:27.0701 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 02:12:27.0857 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 02:12:30.0069 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-12-03 02:12:30.0382 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:15:34.8264 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:16:01.2462 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:16:49.4124 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:17:46.6026 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:18:05.9405 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:18:16.3484 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:18:23.5805 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:18:59.4526 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:19:43.4145 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:20:44.2493 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:21:01.9495 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:21:04.1021 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:21:42.4974 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:22:13.2264 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:22:17.6957 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:24:32.0257 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:25:13.7580 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:27:05.7356 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:48:09.0746 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:48:19.2189 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 02:48:19.9934 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 02:48:20.0227 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 02:48:22.7900 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 02:48:45.5597 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-12-03 02:57:41.8853 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-12-03 02:57:42.8084 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 02:57:46.8152 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 02:58:02.7585 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 02:58:02.8874 loggerfile request https://localhost:44367/api/documentos/etiqueta 
+2024-12-03 03:05:31.4443 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 03:05:32.0556 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-12-03 03:05:32.0713 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 03:05:34.2133 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 03:05:37.7601 loggerfile request https://localhost:44367/api/documentos/21825?doctipo=3010 
+2024-12-03 03:05:41.1362 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 03:05:55.0948 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 03:05:55.1739 loggerfile request https://localhost:44367/api/documentos/etiqueta 
+2024-12-03 03:05:56.7789 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 03:06:01.6143 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 03:06:05.4644 loggerfile request https://localhost:44367/api/documentos/21825?doctipo=3010 
+2024-12-03 03:06:09.4723 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 03:06:49.6131 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 03:06:54.0746 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 03:08:51.3790 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 03:12:31.1965 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 03:12:36.4927 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 03:12:48.8963 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 03:12:57.5295 loggerfile request https://localhost:44367/api/documentos/etiqueta 
+2024-12-03 03:13:20.7703 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 03:13:31.2683 loggerfile request https://localhost:44367/api/documentos/21825?doctipo=3010 
+2024-12-03 03:13:45.0481 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 03:14:12.9665 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 03:14:24.4226 loggerfile request https://localhost:44367/api/productos/LCCDNCDN37 
+2024-12-03 03:14:24.5744 loggerfile request https://localhost:44367/api/documentos 
+2024-12-03 03:14:25.1135 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 03:14:32.3487 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-12-03 03:14:32.3945 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-12-03 03:14:44.3855 loggerfile request https://localhost:44367/api/documentos/10468?doctipo=2010 
+2024-12-03 03:14:44.4489 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 03:20:32.8073 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-12-03 03:20:43.0805 loggerfile request https://localhost:44367/api/documentos/10468?doctipo=2010 
+2024-12-03 03:20:43.1401 loggerfile request https://localhost:44367/api/documentos/21823?doctipo=3010 
+2024-12-03 03:24:03.7163 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 03:24:10.9764 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 03:26:46.6547 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 03:26:46.6807 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 03:26:56.7520 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-11-29&hasta=2024-12-03 
+2024-12-03 03:27:02.7476 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-11-29&hasta=2024-12-03 
+2024-12-03 03:27:07.7929 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-11-29&hasta=2024-12-03 
+2024-12-03 03:27:09.9395 loggerfile request https://localhost:44367/api/documentos/418545?doctipo=10 
+2024-12-03 03:27:10.5661 loggerfile request https://localhost:44367/api/socios/77672676-1C/ 
+2024-12-03 03:27:10.8257 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-12-03 03:27:11.5285 loggerfile request https://localhost:44367/api/socios/77672676-1C/TopFamilia 
+2024-12-03 03:27:11.6031 loggerfile request https://localhost:44367/api/socios/77672676-1C/TopRubro 
+2024-12-03 03:27:11.6656 loggerfile request https://localhost:44367/api/socios/77672676-1C/TopVentas 
+2024-12-03 03:28:38.9037 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 03:29:25.9306 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-12-03 03:29:28.2060 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 03:29:28.2676 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 03:29:38.5609 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-12-03 03:29:41.6185 loggerfile request https://localhost:44367/api/socios/25306017-4C/ 
+2024-12-03 03:29:41.6917 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-12-03 03:29:41.8127 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopFamilia 
+2024-12-03 03:29:41.8507 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopRubro 
+2024-12-03 03:29:41.8996 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopVentas 
+2024-12-03 03:29:48.0474 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 03:30:57.2475 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-12-03 03:30:58.9847 loggerfile request https://localhost:44367/api/socios/25306017-4C/ 
+2024-12-03 03:30:59.0720 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-12-03 03:30:59.1691 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopFamilia 
+2024-12-03 03:30:59.2048 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopRubro 
+2024-12-03 03:30:59.2438 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopVentas 
+2024-12-03 03:31:05.9978 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 03:34:18.4404 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 03:43:56.8434 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 03:45:55.9852 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 03:47:23.4790 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 03:47:51.5615 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 03:49:27.8601 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 03:52:17.8458 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 03:53:10.7588 loggerfile request https://localhost:44367/api/documentos/search?palabras=v&vendedorcode=&doctipo=10&usuario=Admin 
+2024-12-03 03:53:20.6773 loggerfile request https://localhost:44367/api/documentos/search?palabras=v&vendedorcode=&doctipo=10&usuario=Admin 
+2024-12-03 03:54:21.4878 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 03:55:58.0931 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 03:56:58.3104 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 04:02:54.4415 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 04:04:19.4526 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 04:08:46.0031 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 04:10:16.5820 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 04:13:43.8144 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 04:22:05.9925 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 04:29:32.4858 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 04:31:43.9350 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 04:38:04.7043 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-12-03 04:38:07.9344 loggerfile request https://localhost:44367/api/socios/25306017-4C/ 
+2024-12-03 04:38:08.4530 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-12-03 04:38:08.8612 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopFamilia 
+2024-12-03 04:38:08.9158 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopRubro 
+2024-12-03 04:38:08.9587 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopVentas 
+2024-12-03 04:38:14.6247 loggerfile request https://localhost:44367/api/documentos 
+2024-12-03 04:38:14.9923 loggerfile Input incial OPED.  Random: 13, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-12-03T00:00:00-03:00",
+  "SocioCode": "25306017-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "CALL CENTER 3",
+  "UsuarioCode": "0",
+  "Neto": 1320130.0,
+  "Iva": 250825.0,
+  "Total": 1570955.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-12-03T04:38:14.8742217-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "ADOLFO GUSTAVO GARBAN REQUENA",
+  "FechaEntrega": "2024-12-03T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 900263.0,
+  "Margen": 0.3180497375258497269208335543,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "ANGELA RAMIREZ",
+  "PED1": []
+} 
+2024-12-03 04:38:15.0450 loggerfile Completando Lineas.  Random: 13, DocEntry: 0, ProdCode: LCCDN22015 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "LCCDN22015",
+  "ProdNombre": "1 LC ALB V S48 LOMO LISO ARGENTINO",
+  "PrecioFinal": 11990.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 100.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 148,
+  "AnimalCode": 1022,
+  "TipoCode": "A",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.406,
+  "Costo": 7118.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 100.0,
+  "TotalSolicitado": 1199000.0,
+  "TotalReal": null,
+  "PrecioUnitario": 11990.0,
+  "PrecioVolumen": 11990.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.2,
+  "Disponible": 1595.84,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 1,
+  "RefrigeraNombre": "FRESCO",
+  "OrigenCode": 1,
+  "OrigenNombre": "ARGENTINA",
+  "MarcaCode": 5,
+  "MarcaNombre": "ALBERDI",
+  "FrmtoVentaNombre": "ENTERO",
+  "AnimalNombre": "VACUNO ",
+  "FamiliaNombre": "LOMO LISO ENTERO",
+  "SolicitadoAnterior": 100.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "EnProduccion": null,
+  "OPED": null
+} 
+2024-12-03 04:38:15.0577 loggerfile Completando Lineas.  Random: 13, DocEntry: 0, ProdCode: VALOM22062 {
+  "DocEntry": 0,
+  "DocLinea": 2,
+  "LineaEstado": "A",
+  "ProdCode": "VALOM22062",
+  "ProdNombre": "1 ÑU LP V LOMO LISO ARGENTINO ",
+  "PrecioFinal": 12113.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 10.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 32,
+  "AnimalCode": 1022,
+  "TipoCode": "A",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.200,
+  "Costo": 9690.00,
+  "LineaItem": 2,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 10.0,
+  "TotalSolicitado": 121130.0,
+  "TotalReal": null,
+  "PrecioUnitario": 12113.0,
+  "PrecioVolumen": 11870.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.2,
+  "Disponible": 1304.21,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 1,
+  "RefrigeraNombre": "FRESCO",
+  "OrigenCode": 1,
+  "OrigenNombre": "ARGENTINA",
+  "MarcaCode": 0,
+  "MarcaNombre": "",
+  "FrmtoVentaNombre": "ENTERO",
+  "AnimalNombre": "VACUNO ",
+  "FamiliaNombre": "LOMO LISO",
+  "SolicitadoAnterior": 10.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "EnProduccion": null,
+  "OPED": null
+} 
+2024-12-03 04:38:15.0869 loggerfile Completando Lineas.  Random: 13, DocEntry: 0, ProdCode: AGANGL2561 {
+  "DocEntry": 0,
+  "DocLinea": 3,
+  "LineaEstado": "A",
+  "ProdCode": "AGANGL2561",
+  "ProdNombre": "2 EU AS V LOMO VETADO",
+  "PrecioFinal": 0.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 10.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 153,
+  "AnimalCode": 1,
+  "TipoCode": "A",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.0,
+  "Costo": 9156.28,
+  "LineaItem": 3,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 10.0,
+  "TotalSolicitado": 0.0,
+  "TotalReal": null,
+  "PrecioUnitario": 11445.0,
+  "PrecioVolumen": 11331.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.2,
+  "Disponible": 1087.82,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 2,
+  "RefrigeraNombre": "CONGELADO",
+  "OrigenCode": 2,
+  "OrigenNombre": "BRASIL",
+  "MarcaCode": 98,
+  "MarcaNombre": "ASTRAS",
+  "FrmtoVentaNombre": "ENTERO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "LOMO VETADO ENTERO",
+  "SolicitadoAnterior": 10.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "EnProduccion": null,
+  "OPED": null
+} 
+2024-12-03 04:38:15.0869 loggerfile Antes de enviar a DB. Random: 13, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-12-03T00:00:00-03:00",
+  "SocioCode": "25306017-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "CALL CENTER 3",
+  "UsuarioCode": "0",
+  "Neto": 1320130.0,
+  "Iva": 250825.0,
+  "Total": 1570955.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-12-03T04:38:14.8742217-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "ADOLFO GUSTAVO GARBAN REQUENA",
+  "FechaEntrega": "2024-12-03T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 900263.0,
+  "Margen": 0.3180497375258497269208335543,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "ANGELA RAMIREZ",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "LCCDN22015",
+      "ProdNombre": "1 LC ALB V S48 LOMO LISO ARGENTINO",
+      "PrecioFinal": 11990.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 100.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 148,
+      "AnimalCode": 1022,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.406,
+      "Costo": 7118.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 100.0,
+      "TotalSolicitado": 1199000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 11990.0,
+      "PrecioVolumen": 11990.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1595.84,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 1,
+      "OrigenNombre": "ARGENTINA",
+      "MarcaCode": 5,
+      "MarcaNombre": "ALBERDI",
+      "FrmtoVentaNombre": "ENTERO",
+      "AnimalNombre": "VACUNO ",
+      "FamiliaNombre": "LOMO LISO ENTERO",
+      "SolicitadoAnterior": 100.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "EnProduccion": null,
+      "OPED": null
+    },
+    {
+      "DocEntry": 0,
+      "DocLinea": 2,
+      "LineaEstado": "A",
+      "ProdCode": "VALOM22062",
+      "ProdNombre": "1 ÑU LP V LOMO LISO ARGENTINO ",
+      "PrecioFinal": 12113.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 32,
+      "AnimalCode": 1022,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.200,
+      "Costo": 9690.00,
+      "LineaItem": 2,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 121130.0,
+      "TotalReal": null,
+      "PrecioUnitario": 12113.0,
+      "PrecioVolumen": 11870.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1304.21,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 1,
+      "OrigenNombre": "ARGENTINA",
+      "MarcaCode": 0,
+      "MarcaNombre": "",
+      "FrmtoVentaNombre": "ENTERO",
+      "AnimalNombre": "VACUNO ",
+      "FamiliaNombre": "LOMO LISO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "EnProduccion": null,
+      "OPED": null
+    },
+    {
+      "DocEntry": 0,
+      "DocLinea": 3,
+      "LineaEstado": "A",
+      "ProdCode": "AGANGL2561",
+      "ProdNombre": "2 EU AS V LOMO VETADO",
+      "PrecioFinal": 0.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 153,
+      "AnimalCode": 1,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.0,
+      "Costo": 9156.28,
+      "LineaItem": 3,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 0.0,
+      "TotalReal": null,
+      "PrecioUnitario": 11445.0,
+      "PrecioVolumen": 11331.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1087.82,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 2,
+      "OrigenNombre": "BRASIL",
+      "MarcaCode": 98,
+      "MarcaNombre": "ASTRAS",
+      "FrmtoVentaNombre": "ENTERO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO VETADO ENTERO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "EnProduccion": null,
+      "OPED": null
+    }
+  ]
+} 
+2024-12-03 04:38:15.2538 loggerfile Despues de enviar a DB. Random: 13, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-12-03T00:00:00-03:00",
+  "SocioCode": "25306017-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "CALL CENTER 3",
+  "UsuarioCode": "0",
+  "Neto": 1320130.0,
+  "Iva": 250825.0,
+  "Total": 1570955.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-12-03T04:38:14.8742217-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "ADOLFO GUSTAVO GARBAN REQUENA",
+  "FechaEntrega": "2024-12-03T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 900263.0,
+  "Margen": 0.3180497375258497269208335543,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "ANGELA RAMIREZ",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "LCCDN22015",
+      "ProdNombre": "1 LC ALB V S48 LOMO LISO ARGENTINO",
+      "PrecioFinal": 11990.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 100.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 148,
+      "AnimalCode": 1022,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.406,
+      "Costo": 7118.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 100.0,
+      "TotalSolicitado": 1199000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 11990.0,
+      "PrecioVolumen": 11990.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1595.84,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 1,
+      "OrigenNombre": "ARGENTINA",
+      "MarcaCode": 5,
+      "MarcaNombre": "ALBERDI",
+      "FrmtoVentaNombre": "ENTERO",
+      "AnimalNombre": "VACUNO ",
+      "FamiliaNombre": "LOMO LISO ENTERO",
+      "SolicitadoAnterior": 100.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "EnProduccion": null
+    },
+    {
+      "DocEntry": 0,
+      "DocLinea": 2,
+      "LineaEstado": "A",
+      "ProdCode": "VALOM22062",
+      "ProdNombre": "1 ÑU LP V LOMO LISO ARGENTINO ",
+      "PrecioFinal": 12113.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 32,
+      "AnimalCode": 1022,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.200,
+      "Costo": 9690.00,
+      "LineaItem": 2,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 121130.0,
+      "TotalReal": null,
+      "PrecioUnitario": 12113.0,
+      "PrecioVolumen": 11870.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1304.21,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 1,
+      "OrigenNombre": "ARGENTINA",
+      "MarcaCode": 0,
+      "MarcaNombre": "",
+      "FrmtoVentaNombre": "ENTERO",
+      "AnimalNombre": "VACUNO ",
+      "FamiliaNombre": "LOMO LISO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "EnProduccion": null
+    },
+    {
+      "DocEntry": 0,
+      "DocLinea": 3,
+      "LineaEstado": "A",
+      "ProdCode": "AGANGL2561",
+      "ProdNombre": "2 EU AS V LOMO VETADO",
+      "PrecioFinal": 0.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 153,
+      "AnimalCode": 1,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.0,
+      "Costo": 9156.28,
+      "LineaItem": 3,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 0.0,
+      "TotalReal": null,
+      "PrecioUnitario": 11445.0,
+      "PrecioVolumen": 11331.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1087.82,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 2,
+      "OrigenNombre": "BRASIL",
+      "MarcaCode": 98,
+      "MarcaNombre": "ASTRAS",
+      "FrmtoVentaNombre": "ENTERO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO VETADO ENTERO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "EnProduccion": null
+    }
+  ]
+} 
+2024-12-03 04:38:16.8770 loggerfile SaveChanges enviar a DB. Random: 13, DocEntry: 418626 {
+  "DocEntry": 418626,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-12-03T00:00:00-03:00",
+  "SocioCode": "25306017-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "CALL CENTER 3",
+  "UsuarioCode": "0",
+  "Neto": 1320130.0,
+  "Iva": 250825.0,
+  "Total": 1570955.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-12-03T04:38:14.8742217-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "ADOLFO GUSTAVO GARBAN REQUENA",
+  "FechaEntrega": "2024-12-03T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 900263.0,
+  "Margen": 0.3180497375258497269208335543,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "ANGELA RAMIREZ",
+  "PED1": [
+    {
+      "DocEntry": 418626,
+      "DocLinea": 10746,
+      "LineaEstado": "A",
+      "ProdCode": "LCCDN22015",
+      "ProdNombre": "1 LC ALB V S48 LOMO LISO ARGENTINO",
+      "PrecioFinal": 11990.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 100.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 148,
+      "AnimalCode": 1022,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.406,
+      "Costo": 7118.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 100.0,
+      "TotalSolicitado": 1199000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 11990.0,
+      "PrecioVolumen": 11990.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1595.84,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 1,
+      "OrigenNombre": "ARGENTINA",
+      "MarcaCode": 5,
+      "MarcaNombre": "ALBERDI",
+      "FrmtoVentaNombre": "ENTERO",
+      "AnimalNombre": "VACUNO ",
+      "FamiliaNombre": "LOMO LISO ENTERO",
+      "SolicitadoAnterior": 100.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "EnProduccion": null
+    },
+    {
+      "DocEntry": 418626,
+      "DocLinea": 10747,
+      "LineaEstado": "A",
+      "ProdCode": "VALOM22062",
+      "ProdNombre": "1 ÑU LP V LOMO LISO ARGENTINO ",
+      "PrecioFinal": 12113.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 32,
+      "AnimalCode": 1022,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.200,
+      "Costo": 9690.00,
+      "LineaItem": 2,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 121130.0,
+      "TotalReal": null,
+      "PrecioUnitario": 12113.0,
+      "PrecioVolumen": 11870.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1304.21,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 1,
+      "OrigenNombre": "ARGENTINA",
+      "MarcaCode": 0,
+      "MarcaNombre": "",
+      "FrmtoVentaNombre": "ENTERO",
+      "AnimalNombre": "VACUNO ",
+      "FamiliaNombre": "LOMO LISO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "EnProduccion": null
+    },
+    {
+      "DocEntry": 418626,
+      "DocLinea": 10748,
+      "LineaEstado": "A",
+      "ProdCode": "AGANGL2561",
+      "ProdNombre": "2 EU AS V LOMO VETADO",
+      "PrecioFinal": 0.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 153,
+      "AnimalCode": 1,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.0,
+      "Costo": 9156.28,
+      "LineaItem": 3,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 0.0,
+      "TotalReal": null,
+      "PrecioUnitario": 11445.0,
+      "PrecioVolumen": 11331.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1087.82,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 2,
+      "OrigenNombre": "BRASIL",
+      "MarcaCode": 98,
+      "MarcaNombre": "ASTRAS",
+      "FrmtoVentaNombre": "ENTERO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO VETADO ENTERO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "EnProduccion": null
+    }
+  ]
+} 
+2024-12-03 04:38:17.7880 loggerfile request https://localhost:44367/api/documentos/418626?doctipo=10 
+2024-12-03 04:38:17.9393 loggerfile request https://localhost:44367/api/socios/25306017-4C/ 
+2024-12-03 04:38:18.0047 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-12-03 04:38:18.1276 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopFamilia 
+2024-12-03 04:38:18.1628 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopRubro 
+2024-12-03 04:38:18.2096 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopVentas 
+2024-12-03 04:40:57.2484 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-12-03 04:41:01.8355 loggerfile request https://localhost:44367/api/socios/25306017-4C/ 
+2024-12-03 04:41:01.9480 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-12-03 04:41:02.2490 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopFamilia 
+2024-12-03 04:41:02.8700 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopRubro 
+2024-12-03 04:41:02.9144 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopVentas 
+2024-12-03 04:41:03.7291 loggerfile request https://localhost:44367/api/socios/25306017-4C/ 
+2024-12-03 04:41:03.8111 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-12-03 04:41:03.9452 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopFamilia 
+2024-12-03 04:41:03.9803 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopRubro 
+2024-12-03 04:41:04.0228 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopVentas 
+2024-12-03 04:45:05.8898 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:15:36.9247 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 05:15:39.2227 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 05:15:44.8603 loggerfile request https://localhost:44367/api/documentos/418626?doctipo=10 
+2024-12-03 05:15:45.8043 loggerfile request https://localhost:44367/api/socios/25306017-4C/ 
+2024-12-03 05:15:46.2509 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-12-03 05:15:46.8468 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopFamilia 
+2024-12-03 05:15:46.9288 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopRubro 
+2024-12-03 05:15:46.9903 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopVentas 
+2024-12-03 05:16:03.9490 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:26:27.6336 loggerfile request https://localhost:44367/api/documentos/418626?doctipo=10 
+2024-12-03 05:26:27.9300 loggerfile request https://localhost:44367/api/socios/25306017-4C/ 
+2024-12-03 05:26:27.9856 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-12-03 05:26:28.0803 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopFamilia 
+2024-12-03 05:26:28.1222 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopRubro 
+2024-12-03 05:26:28.1730 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopVentas 
+2024-12-03 05:26:53.5357 loggerfile request https://localhost:44367/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:28:55.7036 loggerfile request https://localhost:44367/api/documentos/418626?doctipo=10 
+2024-12-03 05:28:56.5738 loggerfile request https://localhost:44367/api/documentos/418626?doctipo=10 
+2024-12-03 05:28:56.8641 loggerfile request https://localhost:44367/api/socios/25306017-4C/ 
+2024-12-03 05:28:56.8953 loggerfile request https://localhost:44367/api/socios/25306017-4C/ 
+2024-12-03 05:28:57.0290 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-12-03 05:28:57.1071 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-12-03 05:28:57.1910 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopFamilia 
+2024-12-03 05:28:57.2184 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopFamilia 
+2024-12-03 05:28:57.2486 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopRubro 
+2024-12-03 05:28:57.2633 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopRubro 
+2024-12-03 05:28:57.2935 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopVentas 
+2024-12-03 05:28:57.3189 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopVentas 
+2024-12-03 05:28:59.0288 loggerfile request https://localhost:44367/api/documentos/418626?doctipo=10 
+2024-12-03 05:28:59.2287 loggerfile request https://localhost:44367/api/socios/25306017-4C/ 
+2024-12-03 05:28:59.2931 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-12-03 05:28:59.4141 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopFamilia 
+2024-12-03 05:28:59.4610 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopRubro 
+2024-12-03 05:28:59.5069 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopVentas 
+2024-12-03 05:29:14.9594 loggerfile request https://localhost:44367/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:30:12.4810 loggerfile request https://localhost:44367/api/socios/25306017-4C/176/TopUltimosPrecios 
+2024-12-03 05:30:20.9551 loggerfile request https://localhost:44367/api/socios/25306017-4C/32/TopUltimosPrecios 
+2024-12-03 05:30:24.2832 loggerfile request https://localhost:44367/api/socios/25306017-4C/148/TopUltimosPrecios 
+2024-12-03 05:31:09.4252 loggerfile request https://localhost:44367/api/productos/search?palabras=pollo pe&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:38:55.2609 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 05:38:56.5690 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 05:39:07.0084 loggerfile request https://localhost:44367/api/documentos/418626?doctipo=10 
+2024-12-03 05:39:07.2433 loggerfile request https://localhost:44367/api/socios/25306017-4C/ 
+2024-12-03 05:39:07.3604 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-12-03 05:39:07.6565 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopFamilia 
+2024-12-03 05:39:07.7092 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopRubro 
+2024-12-03 05:39:07.7483 loggerfile request https://localhost:44367/api/socios/25306017-4C/TopVentas 
+2024-12-03 05:39:24.3867 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:39:46.4354 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:39:50.5197 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:46:55.2894 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:47:02.4212 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:47:15.7290 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:48:11.2873 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:48:47.7703 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:48:50.9435 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:48:51.5990 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:50:16.2726 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:50:31.2896 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-12-03 05:52:15.3766 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 05:52:15.3961 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 05:52:15.4185 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 05:52:17.4756 loggerfile request https://localhost:44367/api/documentos/418400?doctipo=10 
+2024-12-03 05:55:31.6709 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:02:09.1114 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:02:19.2837 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:02:38.1077 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:04:12.1518 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:05:38.2851 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:05:41.1289 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:05:42.1879 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:05:46.9308 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:05:49.6700 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:07:31.3821 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:08:54.3740 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:09:37.0073 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:09:47.7568 loggerfile request https://localhost:44367/api/documentos/418247?doctipo=10 
+2024-12-03 06:16:35.2087 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-12-03 06:16:36.7956 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 06:16:40.4441 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-12-03 06:16:40.4909 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:16:51.1228 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:16:54.5910 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:16:59.6798 loggerfile request https://localhost:44367/api/documentos/21825?doctipo=3010 
+2024-12-03 06:17:12.7273 loggerfile request https://localhost:44367/api/documentos/21825?doctipo=3010 
+2024-12-03 06:17:12.8581 loggerfile request https://localhost:44367/api/documentos/etiqueta 
+2024-12-03 06:17:38.2937 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:17:43.8473 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:17:47.2614 loggerfile request https://localhost:44367/api/documentos/21825?doctipo=3010 
+2024-12-03 06:17:52.7592 loggerfile request https://localhost:44367/api/documentos/21839?doctipo=3010 
+2024-12-03 06:17:57.9570 loggerfile request https://localhost:44367/api/documentos/21825?doctipo=3010 
+2024-12-03 06:24:32.9279 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:30:02.6842 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-12-03 06:30:07.0177 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:32:25.8074 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-12-03 06:32:27.1324 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:32:42.6277 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:32:44.8451 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 06:34:20.0852 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-12-03 06:34:20.1667 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-12-03 06:36:45.7944 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 06:37:32.1332 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=ARAMIREZ&fechaini=20241125&fechafin=20241203 
+2024-12-03 06:43:23.5448 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 06:43:31.9859 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=Admin&fechaini=20241123&fechafin=20241203 
+2024-12-03 06:43:40.6579 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=Admin&fechaini=20241123&fechafin=20241203 
+2024-12-03 06:43:42.9563 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=Admin&fechaini=20241123&fechafin=20241203 
+2024-12-03 06:44:09.3120 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 06:44:31.9107 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 06:44:37.3789 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 06:45:19.2793 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 06:46:00.5936 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 06:46:58.0049 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 06:47:03.5601 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=Admin&fechaini=20241123&fechafin=20241203 
+2024-12-03 06:54:56.7086 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 06:55:02.9348 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=Admin&fechaini=20241123&fechafin=20241203 
+2024-12-03 06:55:03.3923 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=Admin&fechaini=20241123&fechafin=20241203 
+2024-12-03 06:55:05.8342 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=Admin&fechaini=20241123&fechafin=20241203 
+2024-12-03 06:55:26.9235 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 06:55:35.1551 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=Admin&fechaini=20241123&fechafin=20241203 
+2024-12-03 06:55:50.0246 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:02:06.1332 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:02:10.8120 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=CALL_CENTER_COLONOS4&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:02:16.4066 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:02:23.6374 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:02:24.8861 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:02:25.4856 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:02:25.7467 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:02:25.9310 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:02:26.1445 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:02:26.3026 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:02:26.4888 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:02:26.6640 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:02:26.8501 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:02:29.7838 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:02:33.0742 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=CALL_CENTER_COLONOS4&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:02:36.6214 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:02:42.0831 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:03:53.9823 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:05:19.5391 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:07:08.8278 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:07:08.8493 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 07:07:19.9180 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=HAVENDANO&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 07:07:24.4531 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=HAVENDANO&desde=2024-11-25&hasta=2024-12-03 
+2024-12-03 07:07:47.9325 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:07:47.9559 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 07:08:48.8526 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:08:48.8746 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 07:08:57.6020 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:09:14.5376 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=CALL CENTER 3&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:09:34.0775 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=CALL_CENTER_COLONOS2&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:09:39.8426 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=CALL_CENTER_COLONOS2&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:09:56.2913 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=HAVENDANO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:10:25.8177 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=CALL_CENTER_COLONOS2&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:22:15.0212 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=CALL_CENTER_COLONOS2&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:22:29.3554 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=CALL_CENTER_COLONOS2&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:22:46.7355 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=CALL_CENTER_COLONOS&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:23:13.0997 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:23:13.1226 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 07:23:24.4011 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=CALL_CENTER_COLONOS&desde=2024-11-25&hasta=2024-12-03 
+2024-12-03 07:23:26.8662 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=CALL_CENTER_COLONOS&desde=2024-11-25&hasta=2024-12-03 
+2024-12-03 07:23:27.6509 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=CALL_CENTER_COLONOS&desde=2024-11-25&hasta=2024-12-03 
+2024-12-03 07:23:45.4056 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:23:45.4349 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 07:23:48.9844 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:24:04.5169 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=CALL_CENTER_COLONOS&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:24:14.1882 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=CALL_CENTER_COLONOS&desde=2024-11-18&hasta=2024-12-03 
+2024-12-03 07:24:15.3679 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=CALL_CENTER_COLONOS&desde=2024-11-18&hasta=2024-12-03 
+2024-12-03 07:27:28.1265 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=CALL_CENTER_COLONOS&desde=2024-11-18&hasta=2024-12-03 
+2024-12-03 07:27:52.6188 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=CALL_CENTER_COLONOS&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:28:36.4549 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=CALL_CENTER_COLONOS&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:28:43.5519 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=CALL_CENTER_COLONOS&desde=2024-11-18&hasta=2024-12-03 
+2024-12-03 07:30:09.7077 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=CALL_CENTER_COLONOS&desde=2024-11-18&hasta=2024-12-03 
+2024-12-03 07:30:42.9547 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=CALL_CENTER_COLONOS&desde=2024-11-18&hasta=2024-12-03 
+2024-12-03 07:32:23.7867 loggerfile request https://localhost:44367/api/documentos/414575?doctipo=10 
+2024-12-03 07:32:24.6652 loggerfile request https://localhost:44367/api/socios/96511350-9C/ 
+2024-12-03 07:32:24.9756 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-12-03 07:32:25.5170 loggerfile request https://localhost:44367/api/socios/96511350-9C/TopFamilia 
+2024-12-03 07:32:25.5785 loggerfile request https://localhost:44367/api/socios/96511350-9C/TopRubro 
+2024-12-03 07:32:25.6357 loggerfile request https://localhost:44367/api/socios/96511350-9C/TopVentas 
+2024-12-03 07:32:30.7451 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:32:30.7618 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 07:32:52.5002 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 07:33:02.8469 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=CALL CENTER 3&desde=2024-11-25&hasta=2024-12-03 
+2024-12-03 07:33:10.1957 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=VESPECIAL&desde=2024-11-25&hasta=2024-12-03 
+2024-12-03 07:33:14.8796 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=VENTAS_2&desde=2024-11-25&hasta=2024-12-03 
+2024-12-03 07:33:18.8163 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=KVICENCIO&desde=2024-11-25&hasta=2024-12-03 
+2024-12-03 07:33:42.0493 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241125&fechafin=20241203 
+2024-12-03 07:33:57.7701 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=KVICENCIO&desde=2024-11-25&hasta=2024-12-03 
+2024-12-03 07:34:00.2966 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=KVICENCIO&desde=2024-11-25&hasta=2024-12-03 
+2024-12-03 07:34:11.2683 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241125&fechafin=20241203 
+2024-12-03 07:46:29.3165 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:46:42.5167 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:48:03.5997 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:48:08.3413 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:48:10.0597 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:48:11.0220 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:48:11.6545 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:48:12.0666 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:48:12.2808 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:48:12.4900 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:48:12.8209 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:48:13.0229 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:48:53.3784 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:49:36.8014 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:51:29.0434 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:51:35.1095 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:52:20.9035 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:52:36.2368 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:52:40.0826 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:54:21.2923 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:54:32.8262 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:54:34.8829 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:56:43.8706 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:56:52.6357 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:58:53.6215 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:59:00.6949 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 07:59:48.0755 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 07:59:56.3096 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 08:03:27.7415 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 08:03:33.9788 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20241123&fechafin=20241203 
+2024-12-03 08:05:25.6282 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-12-03 08:05:25.6991 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-12-03 08:10:20.7262 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 08:10:20.7643 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 08:10:32.6023 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 08:10:32.6761 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 08:10:32.8293 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 08:10:44.2177 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 08:10:44.2812 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 08:11:18.6123 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 08:11:18.6514 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 08:11:18.6816 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 08:11:23.7643 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-03 08:11:23.8391 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-12-03&hasta=2024-12-03 
+2024-12-03 08:11:30.4241 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-12-03 08:11:30.4631 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-12-03 08:11:30.4982 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 11:45:38.6413 loggerfile request https://localhost:44367/api/vehiculos 
+2024-12-03 11:45:40.6958 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 12:05:57.3781 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-12-03 12:07:12.6979 loggerfile request https://localhost:44367/api/vehiculos 
+2024-12-03 12:07:13.5041 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 12:08:06.2387 loggerfile request https://localhost:44367/api/vehiculos 
+2024-12-03 12:08:06.5550 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 12:11:24.6437 loggerfile request https://localhost:44367/api/vehiculos 
+2024-12-03 12:11:25.1961 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 12:11:35.1594 loggerfile request https://localhost:44367/api/vehiculos 
+2024-12-03 12:11:35.5119 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 12:12:47.4220 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-12-03 12:13:07.0287 loggerfile request https://localhost:44367/api/vehiculos 
+2024-12-03 12:13:11.7903 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 12:24:41.1810 loggerfile request https://localhost:44367/api/vehiculos 
+2024-12-03 12:24:42.9964 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 12:25:03.9787 loggerfile request https://localhost:44367/api/vehiculos 
+2024-12-03 12:25:04.2656 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 12:27:52.5003 loggerfile request https://localhost:44367/api/vehiculos 
+2024-12-03 12:27:53.1989 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-03 12:37:29.3103 loggerfile request https://localhost:44367/api/vehiculos 
+2024-12-03 12:37:31.1292 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 

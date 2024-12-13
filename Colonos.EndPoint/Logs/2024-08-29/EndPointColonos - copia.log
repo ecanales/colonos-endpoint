@@ -1,0 +1,387 @@
+2024-08-29 10:22:06.3522 loggerfile request https://localhost:44366/api/documentos/410089?doctipo=10 
+2024-08-29 10:22:26.3126 loggerfile request https://localhost:44366/api/socios/76128983-7C/ 
+2024-08-29 10:22:28.1573 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 10:22:29.3857 loggerfile request https://localhost:44366/api/socios/76128983-7C/TopFamilia 
+2024-08-29 10:22:30.2223 loggerfile request https://localhost:44366/api/socios/76128983-7C/TopRubro 
+2024-08-29 10:22:38.6419 loggerfile request https://localhost:44366/api/socios/76128983-7C/TopVentas 
+2024-08-29 10:23:33.2142 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-08-29 10:25:01.8471 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-01&hasta=2024-08-29 
+2024-08-29 10:25:37.0997 loggerfile request https://localhost:44366/api/socios/search?palabras=gustavo 
+2024-08-29 10:25:41.2628 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 10:25:41.4479 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 10:25:41.7025 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 10:25:41.7430 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 10:25:41.7821 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 10:25:49.0693 loggerfile request https://localhost:44366/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-08-29 10:26:04.9181 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 10:29:29.9591 loggerfile request https://localhost:44366/api/documentos/410099?doctipo=10 
+2024-08-29 10:29:30.0587 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 10:29:30.1582 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 10:29:30.2910 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 10:29:30.3300 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 10:29:30.3710 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 10:32:46.3086 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-08-29 10:32:46.3375 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-01&hasta=2024-08-29 
+2024-08-29 10:33:07.8193 loggerfile request https://localhost:44366/api/socios/search?palabras=gustavo 
+2024-08-29 10:33:12.0804 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 10:33:12.2119 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 10:33:12.4282 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 10:33:12.4743 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 10:33:12.5281 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 10:34:05.2157 loggerfile request https://localhost:44366/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-08-29 10:34:17.5302 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 10:36:30.3807 loggerfile request https://localhost:44366/api/documentos/410100?doctipo=10 
+2024-08-29 10:36:30.4705 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 10:36:30.5613 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 10:36:30.7180 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 10:36:30.7775 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 10:36:30.8288 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 10:36:34.7767 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-08-29 10:36:34.8430 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-01&hasta=2024-08-29 
+2024-08-29 10:36:50.6761 loggerfile request https://localhost:44366/api/socios/search?palabras=gustavo 
+2024-08-29 10:36:53.5275 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 10:36:54.1280 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 10:36:54.3586 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 10:36:54.3953 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 10:36:54.4373 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 10:37:01.2646 loggerfile request https://localhost:44366/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-08-29 10:37:10.4765 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 10:38:19.3594 loggerfile request https://localhost:44366/api/documentos/410101?doctipo=10 
+2024-08-29 10:38:19.5312 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 10:38:19.6273 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 10:38:19.8393 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 10:38:19.9876 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 10:38:20.0398 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 11:15:59.7372 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-08-29 11:16:03.3274 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-01&hasta=2024-08-29 
+2024-08-29 11:16:23.8972 loggerfile request https://localhost:44366/api/socios/search?palabras=gustavo 
+2024-08-29 11:16:27.7178 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 11:16:28.2525 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 11:16:28.7368 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 11:16:28.8305 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 11:16:28.9174 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 11:16:37.3974 loggerfile request https://localhost:44366/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-08-29 11:16:49.0089 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 11:21:04.6166 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 11:33:23.9618 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 11:35:08.2487 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_B68C9DDA0A0003C09639E76A3F5AE9F9B3E0DE8079B3DBF777A1926EA70A1992'. Path 'PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Get(Int32 docentry) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 151
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Add(Documento item) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 50
+   en Colonos.Manager.ManagerNotadePedido.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Ventas\ManagerNotadePedido.cs:línea 679 
+2024-08-29 11:35:23.1543 loggerfile request https://localhost:44366/api/socios/search?palabras=gustavo 
+2024-08-29 11:35:27.8582 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 11:35:28.3184 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 11:35:28.9133 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 11:35:28.9954 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 11:35:29.0540 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 11:35:37.5959 loggerfile request https://localhost:44366/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-08-29 11:35:48.0095 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 11:35:54.0135 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_B68C9DDA0A0003C09639E76A3F5AE9F9B3E0DE8079B3DBF777A1926EA70A1992'. Path 'PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Get(Int32 docentry) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 151
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Add(Documento item) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 50
+   en Colonos.Manager.ManagerNotadePedido.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Ventas\ManagerNotadePedido.cs:línea 679 
+2024-08-29 11:36:21.8795 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 11:36:48.8199 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_B68C9DDA0A0003C09639E76A3F5AE9F9B3E0DE8079B3DBF777A1926EA70A1992'. Path 'PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Get(Int32 docentry) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 151
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Add(Documento item) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 50
+   en Colonos.Manager.ManagerNotadePedido.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Ventas\ManagerNotadePedido.cs:línea 679 
+2024-08-29 11:36:49.2638 loggerfile request https://localhost:44366/api/socios/search?palabras=gustavo 
+2024-08-29 11:37:07.1625 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 11:37:07.2684 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 11:37:07.4036 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 11:37:07.4397 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 11:37:07.4749 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 11:37:18.5233 loggerfile request https://localhost:44366/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-08-29 11:37:27.1445 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 11:37:31.0516 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_B68C9DDA0A0003C09639E76A3F5AE9F9B3E0DE8079B3DBF777A1926EA70A1992'. Path 'PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Get(Int32 docentry) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 151
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Add(Documento item) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 50
+   en Colonos.Manager.ManagerNotadePedido.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Ventas\ManagerNotadePedido.cs:línea 679 
+2024-08-29 11:39:09.0159 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 11:39:47.9540 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_B68C9DDA0A0003C09639E76A3F5AE9F9B3E0DE8079B3DBF777A1926EA70A1992'. Path 'PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Get(Int32 docentry) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 151
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Add(Documento item) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 50
+   en Colonos.Manager.ManagerNotadePedido.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Ventas\ManagerNotadePedido.cs:línea 679 
+2024-08-29 11:39:51.1007 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 11:44:23.6949 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_B68C9DDA0A0003C09639E76A3F5AE9F9B3E0DE8079B3DBF777A1926EA70A1992'. Path 'PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Get(Int32 docentry)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Add(Documento item)
+   en Colonos.Manager.ManagerNotadePedido.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Ventas\ManagerNotadePedido.cs:línea 679 
+2024-08-29 11:56:00.8816 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 11:57:07.2523 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_B68C9DDA0A0003C09639E76A3F5AE9F9B3E0DE8079B3DBF777A1926EA70A1992'. Path 'PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Get(Int32 docentry) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 195
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Add(Documento item) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 50
+   en Colonos.Manager.ManagerNotadePedido.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Ventas\ManagerNotadePedido.cs:línea 679 
+2024-08-29 11:57:11.6661 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 11:58:13.9004 loggerfile mensaje: Self referencing loop detected with type 'System.Data.Entity.DynamicProxies.PED1_6D0E5149F74FA32A42B3DC27A94EE1DE50C781FA63DDB02D49BE5D45189E60CC'. Path '[0].OPED.PED1'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_PED1.List(Int32 docentry)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Get(Int32 docentry)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Add(Documento item)
+   en Colonos.Manager.ManagerNotadePedido.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Ventas\ManagerNotadePedido.cs:línea 679 
+2024-08-29 11:58:18.1648 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 12:03:59.5632 loggerfile mensaje: Self referencing loop detected with type 'System.Data.Entity.DynamicProxies.PED1_6D0E5149F74FA32A42B3DC27A94EE1DE50C781FA63DDB02D49BE5D45189E60CC'. Path '[0].OPED.PED1'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_PED1.List(Int32 docentry)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Get(Int32 docentry)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.Add(Documento item)
+   en Colonos.Manager.ManagerNotadePedido.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Ventas\ManagerNotadePedido.cs:línea 679 
+2024-08-29 12:04:00.8655 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 12:05:05.3993 loggerfile request https://localhost:44366/api/documentos/410127?doctipo=10 
+2024-08-29 12:05:11.8274 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:05:14.1363 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:05:16.2550 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:05:16.3819 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:05:16.4600 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:07:05.8462 loggerfile request https://localhost:44366/api/documentos/410127?doctipo=10 
+2024-08-29 12:07:38.6744 loggerfile request https://localhost:44366/api/documentos/410127?doctipo=10 
+2024-08-29 12:07:42.8099 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 12:07:56.2468 loggerfile request https://localhost:44366/api/documentos/410127?doctipo=10 
+2024-08-29 12:08:00.7601 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:08:00.9217 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:08:01.0933 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:08:01.1975 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:08:01.3073 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:08:16.3107 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-08-29 12:08:16.4960 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-01&hasta=2024-08-29 
+2024-08-29 12:08:23.2141 loggerfile request https://localhost:44366/api/documentos/410091?doctipo=10 
+2024-08-29 12:08:31.2336 loggerfile request https://localhost:44366/api/socios/77676401-9C/ 
+2024-08-29 12:08:31.3626 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:08:31.5338 loggerfile request https://localhost:44366/api/socios/77676401-9C/TopFamilia 
+2024-08-29 12:08:31.5943 loggerfile request https://localhost:44366/api/socios/77676401-9C/TopRubro 
+2024-08-29 12:08:31.6421 loggerfile request https://localhost:44366/api/socios/77676401-9C/TopVentas 
+2024-08-29 12:08:43.7199 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-08-29 12:08:43.7551 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-01&hasta=2024-08-29 
+2024-08-29 12:08:48.0068 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-01&hasta=2024-08-29 
+2024-08-29 12:08:51.8199 loggerfile request https://localhost:44366/api/documentos/410127?doctipo=10 
+2024-08-29 12:09:02.5154 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:09:02.6203 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:09:02.7742 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:09:02.8557 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:09:02.9074 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:09:15.8675 loggerfile request https://localhost:44366/api/documentos/410127?doctipo=10 
+2024-08-29 12:09:19.0341 loggerfile request https://localhost:44366/api/documentos/410127?doctipo=10 
+2024-08-29 12:09:20.7547 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:09:20.8572 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:09:21.0378 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:09:21.0797 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:09:21.1237 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:09:27.6895 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-08-29 12:09:27.7208 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-01&hasta=2024-08-29 
+2024-08-29 12:09:43.6016 loggerfile request https://localhost:44366/api/documentos/410121?doctipo=10 
+2024-08-29 12:09:49.6190 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:09:49.7151 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:09:49.8811 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:09:49.9192 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:09:49.9592 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:10:08.7942 loggerfile request https://localhost:44366/api/documentos/410121?doctipo=10 
+2024-08-29 12:10:08.9610 loggerfile request https://localhost:44366/api/documentos/410121?doctipo=10 
+2024-08-29 12:10:09.1403 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 12:10:12.3003 loggerfile request https://localhost:44366/api/documentos/410121?doctipo=10 
+2024-08-29 12:10:12.5162 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:10:12.5970 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:10:12.7287 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:10:12.7639 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:10:12.7951 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:10:20.8702 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-08-29 12:10:20.8956 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-01&hasta=2024-08-29 
+2024-08-29 12:10:28.1960 loggerfile request https://localhost:44366/api/documentos/410121?doctipo=10 
+2024-08-29 12:10:28.3538 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:10:28.4358 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:10:28.5578 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:10:28.5979 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:10:28.9950 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:10:42.2760 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-08-29 12:10:52.3907 loggerfile request https://localhost:44366/api/documentos/410121?doctipo=10 
+2024-08-29 12:10:52.5308 loggerfile request https://localhost:44366/api/documentos/410121?doctipo=10 
+2024-08-29 12:10:52.6630 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:10:52.7626 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:10:52.9059 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:10:52.9434 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:10:52.9829 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:11:07.1961 loggerfile request https://localhost:44366/api/documentos/410121?doctipo=10 
+2024-08-29 12:11:07.3647 loggerfile request https://localhost:44366/api/documentos/410121?doctipo=10 
+2024-08-29 12:11:07.5180 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:11:07.6146 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:11:07.7625 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:11:07.7937 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:11:07.8328 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:11:18.0892 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-08-29 12:11:18.1177 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-01&hasta=2024-08-29 
+2024-08-29 12:11:24.0543 loggerfile request https://localhost:44366/api/documentos/410122?doctipo=10 
+2024-08-29 12:11:24.2321 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:11:24.3087 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:11:24.4305 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:11:24.4613 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:11:24.4994 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:11:35.3111 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-08-29 12:11:44.7746 loggerfile request https://localhost:44366/api/documentos/410122?doctipo=10 
+2024-08-29 12:11:44.9069 loggerfile request https://localhost:44366/api/documentos/410122?doctipo=10 
+2024-08-29 12:11:45.0387 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 12:11:49.6971 loggerfile request https://localhost:44366/api/documentos/410122?doctipo=10 
+2024-08-29 12:11:49.8406 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:11:49.9245 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:11:50.0553 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:11:50.0924 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:11:50.1324 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:11:57.8926 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-08-29 12:11:57.9259 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-01&hasta=2024-08-29 
+2024-08-29 12:12:04.3434 loggerfile request https://localhost:44366/api/documentos/410091?doctipo=10 
+2024-08-29 12:12:04.5101 loggerfile request https://localhost:44366/api/socios/77676401-9C/ 
+2024-08-29 12:12:04.5910 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:12:04.7233 loggerfile request https://localhost:44366/api/socios/77676401-9C/TopFamilia 
+2024-08-29 12:12:04.7565 loggerfile request https://localhost:44366/api/socios/77676401-9C/TopRubro 
+2024-08-29 12:12:04.7956 loggerfile request https://localhost:44366/api/socios/77676401-9C/TopVentas 
+2024-08-29 12:12:10.4736 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-08-29 12:12:10.5418 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-01&hasta=2024-08-29 
+2024-08-29 12:12:15.0882 loggerfile request https://localhost:44366/api/documentos/search?palabras=410122&vendedorcode=Admin&doctipo=10 
+2024-08-29 12:12:17.7530 loggerfile request https://localhost:44366/api/documentos/410122?doctipo=10 
+2024-08-29 12:12:17.9555 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:12:18.0428 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:12:18.1617 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:12:18.1910 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:12:18.2242 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:13:03.4222 loggerfile request https://localhost:44366/api/bandejas/CRED?estado=0&visible=1 
+2024-08-29 12:13:11.8360 loggerfile request https://localhost:44366/api/documentos/410121?doctipo=10 
+2024-08-29 12:13:12.0556 loggerfile request https://localhost:44366/api/bandejas/CRED/410121 
+2024-08-29 12:13:12.1312 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:13:12.2656 loggerfile request https://localhost:44366/api/socios/cuenta/05603828-0C/ 
+2024-08-29 12:13:13.3381 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_B68C9DDA0A0003C09639E76A3F5AE9F9B3E0DE8079B3DBF777A1926EA70A1992'. Path '[2].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode)
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Socios\ManagerSocios.cs:línea 568 
+2024-08-29 12:13:13.4001 loggerfile request https://localhost:44366/api/socios/ventas12m/05603828-0C/ 
+2024-08-29 12:13:13.5205 loggerfile request https://localhost:44366/api/bandejas/CRED?sociocode=05603828-0C&top=10 
+2024-08-29 12:13:17.6686 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-08-29 12:13:17.7107 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-01&hasta=2024-08-29 
+2024-08-29 12:13:24.1949 loggerfile request https://localhost:44366/api/documentos/410122?doctipo=10 
+2024-08-29 12:13:24.4579 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:13:24.5506 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:13:24.6924 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:13:24.7422 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:13:24.7783 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:14:04.3982 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-08-29 12:14:04.4559 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-01&hasta=2024-08-29 
+2024-08-29 12:14:10.8280 loggerfile request https://localhost:44366/api/documentos/410123?doctipo=10 
+2024-08-29 12:14:11.0716 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:14:11.2462 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:14:11.4008 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:14:11.4545 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:14:11.4932 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:14:27.9715 loggerfile request https://localhost:44366/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-08-29 12:14:34.6913 loggerfile request https://localhost:44366/api/documentos/410123?doctipo=10 
+2024-08-29 12:14:34.8621 loggerfile request https://localhost:44366/api/documentos/410123?doctipo=10 
+2024-08-29 12:14:34.9987 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 12:28:19.5573 loggerfile request https://localhost:44366/api/documentos/410123?doctipo=10 
+2024-08-29 12:28:28.0153 loggerfile request https://localhost:44366/api/documentos/410123?doctipo=10 
+2024-08-29 12:28:28.1744 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 12:29:24.5983 loggerfile request https://localhost:44366/api/documentos/410123?doctipo=10 
+2024-08-29 12:29:24.8144 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:29:25.2970 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:29:26.3047 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:29:26.4102 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:29:26.4869 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:29:39.9396 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-08-29 12:29:40.4552 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-01&hasta=2024-08-29 
+2024-08-29 12:29:51.9205 loggerfile request https://localhost:44366/api/documentos/410123?doctipo=10 
+2024-08-29 12:29:52.2214 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:29:52.3448 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:29:52.6745 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:29:52.8881 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:29:52.9684 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:30:24.8410 loggerfile request https://localhost:44366/api/documentos/410123?doctipo=10 
+2024-08-29 12:30:25.0315 loggerfile request https://localhost:44366/api/documentos/410123?doctipo=10 
+2024-08-29 12:30:25.1804 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 12:30:40.5913 loggerfile request https://localhost:44366/api/documentos/410123?doctipo=10 
+2024-08-29 12:30:40.7503 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:30:40.8382 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:30:40.9953 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:30:41.0441 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:30:41.0822 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-08-29 12:31:56.6144 loggerfile request https://localhost:44366/api/documentos/410123?doctipo=10 
+2024-08-29 12:31:56.7774 loggerfile request https://localhost:44366/api/documentos/410123?doctipo=10 
+2024-08-29 12:31:56.9062 loggerfile request https://localhost:44366/api/documentos 
+2024-08-29 12:32:06.4711 loggerfile request https://localhost:44366/api/documentos/410123?doctipo=10 
+2024-08-29 12:32:06.6283 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-08-29 12:32:06.7268 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-08-29 12:32:06.8859 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-08-29 12:32:06.9211 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-08-29 12:32:06.9572 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 

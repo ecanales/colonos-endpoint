@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B91680CC-809F-45F2-8916-97152DDB2943}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Colonos.DataAccess</RootNamespace>
+    <AssemblyName>Colonos.DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.5.2.8\lib\net46\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BDA1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ClienteDF.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="FAC1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GRP1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Implement\Repositorios\Config\PerfilesdeUsuario\Repo_OGRP.cs" />
+    <Compile Include="Implement\Repositorios\Config\PerfilesdeUsuario\Repo_OUSR.cs" />
+    <Compile Include="Implement\Repositorios\Informes\Repo_Informes.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_ITM1.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_ITM10.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_ITM2.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_ITM3.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_ITM4.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_ITM5.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_ITM6.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_ITM7.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_ITM8.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_ITM9.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_ITR1.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_LCP1.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_LPC1.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_OBOD.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_OITB.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_OITB_BASE.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_OLPC.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Transacciones\Repo_OTRX.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Transacciones\Repo_TRX1.cs" />
+    <Compile Include="Implement\Repositorios\Listados\Repo_ZON1.cs" />
+    <Compile Include="Implement\Repositorios\Logistica\Repo_LOG1.cs" />
+    <Compile Include="Implement\Repositorios\Logistica\Repo_OCUS.cs" />
+    <Compile Include="Implement\Repositorios\Logistica\Repo_OLOG.cs" />
+    <Compile Include="Implement\Repositorios\Logistica\Repo_ORUT.cs" />
+    <Compile Include="Implement\Repositorios\Preparacion\Repo_OPDC.cs" />
+    <Compile Include="Implement\Repositorios\Preparacion\Repo_OPKG.cs" />
+    <Compile Include="Implement\Repositorios\Preparacion\Repo_OREN.cs" />
+    <Compile Include="Implement\Repositorios\Preparacion\Repo_OSMP.cs" />
+    <Compile Include="Implement\Repositorios\Preparacion\Repo_PDC1.cs" />
+    <Compile Include="Implement\Repositorios\Preparacion\Repo_PKG1.cs" />
+    <Compile Include="Implement\Repositorios\Preparacion\Repo_PKG2.cs" />
+    <Compile Include="Implement\Repositorios\Preparacion\Repo_PKG3.cs" />
+    <Compile Include="Implement\Repositorios\Preparacion\Repo_REN2.cs" />
+    <Compile Include="Implement\Repositorios\Preparacion\Repo_SMP1.cs" />
+    <Compile Include="Implement\Repositorios\Socios\Repo_SCP10.cs" />
+    <Compile Include="Implement\Repositorios\Socios\Repo_SCP11.cs" />
+    <Compile Include="Implement\Repositorios\Socios\Repo_SCP12.cs" />
+    <Compile Include="Implement\Repositorios\Socios\Repo_SCP13.cs" />
+    <Compile Include="Implement\Repositorios\Ventas\Repo_BDA1.cs" />
+    <Compile Include="Implement\Repositorios\Ventas\Repo_FAC1.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_OITM.cs" />
+    <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_OITR.cs" />
+    <Compile Include="Implement\Repositorios\Listados\Repo_OCIU.cs" />
+    <Compile Include="Implement\Repositorios\Listados\Repo_OCOM.cs" />
+    <Compile Include="Implement\Repositorios\Listados\Repo_OREG.cs" />
+    <Compile Include="Implement\Repositorios\Socios\Repo_OVEN.cs" />
+    <Compile Include="Implement\Repositorios\Repo_JsonBodegas.cs" />
+    <Compile Include="Implement\Repositorios\Repo_JsonClientes.cs" />
+    <Compile Include="Implement\Repositorios\Repo_JsonProductos.cs" />
+    <Compile Include="Implement\Repositorios\Repo_JsonProveedores.cs" />
+    <Compile Include="Implement\Repositorios\Socios\Repo_OSCP.cs" />
+    <Compile Include="Implement\Repositorios\Socios\Repo_SCP1.cs" />
+    <Compile Include="Implement\Repositorios\Socios\Repo_SCP2.cs" />
+    <Compile Include="Implement\Repositorios\Socios\Repo_SCP3.cs" />
+    <Compile Include="Implement\Repositorios\Socios\Repo_SCP4.cs" />
+    <Compile Include="Implement\Repositorios\Socios\Repo_SCP5.cs" />
+    <Compile Include="Implement\Repositorios\Socios\Repo_SCP6.cs" />
+    <Compile Include="Implement\Repositorios\Socios\Repo_SCP7.cs" />
+    <Compile Include="Implement\Repositorios\Socios\Repo_SCP8.cs" />
+    <Compile Include="Implement\Repositorios\Socios\Repo_SCP9.cs" />
+    <Compile Include="Implement\Repositorios\Ventas\Repo_OBAN.cs" />
+    <Compile Include="Implement\Repositorios\Ventas\Repo_OBDA.cs" />
+    <Compile Include="Implement\Repositorios\Config\Parametros\Repo_OCFG_VTA.cs" />
+    <Compile Include="Implement\Repositorios\Ventas\Repo_OFAC.cs" />
+    <Compile Include="Implement\Repositorios\Ventas\Repo_OPED.cs" />
+    <Compile Include="Implement\Repositorios\Ventas\Repo_OPER.cs" />
+    <Compile Include="Implement\Repositorios\Ventas\Repo_PED1.cs" />
+    <Compile Include="ITM1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ITM10.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ITM2.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ITM3.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ITM4.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ITM5.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ITM6.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ITM7.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ITM8.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ITM9.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ITR1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="LOG1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="LPC1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="MNU1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ModeloColonos.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModeloColonos.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ModeloColonos.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ModeloColonos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModeloColonos.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="OBAN.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OBDA.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OBOD.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OCFG_VTA.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OCIU.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OCOM.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OCUS.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OFAC.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OGRP.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OITB.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OITB_BASE.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OITM.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OITR.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OLOG.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OLPC.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OMNU.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OPDC.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OPED.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OPER.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OPKG.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OREG.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OREN.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ORUT.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OSCP.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OSMP.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OTRX.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OUSR.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OVEN.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OZON.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="PDC1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="PED1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="PKG1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="PKG2.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="PKG3.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="REN2.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SCP1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SCP10.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SCP11.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SCP11_tmp.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SCP12.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SCP13.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SCP2.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SCP3.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SCP4.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SCP5.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SCP6.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SCP7.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SCP8.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SCP9.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SMP1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spFactura_Busqueda_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spFamilia_Busqueda_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spInfo_ControlPrecios_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spInfo_PedidosDiario_AreaPorHora_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spInfo_PedidosDiario_Entregas_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spInfo_PedidosDiario_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spInfo_PedidosDiario_TopClientes_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spInfo_PedidosDiario_VendedorPorHora_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spInfo_PedidosDiario_Vendedor_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spInfo_SeguimientoOperacion_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spLogin_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spLogistica_Busqueda_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spOFAC_Listar_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spOITM_Listar_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spOLOG_Listar_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spOPDC_Listar_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spOPED_Historial_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spOPED_Listar_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spOPED_Ventas_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spOPKG_Listar_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spORUT_Listar_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spOSMP_Listar_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spPedido_Busqueda_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spPicking_Busqueda_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spPicking_Listar_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spPicking_Produccion_Detalle_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spPicking_Produccion_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spPicking_Toledo_Detalle_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spPicking_Toledo_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spProduccion_Busqueda_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spProducto_Busqueda_Maestro_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spProducto_Busqueda_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spProducto_ConsultaStock_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spProducto_Correlativo_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spReceta_Busqueda_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spReceta_Stock_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spSocio_Busqueda_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spSocio_Ventas12meses_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spSolicitudMP_Busqueda_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spSystem_ConfigMenu_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spSystem_GruposAddAcceso_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spSystem_UsAccesos_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spSystem_Usuario_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spTemp_TopCliente_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spTemp_TopRubro_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spTopCliente_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spTopRubro_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spUltimasVentasCliente_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spUltimosPreciosClienteFamilia_Result.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TRX1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ZON1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ModeloColonos.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>ModeloColonos.Context.cs</LastGenOutput>
+      <DependentUpon>ModeloColonos.edmx</DependentUpon>
+    </Content>
+    <Content Include="ModeloColonos.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ModeloColonos.edmx</DependentUpon>
+      <LastGenOutput>ModeloColonos.cs</LastGenOutput>
+    </Content>
+    <Content Include="NLog.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <EntityDeploy Include="ModeloColonos.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ModeloColonos.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="App.Config" />
+    <None Include="ModeloColonos.edmx.diagram">
+      <DependentUpon>ModeloColonos.edmx</DependentUpon>
+    </None>
+    <None Include="NLog.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Colonos.Entidades\Colonos.Entidades.csproj">
+      <Project>{DD9D4981-A21F-44FB-9E10-F817B8C3BAEE}</Project>
+      <Name>Colonos.Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

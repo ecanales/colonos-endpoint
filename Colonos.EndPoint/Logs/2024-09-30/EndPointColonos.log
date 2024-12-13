@@ -1,0 +1,19 @@
+2024-09-30 09:12:01.6540 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-09-30 09:12:14.5028 loggerfile request https://localhost:44367/api/socios/search?palabras=77671310&usuario=Admin 
+2024-09-30 09:12:17.0892 loggerfile request https://localhost:44367/api/socios/77671310-4C/ 
+2024-09-30 09:12:17.4493 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=77671310-4C&top=0 
+2024-09-30 09:15:06.9056 loggerfile request https://localhost:44367/api/socios/search?palabras=77671310&usuario=Admin 
+2024-09-30 09:15:09.7350 loggerfile request https://localhost:44367/api/socios/77671310-4C/ 
+2024-09-30 09:15:09.8180 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=77671310-4C&top=0 
+2024-09-30 09:15:23.2047 loggerfile request https://localhost:44367/api/socios/search?palabras=77671310&usuario=Admin 
+2024-09-30 09:15:25.1845 loggerfile request https://localhost:44367/api/socios/77671310-4P/ 
+2024-09-30 09:15:25.2821 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=77671310-4P&top=0 
+2024-09-30 09:15:26.6163 loggerfile request https://localhost:44367/api/socios/search?palabras=77671310&usuario=Admin 
+2024-09-30 09:15:28.1887 loggerfile request https://localhost:44367/api/socios/77671310-4C/ 
+2024-09-30 09:15:28.2745 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=77671310-4C&top=0 
+2024-09-30 09:17:08.9742 loggerfile request https://localhost:44367/api/socios/search?palabras=77671310&usuario=Admin 
+2024-09-30 09:17:12.7841 loggerfile request https://localhost:44367/api/socios/77671310-4C/ 
+2024-09-30 09:17:13.6518 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=77671310-4C&top=0 
+2024-09-30 16:02:19.3047 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-09-30 16:02:23.2347 loggerfile request https://localhost:44367/api/socios/search?palabras=viento del centro&usuario=Admin 
+2024-09-30 16:13:02.1569 loggerfile request https://localhost:44367/api/socios/search?palabras=viento del centro&usuario= 

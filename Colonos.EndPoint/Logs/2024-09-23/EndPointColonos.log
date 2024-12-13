@@ -1,0 +1,1997 @@
+2024-09-23 02:56:42.9042 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-09-23 02:56:45.7638 loggerfile request https://localhost:44367/api/parametros 
+2024-09-23 03:02:06.9719 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-09-23 03:02:06.9918 loggerfile request https://localhost:44367/api/parametros 
+2024-09-23 03:02:36.9994 loggerfile request https://localhost:44367/api/productos/search/stock?palabras=porc&solorecetas=&maestro=S&bodegacode= 
+2024-09-23 03:03:21.9009 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-23 03:03:21.9667 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-23 
+2024-09-23 03:03:32.5853 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-09-23 03:03:37.1169 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-09-23 03:03:37.4898 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-09-23 03:03:38.1232 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-09-23 03:03:38.2002 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-09-23 03:03:38.2885 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-09-23 03:03:46.3245 loggerfile request https://localhost:44367/api/productos/search?palabras=LCCDNLIS01&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:04:29.9551 loggerfile request https://localhost:44367/api/productos/search/stock?palabras=porc&solorecetas=&maestro=S&bodegacode= 
+2024-09-23 03:04:51.6719 loggerfile request https://localhost:44367/api/productos/search?palabras=VALOMLI999&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:05:07.4741 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 03:05:07.8794 loggerfile Input incial OPED.  Random: 0, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 27000.0,
+  "Iva": 5130.0,
+  "Total": 32130.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T03:05:07.3853435-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 18900.0,
+  "Margen": 0.3,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-09-23 03:05:07.9339 loggerfile Completando Lineas.  Random: 0, DocEntry: 0, ProdCode: VALOMLI999 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VALOMLI999",
+  "ProdNombre": "2 LC LC O LOMO LISO PORCIONADO GASTROCOCINA",
+  "PrecioFinal": 13500.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 2.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 149,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.3,
+  "Costo": 9450.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 2.0,
+  "TotalSolicitado": 27000.0,
+  "TotalReal": null,
+  "PrecioUnitario": 13500.0,
+  "PrecioVolumen": 12960.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.3,
+  "Disponible": 0.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 2,
+  "RefrigeraNombre": "CONGELADO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "PORCIONADO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "LOMO LISO PORCIONADO",
+  "SolicitadoAnterior": 0.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-09-23 03:05:07.9339 loggerfile Antes de enviar a DB. Random: 0, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 27000.0,
+  "Iva": 5130.0,
+  "Total": 32130.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T03:05:07.3853435-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 18900.0,
+  "Margen": 0.3,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VALOMLI999",
+      "ProdNombre": "2 LC LC O LOMO LISO PORCIONADO GASTROCOCINA",
+      "PrecioFinal": 13500.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 2.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 149,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.3,
+      "Costo": 9450.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 2.0,
+      "TotalSolicitado": 27000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 13500.0,
+      "PrecioVolumen": 12960.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.3,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO LISO PORCIONADO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-09-23 03:05:07.9548 loggerfile Despues de enviar a DB. Random: 0, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 27000.0,
+  "Iva": 5130.0,
+  "Total": 32130.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T03:05:07.3853435-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 18900.0,
+  "Margen": 0.3,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VALOMLI999",
+      "ProdNombre": "2 LC LC O LOMO LISO PORCIONADO GASTROCOCINA",
+      "PrecioFinal": 13500.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 2.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 149,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.3,
+      "Costo": 9450.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 2.0,
+      "TotalSolicitado": 27000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 13500.0,
+      "PrecioVolumen": 12960.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.3,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO LISO PORCIONADO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-23 03:05:08.0935 loggerfile SaveChanges enviar a DB. Random: 0, DocEntry: 410412 {
+  "DocEntry": 410412,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 27000.0,
+  "Iva": 5130.0,
+  "Total": 32130.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T03:05:07.3853435-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 18900.0,
+  "Margen": 0.3,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410412,
+      "DocLinea": 624,
+      "LineaEstado": "A",
+      "ProdCode": "VALOMLI999",
+      "ProdNombre": "2 LC LC O LOMO LISO PORCIONADO GASTROCOCINA",
+      "PrecioFinal": 13500.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 2.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 149,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.3,
+      "Costo": 9450.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 2.0,
+      "TotalSolicitado": 27000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 13500.0,
+      "PrecioVolumen": 12960.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.3,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO LISO PORCIONADO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-23 03:05:08.9870 loggerfile request https://localhost:44367/api/documentos/410412?doctipo=10 
+2024-09-23 03:05:09.1865 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-09-23 03:05:09.2713 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-09-23 03:05:09.6717 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-09-23 03:05:09.7325 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-09-23 03:05:09.8073 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-09-23 03:05:26.2380 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-09-23 03:05:29.5736 loggerfile request https://localhost:44367/api/documentos/410412?doctipo=10 
+2024-09-23 03:05:29.8236 loggerfile request https://localhost:44367/api/bandejas/CRED/410412 
+2024-09-23 03:05:29.8864 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-09-23 03:05:29.9638 loggerfile request https://localhost:44367/api/socios/cuenta/13436067-4C/ 
+2024-09-23 03:05:30.2912 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 274
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) 
+2024-09-23 03:05:30.3261 loggerfile request https://localhost:44367/api/socios/ventas12m/13436067-4C/ 
+2024-09-23 03:05:30.3900 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=13436067-4C&top=10 
+2024-09-23 03:05:34.6956 loggerfile request https://localhost:44367/api/bandejas/CRED/410412 
+2024-09-23 03:05:34.7650 loggerfile request https://localhost:44367/api/bandejas/CRED/410412 
+2024-09-23 03:05:36.0901 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-09-23 03:05:40.4589 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-09-23 03:05:40.4768 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 03:05:42.4438 loggerfile request https://localhost:44367/api/documentos/20101?doctipo=3010 
+2024-09-23 03:05:50.4509 loggerfile request https://localhost:44367/api/documentos/20101?doctipo=3010 
+2024-09-23 03:05:50.5549 loggerfile request https://localhost:44367/api/productos/VALOMLI999 
+2024-09-23 03:05:50.5998 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 03:05:51.3189 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 03:05:57.2018 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-09-23 03:05:57.2267 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-23 03:06:02.0907 loggerfile request https://localhost:44367/api/documentos/5573?doctipo=2010 
+2024-09-23 03:06:02.1528 loggerfile request https://localhost:44367/api/documentos/20101?doctipo=3010 
+2024-09-23 03:06:06.7778 loggerfile request https://localhost:44367/api/documentos/base/linea/5573?doctipo=2110&baselinea=679 
+2024-09-23 03:06:12.9198 loggerfile request https://localhost:44367/api/recetas/VALOMLI999?bodegacode=PRODUCCION 
+2024-09-23 03:06:12.9777 loggerfile mensaje: Receta no existe. Data:  
+2024-09-23 03:06:30.0492 loggerfile request https://localhost:44367/api/productos/propiedades 
+2024-09-23 03:06:30.5238 loggerfile RenovarToken... 
+2024-09-23 03:06:30.5238 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-09-23 03:06:31.0245 loggerfile response.ErrorMessage:  
+2024-09-23 03:06:31.0245 loggerfile response.ErrorException:  
+2024-09-23 03:06:31.0245 loggerfile response.ProtocolVersion: 1.1 
+2024-09-23 03:06:31.0245 loggerfile response.StatusCode: OK 
+2024-09-23 03:06:31.0245 loggerfile response.StatusDescription: OK 
+2024-09-23 03:06:31.0245 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI3MDcxMDExIiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NTg2MDc1OTAsIm5iZiI6MTcyNzA3MTU5MH0.isT_O3OTDbJD1MBabEC5A3tFSPthFvC3rnYyKi7y1ms","expires_in":31535999,"token_type":"bearer"} 
+2024-09-23 03:06:35.0486 loggerfile request https://localhost:44367/api/productos/search?palabras=VALOMLI999&solorecetas=&maestro=S&bodegacode= 
+2024-09-23 03:06:36.7388 loggerfile request https://localhost:44367/api/productos/VALOMLI999 
+2024-09-23 03:06:45.3759 loggerfile request https://localhost:44367/api/productos/search?palabras=&solorecetas=S&maestro=&bodegacode= 
+2024-09-23 03:06:49.0079 loggerfile request https://localhost:44367/api/recetas/search?palabras=VALOMLI999&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:07:13.7116 loggerfile request https://localhost:44367/api/productos/propiedades 
+2024-09-23 03:07:13.8680 loggerfile RenovarToken... 
+2024-09-23 03:07:13.8680 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-09-23 03:07:14.6834 loggerfile response.ErrorMessage:  
+2024-09-23 03:07:14.6834 loggerfile response.ErrorException:  
+2024-09-23 03:07:14.6834 loggerfile response.ProtocolVersion: 1.1 
+2024-09-23 03:07:14.6834 loggerfile response.StatusCode: OK 
+2024-09-23 03:07:14.6834 loggerfile response.StatusDescription: OK 
+2024-09-23 03:07:14.6834 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI3MDcxNjM0Iiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NTg2MDc2MzMsIm5iZiI6MTcyNzA3MTYzM30.2_koexxxU1T1A-cEgXEL1WF5vgMZla7TTZEs2KnNWWk","expires_in":31535999,"token_type":"bearer"} 
+2024-09-23 03:07:17.7528 loggerfile request https://localhost:44367/api/productos/search?palabras=VALOMLI999&solorecetas=&maestro=S&bodegacode= 
+2024-09-23 03:07:19.5647 loggerfile request https://localhost:44367/api/productos/VALOMLI999 
+2024-09-23 03:08:15.9839 loggerfile request https://localhost:44367/api/productos/search?palabras=&solorecetas=S&maestro=&bodegacode= 
+2024-09-23 03:08:24.2392 loggerfile request https://localhost:44367/api/productos/search?palabras=VALOMLI999&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:09:46.3374 loggerfile request https://localhost:44367/api/productos/search?palabras=VALOMLI999&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:09:53.5143 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:10:15.3036 loggerfile request https://localhost:44367/api/productos/search?palabras=VALOMLI999&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:10:17.9937 loggerfile request https://localhost:44367/api/recetas 
+2024-09-23 03:10:54.9030 loggerfile mensaje: Referencia a objeto no establecida como instancia de un objeto.. Data:    en Colonos.Manager.ManagerRecetas.Add(String jsonentrada) 
+2024-09-23 03:11:18.2920 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:11:29.2498 loggerfile request https://localhost:44367/api/recetas 
+2024-09-23 03:12:22.2951 loggerfile mensaje: Referencia a objeto no establecida como instancia de un objeto.. Data:    en Colonos.Manager.ManagerRecetas.Add(String jsonentrada) 
+2024-09-23 03:12:37.7923 loggerfile request https://localhost:44367/api/recetas 
+2024-09-23 03:12:40.3908 loggerfile mensaje: Referencia a objeto no establecida como instancia de un objeto.. Data:    en Colonos.Manager.ManagerRecetas.Add(String jsonentrada) 
+2024-09-23 03:13:03.2646 loggerfile request https://localhost:44367/api/recetas/LCCDNCDN61 
+2024-09-23 03:13:14.0429 loggerfile request https://localhost:44367/api/recetas/AGANGE1083 
+2024-09-23 03:13:14.0559 loggerfile mensaje: Receta no existe. Data:  
+2024-09-23 03:13:34.1927 loggerfile request https://localhost:44367/api/recetas/VAFILCYC05 
+2024-09-23 03:13:49.6753 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-23 03:13:49.7248 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-23 
+2024-09-23 03:13:58.8416 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-09-23 03:14:01.0882 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-09-23 03:14:01.2248 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-09-23 03:14:01.3567 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-09-23 03:14:01.4136 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-09-23 03:14:01.4774 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-09-23 03:14:05.2544 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILCYC05&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:14:34.4564 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 03:14:34.5253 loggerfile Input incial OPED.  Random: 7, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 2007990.0,
+  "Iva": 381518.0,
+  "Total": 2389508.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T03:14:34.4459707-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 1306500.0,
+  "Margen": 0.3493493493493493493493493493,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-09-23 03:14:34.5253 loggerfile Completando Lineas.  Random: 7, DocEntry: 0, ProdCode: VAFILCYC05 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VAFILCYC05",
+  "ProdNombre": "2 LC LC V CABEZA Y COLA DE FILETE",
+  "PrecioFinal": 9990.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 201.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 81,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.349,
+  "Costo": 6500.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 201.0,
+  "TotalSolicitado": 2007990.0,
+  "TotalReal": null,
+  "PrecioUnitario": 9990.0,
+  "PrecioVolumen": 9990.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.2,
+  "Disponible": 201.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 2,
+  "RefrigeraNombre": "CONGELADO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "CABEZA Y COLA",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "FILETE CABEZA Y COLA",
+  "SolicitadoAnterior": 0.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-09-23 03:14:34.5253 loggerfile Antes de enviar a DB. Random: 7, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 2007990.0,
+  "Iva": 381518.0,
+  "Total": 2389508.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T03:14:34.4459707-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 1306500.0,
+  "Margen": 0.3493493493493493493493493493,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILCYC05",
+      "ProdNombre": "2 LC LC V CABEZA Y COLA DE FILETE",
+      "PrecioFinal": 9990.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 201.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 81,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.349,
+      "Costo": 6500.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 201.0,
+      "TotalSolicitado": 2007990.0,
+      "TotalReal": null,
+      "PrecioUnitario": 9990.0,
+      "PrecioVolumen": 9990.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 201.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "CABEZA Y COLA",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE CABEZA Y COLA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-09-23 03:14:34.5384 loggerfile Despues de enviar a DB. Random: 7, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 2007990.0,
+  "Iva": 381518.0,
+  "Total": 2389508.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T03:14:34.4459707-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 1306500.0,
+  "Margen": 0.3493493493493493493493493493,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILCYC05",
+      "ProdNombre": "2 LC LC V CABEZA Y COLA DE FILETE",
+      "PrecioFinal": 9990.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 201.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 81,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.349,
+      "Costo": 6500.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 201.0,
+      "TotalSolicitado": 2007990.0,
+      "TotalReal": null,
+      "PrecioUnitario": 9990.0,
+      "PrecioVolumen": 9990.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 201.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "CABEZA Y COLA",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE CABEZA Y COLA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-23 03:14:34.5913 loggerfile SaveChanges enviar a DB. Random: 7, DocEntry: 410413 {
+  "DocEntry": 410413,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 2007990.0,
+  "Iva": 381518.0,
+  "Total": 2389508.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T03:14:34.4459707-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 1306500.0,
+  "Margen": 0.3493493493493493493493493493,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410413,
+      "DocLinea": 625,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILCYC05",
+      "ProdNombre": "2 LC LC V CABEZA Y COLA DE FILETE",
+      "PrecioFinal": 9990.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 201.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 81,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.349,
+      "Costo": 6500.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 201.0,
+      "TotalSolicitado": 2007990.0,
+      "TotalReal": null,
+      "PrecioUnitario": 9990.0,
+      "PrecioVolumen": 9990.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 201.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "CABEZA Y COLA",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE CABEZA Y COLA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-23 03:14:34.9571 loggerfile request https://localhost:44367/api/documentos/410413?doctipo=10 
+2024-09-23 03:14:35.1629 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-09-23 03:14:35.2606 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-09-23 03:14:35.3793 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-09-23 03:14:35.4272 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-09-23 03:14:35.4980 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-09-23 03:14:44.5833 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-09-23 03:14:46.1861 loggerfile request https://localhost:44367/api/documentos/410413?doctipo=10 
+2024-09-23 03:14:46.3906 loggerfile request https://localhost:44367/api/bandejas/CRED/410413 
+2024-09-23 03:14:46.4285 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-09-23 03:14:46.5073 loggerfile request https://localhost:44367/api/socios/cuenta/13436067-4C/ 
+2024-09-23 03:14:46.6883 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 274
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) 
+2024-09-23 03:14:46.6883 loggerfile request https://localhost:44367/api/socios/ventas12m/13436067-4C/ 
+2024-09-23 03:14:46.7332 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=13436067-4C&top=10 
+2024-09-23 03:14:50.1077 loggerfile request https://localhost:44367/api/bandejas/CRED/410413 
+2024-09-23 03:14:50.1592 loggerfile request https://localhost:44367/api/bandejas/CRED/410413 
+2024-09-23 03:14:50.9879 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-09-23 03:14:53.0845 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-09-23 03:14:53.1084 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 03:15:02.1957 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-23 03:15:02.2601 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-23 
+2024-09-23 03:15:09.9399 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-09-23 03:15:11.5700 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-09-23 03:15:11.6388 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-09-23 03:15:11.7635 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-09-23 03:15:11.8214 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-09-23 03:15:11.8902 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-09-23 03:15:15.4412 loggerfile request https://localhost:44367/api/productos/search?palabras=410413&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:15:37.9704 loggerfile request https://localhost:44367/api/productos/search?palabras=AGANGE1083&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:15:54.0263 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILCYC05&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:16:08.3473 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 03:16:08.4076 loggerfile Input incial OPED.  Random: 8, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 99900.0,
+  "Iva": 18981.0,
+  "Total": 118881.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T03:16:08.3423686-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 65000.0,
+  "Margen": 0.3493493493493493493493493493,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-09-23 03:16:08.4190 loggerfile Completando Lineas.  Random: 8, DocEntry: 0, ProdCode: VAFILCYC05 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VAFILCYC05",
+  "ProdNombre": "2 LC LC V CABEZA Y COLA DE FILETE",
+  "PrecioFinal": 9990.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 10.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 81,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.349,
+  "Costo": 6500.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 10.0,
+  "TotalSolicitado": 99900.0,
+  "TotalReal": null,
+  "PrecioUnitario": 9990.0,
+  "PrecioVolumen": 9990.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.2,
+  "Disponible": 0.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 2,
+  "RefrigeraNombre": "CONGELADO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "CABEZA Y COLA",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "FILETE CABEZA Y COLA",
+  "SolicitadoAnterior": 0.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-09-23 03:16:08.4190 loggerfile Antes de enviar a DB. Random: 8, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 99900.0,
+  "Iva": 18981.0,
+  "Total": 118881.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T03:16:08.3423686-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 65000.0,
+  "Margen": 0.3493493493493493493493493493,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILCYC05",
+      "ProdNombre": "2 LC LC V CABEZA Y COLA DE FILETE",
+      "PrecioFinal": 9990.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 81,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.349,
+      "Costo": 6500.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 99900.0,
+      "TotalReal": null,
+      "PrecioUnitario": 9990.0,
+      "PrecioVolumen": 9990.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "CABEZA Y COLA",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE CABEZA Y COLA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-09-23 03:16:08.4190 loggerfile Despues de enviar a DB. Random: 8, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 99900.0,
+  "Iva": 18981.0,
+  "Total": 118881.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T03:16:08.3423686-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 65000.0,
+  "Margen": 0.3493493493493493493493493493,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILCYC05",
+      "ProdNombre": "2 LC LC V CABEZA Y COLA DE FILETE",
+      "PrecioFinal": 9990.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 81,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.349,
+      "Costo": 6500.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 99900.0,
+      "TotalReal": null,
+      "PrecioUnitario": 9990.0,
+      "PrecioVolumen": 9990.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "CABEZA Y COLA",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE CABEZA Y COLA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-23 03:16:08.4764 loggerfile SaveChanges enviar a DB. Random: 8, DocEntry: 410414 {
+  "DocEntry": 410414,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 99900.0,
+  "Iva": 18981.0,
+  "Total": 118881.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T03:16:08.3423686-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 65000.0,
+  "Margen": 0.3493493493493493493493493493,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410414,
+      "DocLinea": 626,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILCYC05",
+      "ProdNombre": "2 LC LC V CABEZA Y COLA DE FILETE",
+      "PrecioFinal": 9990.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 81,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.349,
+      "Costo": 6500.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 99900.0,
+      "TotalReal": null,
+      "PrecioUnitario": 9990.0,
+      "PrecioVolumen": 9990.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "CABEZA Y COLA",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE CABEZA Y COLA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-23 03:16:08.7999 loggerfile request https://localhost:44367/api/documentos/410414?doctipo=10 
+2024-09-23 03:16:09.0564 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-09-23 03:16:09.2071 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-09-23 03:16:09.3264 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-09-23 03:16:09.3807 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-09-23 03:16:09.4486 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-09-23 03:16:23.6596 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-09-23 03:16:26.8891 loggerfile request https://localhost:44367/api/documentos/410414?doctipo=10 
+2024-09-23 03:16:27.7956 loggerfile request https://localhost:44367/api/bandejas/CRED/410414 
+2024-09-23 03:16:27.8450 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-09-23 03:16:27.9435 loggerfile request https://localhost:44367/api/socios/cuenta/13436067-4C/ 
+2024-09-23 03:16:28.1732 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 274
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) 
+2024-09-23 03:16:28.1805 loggerfile request https://localhost:44367/api/socios/ventas12m/13436067-4C/ 
+2024-09-23 03:16:28.2195 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=13436067-4C&top=10 
+2024-09-23 03:16:31.7986 loggerfile request https://localhost:44367/api/bandejas/CRED/410414 
+2024-09-23 03:16:31.9628 loggerfile request https://localhost:44367/api/bandejas/CRED/410414 
+2024-09-23 03:16:34.6527 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-09-23 03:16:36.3502 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-09-23 03:16:36.3926 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 03:16:38.8518 loggerfile request https://localhost:44367/api/documentos/20102?doctipo=3010 
+2024-09-23 03:16:42.8054 loggerfile request https://localhost:44367/api/documentos/20102?doctipo=3010 
+2024-09-23 03:16:42.9078 loggerfile request https://localhost:44367/api/productos/VAFILCYC05 
+2024-09-23 03:16:42.9267 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 03:16:43.2021 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 03:16:47.0722 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-23 03:16:49.0730 loggerfile request https://localhost:44367/api/documentos/5574?doctipo=2010 
+2024-09-23 03:16:49.1378 loggerfile request https://localhost:44367/api/documentos/20102?doctipo=3010 
+2024-09-23 03:16:51.1528 loggerfile request https://localhost:44367/api/documentos/base/linea/5574?doctipo=2110&baselinea=680 
+2024-09-23 03:16:54.0418 loggerfile request https://localhost:44367/api/recetas/VAFILCYC05?bodegacode=PRODUCCION 
+2024-09-23 03:17:21.8532 loggerfile request https://localhost:44367/api/recetas/VAFILCYC05 
+2024-09-23 03:17:34.0701 loggerfile request https://localhost:44367/api/documentos/base/linea/5574?doctipo=2110&baselinea=680 
+2024-09-23 03:17:50.0190 loggerfile request https://localhost:44367/api/recetas/VAFILCYC05?bodegacode=PRODUCCION 
+2024-09-23 03:18:29.3196 loggerfile request https://localhost:44367/api/recetas/VAFILCYC05 
+2024-09-23 03:19:05.1582 loggerfile request https://localhost:44367/api/productos/search?palabras=VCFILARGE4&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:19:21.3895 loggerfile request https://localhost:44367/api/productos/search?palabras= AVTRUEN443&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:19:28.9734 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 03:19:29.3843 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-23 03:19:29.3843 loggerfile RenovarToken... 
+2024-09-23 03:19:29.3843 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-09-23 03:19:30.7405 loggerfile response.ErrorMessage:  
+2024-09-23 03:19:30.7405 loggerfile response.ErrorException:  
+2024-09-23 03:19:30.7405 loggerfile response.ProtocolVersion: 1.1 
+2024-09-23 03:19:30.7405 loggerfile response.StatusCode: OK 
+2024-09-23 03:19:30.7405 loggerfile response.StatusDescription: OK 
+2024-09-23 03:19:30.7405 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI3MDcyMzcwIiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NTg2MDgzNzAsIm5iZiI6MTcyNzA3MjM3MH0.iWY8y7PHNbcCnYP162L73I21L56TOOa7DzVolTA6ofM","expires_in":31535999,"token_type":"bearer"} 
+2024-09-23 03:19:53.6800 loggerfile mensaje: El articulo AVTRUEN443 no existe.. Data: Colonos.Entidades.Defontana.SaveSaleReturn 
+2024-09-23 03:20:31.1386 loggerfile request https://localhost:44367/api/productos/search?palabras=&solorecetas=S&maestro=&bodegacode= 
+2024-09-23 03:20:35.6068 loggerfile request https://localhost:44367/api/recetas/search?palabras=VAFILCYC05&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:20:36.4647 loggerfile request https://localhost:44367/api/recetas/VAFILCYC05 
+2024-09-23 03:20:51.0129 loggerfile request https://localhost:44367/api/productos/search?palabras=AVTRUEN444&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:21:00.8935 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 03:21:01.0919 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-23 03:21:01.0919 loggerfile RenovarToken... 
+2024-09-23 03:21:01.0919 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-09-23 03:21:01.4927 loggerfile response.ErrorMessage:  
+2024-09-23 03:21:01.4927 loggerfile response.ErrorException:  
+2024-09-23 03:21:01.4927 loggerfile response.ProtocolVersion: 1.1 
+2024-09-23 03:21:01.4927 loggerfile response.StatusCode: OK 
+2024-09-23 03:21:01.4927 loggerfile response.StatusDescription: OK 
+2024-09-23 03:21:01.4927 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI3MDcyMzcwIiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NTg2MDg0NjEsIm5iZiI6MTcyNzA3MjQ2MX0.4zoNKzSdKdGSXg6ujJY1DdnENnIUMXKI8h5tnOrH2H4","expires_in":31535999,"token_type":"bearer"} 
+2024-09-23 03:21:04.3009 loggerfile mensaje: El articulo AVTRUEN444 no existe.. Data: Colonos.Entidades.Defontana.SaveSaleReturn 
+2024-09-23 03:21:44.2063 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILFI195&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:21:50.4413 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 03:21:50.6488 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-23 03:21:50.6488 loggerfile RenovarToken... 
+2024-09-23 03:21:50.6488 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-09-23 03:21:50.9516 loggerfile response.ErrorMessage:  
+2024-09-23 03:21:50.9516 loggerfile response.ErrorException:  
+2024-09-23 03:21:50.9516 loggerfile response.ProtocolVersion: 1.1 
+2024-09-23 03:21:50.9516 loggerfile response.StatusCode: OK 
+2024-09-23 03:21:50.9516 loggerfile response.StatusDescription: OK 
+2024-09-23 03:21:50.9516 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI3MDcyMzcwIiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NTg2MDg1MTAsIm5iZiI6MTcyNzA3MjUxMH0.PmTmecFo7k5jYVHZnXTaxB6t5OvSmrwk-UWilpPGqA4","expires_in":31535999,"token_type":"bearer"} 
+2024-09-23 03:21:52.7234 loggerfile mensaje: No hay stock suficiente para el producto VAFILFI195 de la línea de detalle #2.. Data: Colonos.Entidades.Defontana.SaveSaleReturn 
+2024-09-23 03:22:07.3687 loggerfile request https://localhost:44367/api/productos/search?palabras=&solorecetas=S&maestro=&bodegacode= 
+2024-09-23 03:22:35.9772 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILFI195&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:22:51.9165 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 03:22:52.1452 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-23 03:22:52.1452 loggerfile RenovarToken... 
+2024-09-23 03:22:52.1452 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-09-23 03:22:52.3753 loggerfile response.ErrorMessage:  
+2024-09-23 03:22:52.3753 loggerfile response.ErrorException:  
+2024-09-23 03:22:52.3753 loggerfile response.ProtocolVersion: 1.1 
+2024-09-23 03:22:52.3753 loggerfile response.StatusCode: OK 
+2024-09-23 03:22:52.3753 loggerfile response.StatusDescription: OK 
+2024-09-23 03:22:52.3753 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI3MDcyMzcwIiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NTg2MDg1NzIsIm5iZiI6MTcyNzA3MjU3Mn0.fY7oplDr7J9_1g40zkkW0pR9DrCy7vmC4U7rr6qsdFE","expires_in":31535999,"token_type":"bearer"} 
+2024-09-23 03:23:28.2673 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILFI195&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:23:42.5916 loggerfile request https://localhost:44367/api/productos/search?palabras=VCFILARGE4&solorecetas=&maestro=&bodegacode= 
+2024-09-23 03:23:48.8280 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 03:23:49.0715 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-23 03:23:49.0715 loggerfile RenovarToken... 
+2024-09-23 03:23:49.0715 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-09-23 03:23:49.2919 loggerfile response.ErrorMessage:  
+2024-09-23 03:23:49.2919 loggerfile response.ErrorException:  
+2024-09-23 03:23:49.2919 loggerfile response.ProtocolVersion: 1.1 
+2024-09-23 03:23:49.2919 loggerfile response.StatusCode: OK 
+2024-09-23 03:23:49.2919 loggerfile response.StatusDescription: OK 
+2024-09-23 03:23:49.2919 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI3MDcyMzcwIiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NTg2MDg2MjksIm5iZiI6MTcyNzA3MjYyOX0.Z6NLVk5We9AONr4be0V2tN9CJP5y1mNUdZfpa89AyKE","expires_in":31535999,"token_type":"bearer"} 
+2024-09-23 03:24:04.4162 loggerfile request https://localhost:44367/api/documentos/base/linea/5574?doctipo=2110&baselinea=680 
+2024-09-23 03:24:05.8661 loggerfile request https://localhost:44367/api/recetas/VAFILCYC05?bodegacode=PRODUCCION 
+2024-09-23 03:27:12.7323 loggerfile request https://localhost:44367/api/documentos/base/linea/5574?doctipo=2110&baselinea=680 
+2024-09-23 03:27:15.5300 loggerfile request https://localhost:44367/api/recetas/VAFILCYC05?bodegacode=PRODUCCION 
+2024-09-23 03:27:41.1057 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 03:27:45.8874 loggerfile request https://localhost:44367/api/documentos/5574?doctipo=2010 
+2024-09-23 03:27:47.8537 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 03:27:50.0806 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-23 03:27:50.0806 loggerfile RenovarToken... 
+2024-09-23 03:27:50.0806 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-09-23 03:27:50.8385 loggerfile response.ErrorMessage:  
+2024-09-23 03:27:50.8385 loggerfile response.ErrorException:  
+2024-09-23 03:27:50.8385 loggerfile response.ProtocolVersion: 1.1 
+2024-09-23 03:27:50.8385 loggerfile response.StatusCode: OK 
+2024-09-23 03:27:50.8385 loggerfile response.StatusDescription: OK 
+2024-09-23 03:27:50.8385 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI3MDcyMzcwIiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NTg2MDg4NzAsIm5iZiI6MTcyNzA3Mjg3MH0.ouZ2uIKFFpH13TM5z6JXcwpUOxdCUUtN-ZOwaoSPiY8","expires_in":31535999,"token_type":"bearer"} 
+2024-09-23 03:28:06.2103 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-23 03:28:06.2103 loggerfile RenovarToken... 
+2024-09-23 03:28:06.2103 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-09-23 03:28:06.4137 loggerfile response.ErrorMessage:  
+2024-09-23 03:28:06.4137 loggerfile response.ErrorException:  
+2024-09-23 03:28:06.4137 loggerfile response.ProtocolVersion: 1.1 
+2024-09-23 03:28:06.4147 loggerfile response.StatusCode: OK 
+2024-09-23 03:28:06.4147 loggerfile response.StatusDescription: OK 
+2024-09-23 03:28:06.4147 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI3MDcyMzcwIiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NTg2MDg4ODYsIm5iZiI6MTcyNzA3Mjg4Nn0.T1SRTmhsRI2qhNNTL3hyx-6FDZz4o5WkrFXW8l36coU","expires_in":31535999,"token_type":"bearer"} 
+2024-09-23 03:28:12.4898 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-23 04:04:55.4842 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-23 04:04:55.5620 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-23 
+2024-09-23 04:05:05.0522 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-23 04:05:05.1161 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-23 
+2024-09-23 04:05:14.8691 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-09-23 04:05:17.3381 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-09-23 04:05:17.4618 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-09-23 04:05:17.5815 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-09-23 04:05:17.6324 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-09-23 04:05:17.6972 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-09-23 04:05:22.7375 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILCYC05&solorecetas=&maestro=&bodegacode= 
+2024-09-23 04:05:35.8209 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 04:05:35.8780 loggerfile Input incial OPED.  Random: 20, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 99900.0,
+  "Iva": 18981.0,
+  "Total": 118881.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T04:05:35.7890254-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 65000.0,
+  "Margen": 0.3493493493493493493493493493,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-09-23 04:05:35.8910 loggerfile Completando Lineas.  Random: 20, DocEntry: 0, ProdCode: VAFILCYC05 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VAFILCYC05",
+  "ProdNombre": "2 LC LC V CABEZA Y COLA DE FILETE",
+  "PrecioFinal": 9990.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 10.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 81,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.349,
+  "Costo": 6500.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 10.0,
+  "TotalSolicitado": 99900.0,
+  "TotalReal": null,
+  "PrecioUnitario": 9990.0,
+  "PrecioVolumen": 9990.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.2,
+  "Disponible": 0.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 2,
+  "RefrigeraNombre": "CONGELADO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "CABEZA Y COLA",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "FILETE CABEZA Y COLA",
+  "SolicitadoAnterior": 0.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-09-23 04:05:35.8910 loggerfile Antes de enviar a DB. Random: 20, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 99900.0,
+  "Iva": 18981.0,
+  "Total": 118881.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T04:05:35.7890254-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 65000.0,
+  "Margen": 0.3493493493493493493493493493,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILCYC05",
+      "ProdNombre": "2 LC LC V CABEZA Y COLA DE FILETE",
+      "PrecioFinal": 9990.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 81,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.349,
+      "Costo": 6500.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 99900.0,
+      "TotalReal": null,
+      "PrecioUnitario": 9990.0,
+      "PrecioVolumen": 9990.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "CABEZA Y COLA",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE CABEZA Y COLA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-09-23 04:05:35.8910 loggerfile Despues de enviar a DB. Random: 20, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 99900.0,
+  "Iva": 18981.0,
+  "Total": 118881.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T04:05:35.7890254-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 65000.0,
+  "Margen": 0.3493493493493493493493493493,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILCYC05",
+      "ProdNombre": "2 LC LC V CABEZA Y COLA DE FILETE",
+      "PrecioFinal": 9990.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 81,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.349,
+      "Costo": 6500.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 99900.0,
+      "TotalReal": null,
+      "PrecioUnitario": 9990.0,
+      "PrecioVolumen": 9990.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "CABEZA Y COLA",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE CABEZA Y COLA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-23 04:05:36.0795 loggerfile SaveChanges enviar a DB. Random: 20, DocEntry: 410415 {
+  "DocEntry": 410415,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-23T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 99900.0,
+  "Iva": 18981.0,
+  "Total": 118881.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-23T04:05:35.7890254-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-09-23T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 65000.0,
+  "Margen": 0.3493493493493493493493493493,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410415,
+      "DocLinea": 627,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILCYC05",
+      "ProdNombre": "2 LC LC V CABEZA Y COLA DE FILETE",
+      "PrecioFinal": 9990.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 81,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.349,
+      "Costo": 6500.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 99900.0,
+      "TotalReal": null,
+      "PrecioUnitario": 9990.0,
+      "PrecioVolumen": 9990.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "CABEZA Y COLA",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE CABEZA Y COLA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-23 04:05:36.5321 loggerfile request https://localhost:44367/api/documentos/410415?doctipo=10 
+2024-09-23 04:05:36.7315 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-09-23 04:05:36.8123 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-09-23 04:05:36.9260 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-09-23 04:05:36.9838 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-09-23 04:05:37.0457 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-09-23 04:05:58.4833 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-09-23 04:06:00.5654 loggerfile request https://localhost:44367/api/documentos/410415?doctipo=10 
+2024-09-23 04:06:00.8025 loggerfile request https://localhost:44367/api/bandejas/CRED/410415 
+2024-09-23 04:06:00.8414 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-09-23 04:06:00.9461 loggerfile request https://localhost:44367/api/socios/cuenta/13436067-4C/ 
+2024-09-23 04:06:01.1738 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 274
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) 
+2024-09-23 04:06:01.1875 loggerfile request https://localhost:44367/api/socios/ventas12m/13436067-4C/ 
+2024-09-23 04:06:01.2177 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=13436067-4C&top=10 
+2024-09-23 04:06:05.4995 loggerfile request https://localhost:44367/api/bandejas/CRED/410415 
+2024-09-23 04:06:05.5514 loggerfile request https://localhost:44367/api/bandejas/CRED/410415 
+2024-09-23 04:06:06.7484 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-09-23 04:06:10.6787 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-09-23 04:06:10.7388 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 04:06:13.7001 loggerfile request https://localhost:44367/api/documentos/20103?doctipo=3010 
+2024-09-23 04:06:18.1469 loggerfile request https://localhost:44367/api/documentos/20103?doctipo=3010 
+2024-09-23 04:06:18.2490 loggerfile request https://localhost:44367/api/productos/VAFILCYC05 
+2024-09-23 04:06:18.2750 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 04:06:18.5911 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 04:06:23.3680 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-23 04:06:27.5856 loggerfile request https://localhost:44367/api/documentos/5575?doctipo=2010 
+2024-09-23 04:06:27.6505 loggerfile request https://localhost:44367/api/documentos/20103?doctipo=3010 
+2024-09-23 04:06:30.1712 loggerfile request https://localhost:44367/api/documentos/base/linea/5575?doctipo=2110&baselinea=681 
+2024-09-23 04:06:32.7711 loggerfile request https://localhost:44367/api/recetas/VAFILCYC05?bodegacode=PRODUCCION 
+2024-09-23 04:06:48.0779 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 04:06:51.5348 loggerfile request https://localhost:44367/api/documentos/5575?doctipo=2010 
+2024-09-23 04:06:53.1659 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 04:06:55.6795 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-23 04:06:55.6795 loggerfile RenovarToken... 
+2024-09-23 04:06:55.6795 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-09-23 04:06:56.7012 loggerfile response.ErrorMessage:  
+2024-09-23 04:06:56.7012 loggerfile response.ErrorException:  
+2024-09-23 04:06:56.7012 loggerfile response.ProtocolVersion: 1.1 
+2024-09-23 04:06:56.7012 loggerfile response.StatusCode: OK 
+2024-09-23 04:06:56.7012 loggerfile response.StatusDescription: OK 
+2024-09-23 04:06:56.7012 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI3MDc1MjE2Iiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NTg2MTEyMTYsIm5iZiI6MTcyNzA3NTIxNn0.2H4EyqQD_xv9FfjBEadZZc0CBK1Kf5HQHZ0TqtLOADQ","expires_in":31535999,"token_type":"bearer"} 
+2024-09-23 04:07:05.0370 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-23 04:07:05.0370 loggerfile RenovarToken... 
+2024-09-23 04:07:05.0370 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-09-23 04:07:05.2489 loggerfile response.ErrorMessage:  
+2024-09-23 04:07:05.2489 loggerfile response.ErrorException:  
+2024-09-23 04:07:05.2489 loggerfile response.ProtocolVersion: 1.1 
+2024-09-23 04:07:05.2489 loggerfile response.StatusCode: OK 
+2024-09-23 04:07:05.2489 loggerfile response.StatusDescription: OK 
+2024-09-23 04:07:05.2489 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI3MDc1MjE2Iiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NTg2MTEyMjUsIm5iZiI6MTcyNzA3NTIyNX0.Me8UtCpJI6-Wy27ubrEEWrj1Pf34ZS5WBMQX-S5kcAs","expires_in":31535999,"token_type":"bearer"} 
+2024-09-23 04:07:09.6924 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-23 06:40:19.2249 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 06:40:21.4053 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 06:40:21.7633 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 06:41:21.4648 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 06:41:21.5885 loggerfile mensaje: Cliento  no existe. Data:  
+2024-09-23 06:41:21.5885 loggerfile mensaje: Cliento  no existe. Data:  
+2024-09-23 06:42:41.1233 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 06:44:24.8090 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 06:50:57.6027 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 06:52:46.0638 loggerfile mensaje: Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0.. Data:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   en System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   en System.Data.Entity.Core.Objects.ObjectContext.ExecuteStoreCommandInternal(String commandText, Object[] parameters)
+   en System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   en System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass59.<ExecuteStoreCommand>b__57()
+   en System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   en Colonos.DataAccess.Repositorios.Repo_OREN.Add(String usuariocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Preparacion\Repo_OREN.cs:línea 25
+   en Colonos.Manager.ManagerRendicion.Add(Documento doc)
+   en Colonos.Manager.ManagerDocumentos.Add(String item) 
+2024-09-23 06:52:53.0289 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 06:53:22.5291 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 06:55:18.5527 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 06:55:23.5918 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 06:55:25.8921 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 06:57:13.2167 loggerfile request https://localhost:44367/api/documentos/41?doctipo=18 
+2024-09-23 07:00:59.3437 loggerfile request https://localhost:44367/api/documentos/41?doctipo=18 
+2024-09-23 07:14:35.6643 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 07:15:41.5844 loggerfile request https://localhost:44367/api/documentos/41?doctipo=18 
+2024-09-23 07:20:25.2604 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-09-23 07:20:25.3282 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-23 07:20:27.8084 loggerfile request https://localhost:44367/api/documentos/5573?doctipo=2010 
+2024-09-23 07:20:28.0178 loggerfile request https://localhost:44367/api/documentos/20101?doctipo=3010 
+2024-09-23 07:20:30.7518 loggerfile request https://localhost:44367/api/documentos/base/linea/5573?doctipo=2110&baselinea=679 
+2024-09-23 07:20:34.5587 loggerfile request https://localhost:44367/api/recetas/VALOMLI999?bodegacode=PRODUCCION 
+2024-09-23 07:20:34.6146 loggerfile mensaje: Receta no existe. Data:  
+2024-09-23 07:20:47.4867 loggerfile request https://localhost:44367/api/documentos/5535?doctipo=2010 
+2024-09-23 07:20:47.5546 loggerfile request https://localhost:44367/api/documentos/20093?doctipo=3010 
+2024-09-23 07:20:49.9102 loggerfile request https://localhost:44367/api/documentos/base/linea/5535?doctipo=2110&baselinea=623 
+2024-09-23 07:20:55.7591 loggerfile request https://localhost:44367/api/recetas/CECER22009?bodegacode=PRODUCCION 
+2024-09-23 07:20:55.7671 loggerfile mensaje: Receta no existe. Data:  
+2024-09-23 07:21:04.6389 loggerfile request https://localhost:44367/api/documentos/5543?doctipo=2010 
+2024-09-23 07:21:04.7990 loggerfile request https://localhost:44367/api/documentos/20095?doctipo=3010 
+2024-09-23 07:21:06.6070 loggerfile request https://localhost:44367/api/documentos/base/linea/5543?doctipo=2110&baselinea=634 
+2024-09-23 07:21:06.6383 loggerfile request https://localhost:44367/api/recetas/VAFILFIL11?bodegacode=PRODUCCION 
+2024-09-23 07:21:43.9935 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 07:21:53.3979 loggerfile request https://localhost:44367/api/documentos/base/linea/5543?doctipo=2110&baselinea=634 
+2024-09-23 07:22:05.6559 loggerfile request https://localhost:44367/api/documentos/60092?doctipo=2110 
+2024-09-23 07:22:05.7048 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 07:22:15.3051 loggerfile request https://localhost:44367/api/documentos/base/linea/5543?doctipo=2110&baselinea=634 
+2024-09-23 07:22:23.6455 loggerfile request https://localhost:44367/api/documentos/5543?doctipo=2010 
+2024-09-23 07:22:23.7126 loggerfile request https://localhost:44367/api/documentos/20095?doctipo=3010 
+2024-09-23 07:22:28.4668 loggerfile request https://localhost:44367/api/documentos/base/linea/5543?doctipo=2110&baselinea=634 
+2024-09-23 07:22:33.3499 loggerfile request https://localhost:44367/api/documentos/5543?doctipo=2010 
+2024-09-23 07:22:37.0643 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 07:22:43.2780 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-23 07:22:43.2850 loggerfile RenovarToken... 
+2024-09-23 07:22:43.2850 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-09-23 07:22:44.4607 loggerfile response.ErrorMessage:  
+2024-09-23 07:22:44.4607 loggerfile response.ErrorException:  
+2024-09-23 07:22:44.4607 loggerfile response.ProtocolVersion: 1.1 
+2024-09-23 07:22:44.4607 loggerfile response.StatusCode: OK 
+2024-09-23 07:22:44.4607 loggerfile response.StatusDescription: OK 
+2024-09-23 07:22:44.4607 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI3MDg2OTY0Iiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NTg2MjI5NjQsIm5iZiI6MTcyNzA4Njk2NH0.ffXfUqOMkrV0nPVBvJRYQr-PLdwZ7w2MyATw0FcB8eg","expires_in":31535999,"token_type":"bearer"} 
+2024-09-23 07:22:52.4848 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-09-23 07:22:52.4848 loggerfile RenovarToken... 
+2024-09-23 07:22:52.4848 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-09-23 07:22:52.8148 loggerfile response.ErrorMessage:  
+2024-09-23 07:22:52.8148 loggerfile response.ErrorException:  
+2024-09-23 07:22:52.8148 loggerfile response.ProtocolVersion: 1.1 
+2024-09-23 07:22:52.8148 loggerfile response.StatusCode: OK 
+2024-09-23 07:22:52.8148 loggerfile response.StatusDescription: OK 
+2024-09-23 07:22:52.8148 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI3MDg2OTY0Iiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NTg2MjI5NzIsIm5iZiI6MTcyNzA4Njk3Mn0.AMSXM69U6d5eW9VYn5rg-O_TIH4v3UGsh9dBVYUjeVY","expires_in":31535999,"token_type":"bearer"} 
+2024-09-23 07:22:59.0118 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-23 07:24:20.1108 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 07:24:21.2434 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 07:24:23.4321 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 07:24:32.0222 loggerfile request https://localhost:44367/api/documentos/42?doctipo=18 
+2024-09-23 16:25:49.4868 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 16:25:51.3802 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 16:25:51.7614 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 16:25:55.6055 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 16:26:02.6573 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 16:26:03.5159 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 16:29:37.7550 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 16:29:38.5751 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 16:29:40.4047 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 16:29:42.9693 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 16:30:37.2703 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 16:30:38.2743 loggerfile request https://localhost:44367/api/documentos 
+2024-09-23 16:30:42.0110 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 16:30:47.1150 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 16:32:37.0765 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 16:35:25.8378 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 16:35:42.3640 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 16:45:46.3000 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 16:48:28.1366 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 16:48:30.9010 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 16:57:43.6482 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 16:57:47.0176 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 16:58:27.0965 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 16:58:29.2761 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 16:58:30.7790 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 17:03:08.8679 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 17:03:11.3947 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 17:06:00.8435 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 17:06:02.5990 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 17:07:54.9977 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 17:07:56.1386 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 17:09:38.0236 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 17:09:42.5643 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 17:16:25.4631 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 17:16:37.1237 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 17:16:38.0735 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 17:21:15.2413 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 17:21:16.3554 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 17:26:05.1415 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 17:26:06.6787 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 19:53:50.7385 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 19:53:55.1317 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 19:54:11.0177 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 19:56:01.3661 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 19:56:30.8203 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 19:57:12.0281 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 19:57:59.0294 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 19:59:02.5487 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 19:59:04.9979 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 20:00:29.5269 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 20:00:30.9178 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 20:15:43.7693 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 20:15:46.6864 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 20:21:01.5872 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 20:21:05.2120 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 20:22:11.1310 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 20:22:12.3209 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 20:25:18.7707 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 20:30:40.6709 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 20:30:43.5182 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 20:31:00.7524 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 20:32:45.1731 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 20:33:32.1671 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 20:35:51.7864 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 20:35:57.9947 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 20:36:00.0290 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 21:24:22.6638 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-09-23 21:24:23.1164 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-23 21:24:27.4600 loggerfile request https://localhost:44367/api/documentos/5573?doctipo=2010 
+2024-09-23 21:24:28.2528 loggerfile request https://localhost:44367/api/documentos/20101?doctipo=3010 
+2024-09-23 21:24:36.5037 loggerfile request https://localhost:44367/api/documentos/base/linea/5573?doctipo=2110&baselinea=679 
+2024-09-23 21:24:36.6692 loggerfile request https://localhost:44367/api/recetas/VALOMLI999?bodegacode=PRODUCCION 
+2024-09-23 21:24:36.9092 loggerfile mensaje: Receta no existe. Data:  
+2024-09-23 21:31:28.4845 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 21:32:56.1869 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 21:33:03.4643 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 21:33:10.3171 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 21:33:11.6364 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 21:33:39.6187 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 21:33:40.8233 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 21:36:19.5972 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=18&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-23 21:36:22.6709 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 21:36:48.6235 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 21:37:05.8960 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 
+2024-09-23 21:37:32.8349 loggerfile request https://localhost:44367/api/documentos/217?doctipo=18 

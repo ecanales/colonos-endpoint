@@ -1,0 +1,15 @@
+2024-09-10 11:04:51.2706 loggerfile request https://localhost:44366/api/productos/bodegas 
+2024-09-10 11:04:53.5038 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-09-10 11:05:11.1110 loggerfile request https://localhost:44366/api/documentos/5437?doctipo=2010 
+2024-09-10 11:05:11.7024 loggerfile request https://localhost:44366/api/documentos/410275?doctipo=10 
+2024-09-10 11:05:33.3984 loggerfile request https://localhost:44366/api/documentos/5437?doctipo=2010 
+2024-09-10 11:06:15.2772 loggerfile request https://localhost:44366/api/documentos/5437?doctipo=2010 
+2024-09-10 11:06:35.3165 loggerfile request https://localhost:44366/api/documentos 
+2024-09-10 11:06:36.7201 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-09-10 11:06:44.0734 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-09-10 11:07:08.8817 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-09-10 11:07:08.9890 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-10 11:07:15.2125 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-10 11:07:24.6744 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-10 11:07:26.8776 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-10 11:07:32.3149 loggerfile request https://localhost:44366/api/documentos/410275?doctipo=10 

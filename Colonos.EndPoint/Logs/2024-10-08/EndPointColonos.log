@@ -1,0 +1,1743 @@
+2024-10-08 01:42:28.2414 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-08 01:42:30.6817 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-08 
+2024-10-08 01:42:45.7434 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-10-08 01:42:49.2313 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 01:42:49.7728 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-08 01:42:50.3169 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-08 01:42:50.4240 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-08 01:42:50.5392 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-08 01:43:00.6168 loggerfile request https://localhost:44367/api/productos/search?palabras=porcionado&solorecetas=&maestro=&bodegacode= 
+2024-10-08 01:43:36.5281 loggerfile request https://localhost:44367/api/documentos 
+2024-10-08 01:43:37.0907 loggerfile Input incial OPED.  Random: 17, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 291675.0,
+  "Iva": 55418.0,
+  "Total": 347093.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T01:43:36.7094852-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 175000.0,
+  "Margen": 0.4000171423673609325447844347,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-10-08 01:43:37.2046 loggerfile Completando Lineas.  Random: 17, DocEntry: 0, ProdCode: VALOMVE121 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VALOMVE121",
+  "ProdNombre": "2 LC LC O LOMO VETADO PORCIONADO 250 GR",
+  "PrecioFinal": 11667.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 25.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 154,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.400,
+  "Costo": 7000.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 25.0,
+  "TotalSolicitado": 291675.0,
+  "TotalReal": null,
+  "PrecioUnitario": 11667.0,
+  "PrecioVolumen": 11317.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.4,
+  "Disponible": 15.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 2,
+  "RefrigeraNombre": "CONGELADO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "PORCIONADO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "LOMO VETADO PORCIONADO",
+  "SolicitadoAnterior": 25.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-10-08 01:43:37.2066 loggerfile Antes de enviar a DB. Random: 17, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 291675.0,
+  "Iva": 55418.0,
+  "Total": 347093.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T01:43:36.7094852-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 175000.0,
+  "Margen": 0.4000171423673609325447844347,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VALOMVE121",
+      "ProdNombre": "2 LC LC O LOMO VETADO PORCIONADO 250 GR",
+      "PrecioFinal": 11667.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 25.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 154,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 7000.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 25.0,
+      "TotalSolicitado": 291675.0,
+      "TotalReal": null,
+      "PrecioUnitario": 11667.0,
+      "PrecioVolumen": 11317.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": 15.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO VETADO PORCIONADO",
+      "SolicitadoAnterior": 25.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-10-08 01:43:37.2339 loggerfile Despues de enviar a DB. Random: 17, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 291675.0,
+  "Iva": 55418.0,
+  "Total": 347093.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T01:43:36.7094852-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 175000.0,
+  "Margen": 0.4000171423673609325447844347,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VALOMVE121",
+      "ProdNombre": "2 LC LC O LOMO VETADO PORCIONADO 250 GR",
+      "PrecioFinal": 11667.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 25.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 154,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 7000.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 25.0,
+      "TotalSolicitado": 291675.0,
+      "TotalReal": null,
+      "PrecioUnitario": 11667.0,
+      "PrecioVolumen": 11317.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": 15.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO VETADO PORCIONADO",
+      "SolicitadoAnterior": 25.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-08 01:43:37.6286 loggerfile SaveChanges enviar a DB. Random: 17, DocEntry: 410423 {
+  "DocEntry": 410423,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 291675.0,
+  "Iva": 55418.0,
+  "Total": 347093.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T01:43:36.7094852-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 175000.0,
+  "Margen": 0.4000171423673609325447844347,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410423,
+      "DocLinea": 635,
+      "LineaEstado": "A",
+      "ProdCode": "VALOMVE121",
+      "ProdNombre": "2 LC LC O LOMO VETADO PORCIONADO 250 GR",
+      "PrecioFinal": 11667.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 25.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 154,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 7000.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 25.0,
+      "TotalSolicitado": 291675.0,
+      "TotalReal": null,
+      "PrecioUnitario": 11667.0,
+      "PrecioVolumen": 11317.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": 15.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO VETADO PORCIONADO",
+      "SolicitadoAnterior": 25.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-08 01:43:38.7438 loggerfile request https://localhost:44367/api/documentos/410423?doctipo=10 
+2024-10-08 01:43:38.9969 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 01:43:39.0873 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-08 01:43:39.4829 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-08 01:43:39.5529 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-08 01:43:39.6316 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-08 01:43:53.7412 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-08 01:44:01.6242 loggerfile request https://localhost:44367/api/documentos/410423?doctipo=10 
+2024-10-08 01:44:01.8873 loggerfile request https://localhost:44367/api/bandejas/CRED/410423 
+2024-10-08 01:44:01.9937 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 01:44:02.1338 loggerfile request https://localhost:44367/api/socios/cuenta/13436067-4C/ 
+2024-10-08 01:44:02.6019 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 288
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Socios\ManagerSocios.cs:línea 568 
+2024-10-08 01:44:02.6800 loggerfile request https://localhost:44367/api/socios/ventas12m/13436067-4C/ 
+2024-10-08 01:44:02.7569 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=13436067-4C&top=10 
+2024-10-08 01:44:07.2299 loggerfile request https://localhost:44367/api/bandejas/CRED/410423 
+2024-10-08 01:44:07.3432 loggerfile request https://localhost:44367/api/bandejas/CRED/410423 
+2024-10-08 01:44:14.3967 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-08 01:44:17.9853 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-08 01:44:18.0264 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-08 
+2024-10-08 01:44:19.8560 loggerfile request https://localhost:44367/api/documentos/410423?doctipo=10 
+2024-10-08 01:44:20.0932 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 01:44:20.1846 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-08 01:44:20.3209 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-08 01:44:20.3938 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-08 01:44:20.4687 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-08 01:49:03.0292 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-08 01:49:03.1245 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-08 
+2024-10-08 01:49:07.3104 loggerfile request https://localhost:44367/api/documentos/410416?doctipo=10 
+2024-10-08 01:49:07.6540 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 01:49:07.7715 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-08 01:49:07.9657 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-08 01:49:08.0887 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-08 01:49:08.1876 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-08 01:49:37.0557 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-08 01:49:37.0762 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-08 
+2024-10-08 01:49:58.9538 loggerfile request https://localhost:44367/api/socios/search?palabras=gusavo&usuario=Admin 
+2024-10-08 01:50:02.6676 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-10-08 01:50:06.2338 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 01:50:06.3734 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-08 01:50:06.5634 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-08 01:50:06.9369 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-08 01:50:07.1703 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-08 01:57:03.7519 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-08 01:57:04.1553 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-08 01:57:17.4087 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 01:57:43.6870 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 01:57:56.5766 loggerfile request https://localhost:44367/api/productos/VALOMVE121 
+2024-10-08 01:57:56.6963 loggerfile request https://localhost:44367/api/documentos 
+2024-10-08 01:57:57.3249 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-08 01:58:03.5658 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-10-08 01:58:03.6441 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-08 01:58:09.1212 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 01:58:09.1992 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 01:58:33.6700 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 01:58:33.7799 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 01:58:33.9851 loggerfile request https://localhost:44367/api/documentos/picking/produccion?docentry=5580 
+2024-10-08 01:59:02.6900 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 01:59:02.7573 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 01:59:07.8044 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 01:59:07.8782 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 01:59:16.1496 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-08 01:59:19.9354 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 01:59:20.0252 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 01:59:27.1877 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 01:59:27.2723 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 01:59:27.4176 loggerfile request https://localhost:44367/api/documentos/picking/produccion?docentry=5580 
+2024-10-08 02:11:37.1996 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-08 02:11:37.2867 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-08 
+2024-10-08 02:11:40.6812 loggerfile request https://localhost:44367/api/documentos/410423?doctipo=10 
+2024-10-08 02:11:41.0753 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 02:11:41.1956 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-08 02:11:41.4199 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-08 02:11:41.5856 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-08 02:11:41.7950 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-08 02:43:31.2972 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-10-08 02:43:33.6222 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-08 02:43:38.4492 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 02:43:39.0814 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 02:43:46.5819 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 02:43:46.6630 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 02:43:46.7570 loggerfile request https://localhost:44367/api/documentos/picking/produccion?docentry=5580 
+2024-10-08 02:45:31.8197 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 02:45:31.8831 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 02:45:39.1950 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 02:45:39.2620 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 02:45:39.3874 loggerfile request https://localhost:44367/api/documentos/picking/produccion?docentry=5580 
+2024-10-08 02:50:45.1734 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 02:50:45.3744 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 02:50:52.4874 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 02:50:52.5572 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 02:50:52.6533 loggerfile request https://localhost:44367/api/documentos/picking/produccion?docentry=5580 
+2024-10-08 02:52:02.8960 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 02:52:02.9856 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 02:52:10.4247 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 02:52:10.5048 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 02:52:10.6199 loggerfile request https://localhost:44367/api/documentos/picking/produccion?docentry=5580 
+2024-10-08 02:52:55.4830 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 02:52:55.5778 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 02:53:02.3367 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 02:53:02.4495 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 02:53:02.5528 loggerfile request https://localhost:44367/api/documentos/picking/produccion?docentry=5580 
+2024-10-08 02:53:54.8398 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 02:53:54.9172 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 02:54:01.6000 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 02:54:01.6881 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 02:54:01.8523 loggerfile request https://localhost:44367/api/documentos/picking/produccion?docentry=5580 
+2024-10-08 02:55:32.3286 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-10-08 02:58:53.6223 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-08 02:58:53.6921 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-08 
+2024-10-08 02:59:09.2536 loggerfile request https://localhost:44367/api/documentos/410423?doctipo=10 
+2024-10-08 02:59:10.0750 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 02:59:10.4864 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-08 02:59:11.2561 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-08 02:59:11.3566 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-08 02:59:11.4454 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-08 03:01:01.8902 loggerfile request https://localhost:44367/api/documentos 
+2024-10-08 03:01:02.0986 loggerfile Input incial OPED.  Random: 6, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 291675.0,
+  "Iva": 55418.0,
+  "Total": 347093.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T03:01:01.9887638-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 175000.0,
+  "Margen": 0.4000171423673609325447844347,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-10-08 03:01:02.1612 loggerfile Completando Lineas.  Random: 6, DocEntry: 0, ProdCode: VALOMVE121 {
+  "DocEntry": 0,
+  "DocLinea": 0,
+  "LineaEstado": "A",
+  "ProdCode": "VALOMVE121",
+  "ProdNombre": "2 LC LC O LOMO VETADO PORCIONADO 250 GR",
+  "PrecioFinal": 11667.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 25.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 154,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.400,
+  "Costo": 7000.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 25.0,
+  "TotalSolicitado": 291675.0,
+  "TotalReal": null,
+  "PrecioUnitario": 11667.0,
+  "PrecioVolumen": 11317.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.4,
+  "Disponible": 15.0,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 2,
+  "RefrigeraNombre": "CONGELADO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "PORCIONADO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "LOMO VETADO PORCIONADO",
+  "SolicitadoAnterior": 25.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-10-08 03:01:02.1612 loggerfile Antes de enviar a DB. Random: 6, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 291675.0,
+  "Iva": 55418.0,
+  "Total": 347093.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T03:01:01.9887638-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 175000.0,
+  "Margen": 0.4000171423673609325447844347,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 0,
+      "LineaEstado": "A",
+      "ProdCode": "VALOMVE121",
+      "ProdNombre": "2 LC LC O LOMO VETADO PORCIONADO 250 GR",
+      "PrecioFinal": 11667.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 25.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 154,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 7000.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 25.0,
+      "TotalSolicitado": 291675.0,
+      "TotalReal": null,
+      "PrecioUnitario": 11667.0,
+      "PrecioVolumen": 11317.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": 15.0,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO VETADO PORCIONADO",
+      "SolicitadoAnterior": 25.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-10-08 03:01:02.1612 loggerfile Despues de enviar a DB. Random: 6, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 291675.0,
+  "Iva": 55418.0,
+  "Total": 347093.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T03:01:01.9887638-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 175000.0,
+  "Margen": 0.4000171423673609325447844347,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 0,
+      "LineaEstado": "A",
+      "ProdCode": "VALOMVE121",
+      "ProdNombre": "2 LC LC O LOMO VETADO PORCIONADO 250 GR",
+      "PrecioFinal": 11667.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 25.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 154,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 7000.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 25.0,
+      "TotalSolicitado": 291675.0,
+      "TotalReal": null,
+      "PrecioUnitario": 11667.0,
+      "PrecioVolumen": 11317.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": 15.0,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO VETADO PORCIONADO",
+      "SolicitadoAnterior": 25.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-08 03:01:02.4520 loggerfile SaveChanges enviar a DB. Random: 6, DocEntry: 410424 {
+  "DocEntry": 410424,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 291675.0,
+  "Iva": 55418.0,
+  "Total": 347093.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T03:01:01.9887638-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 175000.0,
+  "Margen": 0.4000171423673609325447844347,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410424,
+      "DocLinea": 636,
+      "LineaEstado": "A",
+      "ProdCode": "VALOMVE121",
+      "ProdNombre": "2 LC LC O LOMO VETADO PORCIONADO 250 GR",
+      "PrecioFinal": 11667.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 25.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 154,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 7000.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 25.0,
+      "TotalSolicitado": 291675.0,
+      "TotalReal": null,
+      "PrecioUnitario": 11667.0,
+      "PrecioVolumen": 11317.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": 15.0,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO VETADO PORCIONADO",
+      "SolicitadoAnterior": 25.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-08 03:01:03.0084 loggerfile request https://localhost:44367/api/documentos/410424?doctipo=10 
+2024-10-08 03:01:03.2099 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 03:01:03.3280 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-08 03:01:03.4639 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-08 03:01:03.5185 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-08 03:01:03.5820 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-08 03:01:28.0590 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-08 03:01:30.7851 loggerfile request https://localhost:44367/api/documentos/410424?doctipo=10 
+2024-10-08 03:01:31.0016 loggerfile request https://localhost:44367/api/bandejas/CRED/410424 
+2024-10-08 03:01:31.0657 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 03:01:31.1438 loggerfile request https://localhost:44367/api/socios/cuenta/13436067-4C/ 
+2024-10-08 03:01:31.5534 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 288
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Socios\ManagerSocios.cs:línea 568 
+2024-10-08 03:01:31.6471 loggerfile request https://localhost:44367/api/socios/ventas12m/13436067-4C/ 
+2024-10-08 03:01:31.7452 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=13436067-4C&top=10 
+2024-10-08 03:01:36.6750 loggerfile request https://localhost:44367/api/bandejas/CRED/410424 
+2024-10-08 03:01:36.7867 loggerfile request https://localhost:44367/api/bandejas/CRED/410424 
+2024-10-08 03:01:41.2817 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-08 03:01:46.2393 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-08 03:01:59.5745 loggerfile request https://localhost:44367/api/bandejas/PREC?estado=0&visible=1 
+2024-10-08 03:02:01.3565 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-08 03:02:08.6777 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-08 03:02:08.7017 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-08 03:02:10.8782 loggerfile request https://localhost:44367/api/documentos/20107?doctipo=3010 
+2024-10-08 03:02:15.0311 loggerfile request https://localhost:44367/api/documentos/20107?doctipo=3010 
+2024-10-08 03:02:15.4655 loggerfile request https://localhost:44367/api/productos/VALOMVE121 
+2024-10-08 03:02:15.5477 loggerfile request https://localhost:44367/api/documentos 
+2024-10-08 03:02:15.9383 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-08 03:02:20.7840 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-08 03:02:23.4957 loggerfile request https://localhost:44367/api/documentos/5581?doctipo=2010 
+2024-10-08 03:02:23.5586 loggerfile request https://localhost:44367/api/documentos/20107?doctipo=3010 
+2024-10-08 03:02:31.1589 loggerfile request https://localhost:44367/api/documentos/5581?doctipo=2010 
+2024-10-08 03:02:31.2302 loggerfile request https://localhost:44367/api/documentos/20107?doctipo=3010 
+2024-10-08 03:02:31.3348 loggerfile request https://localhost:44367/api/documentos/picking/produccion?docentry=5581 
+2024-10-08 03:04:28.9177 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-08 03:04:28.9563 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-08 
+2024-10-08 03:04:32.6926 loggerfile request https://localhost:44367/api/documentos/410424?doctipo=10 
+2024-10-08 03:04:33.1066 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 03:04:33.3183 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-08 03:04:33.4607 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-08 03:04:33.5183 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-08 03:04:33.7448 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-08 03:09:50.8547 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-08 03:09:50.9238 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-08 
+2024-10-08 03:09:59.6632 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-10-08 03:10:01.9469 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 03:10:02.0382 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-08 03:10:02.2441 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-08 03:10:02.3173 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-08 03:10:02.4013 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-08 03:10:22.2137 loggerfile request https://localhost:44367/api/productos/search?palabras=lomo vet&solorecetas=&maestro=&bodegacode= 
+2024-10-08 03:11:35.6384 loggerfile request https://localhost:44367/api/documentos 
+2024-10-08 03:11:35.6997 loggerfile Input incial OPED.  Random: 15, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 263180.0,
+  "Iva": 50004.0,
+  "Total": 313184.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T03:11:35.6786764-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 215800.0,
+  "Margen": 0.1800288775742837601641462117,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-10-08 03:11:35.7124 loggerfile Completando Lineas.  Random: 15, DocEntry: 0, ProdCode: VALOMVE167 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VALOMVE167",
+  "ProdNombre": "1 ÑU GO V LOMO VETADO ENTERO",
+  "PrecioFinal": 13159.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 20.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 153,
+  "AnimalCode": 1,
+  "TipoCode": "A",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.180,
+  "Costo": 10790.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 20.0,
+  "TotalSolicitado": 263180.0,
+  "TotalReal": null,
+  "PrecioUnitario": 13159.0,
+  "PrecioVolumen": 13027.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.18,
+  "Disponible": 454.39,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 1,
+  "RefrigeraNombre": "FRESCO",
+  "OrigenCode": 1,
+  "OrigenNombre": "ARGENTINA",
+  "MarcaCode": 32,
+  "MarcaNombre": "GORINA",
+  "FrmtoVentaNombre": "ENTERO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "LOMO VETADO ENTERO",
+  "SolicitadoAnterior": 20.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-10-08 03:11:35.7124 loggerfile Antes de enviar a DB. Random: 15, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 263180.0,
+  "Iva": 50004.0,
+  "Total": 313184.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T03:11:35.6786764-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 215800.0,
+  "Margen": 0.1800288775742837601641462117,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VALOMVE167",
+      "ProdNombre": "1 ÑU GO V LOMO VETADO ENTERO",
+      "PrecioFinal": 13159.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 20.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 153,
+      "AnimalCode": 1,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.180,
+      "Costo": 10790.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 20.0,
+      "TotalSolicitado": 263180.0,
+      "TotalReal": null,
+      "PrecioUnitario": 13159.0,
+      "PrecioVolumen": 13027.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.18,
+      "Disponible": 454.39,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 1,
+      "OrigenNombre": "ARGENTINA",
+      "MarcaCode": 32,
+      "MarcaNombre": "GORINA",
+      "FrmtoVentaNombre": "ENTERO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO VETADO ENTERO",
+      "SolicitadoAnterior": 20.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-10-08 03:11:35.7124 loggerfile Despues de enviar a DB. Random: 15, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 263180.0,
+  "Iva": 50004.0,
+  "Total": 313184.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T03:11:35.6786764-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 215800.0,
+  "Margen": 0.1800288775742837601641462117,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VALOMVE167",
+      "ProdNombre": "1 ÑU GO V LOMO VETADO ENTERO",
+      "PrecioFinal": 13159.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 20.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 153,
+      "AnimalCode": 1,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.180,
+      "Costo": 10790.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 20.0,
+      "TotalSolicitado": 263180.0,
+      "TotalReal": null,
+      "PrecioUnitario": 13159.0,
+      "PrecioVolumen": 13027.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.18,
+      "Disponible": 454.39,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 1,
+      "OrigenNombre": "ARGENTINA",
+      "MarcaCode": 32,
+      "MarcaNombre": "GORINA",
+      "FrmtoVentaNombre": "ENTERO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO VETADO ENTERO",
+      "SolicitadoAnterior": 20.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-08 03:11:35.8295 loggerfile SaveChanges enviar a DB. Random: 15, DocEntry: 410425 {
+  "DocEntry": 410425,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 263180.0,
+  "Iva": 50004.0,
+  "Total": 313184.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T03:11:35.6786764-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 215800.0,
+  "Margen": 0.1800288775742837601641462117,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410425,
+      "DocLinea": 637,
+      "LineaEstado": "A",
+      "ProdCode": "VALOMVE167",
+      "ProdNombre": "1 ÑU GO V LOMO VETADO ENTERO",
+      "PrecioFinal": 13159.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 20.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 153,
+      "AnimalCode": 1,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.180,
+      "Costo": 10790.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 20.0,
+      "TotalSolicitado": 263180.0,
+      "TotalReal": null,
+      "PrecioUnitario": 13159.0,
+      "PrecioVolumen": 13027.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.18,
+      "Disponible": 454.39,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 1,
+      "OrigenNombre": "ARGENTINA",
+      "MarcaCode": 32,
+      "MarcaNombre": "GORINA",
+      "FrmtoVentaNombre": "ENTERO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO VETADO ENTERO",
+      "SolicitadoAnterior": 20.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-08 03:11:36.1531 loggerfile request https://localhost:44367/api/documentos/410425?doctipo=10 
+2024-10-08 03:11:36.2911 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 03:11:36.3724 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-08 03:11:36.5051 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-08 03:11:36.5705 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-08 03:11:36.6476 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-08 04:04:35.9541 loggerfile request https://localhost:44367/api/productos/stock?prodcode=DFSDF&bodegacode=dddd 
+2024-10-08 04:05:13.6641 loggerfile request https://localhost:44367/api/productos/stock?prodcode=VALOMVE121&bodegacode=PRODUCCION 
+2024-10-08 04:33:44.4897 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-08 04:33:50.5238 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-08 
+2024-10-08 04:34:24.4869 loggerfile request https://localhost:44367/api/documentos/410423?doctipo=10 
+2024-10-08 04:34:27.0962 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 04:34:28.2662 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-08 04:34:30.4495 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-08 04:34:30.7398 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-08 04:34:33.6154 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-08 04:35:07.4849 loggerfile request https://localhost:44367/api/productos/stock?prodcode=VALOMVE121&bodegacode=TOLEDO 
+2024-10-08 04:37:38.9237 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-08 04:37:39.0662 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-08 
+2024-10-08 04:37:46.9775 loggerfile request https://localhost:44367/api/documentos/410423?doctipo=10 
+2024-10-08 04:37:50.5766 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 04:37:50.8425 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-08 04:37:51.2333 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-08 04:37:55.6937 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-08 04:37:58.0314 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-08 04:38:37.8398 loggerfile request https://localhost:44367/api/productos/stock?prodcode=VALOMVE121&bodegacode=TOLEDO 
+2024-10-08 04:39:48.7354 loggerfile request https://localhost:44367/api/documentos 
+2024-10-08 04:39:49.0171 loggerfile Input incial OPED.  Random: 16, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 350010.0,
+  "Iva": 66502.0,
+  "Total": 416512.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T04:39:48.9057267-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 210000.0,
+  "Margen": 0.4000171423673609325447844347,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-10-08 04:39:49.4387 loggerfile Completando Lineas.  Random: 16, DocEntry: 0, ProdCode: VALOMVE121 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VALOMVE121",
+  "ProdNombre": "2 LC LC O LOMO VETADO PORCIONADO 250 GR",
+  "PrecioFinal": 11667.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 30.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 154,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.400,
+  "Costo": 7000.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 30.0,
+  "TotalSolicitado": 350010.0,
+  "TotalReal": null,
+  "PrecioUnitario": 11667.0,
+  "PrecioVolumen": 11317.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.4,
+  "Disponible": -35.0,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 2,
+  "RefrigeraNombre": "CONGELADO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "PORCIONADO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "LOMO VETADO PORCIONADO",
+  "SolicitadoAnterior": 30.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-10-08 04:39:49.4387 loggerfile Antes de enviar a DB. Random: 16, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 350010.0,
+  "Iva": 66502.0,
+  "Total": 416512.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T04:39:48.9057267-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 210000.0,
+  "Margen": 0.4000171423673609325447844347,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VALOMVE121",
+      "ProdNombre": "2 LC LC O LOMO VETADO PORCIONADO 250 GR",
+      "PrecioFinal": 11667.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 30.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 154,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 7000.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 30.0,
+      "TotalSolicitado": 350010.0,
+      "TotalReal": null,
+      "PrecioUnitario": 11667.0,
+      "PrecioVolumen": 11317.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -35.0,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO VETADO PORCIONADO",
+      "SolicitadoAnterior": 30.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-10-08 04:39:49.5444 loggerfile Despues de enviar a DB. Random: 16, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 350010.0,
+  "Iva": 66502.0,
+  "Total": 416512.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T04:39:48.9057267-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 210000.0,
+  "Margen": 0.4000171423673609325447844347,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VALOMVE121",
+      "ProdNombre": "2 LC LC O LOMO VETADO PORCIONADO 250 GR",
+      "PrecioFinal": 11667.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 30.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 154,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 7000.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 30.0,
+      "TotalSolicitado": 350010.0,
+      "TotalReal": null,
+      "PrecioUnitario": 11667.0,
+      "PrecioVolumen": 11317.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -35.0,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO VETADO PORCIONADO",
+      "SolicitadoAnterior": 30.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-08 04:39:50.8416 loggerfile SaveChanges enviar a DB. Random: 16, DocEntry: 410426 {
+  "DocEntry": 410426,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-08T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 350010.0,
+  "Iva": 66502.0,
+  "Total": 416512.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-08T04:39:48.9057267-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-08T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 210000.0,
+  "Margen": 0.4000171423673609325447844347,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410426,
+      "DocLinea": 638,
+      "LineaEstado": "A",
+      "ProdCode": "VALOMVE121",
+      "ProdNombre": "2 LC LC O LOMO VETADO PORCIONADO 250 GR",
+      "PrecioFinal": 11667.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 30.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 154,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 7000.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 30.0,
+      "TotalSolicitado": 350010.0,
+      "TotalReal": null,
+      "PrecioUnitario": 11667.0,
+      "PrecioVolumen": 11317.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -35.0,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "LOMO VETADO PORCIONADO",
+      "SolicitadoAnterior": 30.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-08 04:39:59.2421 loggerfile request https://localhost:44367/api/documentos/410426?doctipo=10 
+2024-10-08 04:40:10.0755 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 04:40:10.3726 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-08 04:40:11.1855 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-08 04:40:15.0044 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-08 04:40:19.6098 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-08 04:40:58.4799 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-08 04:41:08.9745 loggerfile request https://localhost:44367/api/documentos/410426?doctipo=10 
+2024-10-08 04:41:11.3555 loggerfile request https://localhost:44367/api/bandejas/CRED/410426 
+2024-10-08 04:41:11.8286 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-08 04:41:12.2957 loggerfile request https://localhost:44367/api/socios/cuenta/13436067-4C/ 
+2024-10-08 04:41:13.3123 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 288
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Socios\ManagerSocios.cs:línea 568 
+2024-10-08 04:41:13.5204 loggerfile request https://localhost:44367/api/socios/ventas12m/13436067-4C/ 
+2024-10-08 04:41:16.9968 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=13436067-4C&top=10 
+2024-10-08 04:41:23.9206 loggerfile request https://localhost:44367/api/bandejas/CRED/410426 
+2024-10-08 04:41:24.0604 loggerfile request https://localhost:44367/api/bandejas/CRED/410426 
+2024-10-08 04:41:45.7448 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-08 04:41:52.2384 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-08 04:41:52.3088 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-08 04:42:06.9783 loggerfile request https://localhost:44367/api/documentos/20108?doctipo=3010 
+2024-10-08 04:42:13.2884 loggerfile request https://localhost:44367/api/documentos/20108?doctipo=3010 
+2024-10-08 04:42:14.1472 loggerfile request https://localhost:44367/api/productos/VALOMVE121 
+2024-10-08 04:42:14.6920 loggerfile request https://localhost:44367/api/documentos 
+2024-10-08 04:42:17.9052 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-08 04:42:24.6323 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-10-08 04:42:24.9122 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-08 04:42:35.1460 loggerfile request https://localhost:44367/api/documentos/5582?doctipo=2010 
+2024-10-08 04:42:35.4694 loggerfile request https://localhost:44367/api/documentos/20108?doctipo=3010 
+2024-10-08 04:42:49.8971 loggerfile request https://localhost:44367/api/documentos/5582?doctipo=2010 
+2024-10-08 04:42:50.9565 loggerfile request https://localhost:44367/api/documentos/20108?doctipo=3010 
+2024-10-08 04:42:54.7916 loggerfile request https://localhost:44367/api/documentos/picking/produccion?docentry=5582 
+2024-10-08 04:44:28.1134 loggerfile request https://localhost:44367/api/documentos/5582?doctipo=2010 
+2024-10-08 04:44:28.3186 loggerfile request https://localhost:44367/api/documentos/20108?doctipo=3010 
+2024-10-08 04:44:37.3598 loggerfile request https://localhost:44367/api/documentos/5582?doctipo=2010 
+2024-10-08 04:44:37.7458 loggerfile request https://localhost:44367/api/documentos/20108?doctipo=3010 
+2024-10-08 04:44:44.1245 loggerfile request https://localhost:44367/api/documentos/picking/produccion?docentry=5582 
+2024-10-08 04:46:17.4618 loggerfile request https://localhost:44367/api/documentos/5582?doctipo=2010 
+2024-10-08 04:46:18.1825 loggerfile request https://localhost:44367/api/documentos/20108?doctipo=3010 
+2024-10-08 04:46:26.3407 loggerfile request https://localhost:44367/api/documentos/5582?doctipo=2010 
+2024-10-08 04:46:26.7154 loggerfile request https://localhost:44367/api/documentos/20108?doctipo=3010 
+2024-10-08 04:46:30.5341 loggerfile request https://localhost:44367/api/documentos/picking/produccion?docentry=5582 
+2024-10-08 04:48:26.3546 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 04:48:27.0224 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 04:48:38.1419 loggerfile request https://localhost:44367/api/documentos/5580?doctipo=2010 
+2024-10-08 04:48:38.4314 loggerfile request https://localhost:44367/api/documentos/20106?doctipo=3010 
+2024-10-08 04:48:39.2204 loggerfile request https://localhost:44367/api/documentos/picking/produccion?docentry=5580 

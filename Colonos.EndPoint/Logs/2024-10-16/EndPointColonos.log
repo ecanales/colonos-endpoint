@@ -1,0 +1,733 @@
+2024-10-16 02:01:31.7419 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-16 02:01:34.0912 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-16 02:01:34.1419 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 02:01:34.5235 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 02:01:46.4687 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-10-16 02:01:46.5585 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-16 02:01:51.2744 loggerfile request https://localhost:44367/api/documentos/6378?doctipo=2010 
+2024-10-16 02:01:52.0214 loggerfile request https://localhost:44367/api/documentos/20262?doctipo=3010 
+2024-10-16 02:03:42.2784 loggerfile request https://localhost:44367/api/documentos/6378?doctipo=2010 
+2024-10-16 02:03:47.5268 loggerfile request https://localhost:44367/api/documentos 
+2024-10-16 02:03:48.4151 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-10-16 02:03:48.4151 loggerfile RenovarToken... 
+2024-10-16 02:03:48.4151 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-10-16 02:03:49.9403 loggerfile response.ErrorMessage:  
+2024-10-16 02:03:49.9403 loggerfile response.ErrorException:  
+2024-10-16 02:03:49.9403 loggerfile response.ProtocolVersion: 1.1 
+2024-10-16 02:03:49.9403 loggerfile response.StatusCode: OK 
+2024-10-16 02:03:49.9403 loggerfile response.StatusDescription: OK 
+2024-10-16 02:03:49.9403 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI5MDU1MDI5Iiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NjA1OTEwMjksIm5iZiI6MTcyOTA1NTAyOX0.v4dQSBOWvq9UuHyfMZGjn74VE5IlDzjyDUd1mnK5NTw","expires_in":31535999,"token_type":"bearer"} 
+2024-10-16 02:04:56.5729 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-16 02:08:05.7905 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-16 02:08:08.5154 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-16 02:08:08.5467 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 02:09:00.5120 loggerfile request https://localhost:44367/api/documentos/20283?doctipo=3010 
+2024-10-16 02:09:17.3703 loggerfile request https://localhost:44367/api/documentos/20284?doctipo=3010 
+2024-10-16 02:10:26.5511 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-16 02:10:26.5814 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 02:10:35.2149 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-16 02:10:35.2374 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-16 
+2024-10-16 02:10:37.7576 loggerfile request https://localhost:44367/api/documentos/search?palabras=%09411003&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-10-16 02:10:42.0175 loggerfile request https://localhost:44367/api/documentos/search?palabras=411003&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-10-16 02:10:43.6788 loggerfile request https://localhost:44367/api/documentos/411003?doctipo=10 
+2024-10-16 02:10:43.9344 loggerfile request https://localhost:44367/api/socios/77303091-KC/ 
+2024-10-16 02:10:44.2540 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-16 02:10:44.9545 loggerfile request https://localhost:44367/api/socios/77303091-KC/TopFamilia 
+2024-10-16 02:10:45.0638 loggerfile request https://localhost:44367/api/socios/77303091-KC/TopRubro 
+2024-10-16 02:10:45.1526 loggerfile request https://localhost:44367/api/socios/77303091-KC/TopVentas 
+2024-10-16 02:12:35.0271 loggerfile request https://localhost:44367/api/documentos/411005?doctipo=10 
+2024-10-16 02:12:35.3154 loggerfile request https://localhost:44367/api/socios/76579177-4C/ 
+2024-10-16 02:12:35.4072 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-16 02:12:35.5331 loggerfile request https://localhost:44367/api/socios/76579177-4C/TopFamilia 
+2024-10-16 02:12:35.5663 loggerfile request https://localhost:44367/api/socios/76579177-4C/TopRubro 
+2024-10-16 02:12:35.6151 loggerfile request https://localhost:44367/api/socios/76579177-4C/TopVentas 
+2024-10-16 02:13:13.1916 loggerfile request https://localhost:44367/api/documentos/20263?doctipo=3010 
+2024-10-16 02:13:31.3596 loggerfile request https://localhost:44367/api/documentos/20263?doctipo=3010 
+2024-10-16 02:13:32.6958 loggerfile request https://localhost:44367/api/productos/CECERLVE20 
+2024-10-16 02:13:32.7795 loggerfile request https://localhost:44367/api/documentos 
+2024-10-16 02:13:33.1587 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 02:13:39.8817 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-16 02:13:43.0578 loggerfile request https://localhost:44367/api/documentos/6408?doctipo=2010 
+2024-10-16 02:13:43.1291 loggerfile request https://localhost:44367/api/documentos/20263?doctipo=3010 
+2024-10-16 02:13:51.0475 loggerfile request https://localhost:44367/api/documentos/6408?doctipo=2010 
+2024-10-16 02:14:01.0630 loggerfile request https://localhost:44367/api/documentos 
+2024-10-16 02:14:01.5949 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-10-16 02:14:01.5949 loggerfile RenovarToken... 
+2024-10-16 02:14:01.5949 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-10-16 02:14:02.5273 loggerfile response.ErrorMessage:  
+2024-10-16 02:14:02.5273 loggerfile response.ErrorException:  
+2024-10-16 02:14:02.5273 loggerfile response.ProtocolVersion: 1.1 
+2024-10-16 02:14:02.5273 loggerfile response.StatusCode: OK 
+2024-10-16 02:14:02.5273 loggerfile response.StatusDescription: OK 
+2024-10-16 02:14:02.5273 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI5MDU1NjQyIiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NjA1OTE2NDIsIm5iZiI6MTcyOTA1NTY0Mn0.uhB4UIrlHb0nOiljAQStjDWTww40hd0hLRs8l-uEjGA","expires_in":31535999,"token_type":"bearer"} 
+2024-10-16 02:14:07.3399 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-16 02:17:21.8639 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-16 02:17:21.9122 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-16 
+2024-10-16 02:17:24.1121 loggerfile request https://localhost:44367/api/documentos/search?palabras=410867&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-10-16 02:17:25.6793 loggerfile request https://localhost:44367/api/documentos/410867?doctipo=10 
+2024-10-16 02:17:25.8803 loggerfile request https://localhost:44367/api/socios/76545598-7C/ 
+2024-10-16 02:17:25.9759 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-16 02:17:26.2616 loggerfile request https://localhost:44367/api/socios/76545598-7C/TopFamilia 
+2024-10-16 02:17:26.3597 loggerfile request https://localhost:44367/api/socios/76545598-7C/TopRubro 
+2024-10-16 02:17:26.4076 loggerfile request https://localhost:44367/api/socios/76545598-7C/TopVentas 
+2024-10-16 02:17:55.4949 loggerfile request https://localhost:44367/api/documentos/6234?doctipo=2010 
+2024-10-16 02:17:55.5683 loggerfile request https://localhost:44367/api/documentos/20225?doctipo=3010 
+2024-10-16 02:18:31.5062 loggerfile request https://localhost:44367/api/documentos/6234?doctipo=2010 
+2024-10-16 02:18:38.0728 loggerfile request https://localhost:44367/api/documentos 
+2024-10-16 02:18:38.4280 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-10-16 02:18:38.4280 loggerfile RenovarToken... 
+2024-10-16 02:18:38.4280 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-10-16 02:18:39.3784 loggerfile response.ErrorMessage:  
+2024-10-16 02:18:39.3784 loggerfile response.ErrorException:  
+2024-10-16 02:18:39.3784 loggerfile response.ProtocolVersion: 1.1 
+2024-10-16 02:18:39.3784 loggerfile response.StatusCode: OK 
+2024-10-16 02:18:39.3784 loggerfile response.StatusDescription: OK 
+2024-10-16 02:18:39.3784 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI5MDU1NjQyIiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NjA1OTE5MTgsIm5iZiI6MTcyOTA1NTkxOH0.xK7SxNdfvhEIUQE7taT7YQZqz4rHt-jIl7Gn_H6GLHk","expires_in":31535999,"token_type":"bearer"} 
+2024-10-16 02:18:44.7427 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-16 02:25:51.8743 loggerfile request https://localhost:44367/api/documentos/6342?doctipo=2010 
+2024-10-16 02:25:51.9797 loggerfile request https://localhost:44367/api/documentos/20257?doctipo=3010 
+2024-10-16 02:27:23.4754 loggerfile request https://localhost:44367/api/documentos/6342?doctipo=2010 
+2024-10-16 02:27:23.5487 loggerfile request https://localhost:44367/api/documentos/20257?doctipo=3010 
+2024-10-16 02:27:29.5921 loggerfile request https://localhost:44367/api/documentos/6342?doctipo=2010 
+2024-10-16 02:27:33.3486 loggerfile request https://localhost:44367/api/documentos 
+2024-10-16 02:27:33.6589 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-10-16 02:27:33.6589 loggerfile RenovarToken... 
+2024-10-16 02:27:33.6589 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-10-16 02:27:36.2161 loggerfile response.ErrorMessage:  
+2024-10-16 02:27:36.2161 loggerfile response.ErrorException:  
+2024-10-16 02:27:36.2161 loggerfile response.ProtocolVersion: 1.1 
+2024-10-16 02:27:36.2161 loggerfile response.StatusCode: OK 
+2024-10-16 02:27:36.2161 loggerfile response.StatusDescription: OK 
+2024-10-16 02:27:36.2161 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI5MDU2NDU0Iiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NjA1OTI0NTQsIm5iZiI6MTcyOTA1NjQ1NH0.AFQ14Jx3GvkMpkEVAisu6HtHvnlJXHaULli2SarHpKs","expires_in":31535999,"token_type":"bearer"} 
+2024-10-16 02:28:50.0701 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-16 02:29:56.7904 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-16 02:29:56.8243 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 02:30:06.4056 loggerfile request https://localhost:44367/api/documentos/20257?doctipo=3010 
+2024-10-16 02:30:32.1222 loggerfile request https://localhost:44367/api/documentos/20257?doctipo=3010 
+2024-10-16 02:30:32.9546 loggerfile request https://localhost:44367/api/productos/LCCDNCDN35 
+2024-10-16 02:30:32.9758 loggerfile request https://localhost:44367/api/documentos 
+2024-10-16 02:30:33.2089 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 02:30:38.9113 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-16 02:30:43.7769 loggerfile request https://localhost:44367/api/documentos/6409?doctipo=2010 
+2024-10-16 02:30:43.8394 loggerfile request https://localhost:44367/api/documentos/20257?doctipo=3010 
+2024-10-16 02:30:52.3111 loggerfile request https://localhost:44367/api/documentos/6409?doctipo=2010 
+2024-10-16 02:30:52.3862 loggerfile request https://localhost:44367/api/documentos/20257?doctipo=3010 
+2024-10-16 02:30:52.4858 loggerfile request https://localhost:44367/api/documentos/picking/produccion?docentry=6409 
+2024-10-16 02:31:47.8258 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-10-16 02:32:16.7565 loggerfile request https://localhost:44367/api/documentos/410981?doctipo=10 
+2024-10-16 02:35:31.0812 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-16 02:35:31.1027 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-16 02:35:31.1222 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 02:35:31.2400 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 02:35:33.4187 loggerfile request https://localhost:44367/api/documentos/411004?doctipo=10 
+2024-10-16 02:35:42.9146 loggerfile request https://localhost:44367/api/documentos/411004?doctipo=10 
+2024-10-16 02:35:43.0637 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 02:35:47.5048 loggerfile request https://localhost:44367/api/documentos/411009?doctipo=10 
+2024-10-16 02:35:58.9847 loggerfile request https://localhost:44367/api/documentos/411010?doctipo=10 
+2024-10-16 02:36:03.3495 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-16 02:36:07.0133 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-16 02:36:07.3277 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 02:36:13.8455 loggerfile request https://localhost:44367/api/documentos/411012?doctipo=10 
+2024-10-16 02:36:21.0543 loggerfile request https://localhost:44367/api/documentos/411012?doctipo=10 
+2024-10-16 02:36:21.2898 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 02:38:04.4299 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-16 02:38:06.6040 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=Admin&fechaini=20241001&fechafin=20241016 
+2024-10-16 02:38:22.5706 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20241001&fechafin=20241016 
+2024-10-16 02:38:56.1112 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20241015&fechafin=20241016 
+2024-10-16 02:39:02.5750 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20241014&fechafin=20241016 
+2024-10-16 02:44:56.7528 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-16 02:44:56.8198 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-16 02:44:56.8443 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 02:44:56.9502 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 02:45:01.4860 loggerfile request https://localhost:44367/api/documentos/411004?doctipo=10 
+2024-10-16 02:45:03.4878 loggerfile request https://localhost:44367/api/documentos/411004?doctipo=10 
+2024-10-16 02:45:03.6362 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 02:45:18.0749 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-16 02:45:24.6571 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-16 02:45:24.9534 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 02:45:29.1484 loggerfile request https://localhost:44367/api/documentos/411009?doctipo=10 
+2024-10-16 02:45:32.1058 loggerfile request https://localhost:44367/api/documentos/411010?doctipo=10 
+2024-10-16 02:45:35.6010 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-16 02:55:44.1258 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-16 02:55:45.5046 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-16 02:55:45.5531 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 02:55:45.8128 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 02:55:49.9502 loggerfile request https://localhost:44367/api/documentos/411009?doctipo=10 
+2024-10-16 02:55:51.4266 loggerfile request https://localhost:44367/api/documentos/411009?doctipo=10 
+2024-10-16 02:55:51.7238 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 02:56:15.7006 loggerfile request https://localhost:44367/api/documentos/411009?doctipo=10 
+2024-10-16 02:56:15.8665 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 02:56:28.7264 loggerfile request https://localhost:44367/api/documentos/411023?doctipo=10 
+2024-10-16 02:56:33.9808 loggerfile request https://localhost:44367/api/documentos/411029?doctipo=10 
+2024-10-16 02:56:35.2222 loggerfile request https://localhost:44367/api/documentos/411029?doctipo=10 
+2024-10-16 02:56:35.4220 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 02:57:19.6131 loggerfile request https://localhost:44367/api/documentos/411010?doctipo=10 
+2024-10-16 02:57:26.4124 loggerfile request https://localhost:44367/api/documentos/411004?doctipo=10 
+2024-10-16 02:57:31.6789 loggerfile request https://localhost:44367/api/documentos/411004?doctipo=10 
+2024-10-16 02:57:31.8253 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 02:57:35.9567 loggerfile request https://localhost:44367/api/documentos/411009?doctipo=10 
+2024-10-16 02:57:37.2699 loggerfile request https://localhost:44367/api/documentos/411009?doctipo=10 
+2024-10-16 02:57:37.4251 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 02:58:26.0824 loggerfile request https://localhost:44367/api/documentos/411015?doctipo=10 
+2024-10-16 02:59:13.2135 loggerfile request https://localhost:44367/api/documentos/411015?doctipo=10 
+2024-10-16 02:59:13.4151 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 03:00:35.2264 loggerfile request https://localhost:44367/api/documentos/411016?doctipo=10 
+2024-10-16 03:00:37.4788 loggerfile request https://localhost:44367/api/documentos/411016?doctipo=10 
+2024-10-16 03:00:37.6393 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 03:00:50.8546 loggerfile request https://localhost:44367/api/documentos/411015?doctipo=10 
+2024-10-16 03:00:55.8226 loggerfile request https://localhost:44367/api/documentos/411020?doctipo=10 
+2024-10-16 03:00:59.8734 loggerfile request https://localhost:44367/api/documentos/411020?doctipo=10 
+2024-10-16 03:01:00.1610 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 03:01:19.2127 loggerfile request https://localhost:44367/api/documentos/411020?doctipo=10 
+2024-10-16 03:01:25.9474 loggerfile request https://localhost:44367/api/documentos/411020?doctipo=10 
+2024-10-16 03:01:26.2393 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 03:05:30.9730 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-16 03:05:54.2582 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-16 03:05:54.5922 loggerfile request https://localhost:44367/api/productos/LCCDNCDN61 
+2024-10-16 03:05:54.6332 loggerfile request https://localhost:44367/api/productos/CECERMOL01 
+2024-10-16 03:05:54.7044 loggerfile request https://localhost:44367/api/documentos 
+2024-10-16 03:05:55.2550 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:05:55.3760 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:06:06.8899 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-10-16 03:06:06.9387 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-10-16 03:06:13.2401 loggerfile request https://localhost:44367/api/documentos/6410?doctipo=2010 
+2024-10-16 03:06:13.3270 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-16 03:06:59.8634 loggerfile request https://localhost:44367/api/documentos/6410?doctipo=2010 
+2024-10-16 03:07:12.5090 loggerfile request https://localhost:44367/api/documentos/6410?doctipo=2010 
+2024-10-16 03:08:22.0575 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-16 03:08:22.0731 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-16 03:08:22.0907 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:08:22.1880 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:08:26.2088 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-16 03:09:07.6811 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-16 03:10:42.4957 loggerfile request https://localhost:44367/api/productos/CECERMOL01 
+2024-10-16 03:10:42.5221 loggerfile request https://localhost:44367/api/documentos 
+2024-10-16 03:10:42.9903 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:10:43.0947 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:10:48.3798 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-10-16 03:10:51.5119 loggerfile request https://localhost:44367/api/documentos/6411?doctipo=2010 
+2024-10-16 03:10:51.5923 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-16 03:11:05.5032 loggerfile request https://localhost:44367/api/documentos/6411?doctipo=2010 
+2024-10-16 03:11:07.2491 loggerfile request https://localhost:44367/api/documentos 
+2024-10-16 03:11:07.7454 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-10-16 03:11:11.0894 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-16 03:11:11.1069 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-16 03:11:11.1299 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:11:11.2175 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:11:32.6291 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-10-16 03:13:06.7057 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-16 03:13:06.7277 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-16 
+2024-10-16 03:13:09.3836 loggerfile request https://localhost:44367/api/documentos/search?palabras==411011&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-10-16 03:13:13.1311 loggerfile request https://localhost:44367/api/documentos/search?palabras=411011&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-10-16 03:13:14.5610 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-16 03:13:14.8670 loggerfile request https://localhost:44367/api/socios/77139577-5C/ 
+2024-10-16 03:13:15.0965 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-16 03:13:15.7944 loggerfile request https://localhost:44367/api/socios/77139577-5C/TopFamilia 
+2024-10-16 03:13:15.8790 loggerfile request https://localhost:44367/api/socios/77139577-5C/TopRubro 
+2024-10-16 03:13:15.9370 loggerfile request https://localhost:44367/api/socios/77139577-5C/TopVentas 
+2024-10-16 03:15:17.0396 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-16 03:15:17.1046 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-16 03:15:17.1443 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:15:17.2467 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:15:22.8835 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:15:22.9996 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:15:24.6579 loggerfile request https://localhost:44367/api/documentos/410911?doctipo=10 
+2024-10-16 03:15:33.2313 loggerfile request https://localhost:44367/api/documentos/410911?doctipo=10 
+2024-10-16 03:15:33.3787 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 03:15:47.5885 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:15:47.6947 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:16:05.7382 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-16 03:16:11.6162 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-16 03:16:11.8089 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-16 
+2024-10-16 03:16:16.9190 loggerfile request https://localhost:44367/api/documentos/search?palabras=411011&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-10-16 03:16:18.2818 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-16 03:16:18.5908 loggerfile request https://localhost:44367/api/socios/77139577-5C/ 
+2024-10-16 03:16:18.6752 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-16 03:16:18.7875 loggerfile request https://localhost:44367/api/socios/77139577-5C/TopFamilia 
+2024-10-16 03:16:18.8250 loggerfile request https://localhost:44367/api/socios/77139577-5C/TopRubro 
+2024-10-16 03:16:18.8631 loggerfile request https://localhost:44367/api/socios/77139577-5C/TopVentas 
+2024-10-16 03:17:42.5263 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-16 03:17:42.5459 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-16 03:17:42.5693 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:17:42.6910 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:17:45.6646 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:17:45.7663 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:18:44.3573 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:21:35.7677 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 03:21:46.9239 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-10-16 03:21:54.4639 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-10-16 03:22:03.5138 loggerfile request https://localhost:44367/api/documentos/411011?doctipo=10 
+2024-10-16 04:17:51.9918 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-16 04:17:52.0123 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-16 04:17:52.0371 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 04:17:54.3166 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 04:18:02.8695 loggerfile request https://localhost:44367/api/documentos/411013?doctipo=10 
+2024-10-16 04:18:09.1404 loggerfile request https://localhost:44367/api/documentos/411013?doctipo=10 
+2024-10-16 04:18:09.3542 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 04:18:21.2231 loggerfile request https://localhost:44367/api/documentos/411013?doctipo=10 
+2024-10-16 04:18:21.4583 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 04:22:28.9672 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-16 04:22:29.0218 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-16 04:22:29.0469 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 04:22:33.2166 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 04:22:37.0305 loggerfile request https://localhost:44367/api/documentos/411013?doctipo=10 
+2024-10-16 04:22:40.4866 loggerfile request https://localhost:44367/api/documentos/411013?doctipo=10 
+2024-10-16 04:22:40.6935 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 04:22:53.2108 loggerfile request https://localhost:44367/api/documentos/411013?doctipo=10 
+2024-10-16 04:22:53.4245 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 04:24:54.4903 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-16 04:24:54.5147 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-16 04:24:54.5333 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 04:24:54.6856 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 04:24:57.6626 loggerfile request https://localhost:44367/api/documentos/411013?doctipo=10 
+2024-10-16 04:25:01.5186 loggerfile request https://localhost:44367/api/documentos/411013?doctipo=10 
+2024-10-16 04:25:01.7404 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 04:25:10.1556 loggerfile request https://localhost:44367/api/documentos/411013?doctipo=10 
+2024-10-16 04:25:10.8810 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 04:25:54.6086 loggerfile request https://localhost:44367/api/documentos/411014?doctipo=10 
+2024-10-16 04:26:02.0336 loggerfile request https://localhost:44367/api/documentos/411014?doctipo=10 
+2024-10-16 04:26:10.8566 loggerfile request https://localhost:44367/api/documentos/411015?doctipo=10 
+2024-10-16 04:26:15.4209 loggerfile request https://localhost:44367/api/documentos/411016?doctipo=10 
+2024-10-16 04:26:19.6187 loggerfile request https://localhost:44367/api/documentos/411020?doctipo=10 
+2024-10-16 04:26:27.6700 loggerfile request https://localhost:44367/api/documentos/411029?doctipo=10 
+2024-10-16 04:26:32.0890 loggerfile request https://localhost:44367/api/documentos/411032?doctipo=10 
+2024-10-16 04:26:35.7252 loggerfile request https://localhost:44367/api/documentos/411038?doctipo=10 
+2024-10-16 04:26:39.6874 loggerfile request https://localhost:44367/api/documentos/411012?doctipo=10 
+2024-10-16 04:26:57.0940 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-16 04:26:57.1526 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-16 
+2024-10-16 04:27:10.3602 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-10-16 04:27:14.1873 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-16 04:27:14.3367 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-16 04:27:14.5809 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopFamilia 
+2024-10-16 04:27:14.6436 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopRubro 
+2024-10-16 04:27:14.7121 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopVentas 
+2024-10-16 04:27:20.4070 loggerfile request https://localhost:44367/api/productos/search?palabras=CECERMOL01&solorecetas=&maestro=&bodegacode= 
+2024-10-16 04:27:37.9929 loggerfile request https://localhost:44367/api/documentos 
+2024-10-16 04:27:38.4967 loggerfile Input incial OPED.  Random: 21, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-16T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 5988000.0,
+  "Iva": 1137720.0,
+  "Total": 7125720.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-16T04:27:38.3615504-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-16T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3141600.0,
+  "Margen": 0.4753507014028056112224448898,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-10-16 04:27:38.5211 loggerfile Completando Lineas.  Random: 21, DocEntry: 0, ProdCode: CECERMOL01 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "CECERMOL01",
+  "ProdNombre": "2 LC LC O MOLIDA DE CERDO",
+  "PrecioFinal": 4990.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 1200.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 39,
+  "AnimalCode": 2,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.475,
+  "Costo": 2618.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 1200.0,
+  "TotalSolicitado": 5988000.0,
+  "TotalReal": null,
+  "PrecioUnitario": 4990.0,
+  "PrecioVolumen": 4990.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.23,
+  "Disponible": -9.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 2,
+  "RefrigeraNombre": "CONGELADO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "-",
+  "AnimalNombre": "CERDO",
+  "FamiliaNombre": "MEZCLA",
+  "SolicitadoAnterior": 1200.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-10-16 04:27:38.5348 loggerfile Antes de enviar a DB. Random: 21, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-16T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 5988000.0,
+  "Iva": 1137720.0,
+  "Total": 7125720.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-16T04:27:38.3615504-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-16T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3141600.0,
+  "Margen": 0.4753507014028056112224448898,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "CECERMOL01",
+      "ProdNombre": "2 LC LC O MOLIDA DE CERDO",
+      "PrecioFinal": 4990.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1200.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 39,
+      "AnimalCode": 2,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.475,
+      "Costo": 2618.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1200.0,
+      "TotalSolicitado": 5988000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 4990.0,
+      "PrecioVolumen": 4990.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.23,
+      "Disponible": -9.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "-",
+      "AnimalNombre": "CERDO",
+      "FamiliaNombre": "MEZCLA",
+      "SolicitadoAnterior": 1200.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-10-16 04:27:38.5738 loggerfile Despues de enviar a DB. Random: 21, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-16T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 5988000.0,
+  "Iva": 1137720.0,
+  "Total": 7125720.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-16T04:27:38.3615504-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-16T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3141600.0,
+  "Margen": 0.4753507014028056112224448898,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "CECERMOL01",
+      "ProdNombre": "2 LC LC O MOLIDA DE CERDO",
+      "PrecioFinal": 4990.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1200.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 39,
+      "AnimalCode": 2,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.475,
+      "Costo": 2618.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1200.0,
+      "TotalSolicitado": 5988000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 4990.0,
+      "PrecioVolumen": 4990.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.23,
+      "Disponible": -9.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "-",
+      "AnimalNombre": "CERDO",
+      "FamiliaNombre": "MEZCLA",
+      "SolicitadoAnterior": 1200.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-16 04:27:39.3854 loggerfile SaveChanges enviar a DB. Random: 21, DocEntry: 411040 {
+  "DocEntry": 411040,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-16T00:00:00-03:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 5988000.0,
+  "Iva": 1137720.0,
+  "Total": 7125720.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-16T04:27:38.3615504-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-10-16T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3141600.0,
+  "Margen": 0.4753507014028056112224448898,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 411040,
+      "DocLinea": 1645,
+      "LineaEstado": "A",
+      "ProdCode": "CECERMOL01",
+      "ProdNombre": "2 LC LC O MOLIDA DE CERDO",
+      "PrecioFinal": 4990.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1200.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 39,
+      "AnimalCode": 2,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.475,
+      "Costo": 2618.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1200.0,
+      "TotalSolicitado": 5988000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 4990.0,
+      "PrecioVolumen": 4990.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.23,
+      "Disponible": -9.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "-",
+      "AnimalNombre": "CERDO",
+      "FamiliaNombre": "MEZCLA",
+      "SolicitadoAnterior": 1200.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-16 04:27:41.2768 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:27:41.4700 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-16 04:27:41.5510 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-16 04:27:41.6721 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopFamilia 
+2024-10-16 04:27:41.7072 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopRubro 
+2024-10-16 04:27:41.7540 loggerfile request https://localhost:44367/api/socios/15375462-4C/TopVentas 
+2024-10-16 04:27:52.6986 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-16 04:27:57.4176 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:27:58.2494 loggerfile request https://localhost:44367/api/bandejas/CRED/411040 
+2024-10-16 04:27:58.5754 loggerfile request https://localhost:44367/api/socios/15375462-4C/ 
+2024-10-16 04:27:58.7698 loggerfile request https://localhost:44367/api/socios/cuenta/15375462-4C/ 
+2024-10-16 04:28:08.5232 loggerfile request https://localhost:44367/api/socios/ventas12m/15375462-4C/ 
+2024-10-16 04:28:08.6393 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=15375462-4C&top=10 
+2024-10-16 04:28:14.6865 loggerfile request https://localhost:44367/api/bandejas/CRED/411040 
+2024-10-16 04:28:14.9116 loggerfile request https://localhost:44367/api/bandejas/CRED/411040 
+2024-10-16 04:28:16.0589 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-16 04:28:18.5594 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-16 04:28:18.6107 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-16 04:28:18.6448 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 04:28:18.7600 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 04:28:24.5077 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:28:28.7218 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:28:28.9639 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 04:28:50.0770 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:28:50.6717 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 04:29:49.4532 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:29:56.5044 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:29:57.6434 loggerfile request https://localhost:44367/api/productos/CECERMOL01 
+2024-10-16 04:29:57.6779 loggerfile request https://localhost:44367/api/documentos 
+2024-10-16 04:29:57.9463 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 04:29:58.0449 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 04:30:04.3431 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-10-16 04:30:08.2269 loggerfile request https://localhost:44367/api/documentos/6412?doctipo=2010 
+2024-10-16 04:30:08.3011 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:30:19.8692 loggerfile request https://localhost:44367/api/documentos/6412?doctipo=2010 
+2024-10-16 04:31:12.5117 loggerfile request https://localhost:44367/api/documentos/6412?doctipo=2010 
+2024-10-16 04:31:12.6074 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:31:22.6845 loggerfile request https://localhost:44367/api/documentos/6412?doctipo=2010 
+2024-10-16 04:31:26.1196 loggerfile request https://localhost:44367/api/documentos 
+2024-10-16 04:31:28.0745 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-10-16 04:31:34.2313 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-16 04:31:34.2499 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-16 04:31:34.2899 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 04:31:36.0501 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 04:31:41.4638 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:31:51.3799 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:31:52.0766 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 04:32:17.4568 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:34:04.0311 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:34:04.9291 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 04:36:05.4056 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:36:23.2165 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:36:31.3648 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 04:40:57.0029 loggerfile request https://localhost:44367/api/documentos/411040?doctipo=10 
+2024-10-16 04:41:04.4539 loggerfile request https://localhost:44367/api/parametros 
+2024-10-16 04:43:02.6581 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-16 04:43:02.7573 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=OPERADOR-PROD&idgrupo2=OPERADOR-PROD 
+2024-10-16 04:43:03.0175 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-16 04:43:10.8314 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 

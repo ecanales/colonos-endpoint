@@ -1,0 +1,16 @@
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\bin\Debug\NLog.config
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\bin\Debug\Colonos.Defontana.dll
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\bin\Debug\Colonos.Defontana.pdb
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\bin\Debug\Colonos.Entidades.dll
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\bin\Debug\Newtonsoft.Json.dll
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\bin\Debug\NLog.dll
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\bin\Debug\RestSharp.dll
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\bin\Debug\Colonos.Entidades.pdb
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\bin\Debug\Newtonsoft.Json.xml
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\bin\Debug\NLog.xml
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\bin\Debug\RestSharp.xml
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\obj\Debug\Colonos.Defontana.csproj.AssemblyReference.cache
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\obj\Debug\Colonos.Defontana.csproj.CoreCompileInputs.cache
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\obj\Debug\Colonos.Defontana.csproj.CopyComplete
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\obj\Debug\Colonos.Defontana.dll
+D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Defontana\obj\Debug\Colonos.Defontana.pdb

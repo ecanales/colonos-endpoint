@@ -1,0 +1,263 @@
+2024-09-09 09:54:17.7095 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-09 09:54:18.6559 loggerfile RenovarToken... 
+2024-09-09 09:54:18.6559 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-09 09:54:19.3780 loggerfile response.ErrorMessage:  
+2024-09-09 09:54:19.3780 loggerfile response.ErrorException:  
+2024-09-09 09:54:19.3780 loggerfile response.ProtocolVersion: 1.1 
+2024-09-09 09:54:19.3790 loggerfile response.StatusCode: OK 
+2024-09-09 09:54:19.3790 loggerfile response.StatusDescription: OK 
+2024-09-09 09:54:19.3790 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTg4NTkzMyIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NzQyMjQ1OSwibmJmIjoxNzI1ODg2NDU5fQ.cxX_A_K1_w8Ejmv25iFDOmf7988BE7j8T2qmuv54qyI","expires_in":31535999,"token_type":"bearer"} 
+2024-09-09 09:54:27.5923 loggerfile request https://localhost:44366/api/productos/search?palabras=LCCDNCD199&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 09:54:29.2912 loggerfile request https://localhost:44366/api/productos/LCCDNCD199 
+2024-09-09 09:56:08.5049 loggerfile request https://localhost:44366/api/productos/LCCDNCD199 
+2024-09-09 09:56:13.3090 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-09 09:56:13.4347 loggerfile RenovarToken... 
+2024-09-09 09:56:13.4347 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-09 09:56:14.0187 loggerfile response.ErrorMessage:  
+2024-09-09 09:56:14.0187 loggerfile response.ErrorException:  
+2024-09-09 09:56:14.0187 loggerfile response.ProtocolVersion: 1.1 
+2024-09-09 09:56:14.0187 loggerfile response.StatusCode: OK 
+2024-09-09 09:56:14.0187 loggerfile response.StatusDescription: OK 
+2024-09-09 09:56:14.0187 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTg4NjU0MSIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NzQyMjU3MywibmJmIjoxNzI1ODg2NTczfQ.L7IBL8iDJyWoq-21hdJ7NLThRmdP-0u1tRkunH-PqAs","expires_in":31535999,"token_type":"bearer"} 
+2024-09-09 09:56:16.7160 loggerfile request https://localhost:44366/api/productos/search?palabras=LCCDNCD199&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 09:56:18.0118 loggerfile request https://localhost:44366/api/productos/LCCDNCD199 
+2024-09-09 09:58:05.3271 loggerfile request https://localhost:44366/api/productos/search?palabras=LCCDNCD199&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 09:58:06.4858 loggerfile request https://localhost:44366/api/productos/LCCDNCD199 
+2024-09-09 09:58:16.4488 loggerfile request https://localhost:44366/api/productos/search?palabras=AGANGP4688&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 09:58:17.6017 loggerfile request https://localhost:44366/api/productos/AGANGP4688 
+2024-09-09 11:14:02.4210 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-09 11:14:03.6168 loggerfile RenovarToken... 
+2024-09-09 11:14:03.6168 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-09 11:14:04.3599 loggerfile response.ErrorMessage:  
+2024-09-09 11:14:04.3599 loggerfile response.ErrorException:  
+2024-09-09 11:14:04.3599 loggerfile response.ProtocolVersion: 1.1 
+2024-09-09 11:14:04.3599 loggerfile response.StatusCode: OK 
+2024-09-09 11:14:04.3599 loggerfile response.StatusDescription: OK 
+2024-09-09 11:14:04.3599 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTg5MTI0NCIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NzQyNzI0NCwibmJmIjoxNzI1ODkxMjQ0fQ.VZnR_12M1_1A4I0eFSH26fzorMliucBVc7YwLn_dA1E","expires_in":31535999,"token_type":"bearer"} 
+2024-09-09 11:14:13.6062 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:14:14.2066 loggerfile mensaje: The 'Stock' property on 'spProducto_Busqueda_Maestro_Result' could not be set to a 'System.Decimal' value. You must set this property to a non-null value of type 'System.Int32'. . Data:    en System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   en lambda_method(Closure , Shaper )
+   en System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   en System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   en System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   en System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   en System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   en Colonos.DataAccess.Repositorios.Repo_OITM.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Inventario\Productos\Repo_OITM.cs:línea 168
+   en Colonos.Manager.ManagerProductos.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Inventario\ManagerProductos.cs:línea 947 
+2024-09-09 11:14:19.8356 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:14:20.2066 loggerfile mensaje: The 'Stock' property on 'spProducto_Busqueda_Maestro_Result' could not be set to a 'System.Decimal' value. You must set this property to a non-null value of type 'System.Int32'. . Data:    en System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   en lambda_method(Closure , Shaper )
+   en System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   en System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   en System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   en System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   en System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   en Colonos.DataAccess.Repositorios.Repo_OITM.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Inventario\Productos\Repo_OITM.cs:línea 168
+   en Colonos.Manager.ManagerProductos.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Inventario\ManagerProductos.cs:línea 947 
+2024-09-09 11:14:21.2398 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:14:21.5579 loggerfile mensaje: The 'Stock' property on 'spProducto_Busqueda_Maestro_Result' could not be set to a 'System.Decimal' value. You must set this property to a non-null value of type 'System.Int32'. . Data:    en System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   en lambda_method(Closure , Shaper )
+   en System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   en System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   en System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   en System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   en System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   en Colonos.DataAccess.Repositorios.Repo_OITM.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Inventario\Productos\Repo_OITM.cs:línea 168
+   en Colonos.Manager.ManagerProductos.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Inventario\ManagerProductos.cs:línea 947 
+2024-09-09 11:14:22.0885 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-09 11:14:25.6569 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:14:25.9950 loggerfile mensaje: The 'Stock' property on 'spProducto_Busqueda_Maestro_Result' could not be set to a 'System.Decimal' value. You must set this property to a non-null value of type 'System.Int32'. . Data:    en System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   en lambda_method(Closure , Shaper )
+   en System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   en System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   en System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   en System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   en System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   en Colonos.DataAccess.Repositorios.Repo_OITM.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Inventario\Productos\Repo_OITM.cs:línea 168
+   en Colonos.Manager.ManagerProductos.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Inventario\ManagerProductos.cs:línea 947 
+2024-09-09 11:14:45.3057 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:14:45.6986 loggerfile mensaje: The 'Stock' property on 'spProducto_Busqueda_Maestro_Result' could not be set to a 'System.Decimal' value. You must set this property to a non-null value of type 'System.Int32'. . Data:    en System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   en lambda_method(Closure , Shaper )
+   en System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   en System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   en System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   en System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   en System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   en Colonos.DataAccess.Repositorios.Repo_OITM.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Inventario\Productos\Repo_OITM.cs:línea 168
+   en Colonos.Manager.ManagerProductos.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Inventario\ManagerProductos.cs:línea 947 
+2024-09-09 11:14:48.4463 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:14:48.8123 loggerfile mensaje: The 'Stock' property on 'spProducto_Busqueda_Maestro_Result' could not be set to a 'System.Decimal' value. You must set this property to a non-null value of type 'System.Int32'. . Data:    en System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   en lambda_method(Closure , Shaper )
+   en System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   en System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   en System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   en System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   en System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   en Colonos.DataAccess.Repositorios.Repo_OITM.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Inventario\Productos\Repo_OITM.cs:línea 168
+   en Colonos.Manager.ManagerProductos.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Inventario\ManagerProductos.cs:línea 947 
+2024-09-09 11:15:18.3646 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:15:18.7127 loggerfile mensaje: The 'Stock' property on 'spProducto_Busqueda_Maestro_Result' could not be set to a 'System.Decimal' value. You must set this property to a non-null value of type 'System.Int32'. . Data:    en System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   en lambda_method(Closure , Shaper )
+   en System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   en System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   en System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   en System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   en System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   en Colonos.DataAccess.Repositorios.Repo_OITM.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Inventario\Productos\Repo_OITM.cs:línea 168
+   en Colonos.Manager.ManagerProductos.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Inventario\ManagerProductos.cs:línea 947 
+2024-09-09 11:16:43.1430 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:16:43.4572 loggerfile mensaje: The 'Stock' property on 'spProducto_Busqueda_Maestro_Result' could not be set to a 'System.Decimal' value. You must set this property to a non-null value of type 'System.Int32'. . Data:    en System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   en lambda_method(Closure , Shaper )
+   en System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   en System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   en System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   en System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   en System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   en Colonos.DataAccess.Repositorios.Repo_OITM.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Inventario\Productos\Repo_OITM.cs:línea 168
+   en Colonos.Manager.ManagerProductos.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Inventario\ManagerProductos.cs:línea 947 
+2024-09-09 11:17:15.9483 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:17:16.3561 loggerfile mensaje: The 'Asignado' property on 'spProducto_Busqueda_Maestro_Result' could not be set to a 'System.Decimal' value. You must set this property to a non-null value of type 'System.Int32'. . Data:    en System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   en lambda_method(Closure , Shaper )
+   en System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   en System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   en System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   en System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   en System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   en Colonos.DataAccess.Repositorios.Repo_OITM.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Inventario\Productos\Repo_OITM.cs:línea 168
+   en Colonos.Manager.ManagerProductos.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Inventario\ManagerProductos.cs:línea 947 
+2024-09-09 11:17:24.1125 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:17:24.4297 loggerfile mensaje: The 'Asignado' property on 'spProducto_Busqueda_Maestro_Result' could not be set to a 'System.Decimal' value. You must set this property to a non-null value of type 'System.Int32'. . Data:    en System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   en lambda_method(Closure , Shaper )
+   en System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   en System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   en System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   en System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   en System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   en Colonos.DataAccess.Repositorios.Repo_OITM.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Inventario\Productos\Repo_OITM.cs:línea 168
+   en Colonos.Manager.ManagerProductos.ListMaestro(String palabras, String solorecetas) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Inventario\ManagerProductos.cs:línea 947 
+2024-09-09 11:17:49.9080 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:17:55.1521 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:18:00.5947 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:19:14.8964 loggerfile request https://localhost:44366/api/productos/search?palabras=A&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:19:47.6281 loggerfile request https://localhost:44366/api/productos/search?palabras=&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:21:35.6801 loggerfile request https://localhost:44366/api/productos/search?palabras=&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:21:47.8978 loggerfile request https://localhost:44366/api/productos/search?palabras=&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:21:59.8248 loggerfile request https://localhost:44366/api/productos/search?palabras=&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:23:04.3406 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:23:30.2220 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-09 11:23:30.3337 loggerfile RenovarToken... 
+2024-09-09 11:23:30.3337 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-09 11:23:30.9879 loggerfile response.ErrorMessage:  
+2024-09-09 11:23:30.9879 loggerfile response.ErrorException:  
+2024-09-09 11:23:30.9879 loggerfile response.ProtocolVersion: 1.1 
+2024-09-09 11:23:30.9879 loggerfile response.StatusCode: OK 
+2024-09-09 11:23:30.9879 loggerfile response.StatusDescription: OK 
+2024-09-09 11:23:30.9879 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTg5MTI0NCIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NzQyNzgxMCwibmJmIjoxNzI1ODkxODEwfQ.uGGfDeQG42yXKGEgZkLV4gZGhfJqIBXj7p29LuBEVYc","expires_in":31535999,"token_type":"bearer"} 
+2024-09-09 11:23:41.1717 loggerfile request https://localhost:44366/api/productos/search/stock?palabras=pollo&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:23:49.7553 loggerfile request https://localhost:44366/api/productos/search?palabras=AGANG22012%09&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:23:56.4125 loggerfile request https://localhost:44366/api/productos/search?palabras=AGANG22012&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:25:46.5074 loggerfile request https://localhost:44366/api/productos/search?palabras=AGANG22012&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:26:48.0729 loggerfile request https://localhost:44366/api/productos/search?palabras=AGANG22012&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:27:08.0155 loggerfile request https://localhost:44366/api/productos/search?palabras=AGANG22012&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:27:36.5988 loggerfile request https://localhost:44366/api/productos/search?palabras=AGANG22012&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:28:11.6811 loggerfile request https://localhost:44366/api/productos/search?palabras=AGANG22012&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:28:20.2826 loggerfile request https://localhost:44366/api/productos/search?palabras=AGANG22012&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:39:31.6187 loggerfile request https://localhost:44366/api/productos/search?palabras=AGANG22012&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:39:51.9064 loggerfile request https://localhost:44366/api/productos/search?palabras=&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:41:50.8637 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-09 11:41:51.9146 loggerfile RenovarToken... 
+2024-09-09 11:41:51.9206 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-09 11:41:52.6287 loggerfile response.ErrorMessage:  
+2024-09-09 11:41:52.6287 loggerfile response.ErrorException:  
+2024-09-09 11:41:52.6287 loggerfile response.ProtocolVersion: 1.1 
+2024-09-09 11:41:52.6287 loggerfile response.StatusCode: OK 
+2024-09-09 11:41:52.6287 loggerfile response.StatusDescription: OK 
+2024-09-09 11:41:52.6287 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTg5MjYxNyIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NzQyODkxMiwibmJmIjoxNzI1ODkyOTEyfQ.amy8uS2ksm2AiYEWQndHsPKxHpQ5V1e9Muf01UWJB74","expires_in":31535999,"token_type":"bearer"} 
+2024-09-09 11:42:01.5560 loggerfile request https://localhost:44366/api/productos/search?palabras=&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 11:42:47.9300 loggerfile request https://localhost:44366/api/productos/search?palabras=&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 12:08:40.8304 loggerfile request https://localhost:44366/api/productos/search/stock?palabras=vafil22009&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 12:08:55.1769 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-09 12:08:55.2906 loggerfile RenovarToken... 
+2024-09-09 12:08:55.2906 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-09 12:08:55.9608 loggerfile response.ErrorMessage:  
+2024-09-09 12:08:55.9608 loggerfile response.ErrorException:  
+2024-09-09 12:08:55.9608 loggerfile response.ProtocolVersion: 1.1 
+2024-09-09 12:08:55.9608 loggerfile response.StatusCode: OK 
+2024-09-09 12:08:55.9608 loggerfile response.StatusDescription: OK 
+2024-09-09 12:08:55.9608 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTg5Mzk1MCIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NzQzMDUzNSwibmJmIjoxNzI1ODk0NTM1fQ.lkl-2E-1hdSF5J9xQi48QZnGbWjQUOGFwae2O1PJaNo","expires_in":31535999,"token_type":"bearer"} 
+2024-09-09 12:09:00.1918 loggerfile request https://localhost:44366/api/productos/search?palabras=vafil22009&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 12:11:07.8065 loggerfile request https://localhost:44366/api/productos/VAFIL22009 
+2024-09-09 12:11:13.6440 loggerfile request https://localhost:44366/api/productos/VAFIL22009 
+2024-09-09 12:11:15.5516 loggerfile request https://localhost:44366/api/productos 
+2024-09-09 12:11:15.5875 loggerfile RenovarToken... 
+2024-09-09 12:11:15.5875 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-09 12:11:16.0971 loggerfile response.ErrorMessage:  
+2024-09-09 12:11:16.0971 loggerfile response.ErrorException:  
+2024-09-09 12:11:16.0971 loggerfile response.ProtocolVersion: 1.1 
+2024-09-09 12:11:16.0971 loggerfile response.StatusCode: OK 
+2024-09-09 12:11:16.0971 loggerfile response.StatusDescription: OK 
+2024-09-09 12:11:16.0971 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTg5NDYzMCIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NzQzMDY3NSwibmJmIjoxNzI1ODk0Njc1fQ.7LVS4c36GZjyv5E7mfkvFrnoRnMp4_aeVfD-ZA1X9Wk","expires_in":31535999,"token_type":"bearer"} 
+2024-09-09 12:11:16.7657 loggerfile request https://localhost:44366/api/productos/search?palabras=VAFIL22009&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 13:35:13.1396 loggerfile request https://localhost:44366/api/productos/bodegas 
+2024-09-09 13:35:13.3520 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-09-09 13:35:26.7351 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-09 13:35:30.0160 loggerfile request https://localhost:44366/api/documentos/5343?doctipo=2010 
+2024-09-09 13:35:30.4319 loggerfile request https://localhost:44366/api/documentos/20053?doctipo=3010 
+2024-09-09 15:14:52.1522 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-09 15:14:52.3586 loggerfile RenovarToken... 
+2024-09-09 15:14:52.3586 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-09 15:14:53.1117 loggerfile response.ErrorMessage:  
+2024-09-09 15:14:53.1117 loggerfile response.ErrorException:  
+2024-09-09 15:14:53.1117 loggerfile response.ProtocolVersion: 1.1 
+2024-09-09 15:14:53.1117 loggerfile response.StatusCode: OK 
+2024-09-09 15:14:53.1117 loggerfile response.StatusDescription: OK 
+2024-09-09 15:14:53.1117 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTkwNTMwOCIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NzQ0MTY5MiwibmJmIjoxNzI1OTA1NjkyfQ.qGuPjNWcXR9eFGiybJZt7R0nnXuq3VdRPqiMM8rdM50","expires_in":31535999,"token_type":"bearer"} 
+2024-09-09 15:15:18.2714 loggerfile request https://localhost:44366/api/productos/search?palabras=vaoprmo500&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 15:15:24.3275 loggerfile request https://localhost:44366/api/productos/search?palabras=mo500&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 15:15:31.7676 loggerfile request https://localhost:44366/api/productos/VAOTRMO500 
+2024-09-09 15:15:46.7310 loggerfile request https://localhost:44366/api/productos/VAOTRMO500 
+2024-09-09 15:15:50.0170 loggerfile request https://localhost:44366/api/productos 
+2024-09-09 15:15:50.0239 loggerfile RenovarToken... 
+2024-09-09 15:15:50.0239 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-09 15:15:50.2314 loggerfile response.ErrorMessage:  
+2024-09-09 15:15:50.2314 loggerfile response.ErrorException:  
+2024-09-09 15:15:50.2314 loggerfile response.ProtocolVersion: 1.1 
+2024-09-09 15:15:50.2314 loggerfile response.StatusCode: OK 
+2024-09-09 15:15:50.2314 loggerfile response.StatusDescription: OK 
+2024-09-09 15:15:50.2314 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTkwNTMwOCIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NzQ0MTc1MCwibmJmIjoxNzI1OTA1NzUwfQ.RJ2lIyDsT4J_NOVYTE4aprYzrzGnKtS5Z0oA4gDWb2U","expires_in":31535999,"token_type":"bearer"} 
+2024-09-09 15:15:50.6373 loggerfile request https://localhost:44366/api/productos/search?palabras=VAOTRMO500&solorecetas=&maestro=S&bodegacode= 
+2024-09-09 15:18:09.3600 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-09 15:18:28.1486 loggerfile request https://localhost:44366/api/documentos/410289?doctipo=10 
+2024-09-09 15:20:10.2273 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-09 15:20:16.8074 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-09 15:30:29.6244 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-09 15:34:59.9570 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-09 15:35:50.3572 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-09 15:35:54.3536 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-09 15:36:29.2326 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-09 15:38:01.8058 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-09 15:38:02.8829 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-09 15:38:04.1056 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-09 15:38:19.1985 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-09 15:38:19.8662 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-09 15:39:09.9938 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-09 15:39:13.9899 loggerfile request https://localhost:44366/api/informes/seguimientooperacion?usuario=&fechaini=20240901&fechafin=20240909 
+2024-09-09 15:39:26.8396 loggerfile request https://localhost:44366/api/informes/seguimientooperacion?usuario=LESPINDOLA&fechaini=20240901&fechafin=20240909 
+2024-09-09 15:39:31.1002 loggerfile request https://localhost:44366/api/informes/seguimientooperacion?usuario=LESPINDOLA&fechaini=20240909&fechafin=20240909 
+2024-09-09 15:41:35.8820 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&usuario=&desde=&hasta= 
+2024-09-09 16:35:46.3777 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-09 16:36:04.7645 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-09 
+2024-09-09 16:37:28.3904 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-09&hasta=2024-09-09 
+2024-09-09 16:40:51.0048 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-09&hasta=2024-09-09 
+2024-09-09 17:02:29.0492 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-09&hasta=2024-09-09 
+2024-09-09 17:02:47.4149 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-09&hasta=2024-09-09 
+2024-09-09 17:03:13.7406 loggerfile request https://localhost:44366/api/documentos/search?palabras=410281&vendedorcode=&doctipo=10&usuario=Admin 
+2024-09-09 17:03:30.4136 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-09&hasta=2024-09-09 
+2024-09-09 17:04:20.5089 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-09&hasta=2024-09-09 
+2024-09-09 17:05:18.2671 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-09&hasta=2024-09-09 
+2024-09-09 17:05:36.9428 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-09 17:05:47.7564 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-09 
+2024-09-09 17:06:08.3756 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-09 17:06:15.1636 loggerfile request https://localhost:44366/api/informes/seguimientooperacion?usuario=&fechaini=20240909&fechafin=20240909 
+2024-09-09 17:11:16.1791 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=KVICENCIO&desde=2024-09-09&hasta=2024-09-09 
+2024-09-09 17:11:26.1741 loggerfile request https://localhost:44366/api/informes/seguimientooperacion?usuario=KVICENCIO&fechaini=20240909&fechafin=20240909 

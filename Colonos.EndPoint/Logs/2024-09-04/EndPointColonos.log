@@ -1,0 +1,1466 @@
+2024-09-04 08:41:51.9268 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-09-04 08:42:00.8744 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 08:42:01.2084 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 08:42:21.6300 loggerfile request https://localhost:44366/api/productos/bodegas 
+2024-09-04 08:42:21.7905 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-04 08:42:41.2561 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-09-04 08:42:41.2882 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 08:44:18.6526 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 08:49:50.4668 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 08:49:56.0601 loggerfile request https://localhost:44366/api/socios/search?palabras=76.172.119-4C&usuario=Admin 
+2024-09-04 08:52:37.8267 loggerfile request https://localhost:44366/api/socios/76.172.119-4C/ 
+2024-09-04 08:52:38.0112 loggerfile mensaje: Socio no existe. Data:  
+2024-09-04 09:00:26.4268 loggerfile request https://localhost:44366/api/socios/search?palabras=76.172.119-4C&usuario=Admin 
+2024-09-04 09:00:43.2140 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 09:00:49.5787 loggerfile request https://localhost:44366/api/socios/search?palabras=76.172.119-4C&usuario=Admin 
+2024-09-04 09:01:00.5027 loggerfile request https://localhost:44366/api/socios/76.172.119-4C/ 
+2024-09-04 09:01:00.8104 loggerfile request https://localhost:44366/api/bandejas/CRED?sociocode=76.172.119-4C&top=0 
+2024-09-04 09:01:28.7019 loggerfile request https://localhost:44366/api/socios/search?palabras=NIETO Y BARRERA&usuario=Admin 
+2024-09-04 09:02:26.2416 loggerfile request https://localhost:44366/api/socios/76.172.119-4C/ 
+2024-09-04 09:02:26.3538 loggerfile request https://localhost:44366/api/socios 
+2024-09-04 09:02:29.5140 loggerfile request https://localhost:44366/api/socios/76.172.119-4C/ 
+2024-09-04 09:02:29.6048 loggerfile request https://localhost:44366/api/bandejas/CRED?sociocode=76.172.119-4C&top=0 
+2024-09-04 09:02:44.3588 loggerfile request https://localhost:44366/api/socios/search?palabras=NIETO Y BARRERA&usuario=Admin 
+2024-09-04 09:02:58.6226 loggerfile request https://localhost:44366/api/socios/76.172.119-4C/ 
+2024-09-04 09:02:58.7144 loggerfile request https://localhost:44366/api/socios 
+2024-09-04 09:03:00.9034 loggerfile request https://localhost:44366/api/socios/76.172.119-4C/ 
+2024-09-04 09:03:00.9864 loggerfile request https://localhost:44366/api/bandejas/CRED?sociocode=76.172.119-4C&top=0 
+2024-09-04 09:03:06.6406 loggerfile request https://localhost:44366/api/socios/search?palabras=NIETO Y BARRERA&usuario=Admin 
+2024-09-04 09:05:36.8541 loggerfile request https://localhost:44366/api/socios/search?palabras=NIETO Y BARRERA&usuario=Admin 
+2024-09-04 09:05:39.9963 loggerfile request https://localhost:44366/api/socios/76172119-4C/ 
+2024-09-04 09:05:40.1086 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 09:05:40.2686 loggerfile request https://localhost:44366/api/socios/76172119-4C/TopFamilia 
+2024-09-04 09:05:40.3155 loggerfile request https://localhost:44366/api/socios/76172119-4C/TopRubro 
+2024-09-04 09:05:40.3731 loggerfile request https://localhost:44366/api/socios/76172119-4C/TopVentas 
+2024-09-04 09:05:46.5040 loggerfile request https://localhost:44366/api/socios/search?palabras=NIETO Y BARRERA&usuario=Admin 
+2024-09-04 09:05:52.4225 loggerfile request https://localhost:44366/api/socios/76172119-4C/ 
+2024-09-04 09:05:52.6118 loggerfile request https://localhost:44366/api/bandejas/CRED?sociocode=76172119-4C&top=0 
+2024-09-04 09:07:13.1758 loggerfile request https://localhost:44366/api/socios/search?palabras=SANCHEZ MONICA&usuario=Admin 
+2024-09-04 09:07:26.8676 loggerfile request https://localhost:44366/api/socios/51077010-2C/ 
+2024-09-04 09:07:26.9683 loggerfile request https://localhost:44366/api/bandejas/CRED?sociocode=51077010-2C&top=0 
+2024-09-04 09:07:51.6657 loggerfile request https://localhost:44366/api/socios/search?palabras=51077010-2&usuario=Admin 
+2024-09-04 09:10:50.0634 loggerfile request https://localhost:44366/api/socios/51077010-2C/ 
+2024-09-04 09:10:50.1797 loggerfile request https://localhost:44366/api/bandejas/CRED?sociocode=51077010-2C&top=0 
+2024-09-04 09:11:20.2006 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-04 09:11:20.2421 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-04 
+2024-09-04 09:11:32.9850 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-04&hasta=2024-09-04 
+2024-09-04 09:48:23.1863 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-04 09:48:24.9457 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-04 
+2024-09-04 09:52:00.3724 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-04 09:52:04.6866 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-04 
+2024-09-04 10:15:34.1900 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-04 10:15:34.2644 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-04 
+2024-09-04 10:22:58.9109 loggerfile request https://localhost:44366/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-09-04 10:23:06.8561 loggerfile request https://localhost:44366/api/socios/09908765-KC/ 
+2024-09-04 10:23:07.8098 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 10:23:08.5381 loggerfile request https://localhost:44366/api/socios/09908765-KC/TopFamilia 
+2024-09-04 10:23:08.6044 loggerfile request https://localhost:44366/api/socios/09908765-KC/TopRubro 
+2024-09-04 10:23:08.6757 loggerfile request https://localhost:44366/api/socios/09908765-KC/TopVentas 
+2024-09-04 10:27:25.8583 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-04 10:27:27.3560 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-04 
+2024-09-04 10:37:17.1616 loggerfile request https://localhost:44366/api/socios/search?palabras=gustav&usuario=Admin 
+2024-09-04 10:37:24.9870 loggerfile request https://localhost:44366/api/socios/13436067-4C/ 
+2024-09-04 10:37:25.1157 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 10:37:25.2840 loggerfile request https://localhost:44366/api/socios/13436067-4C/TopFamilia 
+2024-09-04 10:37:25.3220 loggerfile request https://localhost:44366/api/socios/13436067-4C/TopRubro 
+2024-09-04 10:37:25.3650 loggerfile request https://localhost:44366/api/socios/13436067-4C/TopVentas 
+2024-09-04 10:37:31.5105 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-09-04 10:40:34.1321 loggerfile request https://localhost:44366/api/socios/search?palabras=gustav&usuario=Admin 
+2024-09-04 10:40:41.8055 loggerfile request https://localhost:44366/api/socios/09908765-KC/ 
+2024-09-04 10:40:42.0812 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 10:40:42.4531 loggerfile request https://localhost:44366/api/socios/09908765-KC/TopFamilia 
+2024-09-04 10:40:42.6425 loggerfile request https://localhost:44366/api/socios/09908765-KC/TopRubro 
+2024-09-04 10:40:42.6969 loggerfile request https://localhost:44366/api/socios/09908765-KC/TopVentas 
+2024-09-04 10:41:37.3080 loggerfile request https://localhost:44366/api/socios/search?palabras=gustav&usuario=Admin 
+2024-09-04 10:41:44.4069 loggerfile request https://localhost:44366/api/socios/13436067-4C/ 
+2024-09-04 10:41:44.6280 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 10:41:44.9216 loggerfile request https://localhost:44366/api/socios/13436067-4C/TopFamilia 
+2024-09-04 10:41:45.1147 loggerfile request https://localhost:44366/api/socios/13436067-4C/TopRubro 
+2024-09-04 10:41:45.2000 loggerfile request https://localhost:44366/api/socios/13436067-4C/TopVentas 
+2024-09-04 10:42:05.3757 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-09-04 10:43:30.9549 loggerfile request https://localhost:44366/api/socios/search?palabras=gustav&usuario=Admin 
+2024-09-04 10:43:37.8907 loggerfile request https://localhost:44366/api/socios/13436067-4C/ 
+2024-09-04 10:43:38.9876 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 10:43:39.2849 loggerfile request https://localhost:44366/api/socios/13436067-4C/TopFamilia 
+2024-09-04 10:43:39.6461 loggerfile request https://localhost:44366/api/socios/13436067-4C/TopRubro 
+2024-09-04 10:43:39.7416 loggerfile request https://localhost:44366/api/socios/13436067-4C/TopVentas 
+2024-09-04 12:00:13.2539 loggerfile request https://localhost:44366/api/productos/bodegas 
+2024-09-04 12:00:15.2429 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-04 12:00:45.9561 loggerfile request https://localhost:44366/api/documentos/5314?doctipo=2010 
+2024-09-04 12:00:46.4969 loggerfile request https://localhost:44366/api/documentos/20047?doctipo=3010 
+2024-09-04 12:00:55.6601 loggerfile request https://localhost:44366/api/documentos/5314?doctipo=2010 
+2024-09-04 12:00:55.7265 loggerfile request https://localhost:44366/api/documentos/20047?doctipo=3010 
+2024-09-04 12:03:45.9335 loggerfile request https://localhost:44366/api/documentos/picking/produccion?docentry=5314 
+2024-09-04 12:05:03.3592 loggerfile request https://localhost:44366/api/documentos/picking/produccion?docentry=5314 
+2024-09-04 15:41:47.5486 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-04 15:41:52.1203 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-04 
+2024-09-04 15:41:59.7102 loggerfile request https://localhost:44366/api/documentos/search?palabras=410236&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-09-04 15:42:05.7117 loggerfile request https://localhost:44366/api/documentos/410236?doctipo=10 
+2024-09-04 15:42:07.8568 loggerfile request https://localhost:44366/api/socios/76311815-0C/ 
+2024-09-04 15:42:08.6321 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 15:43:38.3372 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-04 15:43:38.3593 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-04 
+2024-09-04 15:43:45.8777 loggerfile request https://localhost:44366/api/documentos/search?palabras=410236&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-09-04 15:44:43.3269 loggerfile request https://localhost:44366/api/documentos/410236?doctipo=10 
+2024-09-04 15:45:10.6237 loggerfile request https://localhost:44366/api/socios/76311815-0C/ 
+2024-09-04 15:45:11.3919 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 15:48:10.1747 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-04 15:48:10.3359 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-04 
+2024-09-04 15:48:23.3501 loggerfile request https://localhost:44366/api/documentos/search?palabras=410236&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-09-04 15:48:27.3183 loggerfile request https://localhost:44366/api/documentos/410236?doctipo=10 
+2024-09-04 15:48:27.7252 loggerfile request https://localhost:44366/api/socios/76311815-0C/ 
+2024-09-04 15:48:27.8536 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 15:48:58.4574 loggerfile request https://localhost:44366/api/socios/76311815-0C/TopFamilia 
+2024-09-04 15:48:58.6752 loggerfile request https://localhost:44366/api/socios/76311815-0C/TopRubro 
+2024-09-04 15:48:58.7288 loggerfile request https://localhost:44366/api/socios/76311815-0C/TopVentas 
+2024-09-04 15:49:18.5929 loggerfile request https://localhost:44366/api/documentos/410236?doctipo=10 
+2024-09-04 15:49:18.8020 loggerfile request https://localhost:44366/api/documentos/410236?doctipo=10 
+2024-09-04 15:49:19.1168 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 15:49:20.8104 loggerfile request https://localhost:44366/api/documentos/410236?doctipo=10 
+2024-09-04 15:49:20.9538 loggerfile request https://localhost:44366/api/socios/76311815-0C/ 
+2024-09-04 15:49:21.0575 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 15:49:36.9155 loggerfile request https://localhost:44366/api/socios/76311815-0C/TopFamilia 
+2024-09-04 15:49:36.9525 loggerfile request https://localhost:44366/api/socios/76311815-0C/TopRubro 
+2024-09-04 15:49:36.9896 loggerfile request https://localhost:44366/api/socios/76311815-0C/TopVentas 
+2024-09-04 15:51:44.5344 loggerfile request https://localhost:44366/api/documentos/410236?doctipo=10 
+2024-09-04 15:51:44.7042 loggerfile request https://localhost:44366/api/socios/76311815-0C/ 
+2024-09-04 15:51:44.7940 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 15:52:04.9302 loggerfile request https://localhost:44366/api/socios/76311815-0C/TopFamilia 
+2024-09-04 15:52:04.9966 loggerfile request https://localhost:44366/api/socios/76311815-0C/TopRubro 
+2024-09-04 15:52:05.0298 loggerfile request https://localhost:44366/api/socios/76311815-0C/TopVentas 
+2024-09-04 15:52:37.0142 loggerfile request https://localhost:44366/api/documentos/410236?doctipo=10 
+2024-09-04 15:52:37.1626 loggerfile request https://localhost:44366/api/socios/76311815-0C/ 
+2024-09-04 15:52:37.2592 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 15:53:09.0943 loggerfile request https://localhost:44366/api/socios/76311815-0C/TopFamilia 
+2024-09-04 15:53:09.2320 loggerfile request https://localhost:44366/api/socios/76311815-0C/TopRubro 
+2024-09-04 15:53:09.2759 loggerfile request https://localhost:44366/api/socios/76311815-0C/TopVentas 
+2024-09-04 16:10:29.8099 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-04 16:10:29.9768 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-04 
+2024-09-04 16:11:38.9473 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-04 16:11:38.9913 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-04 
+2024-09-04 16:12:07.6889 loggerfile request https://localhost:44366/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-09-04 16:12:23.8468 loggerfile request https://localhost:44366/api/socios/09908765-KC/ 
+2024-09-04 16:12:23.9989 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 16:12:24.2312 loggerfile request https://localhost:44366/api/socios/09908765-KC/TopFamilia 
+2024-09-04 16:12:24.2781 loggerfile request https://localhost:44366/api/socios/09908765-KC/TopRubro 
+2024-09-04 16:12:24.3532 loggerfile request https://localhost:44366/api/socios/09908765-KC/TopVentas 
+2024-09-04 16:12:32.6124 loggerfile request https://localhost:44366/api/productos/search?palabras=polo&solorecetas=&maestro=&bodegacode= 
+2024-09-04 16:12:34.8938 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-09-04 16:13:18.7943 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 16:13:19.3149 loggerfile Input incial OPED.  Random: 12, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-04T00:00:00-04:00",
+  "SocioCode": "09908765-KC",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "MMORALES",
+  "UsuarioCode": "0",
+  "Neto": 3000.0,
+  "Iva": 570.0,
+  "Total": 3570.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-04T16:13:14.4666426-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO CZWIKLITZER",
+  "FechaEntrega": "2024-09-04T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 2400.0,
+  "Margen": 0.2,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSF_CONTRA_ENTREG",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSF_CONTRA_ENTREG",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "PRUEBA, NO PROCESAR",
+  "VendedorNombre": "Maickel Morales",
+  "PED1": []
+} 
+2024-09-04 16:13:19.7653 loggerfile Completando Lineas.  Random: 12, DocEntry: 0, ProdCode: AVPOLPE999 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "AVPOLPE999",
+  "ProdNombre": "2 AG AG O PECHUGA POLLO DESH IQF 330",
+  "PrecioFinal": 3000.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 1.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 176,
+  "AnimalCode": 3,
+  "TipoCode": "A",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.2,
+  "Costo": 2400.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 1.0,
+  "TotalSolicitado": 3000.0,
+  "TotalReal": null,
+  "PrecioUnitario": 3000.0,
+  "PrecioVolumen": 2880.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.2,
+  "Disponible": 0.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 2,
+  "RefrigeraNombre": "CONGELADO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 4,
+  "MarcaNombre": "AGROSUPER",
+  "FrmtoVentaNombre": "DESHUESADA",
+  "AnimalNombre": "AVE",
+  "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+  "SolicitadoAnterior": 0.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-09-04 16:13:19.7653 loggerfile Antes de enviar a DB. Random: 12, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-04T00:00:00-04:00",
+  "SocioCode": "09908765-KC",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "MMORALES",
+  "UsuarioCode": "0",
+  "Neto": 3000.0,
+  "Iva": 570.0,
+  "Total": 3570.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-04T16:13:14.4666426-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO CZWIKLITZER",
+  "FechaEntrega": "2024-09-04T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 2400.0,
+  "Margen": 0.2,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSF_CONTRA_ENTREG",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSF_CONTRA_ENTREG",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "PRUEBA, NO PROCESAR",
+  "VendedorNombre": "Maickel Morales",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "AVPOLPE999",
+      "ProdNombre": "2 AG AG O PECHUGA POLLO DESH IQF 330",
+      "PrecioFinal": 3000.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 176,
+      "AnimalCode": 3,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.2,
+      "Costo": 2400.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 3000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 3000.0,
+      "PrecioVolumen": 2880.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 4,
+      "MarcaNombre": "AGROSUPER",
+      "FrmtoVentaNombre": "DESHUESADA",
+      "AnimalNombre": "AVE",
+      "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-09-04 16:13:19.9322 loggerfile Despues de enviar a DB. Random: 12, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-04T00:00:00-04:00",
+  "SocioCode": "09908765-KC",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "MMORALES",
+  "UsuarioCode": "0",
+  "Neto": 3000.0,
+  "Iva": 570.0,
+  "Total": 3570.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-04T16:13:14.4666426-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO CZWIKLITZER",
+  "FechaEntrega": "2024-09-04T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 2400.0,
+  "Margen": 0.2,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSF_CONTRA_ENTREG",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSF_CONTRA_ENTREG",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "PRUEBA, NO PROCESAR",
+  "VendedorNombre": "Maickel Morales",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "AVPOLPE999",
+      "ProdNombre": "2 AG AG O PECHUGA POLLO DESH IQF 330",
+      "PrecioFinal": 3000.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 176,
+      "AnimalCode": 3,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.2,
+      "Costo": 2400.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 3000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 3000.0,
+      "PrecioVolumen": 2880.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 4,
+      "MarcaNombre": "AGROSUPER",
+      "FrmtoVentaNombre": "DESHUESADA",
+      "AnimalNombre": "AVE",
+      "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-04 16:13:20.3383 loggerfile SaveChanges enviar a DB. Random: 12, DocEntry: 410239 {
+  "DocEntry": 410239,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-04T00:00:00-04:00",
+  "SocioCode": "09908765-KC",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "MMORALES",
+  "UsuarioCode": "0",
+  "Neto": 3000.0,
+  "Iva": 570.0,
+  "Total": 3570.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-04T16:13:14.4666426-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO CZWIKLITZER",
+  "FechaEntrega": "2024-09-04T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 2400.0,
+  "Margen": 0.2,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSF_CONTRA_ENTREG",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSF_CONTRA_ENTREG",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "PRUEBA, NO PROCESAR",
+  "VendedorNombre": "Maickel Morales",
+  "PED1": [
+    {
+      "DocEntry": 410239,
+      "DocLinea": 357,
+      "LineaEstado": "A",
+      "ProdCode": "AVPOLPE999",
+      "ProdNombre": "2 AG AG O PECHUGA POLLO DESH IQF 330",
+      "PrecioFinal": 3000.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 176,
+      "AnimalCode": 3,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.2,
+      "Costo": 2400.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 3000.0,
+      "TotalReal": null,
+      "PrecioUnitario": 3000.0,
+      "PrecioVolumen": 2880.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 4,
+      "MarcaNombre": "AGROSUPER",
+      "FrmtoVentaNombre": "DESHUESADA",
+      "AnimalNombre": "AVE",
+      "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-04 16:13:20.9664 loggerfile request https://localhost:44366/api/documentos/410239?doctipo=10 
+2024-09-04 16:13:21.2075 loggerfile request https://localhost:44366/api/socios/09908765-KC/ 
+2024-09-04 16:13:21.2983 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 16:13:36.2172 loggerfile request https://localhost:44366/api/socios/09908765-KC/TopFamilia 
+2024-09-04 16:13:36.3715 loggerfile request https://localhost:44366/api/socios/09908765-KC/TopRubro 
+2024-09-04 16:13:36.4232 loggerfile request https://localhost:44366/api/socios/09908765-KC/TopVentas 
+2024-09-04 16:13:57.4809 loggerfile request https://localhost:44366/api/bandejas/CRED?estado=0&visible=1 
+2024-09-04 16:14:01.9461 loggerfile request https://localhost:44366/api/documentos/410239?doctipo=10 
+2024-09-04 16:14:02.4374 loggerfile request https://localhost:44366/api/bandejas/CRED/410239 
+2024-09-04 16:14:02.8779 loggerfile request https://localhost:44366/api/socios/09908765-KC/ 
+2024-09-04 16:14:03.2821 loggerfile request https://localhost:44366/api/socios/cuenta/09908765-KC/ 
+2024-09-04 16:14:05.4356 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 274
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Socios\ManagerSocios.cs:línea 568 
+2024-09-04 16:14:05.7202 loggerfile request https://localhost:44366/api/socios/ventas12m/09908765-KC/ 
+2024-09-04 16:14:05.8353 loggerfile request https://localhost:44366/api/bandejas/CRED?sociocode=09908765-KC&top=10 
+2024-09-04 16:14:16.8675 loggerfile request https://localhost:44366/api/bandejas/CRED/410239 
+2024-09-04 16:14:16.9177 loggerfile request https://localhost:44366/api/bandejas/CRED/410239 
+2024-09-04 16:14:17.7199 loggerfile request https://localhost:44366/api/bandejas/CRED?estado=0&visible=1 
+2024-09-04 16:15:13.5339 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-09-04 16:15:13.5759 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 16:15:13.6804 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 16:15:18.2641 loggerfile request https://localhost:44366/api/documentos/410239?doctipo=10 
+2024-09-04 16:15:24.4346 loggerfile request https://localhost:44366/api/documentos/410239?doctipo=10 
+2024-09-04 16:15:24.6296 loggerfile request https://localhost:44366/api/productos/AVPOLPE999 
+2024-09-04 16:15:24.6862 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 16:15:25.1871 loggerfile mensaje: productos no tienes stock para generar el Picking. Data:    en Colonos.DataAccess.Repositorios.Repo_OPKG.Add(Documento item) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Preparacion\Repo_OPKG.cs:línea 96
+   en Colonos.Manager.ManagerPicking.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Preparacion\ManagerPicking.cs:línea 49 
+2024-09-04 16:15:33.1628 loggerfile request https://localhost:44366/api/documentos/410239?doctipo=10 
+2024-09-04 16:15:36.8705 loggerfile request https://localhost:44366/api/documentos/410239?doctipo=10 
+2024-09-04 16:15:37.0340 loggerfile request https://localhost:44366/api/productos/AVPOLPE999 
+2024-09-04 16:15:37.0623 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 16:15:37.3536 loggerfile mensaje: productos no tienes stock para generar el Picking. Data:    en Colonos.DataAccess.Repositorios.Repo_OPKG.Add(Documento item) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Preparacion\Repo_OPKG.cs:línea 96
+   en Colonos.Manager.ManagerPicking.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Preparacion\ManagerPicking.cs:línea 49 
+2024-09-04 16:16:58.2485 loggerfile request https://localhost:44366/api/documentos/410239?doctipo=10 
+2024-09-04 16:17:31.7897 loggerfile request https://localhost:44366/api/documentos/410239?doctipo=10 
+2024-09-04 16:17:31.9351 loggerfile request https://localhost:44366/api/documentos/estadoitem 
+2024-09-04 16:17:32.5022 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 16:17:32.5725 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 16:18:25.7816 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-04 16:18:25.8070 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-04 
+2024-09-04 16:18:39.8867 loggerfile request https://localhost:44366/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-09-04 16:18:45.2489 loggerfile request https://localhost:44366/api/socios/15375462-4C/ 
+2024-09-04 16:18:45.3348 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 16:18:45.4666 loggerfile request https://localhost:44366/api/socios/15375462-4C/TopFamilia 
+2024-09-04 16:18:45.5037 loggerfile request https://localhost:44366/api/socios/15375462-4C/TopRubro 
+2024-09-04 16:18:45.5437 loggerfile request https://localhost:44366/api/socios/15375462-4C/TopVentas 
+2024-09-04 16:18:50.7515 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-09-04 16:19:32.2125 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 16:19:32.6578 loggerfile Input incial OPED.  Random: 17, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-04T00:00:00-04:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 2985.0,
+  "Iva": 567.0,
+  "Total": 3552.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-04T16:19:28.4558152-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-09-04T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 2000.0,
+  "Margen": 0.3299832495812395309882747069,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-09-04 16:19:32.6828 loggerfile Completando Lineas.  Random: 17, DocEntry: 0, ProdCode: LCCDNCD110 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "LCCDNCD110",
+  "ProdNombre": "1 LC LC O PECHUGA DESH POLLO MARIPOSA",
+  "PrecioFinal": 2985.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 1.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 177,
+  "AnimalCode": 3,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.330,
+  "Costo": 2000.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 1.0,
+  "TotalSolicitado": 2985.0,
+  "TotalReal": null,
+  "PrecioUnitario": 2985.0,
+  "PrecioVolumen": 2866.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.33,
+  "Disponible": 0.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 1,
+  "RefrigeraNombre": "FRESCO",
+  "OrigenCode": 10,
+  "OrigenNombre": "",
+  "MarcaCode": 83,
+  "MarcaNombre": "",
+  "FrmtoVentaNombre": "DESHUESADA MARIPOSA",
+  "AnimalNombre": "AVE",
+  "FamiliaNombre": "PECHUGA POLLO DESHUESADA MARIPOSA",
+  "SolicitadoAnterior": 0.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-09-04 16:19:32.6828 loggerfile Antes de enviar a DB. Random: 17, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-04T00:00:00-04:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 2985.0,
+  "Iva": 567.0,
+  "Total": 3552.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-04T16:19:28.4558152-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-09-04T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 2000.0,
+  "Margen": 0.3299832495812395309882747069,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "LCCDNCD110",
+      "ProdNombre": "1 LC LC O PECHUGA DESH POLLO MARIPOSA",
+      "PrecioFinal": 2985.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 177,
+      "AnimalCode": 3,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.330,
+      "Costo": 2000.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 2985.0,
+      "TotalReal": null,
+      "PrecioUnitario": 2985.0,
+      "PrecioVolumen": 2866.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.33,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 10,
+      "OrigenNombre": "",
+      "MarcaCode": 83,
+      "MarcaNombre": "",
+      "FrmtoVentaNombre": "DESHUESADA MARIPOSA",
+      "AnimalNombre": "AVE",
+      "FamiliaNombre": "PECHUGA POLLO DESHUESADA MARIPOSA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-09-04 16:19:32.7077 loggerfile Despues de enviar a DB. Random: 17, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-04T00:00:00-04:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 2985.0,
+  "Iva": 567.0,
+  "Total": 3552.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-04T16:19:28.4558152-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-09-04T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 2000.0,
+  "Margen": 0.3299832495812395309882747069,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "LCCDNCD110",
+      "ProdNombre": "1 LC LC O PECHUGA DESH POLLO MARIPOSA",
+      "PrecioFinal": 2985.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 177,
+      "AnimalCode": 3,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.330,
+      "Costo": 2000.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 2985.0,
+      "TotalReal": null,
+      "PrecioUnitario": 2985.0,
+      "PrecioVolumen": 2866.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.33,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 10,
+      "OrigenNombre": "",
+      "MarcaCode": 83,
+      "MarcaNombre": "",
+      "FrmtoVentaNombre": "DESHUESADA MARIPOSA",
+      "AnimalNombre": "AVE",
+      "FamiliaNombre": "PECHUGA POLLO DESHUESADA MARIPOSA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-04 16:19:32.7829 loggerfile SaveChanges enviar a DB. Random: 17, DocEntry: 410240 {
+  "DocEntry": 410240,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-04T00:00:00-04:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 2985.0,
+  "Iva": 567.0,
+  "Total": 3552.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-04T16:19:28.4558152-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-09-04T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 2000.0,
+  "Margen": 0.3299832495812395309882747069,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410240,
+      "DocLinea": 358,
+      "LineaEstado": "A",
+      "ProdCode": "LCCDNCD110",
+      "ProdNombre": "1 LC LC O PECHUGA DESH POLLO MARIPOSA",
+      "PrecioFinal": 2985.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 177,
+      "AnimalCode": 3,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.330,
+      "Costo": 2000.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 2985.0,
+      "TotalReal": null,
+      "PrecioUnitario": 2985.0,
+      "PrecioVolumen": 2866.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.33,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 10,
+      "OrigenNombre": "",
+      "MarcaCode": 83,
+      "MarcaNombre": "",
+      "FrmtoVentaNombre": "DESHUESADA MARIPOSA",
+      "AnimalNombre": "AVE",
+      "FamiliaNombre": "PECHUGA POLLO DESHUESADA MARIPOSA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-04 16:19:33.3183 loggerfile request https://localhost:44366/api/documentos/410240?doctipo=10 
+2024-09-04 16:19:33.7300 loggerfile request https://localhost:44366/api/socios/15375462-4C/ 
+2024-09-04 16:19:33.8771 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 16:19:37.7664 loggerfile request https://localhost:44366/api/socios/15375462-4C/TopFamilia 
+2024-09-04 16:19:37.8064 loggerfile request https://localhost:44366/api/socios/15375462-4C/TopRubro 
+2024-09-04 16:19:37.8395 loggerfile request https://localhost:44366/api/socios/15375462-4C/TopVentas 
+2024-09-04 16:19:49.5085 loggerfile request https://localhost:44366/api/documentos/410240?doctipo=10 
+2024-09-04 16:19:49.7277 loggerfile request https://localhost:44366/api/documentos/410240?doctipo=10 
+2024-09-04 16:19:49.9663 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 16:19:50.6388 loggerfile request https://localhost:44366/api/documentos/410240?doctipo=10 
+2024-09-04 16:19:50.8447 loggerfile request https://localhost:44366/api/socios/15375462-4C/ 
+2024-09-04 16:19:50.9267 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 16:19:51.0546 loggerfile request https://localhost:44366/api/socios/15375462-4C/TopFamilia 
+2024-09-04 16:19:51.0878 loggerfile request https://localhost:44366/api/socios/15375462-4C/TopRubro 
+2024-09-04 16:19:51.1263 loggerfile request https://localhost:44366/api/socios/15375462-4C/TopVentas 
+2024-09-04 16:19:59.0700 loggerfile request https://localhost:44366/api/bandejas/CRED?estado=0&visible=1 
+2024-09-04 16:20:02.1412 loggerfile request https://localhost:44366/api/documentos/410240?doctipo=10 
+2024-09-04 16:20:02.4928 loggerfile request https://localhost:44366/api/bandejas/CRED/410240 
+2024-09-04 16:20:02.6419 loggerfile request https://localhost:44366/api/socios/15375462-4C/ 
+2024-09-04 16:20:02.8412 loggerfile request https://localhost:44366/api/socios/cuenta/15375462-4C/ 
+2024-09-04 16:20:03.1173 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 274
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Socios\ManagerSocios.cs:línea 568 
+2024-09-04 16:20:03.1681 loggerfile request https://localhost:44366/api/socios/ventas12m/15375462-4C/ 
+2024-09-04 16:20:03.2115 loggerfile request https://localhost:44366/api/bandejas/CRED?sociocode=15375462-4C&top=10 
+2024-09-04 16:20:15.1576 loggerfile request https://localhost:44366/api/bandejas/CRED/410240 
+2024-09-04 16:20:15.2051 loggerfile request https://localhost:44366/api/bandejas/CRED/410240 
+2024-09-04 16:20:16.5640 loggerfile request https://localhost:44366/api/bandejas/CRED?estado=0&visible=1 
+2024-09-04 16:20:19.5701 loggerfile request https://localhost:44366/api/productos/bodegas 
+2024-09-04 16:20:19.6385 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-09-04 16:20:28.7465 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-09-04 16:20:28.7826 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 16:20:28.9496 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 16:20:31.5653 loggerfile request https://localhost:44366/api/documentos/410240?doctipo=10 
+2024-09-04 16:20:35.0864 loggerfile request https://localhost:44366/api/documentos/410240?doctipo=10 
+2024-09-04 16:20:35.3385 loggerfile request https://localhost:44366/api/productos/LCCDNCD110 
+2024-09-04 16:20:35.3581 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 16:20:35.5795 loggerfile mensaje: productos no tienes stock para generar el Picking. Data:    en Colonos.DataAccess.Repositorios.Repo_OPKG.Add(Documento item) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Preparacion\Repo_OPKG.cs:línea 96
+   en Colonos.Manager.ManagerPicking.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Preparacion\ManagerPicking.cs:línea 49 
+2024-09-04 16:20:41.1934 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-04 16:20:43.5132 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-09-04 16:20:43.5405 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 16:20:46.8511 loggerfile request https://localhost:44366/api/documentos/20050?doctipo=3010 
+2024-09-04 16:20:50.2376 loggerfile request https://localhost:44366/api/documentos/20050?doctipo=3010 
+2024-09-04 16:20:50.3920 loggerfile request https://localhost:44366/api/productos/LCCDNCD110 
+2024-09-04 16:20:50.4232 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 16:20:50.6197 loggerfile mensaje: productos no tienes stock para generar el Picking. Data:    en Colonos.DataAccess.Repositorios.Repo_OPKG.Add(Documento item) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Preparacion\Repo_OPKG.cs:línea 96
+   en Colonos.Manager.ManagerPicking.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Preparacion\ManagerPicking.cs:línea 49 
+2024-09-04 16:20:55.4051 loggerfile request https://localhost:44366/api/documentos/20050?doctipo=3010 
+2024-09-04 16:21:05.7888 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-09-04 16:21:05.8199 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 16:21:05.9106 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 16:21:08.6701 loggerfile request https://localhost:44366/api/documentos/410240?doctipo=10 
+2024-09-04 16:22:58.7942 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-04 16:22:58.8147 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-04 
+2024-09-04 16:23:10.2767 loggerfile request https://localhost:44366/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-09-04 16:23:12.8898 loggerfile request https://localhost:44366/api/socios/15375462-4C/ 
+2024-09-04 16:23:12.9864 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 16:23:13.1917 loggerfile request https://localhost:44366/api/socios/15375462-4C/TopFamilia 
+2024-09-04 16:23:13.2379 loggerfile request https://localhost:44366/api/socios/15375462-4C/TopRubro 
+2024-09-04 16:23:13.2865 loggerfile request https://localhost:44366/api/socios/15375462-4C/TopVentas 
+2024-09-04 16:23:20.0345 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-09-04 16:23:36.2880 loggerfile request https://localhost:44366/api/productos/search?palabras=lomo&solorecetas=&maestro=&bodegacode= 
+2024-09-04 16:25:20.1571 loggerfile request https://localhost:44366/api/productos/search?palabras=AGOSO22005&solorecetas=&maestro=&bodegacode= 
+2024-09-04 16:25:30.3387 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 16:25:30.4087 loggerfile Input incial OPED.  Random: 6, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-04T00:00:00-04:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 5873.0,
+  "Iva": 1116.0,
+  "Total": 6989.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-04T16:25:30.3280076-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-09-04T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3700.0,
+  "Margen": 0.3699982972926953856632044951,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-09-04 16:25:30.4219 loggerfile Completando Lineas.  Random: 6, DocEntry: 0, ProdCode: AGOSO22005 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "AGOSO22005",
+  "ProdNombre": "2 LC LC V OSOBUCO PORCIONADO 250 GR",
+  "PrecioFinal": 5873.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 1.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 167,
+  "AnimalCode": 1022,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.370,
+  "Costo": 3700.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 1.0,
+  "TotalSolicitado": 5873.0,
+  "TotalReal": null,
+  "PrecioUnitario": 5873.0,
+  "PrecioVolumen": 5579.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.37,
+  "Disponible": 0.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 2,
+  "RefrigeraNombre": "CONGELADO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "PORCIONADO",
+  "AnimalNombre": "VACUNO ",
+  "FamiliaNombre": "OSOBUCO PORCIONADO",
+  "SolicitadoAnterior": 0.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-09-04 16:25:30.4219 loggerfile Antes de enviar a DB. Random: 6, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-04T00:00:00-04:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 5873.0,
+  "Iva": 1116.0,
+  "Total": 6989.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-04T16:25:30.3280076-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-09-04T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3700.0,
+  "Margen": 0.3699982972926953856632044951,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "AGOSO22005",
+      "ProdNombre": "2 LC LC V OSOBUCO PORCIONADO 250 GR",
+      "PrecioFinal": 5873.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 167,
+      "AnimalCode": 1022,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.370,
+      "Costo": 3700.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 5873.0,
+      "TotalReal": null,
+      "PrecioUnitario": 5873.0,
+      "PrecioVolumen": 5579.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.37,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO ",
+      "FamiliaNombre": "OSOBUCO PORCIONADO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-09-04 16:25:30.4219 loggerfile Despues de enviar a DB. Random: 6, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-04T00:00:00-04:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 5873.0,
+  "Iva": 1116.0,
+  "Total": 6989.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-04T16:25:30.3280076-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-09-04T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3700.0,
+  "Margen": 0.3699982972926953856632044951,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "AGOSO22005",
+      "ProdNombre": "2 LC LC V OSOBUCO PORCIONADO 250 GR",
+      "PrecioFinal": 5873.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 167,
+      "AnimalCode": 1022,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.370,
+      "Costo": 3700.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 5873.0,
+      "TotalReal": null,
+      "PrecioUnitario": 5873.0,
+      "PrecioVolumen": 5579.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.37,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO ",
+      "FamiliaNombre": "OSOBUCO PORCIONADO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-04 16:25:30.4795 loggerfile SaveChanges enviar a DB. Random: 6, DocEntry: 410241 {
+  "DocEntry": 410241,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-04T00:00:00-04:00",
+  "SocioCode": "15375462-4C",
+  "ContactoCode": 0,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 5873.0,
+  "Iva": 1116.0,
+  "Total": 6989.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-04T16:25:30.3280076-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO ADOLFO PARRA JAYO",
+  "FechaEntrega": "2024-09-04T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3700.0,
+  "Margen": 0.3699982972926953856632044951,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410241,
+      "DocLinea": 359,
+      "LineaEstado": "A",
+      "ProdCode": "AGOSO22005",
+      "ProdNombre": "2 LC LC V OSOBUCO PORCIONADO 250 GR",
+      "PrecioFinal": 5873.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 167,
+      "AnimalCode": 1022,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.370,
+      "Costo": 3700.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 5873.0,
+      "TotalReal": null,
+      "PrecioUnitario": 5873.0,
+      "PrecioVolumen": 5579.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.37,
+      "Disponible": 0.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 2,
+      "RefrigeraNombre": "CONGELADO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "PORCIONADO",
+      "AnimalNombre": "VACUNO ",
+      "FamiliaNombre": "OSOBUCO PORCIONADO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-04 16:25:31.1579 loggerfile request https://localhost:44366/api/documentos/410241?doctipo=10 
+2024-09-04 16:25:31.4229 loggerfile request https://localhost:44366/api/socios/15375462-4C/ 
+2024-09-04 16:25:31.5097 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-04 16:25:31.6430 loggerfile request https://localhost:44366/api/socios/15375462-4C/TopFamilia 
+2024-09-04 16:25:31.6762 loggerfile request https://localhost:44366/api/socios/15375462-4C/TopRubro 
+2024-09-04 16:25:31.7118 loggerfile request https://localhost:44366/api/socios/15375462-4C/TopVentas 
+2024-09-04 16:25:50.8741 loggerfile request https://localhost:44366/api/bandejas/CRED?estado=0&visible=1 
+2024-09-04 16:25:54.2605 loggerfile request https://localhost:44366/api/documentos/410241?doctipo=10 
+2024-09-04 16:25:54.7580 loggerfile request https://localhost:44366/api/bandejas/CRED/410241 
+2024-09-04 16:25:54.8635 loggerfile request https://localhost:44366/api/socios/15375462-4C/ 
+2024-09-04 16:25:54.9637 loggerfile request https://localhost:44366/api/socios/cuenta/15375462-4C/ 
+2024-09-04 16:25:55.2465 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 274
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Socios\ManagerSocios.cs:línea 568 
+2024-09-04 16:25:55.2465 loggerfile request https://localhost:44366/api/socios/ventas12m/15375462-4C/ 
+2024-09-04 16:25:55.2904 loggerfile request https://localhost:44366/api/bandejas/CRED?sociocode=15375462-4C&top=10 
+2024-09-04 16:26:03.4440 loggerfile request https://localhost:44366/api/bandejas/CRED/410241 
+2024-09-04 16:26:03.5417 loggerfile request https://localhost:44366/api/bandejas/CRED/410241 
+2024-09-04 16:26:04.9471 loggerfile request https://localhost:44366/api/bandejas/CRED?estado=0&visible=1 
+2024-09-04 16:26:07.0762 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-09-04 16:26:07.1482 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 16:26:07.2907 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 16:26:10.3234 loggerfile request https://localhost:44366/api/documentos/410241?doctipo=10 
+2024-09-04 16:26:13.8826 loggerfile request https://localhost:44366/api/documentos/410241?doctipo=10 
+2024-09-04 16:26:14.8706 loggerfile request https://localhost:44366/api/productos/AGOSO22005 
+2024-09-04 16:26:14.8974 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 16:26:15.1044 loggerfile mensaje: productos no tienes stock para generar el Picking. Data:    en Colonos.DataAccess.Repositorios.Repo_OPKG.Add(Documento item) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Preparacion\Repo_OPKG.cs:línea 96
+   en Colonos.Manager.ManagerPicking.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Preparacion\ManagerPicking.cs:línea 49 
+2024-09-04 16:26:22.4348 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-09-04 16:26:22.4802 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 16:26:25.2686 loggerfile request https://localhost:44366/api/documentos/20051?doctipo=3010 
+2024-09-04 16:26:33.6020 loggerfile request https://localhost:44366/api/documentos/20051?doctipo=3010 
+2024-09-04 16:26:33.7747 loggerfile request https://localhost:44366/api/productos/AGOSO22005 
+2024-09-04 16:26:33.8073 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 16:26:36.0712 loggerfile mensaje: productos no tienes stock para generar el Picking. Data:    en Colonos.DataAccess.Repositorios.Repo_OPKG.Add(Documento item) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Preparacion\Repo_OPKG.cs:línea 96
+   en Colonos.Manager.ManagerPicking.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Preparacion\ManagerPicking.cs:línea 49 
+2024-09-04 16:26:54.4815 loggerfile request https://localhost:44366/api/documentos/20051?doctipo=3010 
+2024-09-04 16:26:57.9086 loggerfile request https://localhost:44366/api/documentos/20051?doctipo=3010 
+2024-09-04 16:26:58.0498 loggerfile request https://localhost:44366/api/productos/AGOSO22005 
+2024-09-04 16:26:58.0774 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 16:26:58.2415 loggerfile mensaje: productos no tienes stock para generar el Picking. Data:    en Colonos.DataAccess.Repositorios.Repo_OPKG.Add(Documento item) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Preparacion\Repo_OPKG.cs:línea 96
+   en Colonos.Manager.ManagerPicking.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Preparacion\ManagerPicking.cs:línea 49 
+2024-09-04 16:27:15.4512 loggerfile request https://localhost:44366/api/documentos/20051?doctipo=3010 
+2024-09-04 16:27:18.0972 loggerfile request https://localhost:44366/api/documentos/20051?doctipo=3010 
+2024-09-04 16:27:18.2725 loggerfile request https://localhost:44366/api/productos/AGOSO22005 
+2024-09-04 16:27:18.3017 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 17:51:57.1363 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-09-04 17:51:59.2681 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 17:52:08.1498 loggerfile request https://localhost:44366/api/documentos/20051?doctipo=3010 
+2024-09-04 17:52:15.3422 loggerfile request https://localhost:44366/api/documentos/20051?doctipo=3010 
+2024-09-04 17:52:15.5602 loggerfile request https://localhost:44366/api/productos/AGOSO22005 
+2024-09-04 17:52:15.8079 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 18:01:32.7132 loggerfile request https://localhost:44366/api/documentos/20051?doctipo=3010 
+2024-09-04 18:01:38.0558 loggerfile request https://localhost:44366/api/documentos/20051?doctipo=3010 
+2024-09-04 18:01:41.7474 loggerfile request https://localhost:44366/api/documentos/20051?doctipo=3010 
+2024-09-04 18:01:42.0309 loggerfile request https://localhost:44366/api/productos/AGOSO22005 
+2024-09-04 18:01:42.2581 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 18:03:40.0818 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 18:04:09.3252 loggerfile request https://localhost:44366/api/productos/bodegas 
+2024-09-04 18:04:09.4584 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-04 18:04:25.7919 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-04 18:04:41.8897 loggerfile request https://localhost:44366/api/documentos/5338?doctipo=2010 
+2024-09-04 18:04:41.9570 loggerfile request https://localhost:44366/api/documentos/20051?doctipo=3010 
+2024-09-04 18:04:56.0456 loggerfile request https://localhost:44366/api/documentos/base/linea/5338?doctipo=2110&baselinea=329 
+2024-09-04 18:04:56.1266 loggerfile request https://localhost:44366/api/recetas/AGOSO22005?bodegacode=PRODUCCION 
+2024-09-04 18:04:56.2502 loggerfile request https://localhost:44366/api/productos/desglose?esdesglose=S 
+2024-09-04 18:05:16.9790 loggerfile request https://localhost:44366/api/documentos/5338?doctipo=2010 
+2024-09-04 18:05:21.4205 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 18:05:21.9572 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-04 18:05:32.4239 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-04 18:05:35.2889 loggerfile request https://localhost:44366/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-09-04 18:05:54.6539 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-09-04 18:05:54.7375 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-04 18:05:58.7588 loggerfile request https://localhost:44366/api/documentos/20051?doctipo=3010 
+2024-09-04 18:06:11.8448 loggerfile request https://localhost:44366/api/documentos/20050?doctipo=3010 
+2024-09-04 18:06:14.9396 loggerfile request https://localhost:44366/api/documentos/20050?doctipo=3010 
+2024-09-04 18:06:15.1156 loggerfile request https://localhost:44366/api/productos/LCCDNCD110 
+2024-09-04 18:06:15.1517 loggerfile request https://localhost:44366/api/documentos 
+2024-09-04 18:06:20.3262 loggerfile mensaje: productos no tienen stock para generar el Picking. Data:    en Colonos.DataAccess.Repositorios.Repo_OPKG.Add(Documento item)
+   en Colonos.Manager.ManagerPicking.Add(Documento doc) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Preparacion\ManagerPicking.cs:línea 49 
+2024-09-04 23:19:37.0452 loggerfile request https://localhost:44366/api/bandejas/CRED?estado=0&visible=1 

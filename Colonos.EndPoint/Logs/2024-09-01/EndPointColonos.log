@@ -1,0 +1,1584 @@
+2024-09-01 01:21:23.8023 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 01:21:25.6857 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 01:23:31.5687 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-08-26&hasta=2024-09-01 
+2024-09-01 02:17:46.3424 loggerfile request https://localhost:44366/api/productos 
+2024-09-01 02:28:02.8923 loggerfile request https://localhost:44366/api/productos?activo="A" 
+2024-09-01 02:28:15.0068 loggerfile request https://localhost:44366/api/productos?activo="A" 
+2024-09-01 02:28:20.2637 loggerfile request https://localhost:44366/api/productos?activo=A 
+2024-09-01 02:28:57.1990 loggerfile request https://localhost:44366/api/productos?activo=A 
+2024-09-01 02:35:03.8330 loggerfile request https://localhost:44366/api/productos?activo=A 
+2024-09-01 02:36:33.8687 loggerfile request https://localhost:44366/api/productos?activo=A 
+2024-09-01 02:36:49.4659 loggerfile request https://localhost:44366/api/productos?activo=A 
+2024-09-01 02:37:38.7445 loggerfile request https://localhost:44366/api/productos?activo=A 
+2024-09-01 02:38:09.4671 loggerfile request https://localhost:44366/api/productos?activo=A 
+2024-09-01 02:38:22.1950 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 02:48:32.8079 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 02:48:33.2925 loggerfile RenovarToken... 
+2024-09-01 02:48:33.2925 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 02:48:34.2464 loggerfile response.ErrorMessage:  
+2024-09-01 02:48:34.2464 loggerfile response.ErrorException:  
+2024-09-01 02:48:34.2464 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 02:48:34.2464 loggerfile response.StatusCode: OK 
+2024-09-01 02:48:34.2464 loggerfile response.StatusDescription: OK 
+2024-09-01 02:48:34.2464 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTE3MzMxNCIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NjcwOTMxNCwibmJmIjoxNzI1MTczMzE0fQ.SK5R5hlIB-21FQNavbhyb5UE2jGc3Vwtsnr7nGy8VzQ","expires_in":31535999,"token_type":"bearer"} 
+2024-09-01 02:48:35.9593 loggerfile request https://localhost:44366/api/productos?activo=S?palabras=&solorecetas=&maestro=S&bodegacode= 
+2024-09-01 02:49:27.5801 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 02:49:27.7158 loggerfile RenovarToken... 
+2024-09-01 02:49:27.7158 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 02:49:27.9373 loggerfile response.ErrorMessage:  
+2024-09-01 02:49:27.9373 loggerfile response.ErrorException:  
+2024-09-01 02:49:27.9373 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 02:49:27.9373 loggerfile response.StatusCode: OK 
+2024-09-01 02:49:27.9373 loggerfile response.StatusDescription: OK 
+2024-09-01 02:49:27.9373 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTE3MzMxNCIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NjcwOTM2NywibmJmIjoxNzI1MTczMzY3fQ.xI4YkS0QRRzeTxLZApZonYmsuCUVnqT4ZE7_4knwOa0","expires_in":31535999,"token_type":"bearer"} 
+2024-09-01 02:49:51.3482 loggerfile request https://localhost:44366/api/productos?activo=S?palabras=&solorecetas=&maestro=S&bodegacode= 
+2024-09-01 02:51:27.0702 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 02:51:27.1870 loggerfile RenovarToken... 
+2024-09-01 02:51:27.1870 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 02:51:27.6158 loggerfile response.ErrorMessage:  
+2024-09-01 02:51:27.6158 loggerfile response.ErrorException:  
+2024-09-01 02:51:27.6158 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 02:51:27.6158 loggerfile response.StatusCode: OK 
+2024-09-01 02:51:27.6158 loggerfile response.StatusDescription: OK 
+2024-09-01 02:51:27.6158 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTE3MzMxNCIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NjcwOTQ4NywibmJmIjoxNzI1MTczNDg3fQ.aabiEx4jFjhc68-FpljPAv1U278Vc8soKJ4PfPyjUQA","expires_in":31535999,"token_type":"bearer"} 
+2024-09-01 02:51:34.0421 loggerfile request https://localhost:44366/api/productos?activo=S?esdesglose= 
+2024-09-01 02:51:54.7808 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 02:51:54.8985 loggerfile RenovarToken... 
+2024-09-01 02:51:54.8985 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 02:51:55.0640 loggerfile response.ErrorMessage:  
+2024-09-01 02:51:55.0640 loggerfile response.ErrorException:  
+2024-09-01 02:51:55.0640 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 02:51:55.0640 loggerfile response.StatusCode: OK 
+2024-09-01 02:51:55.0640 loggerfile response.StatusDescription: OK 
+2024-09-01 02:51:55.0640 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTE3MzMxNCIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NjcwOTUxNSwibmJmIjoxNzI1MTczNTE1fQ.2KwzCmrhZ9XbwVlXIaYxzWVON46sGe2EeumLBgYvvMM","expires_in":31535999,"token_type":"bearer"} 
+2024-09-01 02:54:26.3990 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 02:54:26.5302 loggerfile RenovarToken... 
+2024-09-01 02:54:26.5302 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 02:54:26.9743 loggerfile response.ErrorMessage:  
+2024-09-01 02:54:26.9743 loggerfile response.ErrorException:  
+2024-09-01 02:54:26.9743 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 02:54:26.9743 loggerfile response.StatusCode: OK 
+2024-09-01 02:54:26.9743 loggerfile response.StatusDescription: OK 
+2024-09-01 02:54:26.9743 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTE3MzMxNCIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NjcwOTY2NiwibmJmIjoxNzI1MTczNjY2fQ.jhJvZQvTNZfQZY7T-S5etV0IzKlDNLrNp73yDlPnl28","expires_in":31535999,"token_type":"bearer"} 
+2024-09-01 02:54:31.6952 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 03:40:25.1380 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 03:40:45.8209 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 03:41:48.4683 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 03:41:57.5968 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 03:43:13.7933 loggerfile request https://localhost:44366/api/productos/search?palabras=lomo angus 
+2024-09-01 03:45:28.1167 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 03:45:28.5595 loggerfile RenovarToken... 
+2024-09-01 03:45:28.5595 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 03:45:29.4660 loggerfile response.ErrorMessage:  
+2024-09-01 03:45:29.4660 loggerfile response.ErrorException:  
+2024-09-01 03:45:29.4660 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 03:45:29.4660 loggerfile response.StatusCode: OK 
+2024-09-01 03:45:29.4660 loggerfile response.StatusDescription: OK 
+2024-09-01 03:45:29.4660 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTE3NjY1MyIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NjcxMjcyOSwibmJmIjoxNzI1MTc2NzI5fQ.RafVGyfDkCUv3CP5lySrztOCdfVb6VRI3tofz0x0cEA","expires_in":31535999,"token_type":"bearer"} 
+2024-09-01 03:45:31.3000 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 03:47:12.9418 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 03:47:13.0826 loggerfile RenovarToken... 
+2024-09-01 03:47:13.0826 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 03:47:13.7593 loggerfile response.ErrorMessage:  
+2024-09-01 03:47:13.7593 loggerfile response.ErrorException:  
+2024-09-01 03:47:13.7593 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 03:47:13.7593 loggerfile response.StatusCode: OK 
+2024-09-01 03:47:13.7593 loggerfile response.StatusDescription: OK 
+2024-09-01 03:47:13.7593 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTE3NjY1MyIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NjcxMjgzMywibmJmIjoxNzI1MTc2ODMzfQ.pXeaKIOXZ-bbSviJcxt8sqUBwYYtiQb3dgPT9sBa5b4","expires_in":31535999,"token_type":"bearer"} 
+2024-09-01 03:47:23.3363 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 03:47:57.5404 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 03:47:57.6851 loggerfile RenovarToken... 
+2024-09-01 03:47:57.6851 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 03:47:57.8854 loggerfile response.ErrorMessage:  
+2024-09-01 03:47:57.8854 loggerfile response.ErrorException:  
+2024-09-01 03:47:57.8854 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 03:47:57.8854 loggerfile response.StatusCode: OK 
+2024-09-01 03:47:57.8854 loggerfile response.StatusDescription: OK 
+2024-09-01 03:47:57.8854 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTE3NjY1MyIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NjcxMjg3NywibmJmIjoxNzI1MTc2ODc3fQ.8rjGHggXRpsiLz0DIPCOIUR9-aRqi69cMWSw3WDXkiY","expires_in":31535999,"token_type":"bearer"} 
+2024-09-01 03:47:59.5671 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 03:48:28.6185 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 03:48:28.7445 loggerfile RenovarToken... 
+2024-09-01 03:48:28.7445 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 03:48:28.9460 loggerfile response.ErrorMessage:  
+2024-09-01 03:48:28.9460 loggerfile response.ErrorException:  
+2024-09-01 03:48:28.9460 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 03:48:28.9460 loggerfile response.StatusCode: OK 
+2024-09-01 03:48:28.9460 loggerfile response.StatusDescription: OK 
+2024-09-01 03:48:28.9460 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTE3NjY1MyIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NjcxMjkwOCwibmJmIjoxNzI1MTc2OTA4fQ.hzrOfx9Ltz9GhnuGE-S0eGt-joaeVGpcAmVa6hdA9C0","expires_in":31535999,"token_type":"bearer"} 
+2024-09-01 03:48:30.8403 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 03:49:45.0801 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 03:49:45.3170 loggerfile RenovarToken... 
+2024-09-01 03:49:45.3170 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 03:49:45.5551 loggerfile response.ErrorMessage:  
+2024-09-01 03:49:45.5551 loggerfile response.ErrorException:  
+2024-09-01 03:49:45.5551 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 03:49:45.5551 loggerfile response.StatusCode: OK 
+2024-09-01 03:49:45.5551 loggerfile response.StatusDescription: OK 
+2024-09-01 03:49:45.5551 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTE3NjY1MyIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NjcxMjk4NSwibmJmIjoxNzI1MTc2OTg1fQ._G7vepgZXwcNyhoyACYX2wGVD4iXM24DluKuzC7aU4I","expires_in":31535999,"token_type":"bearer"} 
+2024-09-01 03:49:46.8066 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 03:52:39.8442 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 03:52:39.9570 loggerfile RenovarToken... 
+2024-09-01 03:52:39.9570 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 03:52:40.6329 loggerfile response.ErrorMessage:  
+2024-09-01 03:52:40.6329 loggerfile response.ErrorException:  
+2024-09-01 03:52:40.6329 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 03:52:40.6329 loggerfile response.StatusCode: OK 
+2024-09-01 03:52:40.6329 loggerfile response.StatusDescription: OK 
+2024-09-01 03:52:40.6329 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTE3NjY1MyIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NjcxMzE2MCwibmJmIjoxNzI1MTc3MTYwfQ.M1Gze3khNjDRxBUaYo4OU8C4jofKnItRC1sslEd2rc8","expires_in":31535999,"token_type":"bearer"} 
+2024-09-01 03:52:41.1645 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 03:57:54.5317 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 03:57:54.6584 loggerfile RenovarToken... 
+2024-09-01 03:57:54.6584 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 03:57:55.3700 loggerfile response.ErrorMessage:  
+2024-09-01 03:57:55.3700 loggerfile response.ErrorException:  
+2024-09-01 03:57:55.3700 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 03:57:55.3700 loggerfile response.StatusCode: OK 
+2024-09-01 03:57:55.3700 loggerfile response.StatusDescription: OK 
+2024-09-01 03:57:55.3700 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTE3NzMxNyIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NjcxMzQ3NSwibmJmIjoxNzI1MTc3NDc1fQ.g2LDRlgmVdkvv6cehxioC7Ycq_1Vqj3X0GU1TYojxQU","expires_in":31535999,"token_type":"bearer"} 
+2024-09-01 03:58:02.1241 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 03:59:46.4751 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 03:59:46.5728 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 04:00:22.8786 loggerfile request https://localhost:44366/api/informes/seguimientooperacion 
+2024-09-01 04:00:45.7146 loggerfile request https://localhost:44366/api/informes/controlprecios 
+2024-09-01 04:06:47.9129 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 04:06:48.0466 loggerfile RenovarToken... 
+2024-09-01 04:06:48.0466 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 04:06:48.5430 loggerfile response.ErrorMessage:  
+2024-09-01 04:06:48.5430 loggerfile response.ErrorException:  
+2024-09-01 04:06:48.5430 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 04:06:48.5430 loggerfile response.StatusCode: OK 
+2024-09-01 04:06:48.5430 loggerfile response.StatusDescription: OK 
+2024-09-01 04:06:48.5430 loggerfile response.Content: {"success":false,"message":"Login failed","access_token":null,"expires_in":0,"token_type":null} 
+2024-09-01 04:06:48.5430 loggerfile RenovarToken: Login failed 
+2024-09-01 04:06:48.5430 loggerfile RenovarToken: {"success":false,"message":"Login failed","access_token":null,"expires_in":0,"token_type":null} 
+2024-09-01 04:08:17.0993 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 04:13:50.9438 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 04:13:51.0825 loggerfile RenovarToken... 
+2024-09-01 04:13:51.0825 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 04:13:51.6615 loggerfile response.ErrorMessage:  
+2024-09-01 04:13:51.6615 loggerfile response.ErrorException:  
+2024-09-01 04:13:51.6615 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 04:13:51.6615 loggerfile response.StatusCode: OK 
+2024-09-01 04:13:51.6615 loggerfile response.StatusDescription: OK 
+2024-09-01 04:13:51.6615 loggerfile response.Content: {"success":false,"message":"Login failed","access_token":null,"expires_in":0,"token_type":null} 
+2024-09-01 04:13:51.6615 loggerfile RenovarToken: Login failed 
+2024-09-01 04:13:51.6615 loggerfile RenovarToken: {"success":false,"message":"Login failed","access_token":null,"expires_in":0,"token_type":null} 
+2024-09-01 04:13:57.4408 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 04:15:06.0185 loggerfile request https://localhost:44366/api/informes/controlprecios 
+2024-09-01 04:15:55.7907 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 04:15:55.9104 loggerfile RenovarToken... 
+2024-09-01 04:15:55.9104 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 04:15:56.5582 loggerfile response.ErrorMessage:  
+2024-09-01 04:15:56.5582 loggerfile response.ErrorException:  
+2024-09-01 04:15:56.5582 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 04:15:56.5582 loggerfile response.StatusCode: OK 
+2024-09-01 04:15:56.5582 loggerfile response.StatusDescription: OK 
+2024-09-01 04:15:56.5582 loggerfile response.Content: {"success":false,"message":"Login failed","access_token":null,"expires_in":0,"token_type":null} 
+2024-09-01 04:15:56.5582 loggerfile RenovarToken: Login failed 
+2024-09-01 04:15:56.5582 loggerfile RenovarToken: {"success":false,"message":"Login failed","access_token":null,"expires_in":0,"token_type":null} 
+2024-09-01 04:16:01.8563 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 04:16:13.8572 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 04:18:00.3494 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 04:18:00.4679 loggerfile RenovarToken... 
+2024-09-01 04:18:00.4679 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 04:18:28.7539 loggerfile response.ErrorMessage:  
+2024-09-01 04:18:28.7539 loggerfile response.ErrorException:  
+2024-09-01 04:18:28.7539 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 04:18:28.7539 loggerfile response.StatusCode: OK 
+2024-09-01 04:18:28.7539 loggerfile response.StatusDescription: OK 
+2024-09-01 04:18:28.7539 loggerfile response.Content: {"success":false,"message":"Login failed","access_token":null,"expires_in":0,"token_type":null} 
+2024-09-01 04:18:28.7539 loggerfile RenovarToken: Login failed 
+2024-09-01 04:18:28.7539 loggerfile RenovarToken: {"success":false,"message":"Login failed","access_token":null,"expires_in":0,"token_type":null} 
+2024-09-01 04:18:38.1518 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 04:20:11.4506 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 04:20:11.9068 loggerfile RenovarToken... 
+2024-09-01 04:20:11.9418 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 04:20:12.7509 loggerfile response.ErrorMessage:  
+2024-09-01 04:20:12.7509 loggerfile response.ErrorException:  
+2024-09-01 04:20:12.7509 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 04:20:12.7509 loggerfile response.StatusCode: OK 
+2024-09-01 04:20:12.7509 loggerfile response.StatusDescription: OK 
+2024-09-01 04:20:12.7509 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTE3ODc4MSIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NjcxNDgxMiwibmJmIjoxNzI1MTc4ODEyfQ.wYbt8Kp1G_j3CFFn4QcWxCVyzWOqHRgzKsxC6JONBws","expires_in":31535999,"token_type":"bearer"} 
+2024-09-01 04:20:16.8359 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 04:24:03.8733 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 04:24:05.6605 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 04:24:22.4614 loggerfile request https://localhost:44366/api/productos/propiedades 
+2024-09-01 04:24:22.6250 loggerfile RenovarToken... 
+2024-09-01 04:24:22.6250 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-09-01 04:24:23.1017 loggerfile response.ErrorMessage:  
+2024-09-01 04:24:23.1017 loggerfile response.ErrorException:  
+2024-09-01 04:24:23.1017 loggerfile response.ProtocolVersion: 1.1 
+2024-09-01 04:24:23.1017 loggerfile response.StatusCode: OK 
+2024-09-01 04:24:23.1017 loggerfile response.StatusDescription: OK 
+2024-09-01 04:24:23.1017 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNTE3ODc4MSIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1NjcxNTA2MiwibmJmIjoxNzI1MTc5MDYyfQ.55Q4iu4lkL8Dv-pNhPtU_NWHtmyQNT-oDfTnQkz-1OA","expires_in":31535999,"token_type":"bearer"} 
+2024-09-01 04:24:28.3244 loggerfile request https://localhost:44366/api/productos?activo=S 
+2024-09-01 04:26:31.1221 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-09-01 04:26:31.1560 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-01 04:26:31.3177 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-01 04:26:35.4408 loggerfile request https://localhost:44366/api/documentos/410143?doctipo=10 
+2024-09-01 04:26:50.1172 loggerfile request https://localhost:44366/api/documentos/410139?doctipo=10 
+2024-09-01 04:26:50.7096 loggerfile request https://localhost:44366/api/documentos/410139?doctipo=10 
+2024-09-01 04:26:54.7216 loggerfile request https://localhost:44366/api/documentos/410140?doctipo=10 
+2024-09-01 04:26:58.8741 loggerfile request https://localhost:44366/api/documentos/410138?doctipo=10 
+2024-09-01 04:27:02.5100 loggerfile request https://localhost:44366/api/documentos/410142?doctipo=10 
+2024-09-01 04:48:02.5112 loggerfile request https://localhost:44366/api/preciofijo/list?esdesglose= 
+2024-09-01 04:48:07.5408 loggerfile request https://localhost:44366/api/preciofijo/PECHUGA 
+2024-09-01 04:48:16.4596 loggerfile request https://localhost:44366/api/productos/search?palabras=lc lc&solorecetas=&maestro=&bodegacode= 
+2024-09-01 04:48:38.0221 loggerfile request https://localhost:44366/api/preciofijo/PECHUGA 
+2024-09-01 04:48:42.3205 loggerfile request https://localhost:44366/api/productos/search?palabras=lc lc&solorecetas=&maestro=&bodegacode= 
+2024-09-01 04:49:03.4316 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 04:49:03.5600 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 04:49:07.0346 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 04:49:14.4026 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-26&hasta=2024-09-01 
+2024-09-01 04:51:34.7971 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-26&hasta=2024-09-01 
+2024-09-01 04:55:04.3525 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 04:55:06.1262 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 04:55:14.8999 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-26&hasta=2024-09-01 
+2024-09-01 04:55:28.7487 loggerfile request https://localhost:44366/api/documentos/410096?doctipo=10 
+2024-09-01 04:55:29.6463 loggerfile request https://localhost:44366/api/socios/77503548-KC/ 
+2024-09-01 04:55:30.1849 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 04:55:30.8061 loggerfile request https://localhost:44366/api/socios/77503548-KC/TopFamilia 
+2024-09-01 04:55:30.8799 loggerfile request https://localhost:44366/api/socios/77503548-KC/TopRubro 
+2024-09-01 04:55:30.9866 loggerfile request https://localhost:44366/api/socios/77503548-KC/TopVentas 
+2024-09-01 05:18:23.2646 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 05:18:25.0890 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 05:18:32.9791 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-08-26&hasta=2024-09-01 
+2024-09-01 05:18:36.8363 loggerfile request https://localhost:44366/api/documentos/410142?doctipo=10 
+2024-09-01 05:18:37.9119 loggerfile request https://localhost:44366/api/socios/22582203-4C/ 
+2024-09-01 05:18:38.2571 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 05:18:38.9787 loggerfile request https://localhost:44366/api/socios/22582203-4C/TopFamilia 
+2024-09-01 05:18:39.0604 loggerfile request https://localhost:44366/api/socios/22582203-4C/TopRubro 
+2024-09-01 05:18:39.1412 loggerfile request https://localhost:44366/api/socios/22582203-4C/TopVentas 
+2024-09-01 05:19:11.7659 loggerfile request https://localhost:44366/api/documentos/410142?doctipo=10 
+2024-09-01 05:19:27.4923 loggerfile request https://localhost:44366/api/socios/22582203-4C/ 
+2024-09-01 05:19:27.6035 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 05:19:43.9974 loggerfile request https://localhost:44366/api/socios/22582203-4C/TopFamilia 
+2024-09-01 05:19:44.0323 loggerfile request https://localhost:44366/api/socios/22582203-4C/TopRubro 
+2024-09-01 05:19:44.0647 loggerfile request https://localhost:44366/api/socios/22582203-4C/TopVentas 
+2024-09-01 05:20:44.5392 loggerfile request https://localhost:44366/api/documentos/410142?doctipo=10 
+2024-09-01 05:20:57.5115 loggerfile request https://localhost:44366/api/socios/22582203-4C/ 
+2024-09-01 05:20:57.5958 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 05:20:58.7113 loggerfile request https://localhost:44366/api/socios/22582203-4C/TopFamilia 
+2024-09-01 05:20:58.7458 loggerfile request https://localhost:44366/api/socios/22582203-4C/TopRubro 
+2024-09-01 05:20:58.7807 loggerfile request https://localhost:44366/api/socios/22582203-4C/TopVentas 
+2024-09-01 05:21:30.7480 loggerfile request https://localhost:44366/api/socios/search?palabras=gistavo 
+2024-09-01 05:21:33.7888 loggerfile request https://localhost:44366/api/socios/search?palabras=gustavo 
+2024-09-01 05:21:36.6140 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-09-01 05:21:36.7294 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 05:21:43.9017 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-09-01 05:21:43.9306 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-09-01 05:21:43.9745 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-09-01 05:22:14.6896 loggerfile request https://localhost:44366/api/documentos/410142?doctipo=10 
+2024-09-01 05:22:16.6000 loggerfile request https://localhost:44366/api/socios/22582203-4C/ 
+2024-09-01 05:22:16.7436 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 05:22:17.8078 loggerfile request https://localhost:44366/api/socios/22582203-4C/TopFamilia 
+2024-09-01 05:22:17.8507 loggerfile request https://localhost:44366/api/socios/22582203-4C/TopRubro 
+2024-09-01 05:22:17.8894 loggerfile request https://localhost:44366/api/socios/22582203-4C/TopVentas 
+2024-09-01 05:23:10.2627 loggerfile request https://localhost:44366/api/documentos/410142?doctipo=10 
+2024-09-01 05:23:12.3759 loggerfile request https://localhost:44366/api/socios/22582203-4C/ 
+2024-09-01 05:23:12.4717 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 05:23:15.5792 loggerfile request https://localhost:44366/api/socios/22582203-4C/TopFamilia 
+2024-09-01 05:23:15.6291 loggerfile request https://localhost:44366/api/socios/22582203-4C/TopRubro 
+2024-09-01 05:23:15.6600 loggerfile request https://localhost:44366/api/socios/22582203-4C/TopVentas 
+2024-09-01 05:23:25.3013 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 05:23:25.3282 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 05:23:37.0240 loggerfile request https://localhost:44366/api/socios/search?palabras=gustavo 
+2024-09-01 05:23:40.6138 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-09-01 05:23:40.7345 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 05:23:44.2045 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-09-01 05:23:44.2393 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-09-01 05:23:44.2812 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-09-01 05:23:53.8243 loggerfile request https://localhost:44366/api/productos/search?palabras=pollo&solorecetas=&maestro=&bodegacode= 
+2024-09-01 05:24:17.0641 loggerfile request https://localhost:44366/api/documentos 
+2024-09-01 05:24:17.2222 loggerfile Input incial OPED.  Random: 9, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-01T00:00:00-04:00",
+  "SocioCode": "05603828-0C",
+  "ContactoCode": 1,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "V_ASTUDILLO",
+  "UsuarioCode": "0",
+  "Neto": 4190.0,
+  "Iva": 796.0,
+  "Total": 4986.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-01T05:24:05.8064077-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO FRANCISCO GARCES YACKSIC",
+  "FechaEntrega": "2024-09-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3603.0,
+  "Margen": 0.1400954653937947494033412888,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "CHEQUE 30 DIAS",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "CHEQUE_30_DIAS",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "VALENTINA ASTUDILLO",
+  "PED1": []
+} 
+2024-09-01 05:24:17.5976 loggerfile Completando Lineas.  Random: 9, DocEntry: 0, ProdCode: AVPOLPEC13 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "AVPOLPEC13",
+  "ProdNombre": "1 AG AG O PECHUGA POLLO DESH",
+  "PrecioFinal": 4190.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 1.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 176,
+  "AnimalCode": 3,
+  "TipoCode": "A",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.140,
+  "Costo": 3602.70,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 1.0,
+  "TotalSolicitado": 4190.0,
+  "TotalReal": null,
+  "PrecioUnitario": 4190.0,
+  "PrecioVolumen": 4190.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.2,
+  "Disponible": 1485.42,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 1,
+  "RefrigeraNombre": "FRESCO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 4,
+  "MarcaNombre": "AGROSUPER",
+  "FrmtoVentaNombre": "DESHUESADA",
+  "AnimalNombre": "AVE",
+  "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+  "SolicitadoAnterior": 0.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-09-01 05:24:17.5976 loggerfile Antes de enviar a DB. Random: 9, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-01T00:00:00-04:00",
+  "SocioCode": "05603828-0C",
+  "ContactoCode": 1,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "V_ASTUDILLO",
+  "UsuarioCode": "0",
+  "Neto": 4190.0,
+  "Iva": 796.0,
+  "Total": 4986.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-01T05:24:05.8064077-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO FRANCISCO GARCES YACKSIC",
+  "FechaEntrega": "2024-09-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3603.0,
+  "Margen": 0.1400954653937947494033412888,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "CHEQUE 30 DIAS",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "CHEQUE_30_DIAS",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "VALENTINA ASTUDILLO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "AVPOLPEC13",
+      "ProdNombre": "1 AG AG O PECHUGA POLLO DESH",
+      "PrecioFinal": 4190.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 176,
+      "AnimalCode": 3,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.140,
+      "Costo": 3602.70,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 4190.0,
+      "TotalReal": null,
+      "PrecioUnitario": 4190.0,
+      "PrecioVolumen": 4190.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1485.42,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 4,
+      "MarcaNombre": "AGROSUPER",
+      "FrmtoVentaNombre": "DESHUESADA",
+      "AnimalNombre": "AVE",
+      "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-09-01 05:24:17.6265 loggerfile Despues de enviar a DB. Random: 9, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-01T00:00:00-04:00",
+  "SocioCode": "05603828-0C",
+  "ContactoCode": 1,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "V_ASTUDILLO",
+  "UsuarioCode": "0",
+  "Neto": 4190.0,
+  "Iva": 796.0,
+  "Total": 4986.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-01T05:24:05.8064077-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO FRANCISCO GARCES YACKSIC",
+  "FechaEntrega": "2024-09-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3603.0,
+  "Margen": 0.1400954653937947494033412888,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "CHEQUE 30 DIAS",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "CHEQUE_30_DIAS",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "VALENTINA ASTUDILLO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "AVPOLPEC13",
+      "ProdNombre": "1 AG AG O PECHUGA POLLO DESH",
+      "PrecioFinal": 4190.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 176,
+      "AnimalCode": 3,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.140,
+      "Costo": 3602.70,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 4190.0,
+      "TotalReal": null,
+      "PrecioUnitario": 4190.0,
+      "PrecioVolumen": 4190.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1485.42,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 4,
+      "MarcaNombre": "AGROSUPER",
+      "FrmtoVentaNombre": "DESHUESADA",
+      "AnimalNombre": "AVE",
+      "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-01 05:24:17.8787 loggerfile SaveChanges enviar a DB. Random: 9, DocEntry: 410146 {
+  "DocEntry": 410146,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-01T00:00:00-04:00",
+  "SocioCode": "05603828-0C",
+  "ContactoCode": 1,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "V_ASTUDILLO",
+  "UsuarioCode": "0",
+  "Neto": 4190.0,
+  "Iva": 796.0,
+  "Total": 4986.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-01T05:24:05.8064077-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO FRANCISCO GARCES YACKSIC",
+  "FechaEntrega": "2024-09-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3603.0,
+  "Margen": 0.1400954653937947494033412888,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "CHEQUE 30 DIAS",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "CHEQUE_30_DIAS",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "VALENTINA ASTUDILLO",
+  "PED1": [
+    {
+      "DocEntry": 410146,
+      "DocLinea": 225,
+      "LineaEstado": "A",
+      "ProdCode": "AVPOLPEC13",
+      "ProdNombre": "1 AG AG O PECHUGA POLLO DESH",
+      "PrecioFinal": 4190.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 176,
+      "AnimalCode": 3,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.140,
+      "Costo": 3602.70,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 4190.0,
+      "TotalReal": null,
+      "PrecioUnitario": 4190.0,
+      "PrecioVolumen": 4190.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1485.42,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 4,
+      "MarcaNombre": "AGROSUPER",
+      "FrmtoVentaNombre": "DESHUESADA",
+      "AnimalNombre": "AVE",
+      "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-01 05:24:18.7159 loggerfile request https://localhost:44366/api/documentos/410146?doctipo=10 
+2024-09-01 05:24:21.7087 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-09-01 05:24:21.8025 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 05:24:22.9253 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-09-01 05:24:22.9562 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-09-01 05:24:22.9947 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-09-01 05:36:06.4932 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 05:36:07.2826 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 05:45:06.1478 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 05:45:06.1737 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 05:45:22.0867 loggerfile request https://localhost:44366/api/socios/search?palabras=ROBERTO ANTONIO 
+2024-09-01 05:45:24.5651 loggerfile request https://localhost:44366/api/socios/10747547-8C/ 
+2024-09-01 05:45:24.6782 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 05:46:08.0595 loggerfile request https://localhost:44366/api/socios/10747547-8C/ 
+2024-09-01 05:46:08.1811 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 05:47:30.2692 loggerfile request https://localhost:44366/api/socios/10747547-8C/ 
+2024-09-01 05:47:30.3509 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 05:47:30.4686 loggerfile request https://localhost:44366/api/socios/10747547-8C/TopFamilia 
+2024-09-01 05:47:30.5025 loggerfile request https://localhost:44366/api/socios/10747547-8C/TopRubro 
+2024-09-01 05:47:30.5464 loggerfile request https://localhost:44366/api/socios/10747547-8C/TopVentas 
+2024-09-01 05:47:55.9424 loggerfile request https://localhost:44366/api/socios/search?palabras=rober anto 
+2024-09-01 05:47:58.1253 loggerfile request https://localhost:44366/api/socios/10747547-8C/ 
+2024-09-01 05:47:58.2021 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 05:47:58.3158 loggerfile request https://localhost:44366/api/socios/10747547-8C/TopFamilia 
+2024-09-01 05:47:58.3428 loggerfile request https://localhost:44366/api/socios/10747547-8C/TopRubro 
+2024-09-01 05:47:58.3796 loggerfile request https://localhost:44366/api/socios/10747547-8C/TopVentas 
+2024-09-01 06:06:02.1704 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 06:06:21.4009 loggerfile request https://localhost:44366/api/socios/search?palabras=rober anto 
+2024-09-01 06:06:23.7791 loggerfile request https://localhost:44366/api/socios/10747547-8C/ 
+2024-09-01 06:13:56.1895 loggerfile request https://localhost:44366/api/socios/search?palabras=rober anto 
+2024-09-01 06:13:58.8464 loggerfile request https://localhost:44366/api/socios/10747547-8C/ 
+2024-09-01 06:13:58.9631 loggerfile request https://localhost:44366/api/bandejas/CRED?sociocode=10747547-8C&top=0 
+2024-09-01 06:14:10.4385 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 06:14:14.7215 loggerfile request https://localhost:44366/api/socios/search?palabras= 
+2024-09-01 06:14:28.0198 loggerfile request https://localhost:44366/api/socios/search?palabras=rober anto 
+2024-09-01 06:14:30.0787 loggerfile request https://localhost:44366/api/socios/10747547-8C/ 
+2024-09-01 06:14:30.1625 loggerfile request https://localhost:44366/api/bandejas/CRED?sociocode=10747547-8C&top=0 
+2024-09-01 06:25:35.6425 loggerfile request https://localhost:44366/api/socios/search?palabras=gustavo 
+2024-09-01 06:29:54.1892 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 06:29:55.6636 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 06:30:01.2288 loggerfile request https://localhost:44366/api/documentos/410146?doctipo=10 
+2024-09-01 06:30:05.5396 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-09-01 06:30:05.9288 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 06:30:09.0268 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-09-01 06:30:09.0906 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-09-01 06:30:09.1295 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-09-01 06:30:29.3055 loggerfile request https://localhost:44366/api/socios/search?palabras=robert 
+2024-09-01 06:31:22.9473 loggerfile request https://localhost:44366/api/socios/search?palabras=robert 
+2024-09-01 06:32:30.7601 loggerfile request https://localhost:44366/api/socios/search?palabras=robert 
+2024-09-01 06:32:44.3776 loggerfile request https://localhost:44366/api/socios/search?palabras=gustavo 
+2024-09-01 06:33:02.4019 loggerfile request https://localhost:44366/api/socios/search?palabras=tea co 
+2024-09-01 06:33:10.5705 loggerfile request https://localhost:44366/api/socios/76270296-7C/ 
+2024-09-01 06:33:10.6606 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 06:33:10.7954 loggerfile request https://localhost:44366/api/socios/76270296-7C/TopFamilia 
+2024-09-01 06:33:10.8279 loggerfile request https://localhost:44366/api/socios/76270296-7C/TopRubro 
+2024-09-01 06:33:10.8628 loggerfile request https://localhost:44366/api/socios/76270296-7C/TopVentas 
+2024-09-01 06:44:26.5061 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 06:44:27.4043 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 06:44:40.0955 loggerfile request https://localhost:44366/api/socios/search?palabras=robet&usuario=Admin 
+2024-09-01 06:44:43.4339 loggerfile request https://localhost:44366/api/socios/search?palabras=robert&usuario=Admin 
+2024-09-01 06:44:47.8973 loggerfile request https://localhost:44366/api/socios/10747547-8C/ 
+2024-09-01 06:44:47.9978 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 06:44:48.1394 loggerfile request https://localhost:44366/api/socios/10747547-8C/TopFamilia 
+2024-09-01 06:44:48.1723 loggerfile request https://localhost:44366/api/socios/10747547-8C/TopRubro 
+2024-09-01 06:44:48.2063 loggerfile request https://localhost:44366/api/socios/10747547-8C/TopVentas 
+2024-09-01 06:48:21.8585 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 06:48:21.8904 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=LESPINDOLA&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 06:48:39.7911 loggerfile request https://localhost:44366/api/socios/search?palabras=limitada&usuario=LESPINDOLA 
+2024-09-01 06:55:34.0988 loggerfile request https://localhost:44366/api/socios/search?palabras=limitada&usuario=LESPINDOLA 
+2024-09-01 06:55:34.0988 loggerfile request https://localhost:44366/api/socios/search?palabras=limitada&usuario=LESPINDOLA 
+2024-09-01 06:56:10.3696 loggerfile request https://localhost:44366/api/socios/76275348-0C/ 
+2024-09-01 06:56:11.2579 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 06:56:11.7725 loggerfile request https://localhost:44366/api/socios/76275348-0C/TopFamilia 
+2024-09-01 06:56:11.8154 loggerfile request https://localhost:44366/api/socios/76275348-0C/TopRubro 
+2024-09-01 06:56:11.8580 loggerfile request https://localhost:44366/api/socios/76275348-0C/TopVentas 
+2024-09-01 06:56:32.0794 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 06:56:32.1807 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=LESPINDOLA&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 06:57:01.8114 loggerfile request https://localhost:44366/api/documentos/search?palabras=410146&vendedorcode=LESPINDOLA&doctipo=10 
+2024-09-01 07:17:55.3717 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 07:18:09.5416 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 07:18:10.1610 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 07:18:18.0704 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=&desde=2024-08-26&hasta=2024-09-01 
+2024-09-01 07:18:48.7305 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 07:18:48.7575 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=LESPINDOLA&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 07:18:56.9630 loggerfile request https://localhost:44366/api/documentos/search?palabras=410083&vendedorcode=LESPINDOLA&doctipo=10&usuario?LESPINDOLA 
+2024-09-01 07:19:03.3122 loggerfile request https://localhost:44366/api/documentos/search?palabras=410089&vendedorcode=LESPINDOLA&doctipo=10&usuario?LESPINDOLA 
+2024-09-01 07:19:18.9554 loggerfile request https://localhost:44366/api/documentos/search?palabras=410089&vendedorcode=LESPINDOLA&doctipo=10&usuario?LESPINDOLA 
+2024-09-01 07:20:41.8163 loggerfile request https://localhost:44366/api/documentos/search?palabras=410089&vendedorcode=LESPINDOLA&doctipo=10&usuario?LESPINDOLA 
+2024-09-01 07:21:57.0839 loggerfile request https://localhost:44366/api/documentos/search?palabras=410089&vendedorcode=LESPINDOLA&doctipo=10&usuario?LESPINDOLA 
+2024-09-01 07:22:23.1578 loggerfile request https://localhost:44366/api/documentos/search?palabras=4100890&vendedorcode=LESPINDOLA&doctipo=10&usuario?LESPINDOLA 
+2024-09-01 07:22:29.4652 loggerfile request https://localhost:44366/api/documentos/search?palabras=410089&vendedorcode=LESPINDOLA&doctipo=10&usuario?LESPINDOLA 
+2024-09-01 07:22:45.1000 loggerfile request https://localhost:44366/api/documentos/search?palabras=410089&vendedorcode=LESPINDOLA&doctipo=10&usuario?LESPINDOLA 
+2024-09-01 07:24:24.7846 loggerfile request https://localhost:44366/api/documentos/search?palabras=410089&vendedorcode=LESPINDOLA&doctipo=10&usuario?LESPINDOLA 
+2024-09-01 07:26:43.8182 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 07:26:45.0471 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=LESPINDOLA&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 07:26:51.9397 loggerfile request https://localhost:44366/api/documentos/search?palabras=410083&vendedorcode=LESPINDOLA&doctipo=10&usuario?LESPINDOLA 
+2024-09-01 07:27:42.8829 loggerfile request https://localhost:44366/api/documentos/search?palabras=410083&vendedorcode=LESPINDOLA&doctipo=10&usuario=LESPINDOLA 
+2024-09-01 07:28:01.4969 loggerfile request https://localhost:44366/api/documentos/search?palabras=410089&vendedorcode=LESPINDOLA&doctipo=10&usuario=LESPINDOLA 
+2024-09-01 20:22:56.2619 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-09-01 20:22:58.0025 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-01 20:22:58.2748 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-01 20:23:12.5601 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 20:23:12.6051 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 20:23:21.6637 loggerfile request https://localhost:44366/api/documentos/410146?doctipo=10 
+2024-09-01 20:23:22.9773 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-09-01 20:23:23.4899 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 20:23:24.3875 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-09-01 20:23:24.4881 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-09-01 20:23:24.5609 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-09-01 20:24:28.7864 loggerfile request https://localhost:44366/api/documentos 
+2024-09-01 20:24:28.8961 loggerfile Input incial OPED.  Random: 24, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-01T00:00:00-04:00",
+  "SocioCode": "05603828-0C",
+  "ContactoCode": 1,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "V_ASTUDILLO",
+  "UsuarioCode": "0",
+  "Neto": 4190.0,
+  "Iva": 796.0,
+  "Total": 4986.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-01T20:24:25.3314038-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO FRANCISCO GARCES YACKSIC",
+  "FechaEntrega": "2024-09-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3603.0,
+  "Margen": 0.1400954653937947494033412888,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "CHEQUE 30 DIAS",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "CHEQUE_30_DIAS",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "VALENTINA ASTUDILLO",
+  "PED1": []
+} 
+2024-09-01 20:24:29.0168 loggerfile Completando Lineas.  Random: 24, DocEntry: 0, ProdCode: AVPOLPEC13 {
+  "DocEntry": 0,
+  "DocLinea": 0,
+  "LineaEstado": "A",
+  "ProdCode": "AVPOLPEC13",
+  "ProdNombre": "1 AG AG O PECHUGA POLLO DESH",
+  "PrecioFinal": 4190.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 1.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 176,
+  "AnimalCode": 3,
+  "TipoCode": "A",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.140,
+  "Costo": 3602.70,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 1.0,
+  "TotalSolicitado": 4190.0,
+  "TotalReal": null,
+  "PrecioUnitario": 4190.0,
+  "PrecioVolumen": 4190.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.2,
+  "Disponible": 1485.42,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 1,
+  "RefrigeraNombre": "FRESCO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 4,
+  "MarcaNombre": "AGROSUPER",
+  "FrmtoVentaNombre": "DESHUESADA",
+  "AnimalNombre": "AVE",
+  "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+  "SolicitadoAnterior": 0.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-09-01 20:24:29.0168 loggerfile Antes de enviar a DB. Random: 24, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-01T00:00:00-04:00",
+  "SocioCode": "05603828-0C",
+  "ContactoCode": 1,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "V_ASTUDILLO",
+  "UsuarioCode": "0",
+  "Neto": 4190.0,
+  "Iva": 796.0,
+  "Total": 4986.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-01T20:24:25.3314038-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO FRANCISCO GARCES YACKSIC",
+  "FechaEntrega": "2024-09-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3603.0,
+  "Margen": 0.1400954653937947494033412888,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "CHEQUE 30 DIAS",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "CHEQUE_30_DIAS",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "VALENTINA ASTUDILLO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 0,
+      "LineaEstado": "A",
+      "ProdCode": "AVPOLPEC13",
+      "ProdNombre": "1 AG AG O PECHUGA POLLO DESH",
+      "PrecioFinal": 4190.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 176,
+      "AnimalCode": 3,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.140,
+      "Costo": 3602.70,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 4190.0,
+      "TotalReal": null,
+      "PrecioUnitario": 4190.0,
+      "PrecioVolumen": 4190.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1485.42,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 4,
+      "MarcaNombre": "AGROSUPER",
+      "FrmtoVentaNombre": "DESHUESADA",
+      "AnimalNombre": "AVE",
+      "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-09-01 20:24:29.0287 loggerfile Despues de enviar a DB. Random: 24, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-01T00:00:00-04:00",
+  "SocioCode": "05603828-0C",
+  "ContactoCode": 1,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "V_ASTUDILLO",
+  "UsuarioCode": "0",
+  "Neto": 4190.0,
+  "Iva": 796.0,
+  "Total": 4986.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-01T20:24:25.3314038-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO FRANCISCO GARCES YACKSIC",
+  "FechaEntrega": "2024-09-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3603.0,
+  "Margen": 0.1400954653937947494033412888,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "CHEQUE 30 DIAS",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "CHEQUE_30_DIAS",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "VALENTINA ASTUDILLO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 0,
+      "LineaEstado": "A",
+      "ProdCode": "AVPOLPEC13",
+      "ProdNombre": "1 AG AG O PECHUGA POLLO DESH",
+      "PrecioFinal": 4190.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 176,
+      "AnimalCode": 3,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.140,
+      "Costo": 3602.70,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 4190.0,
+      "TotalReal": null,
+      "PrecioUnitario": 4190.0,
+      "PrecioVolumen": 4190.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1485.42,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 4,
+      "MarcaNombre": "AGROSUPER",
+      "FrmtoVentaNombre": "DESHUESADA",
+      "AnimalNombre": "AVE",
+      "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-01 20:24:29.2372 loggerfile SaveChanges enviar a DB. Random: 24, DocEntry: 410147 {
+  "DocEntry": 410147,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-01T00:00:00-04:00",
+  "SocioCode": "05603828-0C",
+  "ContactoCode": 1,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "V_ASTUDILLO",
+  "UsuarioCode": "0",
+  "Neto": 4190.0,
+  "Iva": 796.0,
+  "Total": 4986.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-01T20:24:25.3314038-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO FRANCISCO GARCES YACKSIC",
+  "FechaEntrega": "2024-09-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3603.0,
+  "Margen": 0.1400954653937947494033412888,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "CHEQUE 30 DIAS",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "CHEQUE_30_DIAS",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "VALENTINA ASTUDILLO",
+  "PED1": [
+    {
+      "DocEntry": 410147,
+      "DocLinea": 226,
+      "LineaEstado": "A",
+      "ProdCode": "AVPOLPEC13",
+      "ProdNombre": "1 AG AG O PECHUGA POLLO DESH",
+      "PrecioFinal": 4190.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 176,
+      "AnimalCode": 3,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.140,
+      "Costo": 3602.70,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 4190.0,
+      "TotalReal": null,
+      "PrecioUnitario": 4190.0,
+      "PrecioVolumen": 4190.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1485.42,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 4,
+      "MarcaNombre": "AGROSUPER",
+      "FrmtoVentaNombre": "DESHUESADA",
+      "AnimalNombre": "AVE",
+      "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-01 20:25:55.0460 loggerfile request https://localhost:44366/api/documentos/410147?doctipo=10 
+2024-09-01 20:25:55.1981 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-09-01 20:25:55.2823 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 20:25:55.4138 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-09-01 20:25:55.4497 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-09-01 20:25:55.4906 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-09-01 20:26:01.1306 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 20:26:01.1555 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 20:26:05.0627 loggerfile request https://localhost:44366/api/documentos/410147?doctipo=10 
+2024-09-01 20:26:05.2244 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-09-01 20:26:05.3022 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 20:26:05.4922 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-09-01 20:26:05.5493 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-09-01 20:26:05.5993 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-09-01 20:26:35.4769 loggerfile request https://localhost:44366/api/documentos/410147?doctipo=10 
+2024-09-01 20:26:35.6487 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-09-01 20:26:35.7403 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 20:26:35.8649 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-09-01 20:26:35.8959 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-09-01 20:26:35.9308 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-09-01 20:26:48.5427 loggerfile request https://localhost:44366/api/bandejas/CRED?estado=0&visible=1 
+2024-09-01 20:27:54.9907 loggerfile request https://localhost:44366/api/documentos 
+2024-09-01 20:27:55.0586 loggerfile Input incial OPED.  Random: 3, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-01T00:00:00-04:00",
+  "SocioCode": "05603828-0C",
+  "ContactoCode": 1,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "V_ASTUDILLO",
+  "UsuarioCode": "0",
+  "Neto": 4190.0,
+  "Iva": 796.0,
+  "Total": 4986.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-01T20:27:52.0183775-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO FRANCISCO GARCES YACKSIC",
+  "FechaEntrega": "2024-09-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3603.0,
+  "Margen": 0.1400954653937947494033412888,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "CHEQUE 30 DIAS",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "CHEQUE_30_DIAS",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "VALENTINA ASTUDILLO",
+  "PED1": []
+} 
+2024-09-01 20:27:55.0715 loggerfile Completando Lineas.  Random: 3, DocEntry: 0, ProdCode: AVPOLPEC13 {
+  "DocEntry": 0,
+  "DocLinea": 0,
+  "LineaEstado": "A",
+  "ProdCode": "AVPOLPEC13",
+  "ProdNombre": "1 AG AG O PECHUGA POLLO DESH",
+  "PrecioFinal": 4190.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 1.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 176,
+  "AnimalCode": 3,
+  "TipoCode": "A",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.140,
+  "Costo": 3602.70,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 1.0,
+  "TotalSolicitado": 4190.0,
+  "TotalReal": null,
+  "PrecioUnitario": 4190.0,
+  "PrecioVolumen": 4190.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.2,
+  "Disponible": 1485.42,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 1,
+  "RefrigeraNombre": "FRESCO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 4,
+  "MarcaNombre": "AGROSUPER",
+  "FrmtoVentaNombre": "DESHUESADA",
+  "AnimalNombre": "AVE",
+  "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+  "SolicitadoAnterior": 0.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-09-01 20:27:55.0715 loggerfile Antes de enviar a DB. Random: 3, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-01T00:00:00-04:00",
+  "SocioCode": "05603828-0C",
+  "ContactoCode": 1,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "V_ASTUDILLO",
+  "UsuarioCode": "0",
+  "Neto": 4190.0,
+  "Iva": 796.0,
+  "Total": 4986.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-01T20:27:52.0183775-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO FRANCISCO GARCES YACKSIC",
+  "FechaEntrega": "2024-09-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3603.0,
+  "Margen": 0.1400954653937947494033412888,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "CHEQUE 30 DIAS",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "CHEQUE_30_DIAS",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "VALENTINA ASTUDILLO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 0,
+      "LineaEstado": "A",
+      "ProdCode": "AVPOLPEC13",
+      "ProdNombre": "1 AG AG O PECHUGA POLLO DESH",
+      "PrecioFinal": 4190.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 176,
+      "AnimalCode": 3,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.140,
+      "Costo": 3602.70,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 4190.0,
+      "TotalReal": null,
+      "PrecioUnitario": 4190.0,
+      "PrecioVolumen": 4190.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1485.42,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 4,
+      "MarcaNombre": "AGROSUPER",
+      "FrmtoVentaNombre": "DESHUESADA",
+      "AnimalNombre": "AVE",
+      "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-09-01 20:27:55.0715 loggerfile Despues de enviar a DB. Random: 3, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-01T00:00:00-04:00",
+  "SocioCode": "05603828-0C",
+  "ContactoCode": 1,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "V_ASTUDILLO",
+  "UsuarioCode": "0",
+  "Neto": 4190.0,
+  "Iva": 796.0,
+  "Total": 4986.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-01T20:27:52.0183775-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO FRANCISCO GARCES YACKSIC",
+  "FechaEntrega": "2024-09-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3603.0,
+  "Margen": 0.1400954653937947494033412888,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "CHEQUE 30 DIAS",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "CHEQUE_30_DIAS",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "VALENTINA ASTUDILLO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 0,
+      "LineaEstado": "A",
+      "ProdCode": "AVPOLPEC13",
+      "ProdNombre": "1 AG AG O PECHUGA POLLO DESH",
+      "PrecioFinal": 4190.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 176,
+      "AnimalCode": 3,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.140,
+      "Costo": 3602.70,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 4190.0,
+      "TotalReal": null,
+      "PrecioUnitario": 4190.0,
+      "PrecioVolumen": 4190.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1485.42,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 4,
+      "MarcaNombre": "AGROSUPER",
+      "FrmtoVentaNombre": "DESHUESADA",
+      "AnimalNombre": "AVE",
+      "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-01 20:27:55.1294 loggerfile SaveChanges enviar a DB. Random: 3, DocEntry: 410148 {
+  "DocEntry": 410148,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-09-01T00:00:00-04:00",
+  "SocioCode": "05603828-0C",
+  "ContactoCode": 1,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "V_ASTUDILLO",
+  "UsuarioCode": "0",
+  "Neto": 4190.0,
+  "Iva": 796.0,
+  "Total": 4986.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-09-01T20:27:52.0183775-04:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO FRANCISCO GARCES YACKSIC",
+  "FechaEntrega": "2024-09-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 3603.0,
+  "Margen": 0.1400954653937947494033412888,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "CHEQUE 30 DIAS",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "CHEQUE_30_DIAS",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "VALENTINA ASTUDILLO",
+  "PED1": [
+    {
+      "DocEntry": 410148,
+      "DocLinea": 227,
+      "LineaEstado": "A",
+      "ProdCode": "AVPOLPEC13",
+      "ProdNombre": "1 AG AG O PECHUGA POLLO DESH",
+      "PrecioFinal": 4190.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 1.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 176,
+      "AnimalCode": 3,
+      "TipoCode": "A",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.140,
+      "Costo": 3602.70,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 1.0,
+      "TotalSolicitado": 4190.0,
+      "TotalReal": null,
+      "PrecioUnitario": 4190.0,
+      "PrecioVolumen": 4190.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.2,
+      "Disponible": 1485.42,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 4,
+      "MarcaNombre": "AGROSUPER",
+      "FrmtoVentaNombre": "DESHUESADA",
+      "AnimalNombre": "AVE",
+      "FamiliaNombre": "PECHUGA POLLO DESHUESADA",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-09-01 20:33:47.4422 loggerfile request https://localhost:44366/api/documentos/410148?doctipo=10 
+2024-09-01 20:33:47.6752 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-09-01 20:33:47.7629 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 20:33:47.8906 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-09-01 20:33:47.9355 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-09-01 20:33:47.9853 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-09-01 20:33:55.0001 loggerfile request https://localhost:44366/api/bandejas/CRED?estado=0&visible=1 
+2024-09-01 21:02:42.0157 loggerfile request https://localhost:44366/api/documentos/410148?doctipo=10 
+2024-09-01 21:02:42.2667 loggerfile request https://localhost:44366/api/bandejas/CRED/410148 
+2024-09-01 21:02:42.3953 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-09-01 21:02:42.5070 loggerfile request https://localhost:44366/api/socios/cuenta/05603828-0C/ 
+2024-09-01 21:02:43.1078 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 278
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) 
+2024-09-01 21:02:43.2210 loggerfile request https://localhost:44366/api/socios/ventas12m/05603828-0C/ 
+2024-09-01 21:02:43.3197 loggerfile request https://localhost:44366/api/bandejas/CRED?sociocode=05603828-0C&top=10 
+2024-09-01 21:02:48.4319 loggerfile request https://localhost:44366/api/documentos/410147?doctipo=10 
+2024-09-01 21:02:49.0339 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-09-01 21:02:49.5859 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 21:02:50.9047 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-09-01 21:02:51.1787 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-09-01 21:02:51.2733 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-09-01 21:03:01.5714 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 21:03:01.6014 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 21:03:05.2073 loggerfile request https://localhost:44366/api/documentos/410148?doctipo=10 
+2024-09-01 21:03:05.3929 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-09-01 21:03:05.4746 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 21:03:05.6185 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-09-01 21:03:05.6574 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-09-01 21:03:05.6917 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-09-01 21:03:22.6613 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-09-01 21:03:22.6881 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-09-01 21:03:22.7556 loggerfile request https://localhost:44366/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-09-01 21:03:27.7394 loggerfile request https://localhost:44366/api/documentos/410142?doctipo=10 
+2024-09-01 21:03:37.3522 loggerfile request https://localhost:44366/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-09-01 21:03:37.4437 loggerfile request https://localhost:44366/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-09-01&hasta=2024-09-01 
+2024-09-01 21:03:41.5778 loggerfile request https://localhost:44366/api/documentos/410148?doctipo=10 
+2024-09-01 21:03:41.7208 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-09-01 21:03:41.8013 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 21:03:41.9287 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-09-01 21:03:41.9607 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-09-01 21:03:41.9936 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-09-01 21:03:52.4679 loggerfile request https://localhost:44366/api/productos/search?palabras=lomo porc&solorecetas=&maestro=&bodegacode= 
+2024-09-01 21:04:12.7017 loggerfile request https://localhost:44366/api/productos/search?palabras=pechuga&solorecetas=&maestro=&bodegacode= 
+2024-09-01 21:04:23.6024 loggerfile request https://localhost:44366/api/productos/search?palabras=lc&solorecetas=&maestro=&bodegacode= 
+2024-09-01 21:05:12.8119 loggerfile request https://localhost:44366/api/documentos/410148?doctipo=10 
+2024-09-01 21:05:12.9578 loggerfile request https://localhost:44366/api/socios/05603828-0C/ 
+2024-09-01 21:05:13.0346 loggerfile request https://localhost:44366/api/socios/propiedades 
+2024-09-01 21:05:13.1870 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopFamilia 
+2024-09-01 21:05:13.2208 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopRubro 
+2024-09-01 21:05:13.2548 loggerfile request https://localhost:44366/api/socios/05603828-0C/TopVentas 
+2024-09-01 21:05:29.7537 loggerfile request https://localhost:44366/api/productos/search/stock?palabras=AVPAVMANF7&solorecetas=&maestro=S&bodegacode= 
+2024-09-01 21:05:49.2577 loggerfile request https://localhost:44366/api/productos/search/stock?palabras=lc&solorecetas=&maestro=S&bodegacode= 
+2024-09-01 21:06:47.9452 loggerfile request https://localhost:44366/api/productos/search?palabras=&solorecetas=S&maestro=&bodegacode= 
+2024-09-01 21:06:51.6089 loggerfile request https://localhost:44366/api/recetas/search?palabras=VAOTRMEZ14&solorecetas=&maestro=&bodegacode= 
+2024-09-01 21:06:53.3143 loggerfile request https://localhost:44366/api/recetas/VAOTRMEZ14 

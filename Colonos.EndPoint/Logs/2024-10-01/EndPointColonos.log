@@ -1,0 +1,2975 @@
+2024-10-01 05:09:34.9099 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-01 05:09:36.5223 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 05:09:40.7945 loggerfile request https://localhost:44367/api/documentos/20140?doctipo=3010 
+2024-10-01 05:09:53.8770 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-01 05:09:53.8965 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 05:09:54.0741 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 05:09:55.9276 loggerfile request https://localhost:44367/api/documentos/410582?doctipo=10 
+2024-10-01 05:19:47.8986 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-01 05:19:50.0496 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 05:19:55.5852 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 05:19:57.8007 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 05:19:59.2178 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 05:20:00.4578 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 05:20:01.9710 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 05:20:03.3463 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 05:20:04.0432 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 05:20:20.4044 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-10-01 05:20:20.4668 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-01 05:20:26.0820 loggerfile request https://localhost:44367/api/documentos/5535?doctipo=2010 
+2024-10-01 05:20:26.5616 loggerfile request https://localhost:44367/api/documentos/20093?doctipo=3010 
+2024-10-01 05:20:32.4652 loggerfile request https://localhost:44367/api/documentos/5535?doctipo=2010 
+2024-10-01 05:20:32.6698 loggerfile request https://localhost:44367/api/documentos 
+2024-10-01 05:20:41.2772 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-10-01 05:20:41.2772 loggerfile RenovarToken... 
+2024-10-01 05:20:41.2772 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-10-01 05:20:42.5246 loggerfile response.ErrorMessage:  
+2024-10-01 05:20:42.5246 loggerfile response.ErrorException:  
+2024-10-01 05:20:42.5246 loggerfile response.ProtocolVersion: 1.1 
+2024-10-01 05:20:42.5246 loggerfile response.StatusCode: OK 
+2024-10-01 05:20:42.5246 loggerfile response.StatusDescription: OK 
+2024-10-01 05:20:42.5246 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI3NzcwODQyIiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NTkzMDY4NDIsIm5iZiI6MTcyNzc3MDg0Mn0.GZXi0_GiabsXI3wxkDAKn6pRhfvfkDKjgusndl2gE84","expires_in":31535999,"token_type":"bearer"} 
+2024-10-01 05:20:58.0302 loggerfile mensaje: El articulo CECER22009 no existe.
+. Data:  
+2024-10-01 05:21:06.6346 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 05:21:06.6610 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-01 
+2024-10-01 05:22:21.8307 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 05:22:21.8620 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-01 
+2024-10-01 05:22:52.9467 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-10-01 05:22:56.6038 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 05:22:56.9672 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 05:22:57.5449 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-01 05:22:57.6420 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-01 05:22:57.7259 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-01 05:23:06.3268 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILFIL11&solorecetas=&maestro=&bodegacode= 
+2024-10-01 05:23:29.6237 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILFIL02&solorecetas=&maestro=&bodegacode= 
+2024-10-01 05:23:50.2359 loggerfile request https://localhost:44367/api/documentos 
+2024-10-01 05:23:50.5375 loggerfile Input incial OPED.  Random: 1, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 310539.0,
+  "Iva": 59002.0,
+  "Total": 369541.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:23:50.1971229-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 186320.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-10-01 05:23:50.5785 loggerfile Completando Lineas.  Random: 1, DocEntry: 0, ProdCode: VAFILFIL11 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VAFILFIL11",
+  "ProdNombre": "1 LC LC V FILETE LIMPIO",
+  "PrecioFinal": 18267.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 17.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 131,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.400,
+  "Costo": 10960.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 17.0,
+  "TotalSolicitado": 310539.0,
+  "TotalReal": null,
+  "PrecioUnitario": 18267.0,
+  "PrecioVolumen": 17719.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.4,
+  "Disponible": 16.10,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 1,
+  "RefrigeraNombre": "FRESCO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "LIMPIO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "FILETE LIMPIO",
+  "SolicitadoAnterior": 0.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-10-01 05:23:50.5785 loggerfile Antes de enviar a DB. Random: 1, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 310539.0,
+  "Iva": 59002.0,
+  "Total": 369541.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:23:50.1971229-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 186320.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 17.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 17.0,
+      "TotalSolicitado": 310539.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": 16.10,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-10-01 05:23:50.5951 loggerfile Despues de enviar a DB. Random: 1, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 310539.0,
+  "Iva": 59002.0,
+  "Total": 369541.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:23:50.1971229-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 186320.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 17.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 17.0,
+      "TotalSolicitado": 310539.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": 16.10,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-01 05:23:50.7669 loggerfile SaveChanges enviar a DB. Random: 1, DocEntry: 410416 {
+  "DocEntry": 410416,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 310539.0,
+  "Iva": 59002.0,
+  "Total": 369541.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:23:50.1971229-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 186320.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410416,
+      "DocLinea": 628,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 17.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 17.0,
+      "TotalSolicitado": 310539.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": 16.10,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-01 05:23:51.6239 loggerfile request https://localhost:44367/api/documentos/410416?doctipo=10 
+2024-10-01 05:23:51.8372 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 05:23:51.9329 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 05:23:52.2688 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-01 05:23:52.3225 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-01 05:23:52.3899 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-01 05:23:56.8820 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 05:23:56.9308 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-01 
+2024-10-01 05:24:06.8655 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-10-01 05:24:15.6671 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 05:24:15.7586 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 05:24:15.9455 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-01 05:24:16.0002 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-01 05:24:16.0783 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-01 05:24:21.1044 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILFIL11&solorecetas=&maestro=&bodegacode= 
+2024-10-01 05:25:41.9043 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILFIL11&solorecetas=&maestro=&bodegacode= 
+2024-10-01 05:25:53.7277 loggerfile request https://localhost:44367/api/documentos 
+2024-10-01 05:25:53.8216 loggerfile Input incial OPED.  Random: 11, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 274005.0,
+  "Iva": 52061.0,
+  "Total": 326066.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:25:53.7189434-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 164400.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-10-01 05:25:53.8665 loggerfile Completando Lineas.  Random: 11, DocEntry: 0, ProdCode: VAFILFIL11 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VAFILFIL11",
+  "ProdNombre": "1 LC LC V FILETE LIMPIO",
+  "PrecioFinal": 18267.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 15.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 131,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.400,
+  "Costo": 10960.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 15.0,
+  "TotalSolicitado": 274005.0,
+  "TotalReal": null,
+  "PrecioUnitario": 18267.0,
+  "PrecioVolumen": 17719.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.4,
+  "Disponible": 15.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 1,
+  "RefrigeraNombre": "FRESCO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "LIMPIO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "FILETE LIMPIO",
+  "SolicitadoAnterior": 0.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-10-01 05:25:53.8665 loggerfile Antes de enviar a DB. Random: 11, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 274005.0,
+  "Iva": 52061.0,
+  "Total": 326066.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:25:53.7189434-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 164400.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 15.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 15.0,
+      "TotalSolicitado": 274005.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": 15.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-10-01 05:25:53.8665 loggerfile Despues de enviar a DB. Random: 11, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 274005.0,
+  "Iva": 52061.0,
+  "Total": 326066.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:25:53.7189434-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 164400.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 15.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 15.0,
+      "TotalSolicitado": 274005.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": 15.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-01 05:25:53.9329 loggerfile SaveChanges enviar a DB. Random: 11, DocEntry: 410417 {
+  "DocEntry": 410417,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 274005.0,
+  "Iva": 52061.0,
+  "Total": 326066.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:25:53.7189434-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 164400.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410417,
+      "DocLinea": 629,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 15.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 15.0,
+      "TotalSolicitado": 274005.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": 15.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-01 05:25:54.2980 loggerfile request https://localhost:44367/api/documentos/410417?doctipo=10 
+2024-10-01 05:25:54.4831 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 05:25:54.5655 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 05:25:54.6973 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-01 05:25:54.7529 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-01 05:25:54.8443 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-01 05:27:18.6079 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-01 05:27:23.8106 loggerfile request https://localhost:44367/api/documentos/410417?doctipo=10 
+2024-10-01 05:27:24.0566 loggerfile request https://localhost:44367/api/bandejas/CRED/410417 
+2024-10-01 05:27:24.1410 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 05:27:24.2411 loggerfile request https://localhost:44367/api/socios/cuenta/13436067-4C/ 
+2024-10-01 05:27:24.5284 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 274
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Socios\ManagerSocios.cs:línea 568 
+2024-10-01 05:27:24.5420 loggerfile request https://localhost:44367/api/socios/ventas12m/13436067-4C/ 
+2024-10-01 05:27:24.6201 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=13436067-4C&top=10 
+2024-10-01 05:27:29.8226 loggerfile request https://localhost:44367/api/bandejas/CRED/410417 
+2024-10-01 05:27:29.8880 loggerfile request https://localhost:44367/api/bandejas/CRED/410417 
+2024-10-01 05:27:30.7450 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-01 05:36:54.1710 loggerfile request https://localhost:44367/api/documentos/410416?doctipo=10 
+2024-10-01 05:36:54.4102 loggerfile request https://localhost:44367/api/bandejas/CRED/410416 
+2024-10-01 05:36:54.4560 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 05:36:54.5263 loggerfile request https://localhost:44367/api/socios/cuenta/13436067-4C/ 
+2024-10-01 05:36:54.6747 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.DataAccess\Implement\Repositorios\Ventas\Repo_OPED.cs:línea 274
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) en D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Manager\Implement\Socios\ManagerSocios.cs:línea 568 
+2024-10-01 05:36:54.6747 loggerfile request https://localhost:44367/api/socios/ventas12m/13436067-4C/ 
+2024-10-01 05:36:54.7166 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=13436067-4C&top=10 
+2024-10-01 05:37:05.8283 loggerfile request https://localhost:44367/api/bandejas/CRED/410416 
+2024-10-01 05:37:05.8762 loggerfile request https://localhost:44367/api/bandejas/CRED/410416 
+2024-10-01 05:37:12.5712 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-01 05:40:46.0188 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 05:40:46.0380 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-01 
+2024-10-01 05:41:01.8985 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-10-01 05:41:05.3693 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 05:41:05.4747 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 05:41:05.6143 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-01 05:41:05.6826 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-01 05:41:05.7529 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-01 05:41:10.1639 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILFIL11&solorecetas=&maestro=&bodegacode= 
+2024-10-01 05:41:23.3786 loggerfile request https://localhost:44367/api/documentos 
+2024-10-01 05:41:23.4641 loggerfile Input incial OPED.  Random: 0, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:41:23.3698891-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-10-01 05:41:23.4904 loggerfile Completando Lineas.  Random: 0, DocEntry: 0, ProdCode: VAFILFIL11 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VAFILFIL11",
+  "ProdNombre": "1 LC LC V FILETE LIMPIO",
+  "PrecioFinal": 18267.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 10.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 131,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.400,
+  "Costo": 10960.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 10.0,
+  "TotalSolicitado": 182670.0,
+  "TotalReal": null,
+  "PrecioUnitario": 18267.0,
+  "PrecioVolumen": 17719.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.4,
+  "Disponible": -17.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 1,
+  "RefrigeraNombre": "FRESCO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "LIMPIO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "FILETE LIMPIO",
+  "SolicitadoAnterior": 0.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-10-01 05:41:23.4904 loggerfile Antes de enviar a DB. Random: 0, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:41:23.3698891-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 182670.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -17.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-10-01 05:41:23.4904 loggerfile Despues de enviar a DB. Random: 0, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:41:23.3698891-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 182670.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -17.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-01 05:41:23.5470 loggerfile SaveChanges enviar a DB. Random: 0, DocEntry: 410418 {
+  "DocEntry": 410418,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:41:23.3698891-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410418,
+      "DocLinea": 630,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 182670.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -17.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-01 05:41:23.9199 loggerfile request https://localhost:44367/api/documentos/410418?doctipo=10 
+2024-10-01 05:41:24.1280 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 05:41:24.2256 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 05:41:24.3583 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-01 05:41:24.4100 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-01 05:41:24.5096 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-01 05:43:53.6356 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 05:43:53.6751 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-01 
+2024-10-01 05:44:03.0064 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-10-01 05:44:04.8815 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 05:44:04.9679 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 05:44:05.0821 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-01 05:44:05.1339 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-01 05:44:05.2022 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-01 05:44:09.2326 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILFIL11&solorecetas=&maestro=&bodegacode= 
+2024-10-01 05:44:19.6151 loggerfile request https://localhost:44367/api/documentos 
+2024-10-01 05:44:19.6859 loggerfile Input incial OPED.  Random: 14, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:44:19.6073266-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-10-01 05:57:39.9229 loggerfile Completando Lineas.  Random: 14, DocEntry: 0, ProdCode: VAFILFIL11 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VAFILFIL11",
+  "ProdNombre": "1 LC LC V FILETE LIMPIO",
+  "PrecioFinal": 18267.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 10.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 131,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.400,
+  "Costo": 10960.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 10.0,
+  "TotalSolicitado": 182670.0,
+  "TotalReal": null,
+  "PrecioUnitario": 18267.0,
+  "PrecioVolumen": 17719.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.4,
+  "Disponible": -17.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 1,
+  "RefrigeraNombre": "FRESCO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "LIMPIO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "FILETE LIMPIO",
+  "SolicitadoAnterior": 0.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-10-01 05:57:39.9229 loggerfile Antes de enviar a DB. Random: 14, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:44:19.6073266-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 182670.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -17.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-10-01 05:57:39.9229 loggerfile Despues de enviar a DB. Random: 14, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:44:19.6073266-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 182670.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -17.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-01 05:57:40.0558 loggerfile SaveChanges enviar a DB. Random: 14, DocEntry: 410419 {
+  "DocEntry": 410419,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T05:44:19.6073266-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410419,
+      "DocLinea": 631,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 182670.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -17.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 0.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-01 05:57:40.6338 loggerfile request https://localhost:44367/api/documentos/410419?doctipo=10 
+2024-10-01 05:57:41.1718 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 05:57:41.2900 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 05:57:41.4349 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-01 05:57:41.5100 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-01 05:57:41.5832 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-01 05:58:18.4636 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-01 05:58:20.8519 loggerfile request https://localhost:44367/api/documentos/410419?doctipo=10 
+2024-10-01 05:58:21.0510 loggerfile request https://localhost:44367/api/bandejas/CRED/410419 
+2024-10-01 05:58:21.0881 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 05:58:21.1691 loggerfile request https://localhost:44367/api/socios/cuenta/13436067-4C/ 
+2024-10-01 05:58:21.3219 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode)
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) 
+2024-10-01 05:58:21.3219 loggerfile request https://localhost:44367/api/socios/ventas12m/13436067-4C/ 
+2024-10-01 05:58:21.3629 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=13436067-4C&top=10 
+2024-10-01 05:58:24.9970 loggerfile request https://localhost:44367/api/bandejas/CRED/410419 
+2024-10-01 05:58:25.0487 loggerfile request https://localhost:44367/api/bandejas/CRED/410419 
+2024-10-01 06:03:58.9003 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-01 06:04:04.6235 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-01 06:04:07.5794 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 06:04:07.6223 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-01 
+2024-10-01 06:04:29.5079 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-10-01 06:04:33.3798 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 06:04:33.5454 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 06:04:33.7100 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-01 06:04:33.7685 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-01 06:04:33.8339 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-01 06:04:38.2601 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILFIL11&solorecetas=&maestro=&bodegacode= 
+2024-10-01 06:04:51.1126 loggerfile request https://localhost:44367/api/documentos 
+2024-10-01 06:04:51.1839 loggerfile Input incial OPED.  Random: 1, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 146136.0,
+  "Iva": 27766.0,
+  "Total": 173902.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T06:04:51.1058843-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 87680.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-10-01 06:04:51.1985 loggerfile Completando Lineas.  Random: 1, DocEntry: 0, ProdCode: VAFILFIL11 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VAFILFIL11",
+  "ProdNombre": "1 LC LC V FILETE LIMPIO",
+  "PrecioFinal": 18267.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 8.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 131,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.400,
+  "Costo": 10960.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 8.0,
+  "TotalSolicitado": 146136.0,
+  "TotalReal": null,
+  "PrecioUnitario": 18267.0,
+  "PrecioVolumen": 17719.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.4,
+  "Disponible": -37.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 1,
+  "RefrigeraNombre": "FRESCO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "LIMPIO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "FILETE LIMPIO",
+  "SolicitadoAnterior": 8.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-10-01 06:04:51.1985 loggerfile Antes de enviar a DB. Random: 1, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 146136.0,
+  "Iva": 27766.0,
+  "Total": 173902.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T06:04:51.1058843-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 87680.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 8.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 8.0,
+      "TotalSolicitado": 146136.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -37.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 8.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-10-01 06:04:51.1985 loggerfile Despues de enviar a DB. Random: 1, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 146136.0,
+  "Iva": 27766.0,
+  "Total": 173902.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T06:04:51.1058843-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 87680.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 8.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 8.0,
+      "TotalSolicitado": 146136.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -37.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 8.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-01 06:04:51.3136 loggerfile SaveChanges enviar a DB. Random: 1, DocEntry: 410420 {
+  "DocEntry": 410420,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 146136.0,
+  "Iva": 27766.0,
+  "Total": 173902.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T06:04:51.1058843-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 87680.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410420,
+      "DocLinea": 632,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 8.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 8.0,
+      "TotalSolicitado": 146136.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -37.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 8.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-01 06:04:51.7322 loggerfile request https://localhost:44367/api/documentos/410420?doctipo=10 
+2024-10-01 06:04:51.9332 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 06:04:52.0162 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 06:04:52.1457 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-01 06:04:52.2092 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-01 06:04:52.2741 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-01 06:05:16.0113 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-01 06:05:17.8125 loggerfile request https://localhost:44367/api/documentos/410420?doctipo=10 
+2024-10-01 06:05:18.0299 loggerfile request https://localhost:44367/api/bandejas/CRED/410420 
+2024-10-01 06:05:18.0631 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 06:05:18.1353 loggerfile request https://localhost:44367/api/socios/cuenta/13436067-4C/ 
+2024-10-01 06:05:18.3120 loggerfile mensaje: Self referencing loop detected for property 'OPED' with type 'System.Data.Entity.DynamicProxies.OPED_8D560E02BE3A1F48FFE4DB31CC5C488C4070D49F7BC8442B55D6685556DB84BC'. Path '[0].PED1[0]'.. Data:    en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CalculatePropertyValues(JsonWriter writer, Object value, JsonContainerContract contract, JsonProperty member, JsonProperty property, JsonContract& memberContract, Object& memberValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   en Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   en Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   en Colonos.DataAccess.Repositorios.Repo_OPED.ListVentas(String sociocode)
+   en Colonos.Manager.ManagerSocios.CuentaCorriente(String sociocode) 
+2024-10-01 06:05:18.3120 loggerfile request https://localhost:44367/api/socios/ventas12m/13436067-4C/ 
+2024-10-01 06:05:18.3539 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=13436067-4C&top=10 
+2024-10-01 06:05:22.1691 loggerfile request https://localhost:44367/api/bandejas/CRED/410420 
+2024-10-01 06:05:22.2140 loggerfile request https://localhost:44367/api/bandejas/CRED/410420 
+2024-10-01 06:05:56.4102 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-01 06:06:44.6907 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-01 06:06:44.7142 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 06:06:44.7854 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 06:06:46.7657 loggerfile request https://localhost:44367/api/documentos/410420?doctipo=10 
+2024-10-01 06:06:52.2424 loggerfile request https://localhost:44367/api/documentos/410420?doctipo=10 
+2024-10-01 06:06:52.4581 loggerfile request https://localhost:44367/api/documentos/estadoitem 
+2024-10-01 06:12:59.7278 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 06:12:59.7815 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 06:33:50.5164 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-01 06:33:52.7915 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 06:33:56.8033 loggerfile request https://localhost:44367/api/documentos/20105?doctipo=3010 
+2024-10-01 06:34:19.2359 loggerfile request https://localhost:44367/api/documentos/20105?doctipo=3010 
+2024-10-01 06:36:35.8634 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 06:36:37.2074 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-01 
+2024-10-01 06:36:39.5383 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-01 06:36:39.5676 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 06:36:39.6496 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 06:36:57.4552 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-01 06:36:57.4747 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 06:36:59.6202 loggerfile request https://localhost:44367/api/documentos/20105?doctipo=3010 
+2024-10-01 06:37:09.9384 loggerfile request https://localhost:44367/api/documentos/20105?doctipo=3010 
+2024-10-01 06:38:18.6847 loggerfile request https://localhost:44367/api/documentos/estadoitem 
+2024-10-01 06:39:45.1906 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 06:39:53.0055 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 06:40:50.6791 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 06:40:54.0183 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=Admin&fechaini=20241001&fechafin=20241001 
+2024-10-01 06:43:17.9575 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20241001&fechafin=20241001 
+2024-10-01 06:43:25.7096 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20241001 
+2024-10-01 06:43:30.2650 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20241002 
+2024-10-01 06:43:31.2232 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20241002 
+2024-10-01 06:43:31.7879 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20241002 
+2024-10-01 06:43:32.1994 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20241002 
+2024-10-01 06:43:32.5837 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20241002 
+2024-10-01 06:43:32.7395 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20241002 
+2024-10-01 06:43:33.3970 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20241002 
+2024-10-01 06:43:33.7954 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20241002 
+2024-10-01 06:43:33.9731 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20241002 
+2024-10-01 06:43:34.1602 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20241002 
+2024-10-01 06:43:34.3534 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20241002 
+2024-10-01 06:43:34.5482 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20241002 
+2024-10-01 06:43:34.7501 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20241002 
+2024-10-01 06:43:42.4433 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-01 06:43:42.4886 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 06:43:44.7211 loggerfile request https://localhost:44367/api/documentos/20104?doctipo=3010 
+2024-10-01 06:43:49.4644 loggerfile request https://localhost:44367/api/documentos/20104?doctipo=3010 
+2024-10-01 06:43:49.5630 loggerfile request https://localhost:44367/api/documentos/estadoitem 
+2024-10-01 06:43:51.0811 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 06:43:57.3072 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 06:43:59.2423 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=Admin&fechaini=20241001&fechafin=20241001 
+2024-10-01 06:45:34.2769 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 06:45:34.3062 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-01 
+2024-10-01 06:45:44.3469 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-10-01 06:45:46.5950 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 06:45:46.9386 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 06:45:47.3602 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-01 06:45:47.4481 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-01 06:45:47.5261 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-01 06:45:57.5202 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILFIL11&solorecetas=&maestro=&bodegacode= 
+2024-10-01 06:46:19.1014 loggerfile request https://localhost:44367/api/documentos 
+2024-10-01 06:46:19.8105 loggerfile Input incial OPED.  Random: 19, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T06:46:19.0731837-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-10-01 06:46:19.9501 loggerfile Completando Lineas.  Random: 19, DocEntry: 0, ProdCode: VAFILFIL11 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VAFILFIL11",
+  "ProdNombre": "1 LC LC V FILETE LIMPIO",
+  "PrecioFinal": 18267.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 10.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 131,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.400,
+  "Costo": 10960.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 10.0,
+  "TotalSolicitado": 182670.0,
+  "TotalReal": null,
+  "PrecioUnitario": 18267.0,
+  "PrecioVolumen": 17719.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.4,
+  "Disponible": -37.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 1,
+  "RefrigeraNombre": "FRESCO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "LIMPIO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "FILETE LIMPIO",
+  "SolicitadoAnterior": 10.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-10-01 06:46:19.9501 loggerfile Antes de enviar a DB. Random: 19, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T06:46:19.0731837-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 182670.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -37.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-10-01 06:46:19.9774 loggerfile Despues de enviar a DB. Random: 19, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T06:46:19.0731837-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 182670.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -37.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-01 06:46:20.3372 loggerfile SaveChanges enviar a DB. Random: 19, DocEntry: 410421 {
+  "DocEntry": 410421,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T06:46:19.0731837-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410421,
+      "DocLinea": 633,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 182670.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -37.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-01 06:46:22.3828 loggerfile request https://localhost:44367/api/documentos/410421?doctipo=10 
+2024-10-01 06:46:23.4979 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 06:46:24.3197 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 06:46:25.4260 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-01 06:46:25.7777 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-01 06:46:25.9870 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-01 06:47:07.8804 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 06:47:09.7815 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=Admin&fechaini=20241001&fechafin=20241001 
+2024-10-01 06:49:08.0694 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 06:49:08.0899 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-01 
+2024-10-01 06:49:16.6088 loggerfile request https://localhost:44367/api/socios/search?palabras=gustavo&usuario=Admin 
+2024-10-01 06:49:18.4435 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 06:49:18.5323 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 06:49:18.6778 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-01 06:49:18.7315 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-01 06:49:18.8407 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-01 06:49:26.9351 loggerfile request https://localhost:44367/api/productos/search?palabras=VAFILFIL11&solorecetas=&maestro=&bodegacode= 
+2024-10-01 06:49:36.3000 loggerfile request https://localhost:44367/api/documentos 
+2024-10-01 06:51:01.2488 loggerfile Input incial OPED.  Random: 0, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T06:50:50.2181755-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": []
+} 
+2024-10-01 06:51:01.2623 loggerfile Completando Lineas.  Random: 0, DocEntry: 0, ProdCode: VAFILFIL11 {
+  "DocEntry": 0,
+  "DocLinea": 1,
+  "LineaEstado": "A",
+  "ProdCode": "VAFILFIL11",
+  "ProdNombre": "1 LC LC V FILETE LIMPIO",
+  "PrecioFinal": 18267.0,
+  "Descuento": 0.0,
+  "CantidadPendiente": 10.0,
+  "CantidadReal": 0.0,
+  "BaseEntry": null,
+  "BaseLinea": null,
+  "UsuarioCodeConfirma": null,
+  "FechaConfirma": null,
+  "FamiliaCode": 131,
+  "AnimalCode": 1,
+  "TipoCode": "B",
+  "Medida": "KILO",
+  "FormatoVtaCode": 0,
+  "Margen": 0.400,
+  "Costo": 10960.00,
+  "LineaItem": 1,
+  "Volumen": 100.0,
+  "CantidadSolicitada": 10.0,
+  "TotalSolicitado": 182670.0,
+  "TotalReal": null,
+  "PrecioUnitario": 18267.0,
+  "PrecioVolumen": 17719.0,
+  "FactorPrecio": 1.0,
+  "MargenRegla": 0.4,
+  "Disponible": -47.00,
+  "BodegaCode": "TOLEDO",
+  "RefrigeraCode": 1,
+  "RefrigeraNombre": "FRESCO",
+  "OrigenCode": 5,
+  "OrigenNombre": "NACIONAL",
+  "MarcaCode": 36,
+  "MarcaNombre": "LCDN",
+  "FrmtoVentaNombre": "LIMPIO",
+  "AnimalNombre": "VACUNO",
+  "FamiliaNombre": "FILETE LIMPIO",
+  "SolicitadoAnterior": 10.0,
+  "CantidadEntregada": null,
+  "Completado": null,
+  "BaseTipo": null,
+  "DocTipo": 10,
+  "OPED": null
+} 
+2024-10-01 06:51:01.2623 loggerfile Antes de enviar a DB. Random: 0, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T06:50:50.2181755-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 182670.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -47.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10,
+      "OPED": null
+    }
+  ]
+} 
+2024-10-01 06:51:01.2623 loggerfile Despues de enviar a DB. Random: 0, DocEntry: 0 {
+  "DocEntry": 0,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T06:50:50.2181755-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 0,
+      "DocLinea": 1,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 182670.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -47.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-01 06:51:01.3675 loggerfile SaveChanges enviar a DB. Random: 0, DocEntry: 410422 {
+  "DocEntry": 410422,
+  "DocEstado": "A",
+  "DocTipo": 10,
+  "DocFecha": "2024-10-01T00:00:00-03:00",
+  "SocioCode": "13436067-4C",
+  "ContactoCode": 12,
+  "CondicionCode": null,
+  "DireccionCode": 0,
+  "VendedorCode": "HAVENDANO",
+  "UsuarioCode": "0",
+  "Neto": 182670.0,
+  "Iva": 34707.0,
+  "Total": 217377.0,
+  "Observaciones": "",
+  "EstadoOperativo": "ING",
+  "FechaRegistro": "2024-10-01T06:50:50.2181755-03:00",
+  "Version": "V0.0.1",
+  "UsuarioNombre": "Admin",
+  "EstadoCliente": "ACTIVO",
+  "RazonSocial": "GUSTAVO HERNAN ROBLES CONTRERAS",
+  "FechaEntrega": "2024-10-01T00:00:00",
+  "RetiraCliente": true,
+  "AutorizacionEspecial": null,
+  "Costo": 109600.0,
+  "Margen": 0.4000109487053155964307220671,
+  "BandejaCode": null,
+  "MotivoRechazo": null,
+  "AutorizadoEspecial": null,
+  "CondicionNombre": "TRANSFERENCIA PREVIA",
+  "FechaIngresoPrep": null,
+  "Completado": null,
+  "BaseEntry": null,
+  "BaseTipo": null,
+  "clientFileDF": null,
+  "CondicionDF": "TRANSFERENCIA",
+  "Facturado": null,
+  "Etiquetado": null,
+  "Etiqueta": null,
+  "Instrucciones": "",
+  "VendedorNombre": "HECTOR AVENDAÑO",
+  "PED1": [
+    {
+      "DocEntry": 410422,
+      "DocLinea": 634,
+      "LineaEstado": "A",
+      "ProdCode": "VAFILFIL11",
+      "ProdNombre": "1 LC LC V FILETE LIMPIO",
+      "PrecioFinal": 18267.0,
+      "Descuento": 0.0,
+      "CantidadPendiente": 10.0,
+      "CantidadReal": 0.0,
+      "BaseEntry": null,
+      "BaseLinea": null,
+      "UsuarioCodeConfirma": null,
+      "FechaConfirma": null,
+      "FamiliaCode": 131,
+      "AnimalCode": 1,
+      "TipoCode": "B",
+      "Medida": "KILO",
+      "FormatoVtaCode": 0,
+      "Margen": 0.400,
+      "Costo": 10960.00,
+      "LineaItem": 1,
+      "Volumen": 100.0,
+      "CantidadSolicitada": 10.0,
+      "TotalSolicitado": 182670.0,
+      "TotalReal": null,
+      "PrecioUnitario": 18267.0,
+      "PrecioVolumen": 17719.0,
+      "FactorPrecio": 1.0,
+      "MargenRegla": 0.4,
+      "Disponible": -47.00,
+      "BodegaCode": "TOLEDO",
+      "RefrigeraCode": 1,
+      "RefrigeraNombre": "FRESCO",
+      "OrigenCode": 5,
+      "OrigenNombre": "NACIONAL",
+      "MarcaCode": 36,
+      "MarcaNombre": "LCDN",
+      "FrmtoVentaNombre": "LIMPIO",
+      "AnimalNombre": "VACUNO",
+      "FamiliaNombre": "FILETE LIMPIO",
+      "SolicitadoAnterior": 10.0,
+      "CantidadEntregada": null,
+      "Completado": null,
+      "BaseTipo": null,
+      "DocTipo": 10
+    }
+  ]
+} 
+2024-10-01 06:51:01.7010 loggerfile request https://localhost:44367/api/documentos/410422?doctipo=10 
+2024-10-01 06:51:01.9046 loggerfile request https://localhost:44367/api/socios/13436067-4C/ 
+2024-10-01 06:51:02.0081 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 06:51:02.1320 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopFamilia 
+2024-10-01 06:51:02.1876 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopRubro 
+2024-10-01 06:51:02.3207 loggerfile request https://localhost:44367/api/socios/13436067-4C/TopVentas 
+2024-10-01 06:51:13.0167 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 06:51:14.8455 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=Admin&fechaini=20241001&fechafin=20241001 
+2024-10-01 09:11:20.6297 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 09:11:25.4326 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-01 
+2024-10-01 09:11:33.9538 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 09:11:33.9773 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-01 
+2024-10-01 09:11:36.5363 loggerfile request https://localhost:44367/api/documentos/search?palabras=410587&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-10-01 09:11:38.4903 loggerfile request https://localhost:44367/api/documentos/410587?doctipo=10 
+2024-10-01 09:13:57.5230 loggerfile request https://localhost:44367/api/socios/76283881-8C/ 
+2024-10-01 09:13:57.8343 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 09:13:58.7003 loggerfile request https://localhost:44367/api/socios/76283881-8C/TopFamilia 
+2024-10-01 09:13:58.7637 loggerfile request https://localhost:44367/api/socios/76283881-8C/TopRubro 
+2024-10-01 09:13:58.8203 loggerfile request https://localhost:44367/api/socios/76283881-8C/TopVentas 
+2024-10-01 09:28:36.3893 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 09:28:36.4420 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&usuario=Admin&desde=2024-10-01&hasta=2024-10-01 
+2024-10-01 09:28:50.1753 loggerfile request https://localhost:44367/api/documentos/search?palabras=410587&vendedorcode=Admin&doctipo=10&usuario=Admin 
+2024-10-01 09:28:51.5749 loggerfile request https://localhost:44367/api/documentos/410587?doctipo=10 
+2024-10-01 09:28:51.7759 loggerfile request https://localhost:44367/api/socios/76283881-8C/ 
+2024-10-01 09:28:51.8921 loggerfile request https://localhost:44367/api/socios/propiedades 
+2024-10-01 09:28:52.0229 loggerfile request https://localhost:44367/api/socios/76283881-8C/TopFamilia 
+2024-10-01 09:28:52.0570 loggerfile request https://localhost:44367/api/socios/76283881-8C/TopRubro 
+2024-10-01 09:28:52.0932 loggerfile request https://localhost:44367/api/socios/76283881-8C/TopVentas 
+2024-10-01 12:22:09.1645 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-10-01 12:22:21.5020 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-10-01 12:22:21.8856 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-01 12:22:30.5855 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-01 12:22:31.7621 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-01 12:22:47.2332 loggerfile request https://localhost:44367/api/documentos/5807?doctipo=2010 
+2024-10-01 12:22:47.6207 loggerfile request https://localhost:44367/api/documentos/20145?doctipo=3010 
+2024-10-01 12:23:14.9184 loggerfile request https://localhost:44367/api/documentos/5807?doctipo=2010 
+2024-10-01 12:23:15.3898 loggerfile request https://localhost:44367/api/documentos 
+2024-10-01 12:23:23.6255 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-01 12:23:23.6841 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-01 12:23:30.9037 loggerfile request https://localhost:44367/api/documentos/5807?doctipo=2010 
+2024-10-01 12:23:31.0238 loggerfile request https://localhost:44367/api/documentos/20145?doctipo=3010 
+2024-10-01 12:23:34.5218 loggerfile request https://localhost:44367/api/documentos/5807?doctipo=2010 
+2024-10-01 12:23:34.6214 loggerfile request https://localhost:44367/api/documentos 
+2024-10-01 12:23:36.4530 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-10-01 12:23:36.4842 loggerfile RenovarToken... 
+2024-10-01 12:23:36.4842 loggerfile RenovarToken, url: https://replapi.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=INTEGRACION&password=2 
+2024-10-01 12:23:42.6273 loggerfile response.ErrorMessage:  
+2024-10-01 12:23:42.6273 loggerfile response.ErrorException:  
+2024-10-01 12:23:42.6273 loggerfile response.ProtocolVersion: 1.1 
+2024-10-01 12:23:42.6273 loggerfile response.StatusCode: OK 
+2024-10-01 12:23:42.6273 loggerfile response.StatusDescription: OK 
+2024-10-01 12:23:42.6273 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJJTlRFR1JBQ0lPTiIsInNlc3Npb24iOiIxNzI3Nzk2MjIwIiwic2VydmljZSI6InBsYXRpbnVtIiwiY291bnRyeSI6IkNMIiwiY29tcGFueV9uYW1lIjoiU2VydmljaW9zIHkgUmVudGFzIEcuVi4gU3BBIiwiY29tcGFueV9jb3VudHJ5IjoiQ0wiLCJ1c2VyX25hbWUiOiJJTlRFR1JBQ0lPTiIsImV4cGlyYXRpb25fZGF0ZSI6MTczMzAxMTIwMCwiY2xpZW50X2NvbmRpdGlvbiI6IlMiLCJyb2xlc1BvcyI6IltcInVzdWFyaW9cIixcInVzdWFyaW9lcnBcIl0iLCJydXRfdXN1YXJpbyI6IjE2LjA0MS4xNjktNCIsImlzcyI6Imh0dHBzOi8vKi5kZWZvbnRhbmEuY29tIiwiYXVkIjoiMDk5MTUzYzI2MjUxNDliYzhlY2IzZTg1ZTAzZjAwMjIiLCJleHAiOjE3NTkzMzIyMTcsIm5iZiI6MTcyNzc5NjIxN30.BnF8YJC7R7D8Z5EBxpnthsQnQgfBiq9J232Z6_cORmw","expires_in":31535999,"token_type":"bearer"} 
+2024-10-01 12:27:30.5780 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-01 12:27:57.8048 loggerfile request https://localhost:44367/api/documentos/5807?doctipo=2010 
+2024-10-01 12:28:00.6415 loggerfile request https://localhost:44367/api/documentos/20145?doctipo=3010 
+2024-10-01 12:28:07.1503 loggerfile request https://localhost:44367/api/documentos/5807?doctipo=2010 
+2024-10-01 12:28:07.2834 loggerfile request https://localhost:44367/api/documentos 
+2024-10-01 12:28:12.1632 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-10-01 12:28:12.1725 loggerfile RenovarToken... 
+2024-10-01 12:28:12.1725 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-10-01 12:28:13.7724 loggerfile response.ErrorMessage:  
+2024-10-01 12:28:13.7724 loggerfile response.ErrorException:  
+2024-10-01 12:28:13.7724 loggerfile response.ProtocolVersion: 1.1 
+2024-10-01 12:28:13.7724 loggerfile response.StatusCode: OK 
+2024-10-01 12:28:13.7724 loggerfile response.StatusDescription: OK 
+2024-10-01 12:28:13.7724 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNzc5NTk5NiIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1OTMzMjQ5MywibmJmIjoxNzI3Nzk2NDkzfQ.-nqVFMWOJxP8ifmEkQlAIdl-fhOPVIi7cnN0ITWd5Hs","expires_in":31535999,"token_type":"bearer"} 
+2024-10-01 12:28:25.6056 loggerfile Ajuste inventario en DF: {0} 
+ {2} 
+2024-10-01 12:28:25.6066 loggerfile RenovarToken... 
+2024-10-01 12:28:25.6066 loggerfile RenovarToken, url: https://api.defontana.com/api/auth?client=GVLIMITADA&company=GVLIMITADA&user=COBRANZAS&password=JHernandez21 
+2024-10-01 12:28:25.7814 loggerfile response.ErrorMessage:  
+2024-10-01 12:28:25.7814 loggerfile response.ErrorException:  
+2024-10-01 12:28:25.7814 loggerfile response.ProtocolVersion: 1.1 
+2024-10-01 12:28:25.7814 loggerfile response.StatusCode: OK 
+2024-10-01 12:28:25.7814 loggerfile response.StatusDescription: OK 
+2024-10-01 12:28:25.7814 loggerfile response.Content: {"success":true,"message":null,"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiJBRDEyM0ZULUhHREY1Ni1LSTIzS0wtS0pUUDk4NzYtSEdUMTIiLCJ1bmlxdWVfbmFtZSI6ImNsaWVudC5sZWdhY3lAZGVmb250YW5hLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYWNjZXNzY29udHJvbHNlcnZpY2UvMjAxMC8wNy9jbGFpbXMvaWRlbnRpdHlwcm92aWRlciI6IkFTUC5ORVQgSWRlbnRpdHkiLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IkdIVEQyMzQtS0xISjc4NjgtRkc0OTIzLUhKRzA4RlQ1NiIsImNvbXBhbnkiOiJHVkxJTUlUQURBIiwiY2xpZW50IjoiR1ZMSU1JVEFEQSIsIm9sZHNlcnZpY2UiOiJwbGF0aW51bSIsInVzZXIiOiJDT0JSQU5aQVMiLCJzZXNzaW9uIjoiMTcyNzc5NTk5NiIsInNlcnZpY2UiOiJwbGF0aW51bSIsImNvdW50cnkiOiJDTCIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2lvcyB5IFJlbnRhcyBHLlYuIFNwQSIsImNvbXBhbnlfY291bnRyeSI6IkNMIiwidXNlcl9uYW1lIjoiSm9uYXRoYW4gSGVybmFuZGV6IiwiZXhwaXJhdGlvbl9kYXRlIjoxNzU0Njk3NjAwLCJjbGllbnRfY29uZGl0aW9uIjoiUyIsInJvbGVzUG9zIjoiW1widXN1YXJpb1wiLFwidXN1YXJpb2VycFwiXSIsInJ1dF91c3VhcmlvIjoiMTEuMTExLjExMS0xIiwiaXNzIjoiaHR0cHM6Ly8qLmRlZm9udGFuYS5jb20iLCJhdWQiOiIwOTkxNTNjMjYyNTE0OWJjOGVjYjNlODVlMDNmMDAyMiIsImV4cCI6MTc1OTMzMjUwNSwibmJmIjoxNzI3Nzk2NTA1fQ.wWeVWjqBF5ZDQnhQ7KFz_isF5isMgIe8bKJEyNzTRKU","expires_in":31535999,"token_type":"bearer"} 
+2024-10-01 12:28:35.6474 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-01 12:28:44.6541 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 12:28:49.5482 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20241001&fechafin=20241001 
+2024-10-01 12:29:15.0108 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20241001 
+2024-10-01 13:10:50.8872 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20240930 
+2024-10-01 13:10:59.1085 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=COMERCIAL&idgrupo2= 
+2024-10-01 13:11:06.6079 loggerfile request https://localhost:44367/api/informes/seguimientooperacion?usuario=&fechaini=20240930&fechafin=20240930 
+2024-10-01 13:11:30.1300 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-01 13:11:30.1929 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 13:11:37.0813 loggerfile request https://localhost:44367/api/documentos/20145?doctipo=3010 
+2024-10-01 13:12:04.4694 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=CAMARA 
+2024-10-01 13:12:04.5192 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 13:12:04.7335 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 13:12:08.1508 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=10&estado=A&estadooperativo=PREP&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 13:12:08.2670 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=TOLEDO&doctipo=16&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 13:12:09.7697 loggerfile request https://localhost:44367/api/documentos/410502?doctipo=10 
+2024-10-01 13:12:15.8639 loggerfile request https://localhost:44367/api/documentos/410508?doctipo=10 
+2024-10-01 13:13:34.9541 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=CALIDAD&idgrupo2=OPERADOR-PROD 
+2024-10-01 13:13:35.0235 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=PRODUCCION&doctipo=3010&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-10-01 13:13:40.9958 loggerfile request https://localhost:44367/api/documentos/20145?doctipo=3010 
+2024-10-01 13:31:21.4089 loggerfile request https://localhost:44367/api/productos/search/stock?palabras=sobrecost&solorecetas=&maestro=S&bodegacode= 
+2024-10-01 15:23:43.2194 loggerfile request https://localhost:44367/api/productos/bodegas 
+2024-10-01 15:23:45.7428 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=TOLEDO&estado=A 
+2024-10-01 15:23:52.8023 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-01 15:24:01.0779 loggerfile request https://localhost:44367/api/documentos/5658?doctipo=2010 
+2024-10-01 15:24:01.9668 loggerfile request https://localhost:44367/api/documentos/20115?doctipo=3010 
+2024-10-01 15:24:07.4713 loggerfile request https://localhost:44367/api/documentos/5658?doctipo=2010 
+2024-10-01 15:24:13.1914 loggerfile request https://localhost:44367/api/documentos 
+2024-10-01 15:24:27.3161 loggerfile mensaje: No existen productos a marcar
+. Data:  
+2024-10-01 15:24:36.1225 loggerfile request https://localhost:44367/api/documentos/5658?doctipo=2010 
+2024-10-01 15:26:15.1405 loggerfile request https://localhost:44367/api/documentos 
+2024-10-01 15:29:51.9820 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-01 15:30:16.2749 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-01 15:30:23.5398 loggerfile request https://localhost:44367/api/documentos/5659?doctipo=2010 
+2024-10-01 15:30:23.6159 loggerfile request https://localhost:44367/api/documentos/20100?doctipo=3010 
+2024-10-01 15:30:27.1139 loggerfile request https://localhost:44367/api/documentos/5659?doctipo=2010 
+2024-10-01 15:30:34.6377 loggerfile request https://localhost:44367/api/documentos 
+2024-10-01 15:30:39.1555 loggerfile request https://localhost:44367/api/documentos/listpicking?bodegacode=PRODUCCION&estado=A 
+2024-10-01 15:30:52.0099 loggerfile request https://localhost:44367/api/documentos/5660?doctipo=2010 
+2024-10-01 15:30:52.0814 loggerfile request https://localhost:44367/api/documentos/20108?doctipo=3010 
+2024-10-01 15:30:59.1113 loggerfile request https://localhost:44367/api/documentos/5661?doctipo=2010 
+2024-10-01 15:30:59.1787 loggerfile request https://localhost:44367/api/documentos/20113?doctipo=3010 
+2024-10-01 15:31:02.6672 loggerfile request https://localhost:44367/api/documentos/5770?doctipo=2010 
+2024-10-01 15:31:02.7277 loggerfile request https://localhost:44367/api/documentos/20130?doctipo=3010 
+2024-10-01 15:31:07.3215 loggerfile request https://localhost:44367/api/documentos/5771?doctipo=2010 
+2024-10-01 15:31:07.3908 loggerfile request https://localhost:44367/api/documentos/20134?doctipo=3010 
+2024-10-01 15:31:12.5397 loggerfile request https://localhost:44367/api/documentos/5772?doctipo=2010 
+2024-10-01 15:31:12.6207 loggerfile request https://localhost:44367/api/documentos/20133?doctipo=3010 
+2024-10-01 15:31:21.6535 loggerfile request https://localhost:44367/api/documentos/5660?doctipo=2010 
+2024-10-01 15:31:21.7462 loggerfile request https://localhost:44367/api/documentos/20108?doctipo=3010 
+2024-10-01 15:31:25.2815 loggerfile request https://localhost:44367/api/documentos/5661?doctipo=2010 
+2024-10-01 15:31:25.3562 loggerfile request https://localhost:44367/api/documentos/20113?doctipo=3010 
+2024-10-01 15:31:28.2659 loggerfile request https://localhost:44367/api/documentos/5733?doctipo=2010 
+2024-10-01 15:31:28.3479 loggerfile request https://localhost:44367/api/documentos/20124?doctipo=3010 
+2024-10-01 15:31:31.8125 loggerfile request https://localhost:44367/api/documentos/5771?doctipo=2010 
+2024-10-01 15:31:31.9199 loggerfile request https://localhost:44367/api/documentos/20134?doctipo=3010 
+2024-10-01 15:31:35.5391 loggerfile request https://localhost:44367/api/documentos/5772?doctipo=2010 
+2024-10-01 15:31:35.6153 loggerfile request https://localhost:44367/api/documentos/20133?doctipo=3010 
