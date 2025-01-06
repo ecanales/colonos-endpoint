@@ -351,7 +351,6 @@
           <Property Name="DocFecha" Type="date" />
           <Property Name="Custodio" Type="varchar" MaxLength="200" />
           <Property Name="TipoCustodio" Type="varchar" MaxLength="10" />
-          <Property Name="Observaciones" Type="varchar" MaxLength="300" />
           <Property Name="EstadoOperativo" Type="varchar" MaxLength="10" />
           <Property Name="BaseEntry" Type="int" />
           <Property Name="BaseTipo" Type="int" />
@@ -359,6 +358,7 @@
           <Property Name="UsuarioCode" Type="varchar" MaxLength="50" />
           <Property Name="Version" Type="varchar" MaxLength="50" />
           <Property Name="UsuarioNombre" Type="varchar" MaxLength="100" />
+          <Property Name="ObservacionesCierre" Type="varchar" MaxLength="200" />
         </EntityType>
         <EntityType Name="OFAC">
           <Key>
@@ -515,6 +515,8 @@
           <Property Name="BaseTipoCustodio" Type="int" />
           <Property Name="ObservacionesCierre" Type="varchar" MaxLength="200" />
           <Property Name="TipoCustodio" Type="varchar" MaxLength="10" />
+          <Property Name="TipoEntrega" Type="varchar" MaxLength="50" />
+          <Property Name="OtraEntrega" Type="varchar" MaxLength="10" />
         </EntityType>
         <EntityType Name="OLPC">
           <Key>
@@ -2854,6 +2856,8 @@
           <Property Name="BaseTipoCustodio" Type="Int32" />
           <Property Name="ObservacionesCierre" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
           <Property Name="TipoCustodio" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="TipoEntrega" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="OtraEntrega" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
         </EntityType>
         <EntityType Name="OUSR">
           <Key>
@@ -3791,7 +3795,6 @@
           <Property Name="DocFecha" Type="DateTime" Precision="0" />
           <Property Name="Custodio" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
           <Property Name="TipoCustodio" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
-          <Property Name="Observaciones" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
           <Property Name="EstadoOperativo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
           <Property Name="BaseEntry" Type="Int32" />
           <Property Name="BaseTipo" Type="Int32" />
@@ -3799,6 +3802,7 @@
           <Property Name="UsuarioCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
           <Property Name="Version" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
           <Property Name="UsuarioNombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="ObservacionesCierre" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
         </EntityType>
       </Schema>
     </edmx:ConceptualModels>
@@ -4983,6 +4987,8 @@
           <EntitySetMapping Name="OLOG">
             <EntityTypeMapping TypeName="COLONOSDBModel.OLOG">
               <MappingFragment StoreEntitySet="OLOG">
+                <ScalarProperty Name="OtraEntrega" ColumnName="OtraEntrega" />
+                <ScalarProperty Name="TipoEntrega" ColumnName="TipoEntrega" />
                 <ScalarProperty Name="TipoCustodio" ColumnName="TipoCustodio" />
                 <ScalarProperty Name="ObservacionesCierre" ColumnName="ObservacionesCierre" />
                 <ScalarProperty Name="BaseTipoCustodio" ColumnName="BaseTipoCustodio" />
@@ -6087,6 +6093,7 @@
           <EntitySetMapping Name="OCUS">
             <EntityTypeMapping TypeName="COLONOSDBModel.OCUS">
               <MappingFragment StoreEntitySet="OCUS">
+                <ScalarProperty Name="ObservacionesCierre" ColumnName="ObservacionesCierre" />
                 <ScalarProperty Name="UsuarioNombre" ColumnName="UsuarioNombre" />
                 <ScalarProperty Name="Version" ColumnName="Version" />
                 <ScalarProperty Name="UsuarioCode" ColumnName="UsuarioCode" />
@@ -6094,7 +6101,6 @@
                 <ScalarProperty Name="BaseTipo" ColumnName="BaseTipo" />
                 <ScalarProperty Name="BaseEntry" ColumnName="BaseEntry" />
                 <ScalarProperty Name="EstadoOperativo" ColumnName="EstadoOperativo" />
-                <ScalarProperty Name="Observaciones" ColumnName="Observaciones" />
                 <ScalarProperty Name="TipoCustodio" ColumnName="TipoCustodio" />
                 <ScalarProperty Name="Custodio" ColumnName="Custodio" />
                 <ScalarProperty Name="DocFecha" ColumnName="DocFecha" />

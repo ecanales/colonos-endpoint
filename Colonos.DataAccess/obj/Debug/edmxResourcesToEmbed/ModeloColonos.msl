@@ -1178,6 +1178,8 @@
     <EntitySetMapping Name="OLOG">
       <EntityTypeMapping TypeName="COLONOSDBModel.OLOG">
         <MappingFragment StoreEntitySet="OLOG">
+          <ScalarProperty Name="OtraEntrega" ColumnName="OtraEntrega" />
+          <ScalarProperty Name="TipoEntrega" ColumnName="TipoEntrega" />
           <ScalarProperty Name="TipoCustodio" ColumnName="TipoCustodio" />
           <ScalarProperty Name="ObservacionesCierre" ColumnName="ObservacionesCierre" />
           <ScalarProperty Name="BaseTipoCustodio" ColumnName="BaseTipoCustodio" />
@@ -2282,6 +2284,7 @@
     <EntitySetMapping Name="OCUS">
       <EntityTypeMapping TypeName="COLONOSDBModel.OCUS">
         <MappingFragment StoreEntitySet="OCUS">
+          <ScalarProperty Name="ObservacionesCierre" ColumnName="ObservacionesCierre" />
           <ScalarProperty Name="UsuarioNombre" ColumnName="UsuarioNombre" />
           <ScalarProperty Name="Version" ColumnName="Version" />
           <ScalarProperty Name="UsuarioCode" ColumnName="UsuarioCode" />
@@ -2289,7 +2292,6 @@
           <ScalarProperty Name="BaseTipo" ColumnName="BaseTipo" />
           <ScalarProperty Name="BaseEntry" ColumnName="BaseEntry" />
           <ScalarProperty Name="EstadoOperativo" ColumnName="EstadoOperativo" />
-          <ScalarProperty Name="Observaciones" ColumnName="Observaciones" />
           <ScalarProperty Name="TipoCustodio" ColumnName="TipoCustodio" />
           <ScalarProperty Name="Custodio" ColumnName="Custodio" />
           <ScalarProperty Name="DocFecha" ColumnName="DocFecha" />

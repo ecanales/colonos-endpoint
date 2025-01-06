@@ -70,11 +70,11 @@ namespace Colonos.Manager
             foreach (var doc in docs)
             {
                 Documento ocus = null;
-                if (doc.Custodio!=null && doc.TipoCustodio.Length>0 && !crearCustorio)
+                if (doc.TipoCustodio != null && doc.TipoCustodio.Length>0 && doc.TipoCustodio !="PLA" && !crearCustorio)
                 {
                     crearCustorio = true;
                     ocus = new Documento();
-                    ocus.DocTipo = doc.TipoCustodio == "RCT" ? 4015 : 4016; // RCT=4015, RCC=4016
+                    ocus.DocTipo = doc.TipoCustodio == "RCT" ? 4015 : doc.TipoCustodio == "RCC" ? 4016 : 0; // RCT=4015, RCC=4016
                     ocus.DocEstado = "A";
                     ocus.DocFecha = DateTime.Now.Date;
                     ocus.Custodio = doc.Custodio;
@@ -87,7 +87,6 @@ namespace Colonos.Manager
                     ocus.UsuarioCode = doc.UsuarioCode;
                     ocus.Version = doc.Version;
                     ocus.UsuarioNombre = doc.UsuarioNombre;
-
                     Repo_OCUS repocus = new Repo_OCUS();
                     json=repocus.Add(ocus);
                     ocus = JsonConvert.DeserializeObject<Documento>(json);
@@ -148,9 +147,13 @@ namespace Colonos.Manager
                             repofac1.Modify(fac1);
                         }
                     }
-                    else
+                    else if(olog.OtraEntrega=="SI")
                     {
                         ofac.EstadoOperativo = "ING";
+                    }
+                    else if (olog.OtraEntrega == "NO")
+                    {
+                        ofac.DocEstado = "C";
                     }
 
                     repofac.Modify(ofac);

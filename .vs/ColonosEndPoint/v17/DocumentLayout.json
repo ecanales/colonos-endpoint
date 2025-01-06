@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\esystem\\Fuentes\\Colonos\\colonos-endpoint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{960B3E03-2637-4B5E-A65F-9A91C5383AB4}|Colonos.Manager\\Colonos.Manager.csproj|c:\\esystem\\fuentes\\colonos\\colonos-endpoint\\colonos.manager\\implement\\logistica\\managerlogistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960B3E03-2637-4B5E-A65F-9A91C5383AB4}|Colonos.Manager\\Colonos.Manager.csproj|solutionrelative:colonos.manager\\implement\\logistica\\managerlogistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960B3E03-2637-4B5E-A65F-9A91C5383AB4}|Colonos.Manager\\Colonos.Manager.csproj|c:\\esystem\\fuentes\\colonos\\colonos-endpoint\\colonos.manager\\implement\\logistica\\managerrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960B3E03-2637-4B5E-A65F-9A91C5383AB4}|Colonos.Manager\\Colonos.Manager.csproj|solutionrelative:colonos.manager\\implement\\logistica\\managerrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9D4981-A21F-44FB-9E10-F817B8C3BAEE}|Colonos.Entidades\\Colonos.Entidades.csproj|c:\\esystem\\fuentes\\colonos\\colonos-endpoint\\colonos.entidades\\implement\\drivin\\clienterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9D4981-A21F-44FB-9E10-F817B8C3BAEE}|Colonos.Entidades\\Colonos.Entidades.csproj|solutionrelative:colonos.entidades\\implement\\drivin\\clienterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79E15D8-99FE-4BA1-B92E-7073EBC7C66A}|Colonos.EndPoint\\Colonos.EndPoint.csproj|c:\\esystem\\fuentes\\colonos\\colonos-endpoint\\colonos.endpoint\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C79E15D8-99FE-4BA1-B92E-7073EBC7C66A}|Colonos.EndPoint\\Colonos.EndPoint.csproj|solutionrelative:colonos.endpoint\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91680CC-809F-45F2-8916-97152DDB2943}|Colonos.DataAccess\\Colonos.DataAccess.csproj|c:\\esystem\\fuentes\\colonos\\colonos-endpoint\\colonos.dataaccess\\implement\\repositorios\\logistica\\repo_olog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91680CC-809F-45F2-8916-97152DDB2943}|Colonos.DataAccess\\Colonos.DataAccess.csproj|solutionrelative:colonos.dataaccess\\implement\\repositorios\\logistica\\repo_olog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 374,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteRequest.cs",
+              "DocumentMoniker": "C:\\esystem\\Fuentes\\Colonos\\colonos-endpoint\\Colonos.Entidades\\Implement\\Drivin\\ClienteRequest.cs",
+              "RelativeDocumentMoniker": "Colonos.Entidades\\Implement\\Drivin\\ClienteRequest.cs",
+              "ToolTip": "C:\\esystem\\Fuentes\\Colonos\\colonos-endpoint\\Colonos.Entidades\\Implement\\Drivin\\ClienteRequest.cs",
+              "RelativeToolTip": "Colonos.Entidades\\Implement\\Drivin\\ClienteRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:07:28.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerLogistica.cs",
+              "DocumentMoniker": "C:\\esystem\\Fuentes\\Colonos\\colonos-endpoint\\Colonos.Manager\\Implement\\Logistica\\ManagerLogistica.cs",
+              "RelativeDocumentMoniker": "Colonos.Manager\\Implement\\Logistica\\ManagerLogistica.cs",
+              "ToolTip": "C:\\esystem\\Fuentes\\Colonos\\colonos-endpoint\\Colonos.Manager\\Implement\\Logistica\\ManagerLogistica.cs",
+              "RelativeToolTip": "Colonos.Manager\\Implement\\Logistica\\ManagerLogistica.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAtwIoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T06:09:18.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repo_OLOG.cs",
+              "DocumentMoniker": "C:\\esystem\\Fuentes\\Colonos\\colonos-endpoint\\Colonos.DataAccess\\Implement\\Repositorios\\Logistica\\Repo_OLOG.cs",
+              "RelativeDocumentMoniker": "Colonos.DataAccess\\Implement\\Repositorios\\Logistica\\Repo_OLOG.cs",
+              "ToolTip": "C:\\esystem\\Fuentes\\Colonos\\colonos-endpoint\\Colonos.DataAccess\\Implement\\Repositorios\\Logistica\\Repo_OLOG.cs",
+              "RelativeToolTip": "Colonos.DataAccess\\Implement\\Repositorios\\Logistica\\Repo_OLOG.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAnwGQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T06:09:18.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\esystem\\Fuentes\\Colonos\\colonos-endpoint\\Colonos.EndPoint\\Web.config",
+              "RelativeDocumentMoniker": "Colonos.EndPoint\\Web.config",
+              "ToolTip": "C:\\esystem\\Fuentes\\Colonos\\colonos-endpoint\\Colonos.EndPoint\\Web.config",
+              "RelativeToolTip": "Colonos.EndPoint\\Web.config",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-03T05:40:29.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerRutas.cs",
+              "DocumentMoniker": "C:\\esystem\\Fuentes\\Colonos\\colonos-endpoint\\Colonos.Manager\\Implement\\Logistica\\ManagerRutas.cs",
+              "RelativeDocumentMoniker": "Colonos.Manager\\Implement\\Logistica\\ManagerRutas.cs",
+              "ToolTip": "C:\\esystem\\Fuentes\\Colonos\\colonos-endpoint\\Colonos.Manager\\Implement\\Logistica\\ManagerRutas.cs",
+              "RelativeToolTip": "Colonos.Manager\\Implement\\Logistica\\ManagerRutas.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAQwE4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T05:30:45.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

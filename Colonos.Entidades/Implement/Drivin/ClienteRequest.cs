@@ -20,6 +20,7 @@ namespace Colonos.Entidades.Drivin
         public string client_name {get;set;}
         public string contact_name {get;set;}
         public string contact_email {get;set;}
+        public string name { get; set; }
         public List<Time_windows> time_windows { get; set; }
         public List<OrderRequest> orders { get; set; }
     }

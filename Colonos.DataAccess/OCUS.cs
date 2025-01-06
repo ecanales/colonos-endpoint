@@ -20,7 +20,6 @@ namespace Colonos.DataAccess
         public Nullable<System.DateTime> DocFecha { get; set; }
         public string Custodio { get; set; }
         public string TipoCustodio { get; set; }
-        public string Observaciones { get; set; }
         public string EstadoOperativo { get; set; }
         public Nullable<int> BaseEntry { get; set; }
         public Nullable<int> BaseTipo { get; set; }
@@ -28,5 +27,6 @@ namespace Colonos.DataAccess
         public string UsuarioCode { get; set; }
         public string Version { get; set; }
         public string UsuarioNombre { get; set; }
+        public string ObservacionesCierre { get; set; }
     }
 }

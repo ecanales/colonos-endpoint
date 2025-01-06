@@ -1,0 +1,310 @@
+2024-12-17 12:55:46.8824 loggerfile request https://localhost:44367/api/vehiculos 
+2024-12-17 12:55:47.1083 loggerfile Drivin ExecuteGet. url: https://external.driv.in/api/external/v2/vehicles 
+2024-12-17 12:55:47.1083 loggerfile X-API-Key: 518d4333-9d1a-4f03-b17a-9ca3e323a1af 
+2024-12-17 12:55:48.6045 loggerfile Drivin ExecuteGet. response.Content: OK {"status":"OK","response":[{"id":10418162,"code":"AVILLARREAL","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":1800.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"avillarreal@loscolonosdelnorte.cl","first_name":"Avillarreal","last_name":"41","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10417525,"code":"CCERPA","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":1800.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"ccerpa@loscolonosdelnorte.cl","first_name":"Ccerpa","last_name":"51","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10457148,"code":"CCERPA2","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":4000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"ccerpa2@loscolonosdelnorte.cl","first_name":"Ccerpa2","last_name":"30","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10424777,"code":"EDGAR","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"edgar@loscolonosdelnorte.cl","first_name":"Edgar","last_name":"87","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10417502,"code":"EOJEDA","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":4000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"eojeda@loscolonosdelnorte.cl","first_name":"Eojeda","last_name":"47","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10410229,"code":"HRUBIO","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"hrubio@loscolonosdelnorte.cl","first_name":"Hans","last_name":"Rubio","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10417524,"code":"HVERGARA","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"hvergara@loscolonosdelnorte.cl","first_name":"Hvergara","last_name":"60","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10417527,"code":"JMOLINA","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"jmolina@loscolonosdelnorte.cl","first_name":"Jmolina","last_name":"90","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10417521,"code":"QS","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"qs@loscolonosdelnorte.cl","first_name":"QS","last_name":"","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10417522,"code":"SRIOS1","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":false,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"srios1@loscolonosdelnorte.cl","first_name":"SEBASTIAN","last_name":"RIOS 1","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10417523,"code":"SRIOS2","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":false,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T06:00:00.000Z","shift_end":"2000-01-01T23:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"srios2@loscolonosdelnorte.cl","first_name":"SEBASTIAN","last_name":"RIOS 2","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10619784,"code":"TFEMOTRI","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tfemotri@loscolonosdelnorte.cl","first_name":"TFEMOTRI 23","last_name":"","phone":"","dni":"TFEMOTRI"},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10677811,"code":"TGiron20","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":2000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tgiron@loscolonosdelnorte.cl","first_name":"TGiron20","last_name":"","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10491991,"code":"TH","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":5000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"th@loscolonosdelnorte.cl","first_name":"TH","last_name":"11","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10492137,"code":"TKC","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":5000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tkc@loscolonosdelnorte.cl","first_name":"TKC","last_name":"","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10665470,"code":"tpascal","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":1500.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tpascal@loscolonosdelnorte.cl","first_name":"tpascal","last_name":"12","phone":"+56986606083","dni":""},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10705350,"code":"TSJ 77","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":1500.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tsj@loscolonosdelnorte.cl","first_name":"TSJ","last_name":"77","phone":"","dni":"TSJ 77"},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10560778,"code":"TSUSANA","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":5000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tsusana@loscolonosdelnorte.cl","first_name":"TSusana","last_name":"84","phone":"+56933780248","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10582013,"code":"TSUSANA2","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":5000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tsusana2@loscolonosdelnorte.cl","first_name":"tsusana2","last_name":"","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10565276,"code":"TY&M","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":5000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tmyv@loscolonosdelnorte.cl","first_name":"TY&M","last_name":"51","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10616996,"code":"TY&M2 13","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":5000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tyym2@loscolonosdelnorte.cl","first_name":"TY&M2 13","last_name":"","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10454855,"code":"WDELGADO","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"wdelgado@loscolonosdelnorte.cl","first_name":"WDelgado","last_name":"20","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"}]} 
+2024-12-17 12:55:51.9749 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 12:58:07.8089 loggerfile request https://localhost:44367/api/documentos/77728?doctipo=12 
+2024-12-17 12:58:16.3520 loggerfile request https://localhost:44367/api/documentos/77729?doctipo=12 
+2024-12-17 12:58:16.5536 loggerfile request https://localhost:44367/api/documentos/77765?doctipo=12 
+2024-12-17 12:58:16.6024 loggerfile request https://localhost:44367/api/documentos/77695?doctipo=12 
+2024-12-17 12:58:16.7042 loggerfile request https://localhost:44367/api/documentos/77725?doctipo=12 
+2024-12-17 12:58:16.8092 loggerfile request https://localhost:44367/api/documentos/77739?doctipo=12 
+2024-12-17 12:58:17.0521 loggerfile request https://localhost:44367/api/documentos 
+2024-12-17 12:58:17.1441 loggerfile Drivin ExecutePost. url: https://external.driv.in/api/external/v2/scenarios 
+2024-12-17 12:58:17.1441 loggerfile Drivin ExecutePost. json: {
+  "description": "17-12-2024 AVILLARREAL",
+  "date": "2024-12-17",
+  "schema_name": "Asignación"
+} 
+2024-12-17 12:58:17.1441 loggerfile X-API-Key: 518d4333-9d1a-4f03-b17a-9ca3e323a1af 
+2024-12-17 12:58:19.0789 loggerfile Drivin ExecutePost. response.Content: OK {"success":true,"status":"OK","response":{"scenario_token":"0edb64b4-db59-4850-aac8-6228cdfeff9a","addresses_count":0,"orders_count":0,"items_count":0,"vehicles_count":22,"added":[]}} 
+2024-12-17 12:58:20.6334 loggerfile Drivin ExecutePost. url: https://external.driv.in/api/external/v2/routes?token=0edb64b4-db59-4850-aac8-6228cdfeff9a 
+2024-12-17 12:58:20.6334 loggerfile Drivin ExecutePost. json: {
+  "vehicle_code": "AVILLARREAL",
+  "clients": [
+    {
+      "code": "77827590-2",
+      "address": "AVDA AMERICO VESPUCIO 1501 ",
+      "reference": "EL QUINCHO DEL CACHO",
+      "city": "SANTIAGO",
+      "county": "CERRILLOS",
+      "country": "Chile",
+      "lat": -33.5171784000,
+      "lng": -70.7144692000,
+      "client_name": "INDUSTRIAL Y COMERCIAL IRUN LIMITADA",
+      "contact_name": "",
+      "contact_email": "deliciasoeste@delicias.cl",
+      "time_windows": [
+        {
+          "start": "10:30",
+          "end": "19:00"
+        }
+      ],
+      "orders": [
+        {
+          "code": "336358",
+          "description": "INDUSTRIAL Y COMERCIAL IRUN LIMITADA",
+          "name": null,
+          "supplier_name": "LCDN |  | INDUSTRIAL Y COMERCIAL IRUN LIMITADA",
+          "items": [
+            {
+              "code": "VAPLA22038",
+              "description": "1 TJ FVA V PLATEADA ",
+              "units_1": 145103.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "76012558-K",
+      "address": "CALLE PRIMERA TRANSVERSAL 3364 ",
+      "reference": "CHEQUES DESDE LAS 17:00 HRSGM\nMartes 17:30 \nMiercoles a viernes 16.30",
+      "city": "SANTIAGO",
+      "county": "MAIPU",
+      "country": "Chile",
+      "lat": -33.4965400000,
+      "lng": -70.7517500000,
+      "client_name": "INVERSIONES GPH LTDA",
+      "contact_name": "",
+      "contact_email": "karol_cess@hotmail.com",
+      "time_windows": [
+        {
+          "start": "16:30",
+          "end": "21:00"
+        }
+      ],
+      "orders": [
+        {
+          "code": "336359",
+          "description": "INVERSIONES GPH LTDA",
+          "name": null,
+          "supplier_name": "LCDN |  | INVERSIONES GPH LTDA",
+          "items": [
+            {
+              "code": "VAASI22027",
+              "description": "1 ÑU LP V ASIENTO ARGENTINO ",
+              "units_1": 284084.0
+            },
+            {
+              "code": "AGANGA1075",
+              "description": "2 JB FRIB V FILETE S/CORDON 4/5",
+              "units_1": 264674.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "77812405-K",
+      "address": "CALERA DE TANGO PARADERO 8 ",
+      "reference": "LA FUENTE CALERANA",
+      "city": "SANTIAGO",
+      "county": "CALERA DE TANGO",
+      "country": "Chile",
+      "lat": -33.6291031000,
+      "lng": -70.7686968000,
+      "client_name": "SOCIEDAD GASTRONÓMICA RUIZ ZAGAL SPA",
+      "contact_name": "",
+      "contact_email": "Gabriela.proarc@gmail.com",
+      "time_windows": [
+        {
+          "start": "11:30",
+          "end": "15:30"
+        }
+      ],
+      "orders": [
+        {
+          "code": "336396",
+          "description": "SOCIEDAD GASTRONÓMICA RUIZ ZAGAL SPA",
+          "name": null,
+          "supplier_name": "LCDN |  | SOCIEDAD GASTRONÓMICA RUIZ ZAGAL SPA",
+          "items": [
+            {
+              "code": "LCCDN22019",
+              "description": "1 LC ALB V S48 POSTA DE PALETA ARGENTINA",
+              "units_1": 138237.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "77827590-2",
+      "address": "AVDA AMERICO VESPUCIO 1501 ",
+      "reference": "EL QUINCHO DEL CACHO",
+      "city": "SANTIAGO",
+      "county": "CERRILLOS",
+      "country": "Chile",
+      "lat": -33.5171784000,
+      "lng": -70.7144692000,
+      "client_name": "INDUSTRIAL Y COMERCIAL IRUN LIMITADA",
+      "contact_name": "",
+      "contact_email": "deliciasoeste@delicias.cl",
+      "time_windows": [
+        {
+          "start": "10:30",
+          "end": "19:00"
+        }
+      ],
+      "orders": [
+        {
+          "code": "336323",
+          "description": "INDUSTRIAL Y COMERCIAL IRUN LIMITADA",
+          "name": null,
+          "supplier_name": "LCDN |  | INDUSTRIAL Y COMERCIAL IRUN LIMITADA",
+          "items": [
+            {
+              "code": "VAASI22027",
+              "description": "1 ÑU LP V ASIENTO ARGENTINO ",
+              "units_1": 348747.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "77588719-2",
+      "address": "CONSISTORIAL 2100 ",
+      "reference": "2DO PISO STREECENTER",
+      "city": "SANTIAGO",
+      "county": "PEÑALOLEN",
+      "country": "Chile",
+      "lat": -33.4788013000,
+      "lng": -70.5442027000,
+      "client_name": "APG SERVICIOS INTEGRALES DE ENTRETENCIÓN Y COMIDA SPA",
+      "contact_name": "",
+      "contact_email": null,
+      "time_windows": [
+        {
+          "start": "11:00:00",
+          "end": "18:00:00"
+        }
+      ],
+      "orders": [
+        {
+          "code": "336355",
+          "description": "APG SERVICIOS INTEGRALES DE ENTRETENCIÓN Y COMIDA SPA",
+          "name": null,
+          "supplier_name": "LCDN |  | APG SERVICIOS INTEGRALES DE ENTRETENCIÓN Y COMIDA SPA",
+          "items": [
+            {
+              "code": "AGANGPLT22",
+              "description": "1 CO CR FLAT IRON FILET",
+              "units_1": 180320.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "76686105-9",
+      "address": "PALENA  3152",
+      "reference": "",
+      "city": "SANTIAGO",
+      "county": "LA FLORIDA",
+      "country": "Chile",
+      "lat": 0.0000000000,
+      "lng": 0.0000000000,
+      "client_name": "GASTRONOMIA PUNTA BRASA LTDA",
+      "contact_name": "",
+      "contact_email": "",
+      "time_windows": [
+        {
+          "start": "11:00",
+          "end": "18:00"
+        }
+      ],
+      "orders": [
+        {
+          "code": "336369",
+          "description": "GASTRONOMIA PUNTA BRASA LTDA",
+          "name": null,
+          "supplier_name": "LCDN |  | GASTRONOMIA PUNTA BRASA LTDA",
+          "items": [
+            {
+              "code": "AGOTRP1003",
+              "description": "1 CR CR V PLATEADA",
+              "units_1": 179190.0
+            },
+            {
+              "code": "AGANGP1059",
+              "description": "1 HU FCH V PLATEADA",
+              "units_1": 166290.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+} 
+2024-12-17 12:58:20.6334 loggerfile X-API-Key: 518d4333-9d1a-4f03-b17a-9ca3e323a1af 
+2024-12-17 12:58:23.6485 loggerfile Drivin ExecutePost. response.Content: OK {"success":true,"status":"OK","response":{"scenario_token":"0edb64b4-db59-4850-aac8-6228cdfeff9a"}} 
+2024-12-17 12:58:26.1852 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 12:59:07.9749 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:00:59.5477 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:01:02.1177 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=15&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:04:38.1019 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:04:40.8007 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:04:43.7179 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:04:46.6060 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:04:48.5767 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:04:50.6753 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:05:02.6369 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:05:32.9534 loggerfile request https://localhost:44367/api/documentos/66?doctipo=14 
+2024-12-17 13:05:33.1719 loggerfile request https://localhost:44367/api/documentos/67?doctipo=14 
+2024-12-17 13:05:33.3883 loggerfile request https://localhost:44367/api/documentos/sets 
+2024-12-17 13:05:36.3417 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:05:36.8843 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=15&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:05:46.8491 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:05:59.4490 loggerfile request https://localhost:44367/api/documentos/60?doctipo=14 
+2024-12-17 13:05:59.6411 loggerfile request https://localhost:44367/api/documentos/61?doctipo=14 
+2024-12-17 13:05:59.8091 loggerfile request https://localhost:44367/api/documentos/62?doctipo=14 
+2024-12-17 13:05:59.9933 loggerfile request https://localhost:44367/api/documentos/63?doctipo=14 
+2024-12-17 13:06:00.3194 loggerfile request https://localhost:44367/api/documentos/64?doctipo=14 
+2024-12-17 13:06:00.4942 loggerfile request https://localhost:44367/api/documentos/sets 
+2024-12-17 13:06:07.5697 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:06:07.7792 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=15&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:06:11.2017 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:10:56.0739 loggerfile request https://localhost:44367/api/documentos/65?doctipo=14 
+2024-12-17 13:12:11.5550 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:13:17.7038 loggerfile request https://localhost:44367/api/documentos/68?doctipo=14 
+2024-12-17 13:13:17.7696 loggerfile request https://localhost:44367/api/documentos/69?doctipo=14 
+2024-12-17 13:13:17.8490 loggerfile request https://localhost:44367/api/documentos/70?doctipo=14 
+2024-12-17 13:13:17.9876 loggerfile request https://localhost:44367/api/documentos/sets 
+2024-12-17 13:13:22.6590 loggerfile mensaje: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.. Data:    en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Colonos.DataAccess.Repositorios.Repo_OLOG.Modify(OLOG item) en C:\esystem\Fuentes\Colonos\colonos-endpoint\Colonos.DataAccess\Implement\Repositorios\Logistica\Repo_OLOG.cs:línea 130
+   en Colonos.Manager.ManagerLogistica.Modify(String item) en C:\esystem\Fuentes\Colonos\colonos-endpoint\Colonos.Manager\Implement\Logistica\ManagerLogistica.cs:línea 128 
+2024-12-17 13:13:46.8825 loggerfile request https://localhost:44367/api/vehiculos 
+2024-12-17 13:13:46.8825 loggerfile Drivin ExecuteGet. url: https://external.driv.in/api/external/v2/vehicles 
+2024-12-17 13:13:46.8825 loggerfile X-API-Key: 518d4333-9d1a-4f03-b17a-9ca3e323a1af 
+2024-12-17 13:13:48.0727 loggerfile Drivin ExecuteGet. response.Content: OK {"status":"OK","response":[{"id":10418162,"code":"AVILLARREAL","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":1800.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"avillarreal@loscolonosdelnorte.cl","first_name":"Avillarreal","last_name":"41","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10417525,"code":"CCERPA","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":1800.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"ccerpa@loscolonosdelnorte.cl","first_name":"Ccerpa","last_name":"51","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10457148,"code":"CCERPA2","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":4000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"ccerpa2@loscolonosdelnorte.cl","first_name":"Ccerpa2","last_name":"30","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10424777,"code":"EDGAR","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"edgar@loscolonosdelnorte.cl","first_name":"Edgar","last_name":"87","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10417502,"code":"EOJEDA","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":4000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"eojeda@loscolonosdelnorte.cl","first_name":"Eojeda","last_name":"47","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10410229,"code":"HRUBIO","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"hrubio@loscolonosdelnorte.cl","first_name":"Hans","last_name":"Rubio","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10417524,"code":"HVERGARA","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"hvergara@loscolonosdelnorte.cl","first_name":"Hvergara","last_name":"60","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10417527,"code":"JMOLINA","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"jmolina@loscolonosdelnorte.cl","first_name":"Jmolina","last_name":"90","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10417521,"code":"QS","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"qs@loscolonosdelnorte.cl","first_name":"QS","last_name":"","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10417522,"code":"SRIOS1","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":false,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T22:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"srios1@loscolonosdelnorte.cl","first_name":"SEBASTIAN","last_name":"RIOS 1","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10417523,"code":"SRIOS2","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":false,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T06:00:00.000Z","shift_end":"2000-01-01T23:00:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"srios2@loscolonosdelnorte.cl","first_name":"SEBASTIAN","last_name":"RIOS 2","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10619784,"code":"TFEMOTRI","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tfemotri@loscolonosdelnorte.cl","first_name":"TFEMOTRI 23","last_name":"","phone":"","dni":"TFEMOTRI"},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10677811,"code":"TGiron20","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":2000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tgiron@loscolonosdelnorte.cl","first_name":"TGiron20","last_name":"","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10491991,"code":"TH","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":5000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"th@loscolonosdelnorte.cl","first_name":"TH","last_name":"11","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10492137,"code":"TKC","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":5000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tkc@loscolonosdelnorte.cl","first_name":"TKC","last_name":"","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10665470,"code":"tpascal","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":1500.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tpascal@loscolonosdelnorte.cl","first_name":"tpascal","last_name":"12","phone":"+56986606083","dni":""},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10705350,"code":"TSJ 77","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":1500.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tsj@loscolonosdelnorte.cl","first_name":"TSJ","last_name":"77","phone":"","dni":"TSJ 77"},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10560778,"code":"TSUSANA","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":5000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tsusana@loscolonosdelnorte.cl","first_name":"TSusana","last_name":"84","phone":"+56933780248","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10582013,"code":"TSUSANA2","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":5000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tsusana2@loscolonosdelnorte.cl","first_name":"tsusana2","last_name":"","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10565276,"code":"TY&M","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":5000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tmyv@loscolonosdelnorte.cl","first_name":"TY&M","last_name":"51","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10616996,"code":"TY&M2 13","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":5000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T00:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"tyym2@loscolonosdelnorte.cl","first_name":"TY&M2 13","last_name":"","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"},{"id":10454855,"code":"WDELGADO","description":null,"detail":null,"model":null,"year":null,"peoneta_id":null,"assistant_2_id":null,"assistant_3_id":null,"device_number":"","priority":1,"custom_1":null,"custom_2":null,"kinesis_redirect":false,"is_active":true,"capacity_1":3000.0,"capacity_2":0.0,"capacity_3":0.0,"capacity_4":null,"shift_start":"2000-01-01T07:00:00.000Z","shift_end":"2000-01-01T23:59:00.000Z","reload_time":0,"speed_factor":0.0,"days":"1,1,1,1,1,0,0","driver":{"email":"wdelgado@loscolonosdelnorte.cl","first_name":"WDelgado","last_name":"20","phone":"","dni":null},"tags":[],"cost_allocation_tags":[],"device_type":"drivin_app","vehicle_tpye":null,"fleets":"COLONOS"}]} 
+2024-12-17 13:13:48.1137 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:14:14.1766 loggerfile request https://localhost:44367/api/documentos/68?doctipo=14 
+2024-12-17 13:14:14.2584 loggerfile request https://localhost:44367/api/documentos/69?doctipo=14 
+2024-12-17 13:14:14.3442 loggerfile request https://localhost:44367/api/documentos/70?doctipo=14 
+2024-12-17 13:14:14.5177 loggerfile request https://localhost:44367/api/documentos/sets 
+2024-12-17 13:14:16.4095 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:14:16.5750 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=15&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:14:21.9698 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=12&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2024-12-17 13:14:38.1368 loggerfile request https://localhost:44367/api/documentos/118?doctipo=4015 
+2024-12-17 13:14:43.3547 loggerfile request https://localhost:44367/api/documentos/0?doctipo=4015 
+2024-12-17 13:14:46.5091 loggerfile request https://localhost:44367/api/documentos/0?doctipo=4015 
+2024-12-17 13:14:49.2787 loggerfile request https://localhost:44367/api/documentos/0?doctipo=4015 
+2024-12-17 13:14:51.0586 loggerfile request https://localhost:44367/api/documentos/118?doctipo=4015 
+2024-12-17 13:15:42.3498 loggerfile request https://localhost:44367/api/documentos/77734?doctipo=12 
+2024-12-17 13:15:49.8069 loggerfile request https://localhost:44367/api/documentos/77734?doctipo=12 
+2024-12-17 13:21:00.6294 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=A&estadooperativo=PREP&pendiente=1&vendedorcode=&desde=&hasta= 
+2024-12-17 13:21:10.3842 loggerfile request https://localhost:44367/api/documentos/414941?doctipo=10 
+2024-12-17 13:22:27.7485 loggerfile request https://localhost:44367/api/bandejas/CRED?estado=0&visible=1 
+2024-12-17 13:22:30.7826 loggerfile request https://localhost:44367/api/documentos/418597?doctipo=10 
+2024-12-17 13:22:31.1766 loggerfile request https://localhost:44367/api/bandejas/CRED/418597 
+2024-12-17 13:22:31.3741 loggerfile request https://localhost:44367/api/socios/77139577-5C/ 
+2024-12-17 13:22:31.9404 loggerfile request https://localhost:44367/api/socios/cuenta/77139577-5C/ 
+2024-12-17 13:22:32.2994 loggerfile request https://localhost:44367/api/socios/ventas12m/77139577-5C/ 
+2024-12-17 13:22:32.4680 loggerfile request https://localhost:44367/api/bandejas/CRED?sociocode=77139577-5C&top=10 
+2024-12-17 13:24:56.9294 loggerfile request https://localhost:44367/api/usuarios/list?idgrupo=&idgrupo2= 
+2024-12-17 13:24:57.0644 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&vendedorcode=CALL_CENTER_COLONOS4&desde=2024-12-17&hasta=2024-12-17 
+2024-12-17 13:25:05.4453 loggerfile request https://localhost:44367/api/documentos/list?doctipo=10&estado=&estadooperativo=&pendiente=-1&vendedorcode=&desde=2024-12-09&hasta=2024-12-17 

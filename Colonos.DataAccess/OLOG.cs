@@ -61,5 +61,7 @@ namespace Colonos.DataAccess
         public Nullable<int> BaseTipoCustodio { get; set; }
         public string ObservacionesCierre { get; set; }
         public string TipoCustodio { get; set; }
+        public string TipoEntrega { get; set; }
+        public string OtraEntrega { get; set; }
     }
 }

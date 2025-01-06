@@ -346,7 +346,6 @@
     <Property Name="DocFecha" Type="date" />
     <Property Name="Custodio" Type="varchar" MaxLength="200" />
     <Property Name="TipoCustodio" Type="varchar" MaxLength="10" />
-    <Property Name="Observaciones" Type="varchar" MaxLength="300" />
     <Property Name="EstadoOperativo" Type="varchar" MaxLength="10" />
     <Property Name="BaseEntry" Type="int" />
     <Property Name="BaseTipo" Type="int" />
@@ -354,6 +353,7 @@
     <Property Name="UsuarioCode" Type="varchar" MaxLength="50" />
     <Property Name="Version" Type="varchar" MaxLength="50" />
     <Property Name="UsuarioNombre" Type="varchar" MaxLength="100" />
+    <Property Name="ObservacionesCierre" Type="varchar" MaxLength="200" />
   </EntityType>
   <EntityType Name="OFAC">
     <Key>
@@ -510,6 +510,8 @@
     <Property Name="BaseTipoCustodio" Type="int" />
     <Property Name="ObservacionesCierre" Type="varchar" MaxLength="200" />
     <Property Name="TipoCustodio" Type="varchar" MaxLength="10" />
+    <Property Name="TipoEntrega" Type="varchar" MaxLength="50" />
+    <Property Name="OtraEntrega" Type="varchar" MaxLength="10" />
   </EntityType>
   <EntityType Name="OLPC">
     <Key>

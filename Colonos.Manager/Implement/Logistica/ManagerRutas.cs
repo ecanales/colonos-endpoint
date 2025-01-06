@@ -87,11 +87,12 @@ namespace Colonos.Manager
                             county = dir.ComunaNombre,
                             country = "Chile",
                             contact_email = dir.EmailDriveIn,
-                            contact_name = doc.ContactoCode.ToString(),
+                            contact_name = doc.RazonSocial.ToString(), // .ContactoCode.ToString(),
                             lat = Convert.ToDecimal(dir.Latitud),
                             lng = Convert.ToDecimal(dir.Longitud),
                             time_windows = new List<Time_windows>(),
                             orders = new List<OrderRequest>(),
+                            name= cli.RazonSocial,
                         };
                         cliente.time_windows.Add(new Time_windows
                         {
@@ -113,7 +114,7 @@ namespace Colonos.Manager
                             {
                                 code = r.ProdCode,
                                 description = r.ProdNombre,
-                                units_1 = Convert.ToDecimal(r.TotalReal)
+                                units_1 = Convert.ToDecimal(r.CantidadEntregada)
                             };
                             order.items.Add(item);
                         }

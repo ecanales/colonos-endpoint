@@ -10,3 +10,15 @@ D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Entidades\obj\Release\
 D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Entidades\obj\Release\Colonos.Entidades.csproj.CopyComplete
 D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Entidades\obj\Release\Colonos.Entidades.dll
 D:\GitKraken\psb-romani\RomaniAPI\ColonosEndPoint\Colonos.Entidades\obj\Release\Colonos.Entidades.pdb
+C:\esystem\Fuentes\Colonos\colonos-endpoint\Colonos.Entidades\bin\Release\NLog.config
+C:\esystem\Fuentes\Colonos\colonos-endpoint\Colonos.Entidades\bin\Release\Colonos.Entidades.dll
+C:\esystem\Fuentes\Colonos\colonos-endpoint\Colonos.Entidades\bin\Release\Colonos.Entidades.pdb
+C:\esystem\Fuentes\Colonos\colonos-endpoint\Colonos.Entidades\bin\Release\Newtonsoft.Json.dll
+C:\esystem\Fuentes\Colonos\colonos-endpoint\Colonos.Entidades\bin\Release\NLog.dll
+C:\esystem\Fuentes\Colonos\colonos-endpoint\Colonos.Entidades\bin\Release\Newtonsoft.Json.xml
+C:\esystem\Fuentes\Colonos\colonos-endpoint\Colonos.Entidades\bin\Release\NLog.xml
+C:\esystem\Fuentes\Colonos\colonos-endpoint\Colonos.Entidades\obj\Release\Colonos.Entidades.csproj.AssemblyReference.cache
+C:\esystem\Fuentes\Colonos\colonos-endpoint\Colonos.Entidades\obj\Release\Colonos.Entidades.csproj.CoreCompileInputs.cache
+C:\esystem\Fuentes\Colonos\colonos-endpoint\Colonos.Entidades\obj\Release\Colonos..D1E49AB4.Up2Date
+C:\esystem\Fuentes\Colonos\colonos-endpoint\Colonos.Entidades\obj\Release\Colonos.Entidades.dll
+C:\esystem\Fuentes\Colonos\colonos-endpoint\Colonos.Entidades\obj\Release\Colonos.Entidades.pdb

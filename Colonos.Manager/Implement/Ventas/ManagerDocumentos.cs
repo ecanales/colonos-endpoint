@@ -54,7 +54,14 @@ namespace Colonos.Manager
                             creditodisponible = cli.CreditoAutorizado ?? 0 - cli.CreditoUtiliado ?? 0;
                             var estado = estados.Find(x => x.EstadoOperativo == cli.EstadoOperativo);
 
-                            if (estado.Descripcion == "BETADO")
+                            if (estado.Descripcion == "BETADO" || 
+                                estado.Descripcion == "BLOQUEO" || 
+                                estado.Descripcion == "INACTIVO" || 
+                                estado.Descripcion == "MOROSIDAD" ||
+                                estado.Descripcion == "CLIENTE BETADO" || 
+                                estado.Descripcion == "BLOQUEO CUPO" || 
+                                estado.Descripcion == "INACTIVO" || 
+                                estado.Descripcion == "BLOQUEO MOROSIDAD")
                             {
                                 msg = new MensajeReturn();
                                 msg.error = true;
