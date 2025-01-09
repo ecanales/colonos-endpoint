@@ -141,6 +141,32 @@ namespace Colonos.EndPoint.Controllers
         }
 
         [HttpPatch] //actualizar
+        [Route("documentos/setserror")]
+        public IHttpActionResult ModifySetsError(HttpRequestMessage request)
+        {
+            logger.Info("request {0}", Request.RequestUri);
+
+            var jsonRequest = request.Content.ReadAsStringAsync().Result;
+
+            JObject json;
+
+            var cnndf = setCnnDF();
+            var cnndrivin = setCnnDrivin();
+            var mng = new ManagerDocumentos(logger, cnndf, cnndrivin);
+            var item = mng.ModifySetsError(jsonRequest);
+            if (!item.error)
+            {
+                return Ok(item);
+            }
+            else
+            {
+                logger.Error("mensaje: {0}. Data: {1}", item.msg, item.data);
+                return ResponseMessage(Request.CreateResponse(item.statuscode, JsonConvert.DeserializeObject(JsonConvert.SerializeObject(item))));
+
+            }
+        }
+
+        [HttpPatch] //actualizar
         [Route("documentos/sets")]
         public IHttpActionResult ModifySets(HttpRequestMessage request)
         {

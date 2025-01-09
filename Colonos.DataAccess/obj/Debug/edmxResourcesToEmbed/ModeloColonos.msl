@@ -2301,5 +2301,123 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
+    <EntitySetMapping Name="DEV1">
+      <EntityTypeMapping TypeName="COLONOSDBModel.DEV1">
+        <MappingFragment StoreEntitySet="DEV1">
+          <ScalarProperty Name="Completado" ColumnName="Completado" />
+          <ScalarProperty Name="CantidadEntregada" ColumnName="CantidadEntregada" />
+          <ScalarProperty Name="SolicitadoAnterior" ColumnName="SolicitadoAnterior" />
+          <ScalarProperty Name="FamiliaNombre" ColumnName="FamiliaNombre" />
+          <ScalarProperty Name="AnimalNombre" ColumnName="AnimalNombre" />
+          <ScalarProperty Name="FrmtoVentaNombre" ColumnName="FrmtoVentaNombre" />
+          <ScalarProperty Name="MarcaNombre" ColumnName="MarcaNombre" />
+          <ScalarProperty Name="MarcaCode" ColumnName="MarcaCode" />
+          <ScalarProperty Name="OrigenNombre" ColumnName="OrigenNombre" />
+          <ScalarProperty Name="OrigenCode" ColumnName="OrigenCode" />
+          <ScalarProperty Name="RefrigeraNombre" ColumnName="RefrigeraNombre" />
+          <ScalarProperty Name="RefrigeraCode" ColumnName="RefrigeraCode" />
+          <ScalarProperty Name="BodegaCode" ColumnName="BodegaCode" />
+          <ScalarProperty Name="Disponible" ColumnName="Disponible" />
+          <ScalarProperty Name="MargenRegla" ColumnName="MargenRegla" />
+          <ScalarProperty Name="FactorPrecio" ColumnName="FactorPrecio" />
+          <ScalarProperty Name="PrecioVolumen" ColumnName="PrecioVolumen" />
+          <ScalarProperty Name="PrecioUnitario" ColumnName="PrecioUnitario" />
+          <ScalarProperty Name="TotalReal" ColumnName="TotalReal" />
+          <ScalarProperty Name="TotalSolicitado" ColumnName="TotalSolicitado" />
+          <ScalarProperty Name="CantidadSolicitada" ColumnName="CantidadSolicitada" />
+          <ScalarProperty Name="Volumen" ColumnName="Volumen" />
+          <ScalarProperty Name="LineaItem" ColumnName="LineaItem" />
+          <ScalarProperty Name="Costo" ColumnName="Costo" />
+          <ScalarProperty Name="Margen" ColumnName="Margen" />
+          <ScalarProperty Name="FormatoVtaCode" ColumnName="FormatoVtaCode" />
+          <ScalarProperty Name="Medida" ColumnName="Medida" />
+          <ScalarProperty Name="TipoCode" ColumnName="TipoCode" />
+          <ScalarProperty Name="AnimalCode" ColumnName="AnimalCode" />
+          <ScalarProperty Name="FamiliaCode" ColumnName="FamiliaCode" />
+          <ScalarProperty Name="FechaConfirma" ColumnName="FechaConfirma" />
+          <ScalarProperty Name="UsuarioCodeConfirma" ColumnName="UsuarioCodeConfirma" />
+          <ScalarProperty Name="BaseTipo" ColumnName="BaseTipo" />
+          <ScalarProperty Name="BaseLinea" ColumnName="BaseLinea" />
+          <ScalarProperty Name="BaseEntry" ColumnName="BaseEntry" />
+          <ScalarProperty Name="CantidadReal" ColumnName="CantidadReal" />
+          <ScalarProperty Name="CantidadPendiente" ColumnName="CantidadPendiente" />
+          <ScalarProperty Name="Descuento" ColumnName="Descuento" />
+          <ScalarProperty Name="PrecioFinal" ColumnName="PrecioFinal" />
+          <ScalarProperty Name="ProdNombre" ColumnName="ProdNombre" />
+          <ScalarProperty Name="ProdCode" ColumnName="ProdCode" />
+          <ScalarProperty Name="LineaEstado" ColumnName="LineaEstado" />
+          <ScalarProperty Name="DocTipo" ColumnName="DocTipo" />
+          <ScalarProperty Name="DocLinea" ColumnName="DocLinea" />
+          <ScalarProperty Name="DocEntry" ColumnName="DocEntry" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ODEV">
+      <EntityTypeMapping TypeName="COLONOSDBModel.ODEV">
+        <MappingFragment StoreEntitySet="ODEV">
+          <ScalarProperty Name="Motivo" ColumnName="Motivo" />
+          <ScalarProperty Name="Devolucion" ColumnName="Devolucion" />
+          <ScalarProperty Name="TipoProblema" ColumnName="TipoProblema" />
+          <ScalarProperty Name="OtraEntrega" ColumnName="OtraEntrega" />
+          <ScalarProperty Name="TipoEntrega" ColumnName="TipoEntrega" />
+          <ScalarProperty Name="TipoCustodio" ColumnName="TipoCustodio" />
+          <ScalarProperty Name="ObservacionesCierre" ColumnName="ObservacionesCierre" />
+          <ScalarProperty Name="BaseTipoCustodio" ColumnName="BaseTipoCustodio" />
+          <ScalarProperty Name="BaseEntryCustodio" ColumnName="BaseEntryCustodio" />
+          <ScalarProperty Name="Custodio" ColumnName="Custodio" />
+          <ScalarProperty Name="RutaExitosa" ColumnName="RutaExitosa" />
+          <ScalarProperty Name="BasePedido" ColumnName="BasePedido" />
+          <ScalarProperty Name="CondicionDF" ColumnName="CondicionDF" />
+          <ScalarProperty Name="DireccionCodeFact" ColumnName="DireccionCodeFact" />
+          <ScalarProperty Name="FolioDF" ColumnName="FolioDF" />
+          <ScalarProperty Name="clientFileDF" ColumnName="clientFileDF" />
+          <ScalarProperty Name="BaseRuta" ColumnName="BaseRuta" />
+          <ScalarProperty Name="scenario_token" ColumnName="scenario_token" />
+          <ScalarProperty Name="Vehiculo" ColumnName="Vehiculo" />
+          <ScalarProperty Name="BaseTipo" ColumnName="BaseTipo" />
+          <ScalarProperty Name="BaseEntry" ColumnName="BaseEntry" />
+          <ScalarProperty Name="Completado" ColumnName="Completado" />
+          <ScalarProperty Name="FechaIngresoPrep" ColumnName="FechaIngresoPrep" />
+          <ScalarProperty Name="CondicionNombre" ColumnName="CondicionNombre" />
+          <ScalarProperty Name="AutorizadoEspecial" ColumnName="AutorizadoEspecial" />
+          <ScalarProperty Name="MotivoRechazo" ColumnName="MotivoRechazo" />
+          <ScalarProperty Name="BandejaCode" ColumnName="BandejaCode" />
+          <ScalarProperty Name="Margen" ColumnName="Margen" />
+          <ScalarProperty Name="Costo" ColumnName="Costo" />
+          <ScalarProperty Name="AutorizacionEspecial" ColumnName="AutorizacionEspecial" />
+          <ScalarProperty Name="RetiraCliente" ColumnName="RetiraCliente" />
+          <ScalarProperty Name="FechaEntrega" ColumnName="FechaEntrega" />
+          <ScalarProperty Name="RazonSocial" ColumnName="RazonSocial" />
+          <ScalarProperty Name="EstadoCliente" ColumnName="EstadoCliente" />
+          <ScalarProperty Name="UsuarioNombre" ColumnName="UsuarioNombre" />
+          <ScalarProperty Name="Version" ColumnName="Version" />
+          <ScalarProperty Name="FechaRegistro" ColumnName="FechaRegistro" />
+          <ScalarProperty Name="EstadoOperativo" ColumnName="EstadoOperativo" />
+          <ScalarProperty Name="Observaciones" ColumnName="Observaciones" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Iva" ColumnName="Iva" />
+          <ScalarProperty Name="Neto" ColumnName="Neto" />
+          <ScalarProperty Name="UsuarioCode" ColumnName="UsuarioCode" />
+          <ScalarProperty Name="VendedorCode" ColumnName="VendedorCode" />
+          <ScalarProperty Name="DireccionCode" ColumnName="DireccionCode" />
+          <ScalarProperty Name="CondicionCode" ColumnName="CondicionCode" />
+          <ScalarProperty Name="ContactoCode" ColumnName="ContactoCode" />
+          <ScalarProperty Name="SocioCode" ColumnName="SocioCode" />
+          <ScalarProperty Name="DocFecha" ColumnName="DocFecha" />
+          <ScalarProperty Name="DocTipo" ColumnName="DocTipo" />
+          <ScalarProperty Name="DocEstado" ColumnName="DocEstado" />
+          <ScalarProperty Name="DocEntry" ColumnName="DocEntry" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DEV2">
+      <EntityTypeMapping TypeName="COLONOSDBModel.DEV2">
+        <MappingFragment StoreEntitySet="DEV2">
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="TipoMotivo" ColumnName="TipoMotivo" />
+          <ScalarProperty Name="IdMotivo" ColumnName="IdMotivo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
   </EntityContainerMapping>
 </Mapping>

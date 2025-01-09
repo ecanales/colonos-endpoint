@@ -37,6 +37,65 @@
     <Property Name="paymentID" Type="varchar" MaxLength="100" />
     <Property Name="sellerID" Type="varchar" MaxLength="100" />
   </EntityType>
+  <EntityType Name="DEV1">
+    <Key>
+      <PropertyRef Name="DocEntry" />
+      <PropertyRef Name="DocLinea" />
+    </Key>
+    <Property Name="DocEntry" Type="int" Nullable="false" />
+    <Property Name="DocLinea" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DocTipo" Type="int" />
+    <Property Name="LineaEstado" Type="char" MaxLength="1" />
+    <Property Name="ProdCode" Type="varchar" MaxLength="50" />
+    <Property Name="ProdNombre" Type="varchar" MaxLength="150" />
+    <Property Name="PrecioFinal" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="Descuento" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="CantidadPendiente" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="CantidadReal" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="BaseEntry" Type="int" />
+    <Property Name="BaseLinea" Type="int" />
+    <Property Name="BaseTipo" Type="int" />
+    <Property Name="UsuarioCodeConfirma" Type="varchar" MaxLength="50" />
+    <Property Name="FechaConfirma" Type="datetime" />
+    <Property Name="FamiliaCode" Type="int" />
+    <Property Name="AnimalCode" Type="int" />
+    <Property Name="TipoCode" Type="char" MaxLength="1" />
+    <Property Name="Medida" Type="varchar" MaxLength="10" />
+    <Property Name="FormatoVtaCode" Type="int" />
+    <Property Name="Margen" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="Costo" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="LineaItem" Type="int" />
+    <Property Name="Volumen" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="CantidadSolicitada" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="TotalSolicitado" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="TotalReal" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="PrecioUnitario" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="PrecioVolumen" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="FactorPrecio" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="MargenRegla" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="Disponible" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="BodegaCode" Type="varchar" MaxLength="50" />
+    <Property Name="RefrigeraCode" Type="int" />
+    <Property Name="RefrigeraNombre" Type="varchar" MaxLength="150" />
+    <Property Name="OrigenCode" Type="int" />
+    <Property Name="OrigenNombre" Type="varchar" MaxLength="150" />
+    <Property Name="MarcaCode" Type="int" />
+    <Property Name="MarcaNombre" Type="varchar" MaxLength="150" />
+    <Property Name="FrmtoVentaNombre" Type="varchar" MaxLength="150" />
+    <Property Name="AnimalNombre" Type="varchar" MaxLength="150" />
+    <Property Name="FamiliaNombre" Type="varchar" MaxLength="150" />
+    <Property Name="SolicitadoAnterior" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="CantidadEntregada" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="Completado" Type="numeric" Precision="18" Scale="4" />
+  </EntityType>
+  <EntityType Name="DEV2">
+    <Key>
+      <PropertyRef Name="IdMotivo" />
+    </Key>
+    <Property Name="IdMotivo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TipoMotivo" Type="int" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="100" />
+  </EntityType>
   <EntityType Name="FAC1">
     <Key>
       <PropertyRef Name="DocEntry" />
@@ -354,6 +413,63 @@
     <Property Name="Version" Type="varchar" MaxLength="50" />
     <Property Name="UsuarioNombre" Type="varchar" MaxLength="100" />
     <Property Name="ObservacionesCierre" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="ODEV">
+    <Key>
+      <PropertyRef Name="DocEntry" />
+    </Key>
+    <Property Name="DocEntry" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DocEstado" Type="char" MaxLength="1" />
+    <Property Name="DocTipo" Type="int" />
+    <Property Name="DocFecha" Type="date" />
+    <Property Name="SocioCode" Type="varchar" MaxLength="50" />
+    <Property Name="ContactoCode" Type="int" />
+    <Property Name="CondicionCode" Type="int" />
+    <Property Name="DireccionCode" Type="int" />
+    <Property Name="VendedorCode" Type="varchar" MaxLength="50" />
+    <Property Name="UsuarioCode" Type="varchar" MaxLength="50" />
+    <Property Name="Neto" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="Iva" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="Total" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="Observaciones" Type="varchar" MaxLength="300" />
+    <Property Name="EstadoOperativo" Type="varchar" MaxLength="10" />
+    <Property Name="FechaRegistro" Type="datetime" />
+    <Property Name="Version" Type="varchar" MaxLength="50" />
+    <Property Name="UsuarioNombre" Type="varchar" MaxLength="100" />
+    <Property Name="EstadoCliente" Type="varchar" MaxLength="150" />
+    <Property Name="RazonSocial" Type="varchar" MaxLength="250" />
+    <Property Name="FechaEntrega" Type="date" />
+    <Property Name="RetiraCliente" Type="bit" />
+    <Property Name="AutorizacionEspecial" Type="bit" />
+    <Property Name="Costo" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="Margen" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="BandejaCode" Type="varchar" MaxLength="5" />
+    <Property Name="MotivoRechazo" Type="varchar" MaxLength="100" />
+    <Property Name="AutorizadoEspecial" Type="bit" />
+    <Property Name="CondicionNombre" Type="varchar" MaxLength="150" />
+    <Property Name="FechaIngresoPrep" Type="datetime" />
+    <Property Name="Completado" Type="numeric" Precision="18" Scale="4" />
+    <Property Name="BaseEntry" Type="int" />
+    <Property Name="BaseTipo" Type="int" />
+    <Property Name="Vehiculo" Type="varchar" MaxLength="100" />
+    <Property Name="scenario_token" Type="varchar" MaxLength="100" />
+    <Property Name="BaseRuta" Type="int" />
+    <Property Name="clientFileDF" Type="varchar" MaxLength="50" />
+    <Property Name="FolioDF" Type="int" />
+    <Property Name="DireccionCodeFact" Type="int" />
+    <Property Name="CondicionDF" Type="varchar" MaxLength="100" />
+    <Property Name="BasePedido" Type="int" />
+    <Property Name="RutaExitosa" Type="varchar" MaxLength="10" />
+    <Property Name="Custodio" Type="varchar" MaxLength="10" />
+    <Property Name="BaseEntryCustodio" Type="int" />
+    <Property Name="BaseTipoCustodio" Type="int" />
+    <Property Name="ObservacionesCierre" Type="varchar" MaxLength="200" />
+    <Property Name="TipoCustodio" Type="varchar" MaxLength="10" />
+    <Property Name="TipoEntrega" Type="varchar" MaxLength="50" />
+    <Property Name="OtraEntrega" Type="varchar" MaxLength="10" />
+    <Property Name="TipoProblema" Type="varchar" MaxLength="100" />
+    <Property Name="Devolucion" Type="varchar" MaxLength="100" />
+    <Property Name="Motivo" Type="varchar" MaxLength="100" />
   </EntityType>
   <EntityType Name="OFAC">
     <Key>
@@ -1401,6 +1517,8 @@
   <EntityContainer Name="COLONOSDBModelStoreContainer">
     <EntitySet Name="BDA1" EntityType="Self.BDA1" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="ClienteDF" EntityType="Self.ClienteDF" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DEV1" EntityType="Self.DEV1" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DEV2" EntityType="Self.DEV2" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="FAC1" EntityType="Self.FAC1" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="GRP1" EntityType="Self.GRP1" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="ITM1" EntityType="Self.ITM1" Schema="dbo" store:Type="Tables" />
@@ -1424,6 +1542,7 @@
     <EntitySet Name="OCIU" EntityType="Self.OCIU" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="OCOM" EntityType="Self.OCOM" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="OCUS" EntityType="Self.OCUS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ODEV" EntityType="Self.ODEV" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="OFAC" EntityType="Self.OFAC" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="OGRP" EntityType="Self.OGRP" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="OITB" EntityType="Self.OITB" Schema="dbo" store:Type="Tables" />

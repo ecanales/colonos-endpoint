@@ -63,6 +63,7 @@
     <Compile Include="Implement\Inventario\ManagerProductos.cs" />
     <Compile Include="Implement\Inventario\ManagerRecetas.cs" />
     <Compile Include="Implement\Logistica\ManagerCustodia.cs" />
+    <Compile Include="Implement\Logistica\ManagerDevoluciones.cs" />
     <Compile Include="Implement\Logistica\ManagerLogistica.cs" />
     <Compile Include="Implement\Logistica\ManagerRutas.cs" />
     <Compile Include="Implement\Preparacion\ManagerPicking.cs" />

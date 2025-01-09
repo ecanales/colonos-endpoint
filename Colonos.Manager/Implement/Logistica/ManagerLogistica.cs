@@ -59,6 +59,49 @@ namespace Colonos.Manager
             }
         }
 
+        
+        public MensajeReturn ModifySetsError(string item)
+        {
+            MensajeReturn msg = new MensajeReturn();
+
+            var docs = JsonConvert.DeserializeObject<List<Documento>>(item);
+            string json = "";
+
+            var log = docs.Find(x => x.DocTipo == 14);
+            if (log != null && log.Lineas.Any())
+            {
+                //primero grabar custodio
+                var doc = docs.Find(x => x.DocTipo == 4015 || x.DocTipo == 4016);
+                if (doc != null) // existe doc custodio
+                {
+                    Repo_OCUS repocus = new Repo_OCUS();
+                    json = repocus.Add(doc);
+                    Documento ocus = JsonConvert.DeserializeObject<Documento>(json);
+                    if (ocus != null && ocus.DocEntry > 0)
+                    {
+                        log.BaseEntryCustodio = ocus.DocEntry;
+                        log.BaseTipoCustodio = ocus.DocTipo;
+                    }
+                }
+                //segundo actualizar olog con id del custodio
+                json = JsonConvert.SerializeObject(log);
+                msg = this.Modify(json);
+                if (!msg.error)
+                {
+                    //tercero generar doc de devolucion
+                    var dev = docs.Find(x => x.DocTipo == 19); //existe doc devolucion
+                    if (dev != null && dev.Lineas.Any())
+                    {
+                        Repo_ODEV repodev = new Repo_ODEV(logger);
+                        json = repodev.Add(dev);
+                        var docdev = JsonConvert.DeserializeObject<Documento>(json);
+                    }
+
+                }
+            }
+            return msg;
+        }
+
         public MensajeReturn ModifySets(string item)
         {
             MensajeReturn msg = new MensajeReturn();

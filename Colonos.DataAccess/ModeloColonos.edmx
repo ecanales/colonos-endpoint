@@ -42,6 +42,65 @@
           <Property Name="paymentID" Type="varchar" MaxLength="100" />
           <Property Name="sellerID" Type="varchar" MaxLength="100" />
         </EntityType>
+        <EntityType Name="DEV1">
+          <Key>
+            <PropertyRef Name="DocEntry" />
+            <PropertyRef Name="DocLinea" />
+          </Key>
+          <Property Name="DocEntry" Type="int" Nullable="false" />
+          <Property Name="DocLinea" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="DocTipo" Type="int" />
+          <Property Name="LineaEstado" Type="char" MaxLength="1" />
+          <Property Name="ProdCode" Type="varchar" MaxLength="50" />
+          <Property Name="ProdNombre" Type="varchar" MaxLength="150" />
+          <Property Name="PrecioFinal" Type="numeric" Precision="18" Scale="0" />
+          <Property Name="Descuento" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="CantidadPendiente" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="CantidadReal" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="BaseEntry" Type="int" />
+          <Property Name="BaseLinea" Type="int" />
+          <Property Name="BaseTipo" Type="int" />
+          <Property Name="UsuarioCodeConfirma" Type="varchar" MaxLength="50" />
+          <Property Name="FechaConfirma" Type="datetime" />
+          <Property Name="FamiliaCode" Type="int" />
+          <Property Name="AnimalCode" Type="int" />
+          <Property Name="TipoCode" Type="char" MaxLength="1" />
+          <Property Name="Medida" Type="varchar" MaxLength="10" />
+          <Property Name="FormatoVtaCode" Type="int" />
+          <Property Name="Margen" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="Costo" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="LineaItem" Type="int" />
+          <Property Name="Volumen" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="CantidadSolicitada" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="TotalSolicitado" Type="numeric" Precision="18" Scale="0" />
+          <Property Name="TotalReal" Type="numeric" Precision="18" Scale="0" />
+          <Property Name="PrecioUnitario" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="PrecioVolumen" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="FactorPrecio" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="MargenRegla" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="Disponible" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="BodegaCode" Type="varchar" MaxLength="50" />
+          <Property Name="RefrigeraCode" Type="int" />
+          <Property Name="RefrigeraNombre" Type="varchar" MaxLength="150" />
+          <Property Name="OrigenCode" Type="int" />
+          <Property Name="OrigenNombre" Type="varchar" MaxLength="150" />
+          <Property Name="MarcaCode" Type="int" />
+          <Property Name="MarcaNombre" Type="varchar" MaxLength="150" />
+          <Property Name="FrmtoVentaNombre" Type="varchar" MaxLength="150" />
+          <Property Name="AnimalNombre" Type="varchar" MaxLength="150" />
+          <Property Name="FamiliaNombre" Type="varchar" MaxLength="150" />
+          <Property Name="SolicitadoAnterior" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="CantidadEntregada" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="Completado" Type="numeric" Precision="18" Scale="4" />
+        </EntityType>
+        <EntityType Name="DEV2">
+          <Key>
+            <PropertyRef Name="IdMotivo" />
+          </Key>
+          <Property Name="IdMotivo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="TipoMotivo" Type="int" />
+          <Property Name="Descripcion" Type="varchar" MaxLength="100" />
+        </EntityType>
         <EntityType Name="FAC1">
           <Key>
             <PropertyRef Name="DocEntry" />
@@ -359,6 +418,63 @@
           <Property Name="Version" Type="varchar" MaxLength="50" />
           <Property Name="UsuarioNombre" Type="varchar" MaxLength="100" />
           <Property Name="ObservacionesCierre" Type="varchar" MaxLength="200" />
+        </EntityType>
+        <EntityType Name="ODEV">
+          <Key>
+            <PropertyRef Name="DocEntry" />
+          </Key>
+          <Property Name="DocEntry" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="DocEstado" Type="char" MaxLength="1" />
+          <Property Name="DocTipo" Type="int" />
+          <Property Name="DocFecha" Type="date" />
+          <Property Name="SocioCode" Type="varchar" MaxLength="50" />
+          <Property Name="ContactoCode" Type="int" />
+          <Property Name="CondicionCode" Type="int" />
+          <Property Name="DireccionCode" Type="int" />
+          <Property Name="VendedorCode" Type="varchar" MaxLength="50" />
+          <Property Name="UsuarioCode" Type="varchar" MaxLength="50" />
+          <Property Name="Neto" Type="numeric" Precision="18" Scale="0" />
+          <Property Name="Iva" Type="numeric" Precision="18" Scale="0" />
+          <Property Name="Total" Type="numeric" Precision="18" Scale="0" />
+          <Property Name="Observaciones" Type="varchar" MaxLength="300" />
+          <Property Name="EstadoOperativo" Type="varchar" MaxLength="10" />
+          <Property Name="FechaRegistro" Type="datetime" />
+          <Property Name="Version" Type="varchar" MaxLength="50" />
+          <Property Name="UsuarioNombre" Type="varchar" MaxLength="100" />
+          <Property Name="EstadoCliente" Type="varchar" MaxLength="150" />
+          <Property Name="RazonSocial" Type="varchar" MaxLength="250" />
+          <Property Name="FechaEntrega" Type="date" />
+          <Property Name="RetiraCliente" Type="bit" />
+          <Property Name="AutorizacionEspecial" Type="bit" />
+          <Property Name="Costo" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="Margen" Type="numeric" Precision="18" Scale="2" />
+          <Property Name="BandejaCode" Type="varchar" MaxLength="5" />
+          <Property Name="MotivoRechazo" Type="varchar" MaxLength="100" />
+          <Property Name="AutorizadoEspecial" Type="bit" />
+          <Property Name="CondicionNombre" Type="varchar" MaxLength="150" />
+          <Property Name="FechaIngresoPrep" Type="datetime" />
+          <Property Name="Completado" Type="numeric" Precision="18" Scale="4" />
+          <Property Name="BaseEntry" Type="int" />
+          <Property Name="BaseTipo" Type="int" />
+          <Property Name="Vehiculo" Type="varchar" MaxLength="100" />
+          <Property Name="scenario_token" Type="varchar" MaxLength="100" />
+          <Property Name="BaseRuta" Type="int" />
+          <Property Name="clientFileDF" Type="varchar" MaxLength="50" />
+          <Property Name="FolioDF" Type="int" />
+          <Property Name="DireccionCodeFact" Type="int" />
+          <Property Name="CondicionDF" Type="varchar" MaxLength="100" />
+          <Property Name="BasePedido" Type="int" />
+          <Property Name="RutaExitosa" Type="varchar" MaxLength="10" />
+          <Property Name="Custodio" Type="varchar" MaxLength="10" />
+          <Property Name="BaseEntryCustodio" Type="int" />
+          <Property Name="BaseTipoCustodio" Type="int" />
+          <Property Name="ObservacionesCierre" Type="varchar" MaxLength="200" />
+          <Property Name="TipoCustodio" Type="varchar" MaxLength="10" />
+          <Property Name="TipoEntrega" Type="varchar" MaxLength="50" />
+          <Property Name="OtraEntrega" Type="varchar" MaxLength="10" />
+          <Property Name="TipoProblema" Type="varchar" MaxLength="100" />
+          <Property Name="Devolucion" Type="varchar" MaxLength="100" />
+          <Property Name="Motivo" Type="varchar" MaxLength="100" />
         </EntityType>
         <EntityType Name="OFAC">
           <Key>
@@ -1406,6 +1522,8 @@
         <EntityContainer Name="COLONOSDBModelStoreContainer">
           <EntitySet Name="BDA1" EntityType="Self.BDA1" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="ClienteDF" EntityType="Self.ClienteDF" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="DEV1" EntityType="Self.DEV1" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="DEV2" EntityType="Self.DEV2" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="FAC1" EntityType="Self.FAC1" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="GRP1" EntityType="Self.GRP1" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="ITM1" EntityType="Self.ITM1" Schema="dbo" store:Type="Tables" />
@@ -1429,6 +1547,7 @@
           <EntitySet Name="OCIU" EntityType="Self.OCIU" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="OCOM" EntityType="Self.OCOM" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="OCUS" EntityType="Self.OCUS" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ODEV" EntityType="Self.ODEV" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="OFAC" EntityType="Self.OFAC" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="OGRP" EntityType="Self.OGRP" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="OITB" EntityType="Self.OITB" Schema="dbo" store:Type="Tables" />
@@ -1876,6 +1995,9 @@
           <Parameter Name="estado" Mode="In" Type="String" />
           </FunctionImport>
           <EntitySet Name="OCUS" EntityType="COLONOSDBModel.OCUS" />
+          <EntitySet Name="DEV1" EntityType="COLONOSDBModel.DEV1" />
+          <EntitySet Name="ODEV" EntityType="COLONOSDBModel.ODEV" />
+          <EntitySet Name="DEV2" EntityType="COLONOSDBModel.DEV2" />
         </EntityContainer>
         <ComplexType Name="spSocio_Busqueda_Result">
           <Property Type="String" Name="SocioCode" Nullable="false" MaxLength="50" />
@@ -3803,6 +3925,122 @@
           <Property Name="Version" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
           <Property Name="UsuarioNombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
           <Property Name="ObservacionesCierre" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="DEV1">
+          <Key>
+            <PropertyRef Name="DocEntry" />
+            <PropertyRef Name="DocLinea" />
+          </Key>
+          <Property Name="DocEntry" Type="Int32" Nullable="false" />
+          <Property Name="DocLinea" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="DocTipo" Type="Int32" />
+          <Property Name="LineaEstado" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+          <Property Name="ProdCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ProdNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="PrecioFinal" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="Descuento" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="CantidadPendiente" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="CantidadReal" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="BaseEntry" Type="Int32" />
+          <Property Name="BaseLinea" Type="Int32" />
+          <Property Name="BaseTipo" Type="Int32" />
+          <Property Name="UsuarioCodeConfirma" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="FechaConfirma" Type="DateTime" Precision="3" />
+          <Property Name="FamiliaCode" Type="Int32" />
+          <Property Name="AnimalCode" Type="Int32" />
+          <Property Name="TipoCode" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+          <Property Name="Medida" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="FormatoVtaCode" Type="Int32" />
+          <Property Name="Margen" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="Costo" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="LineaItem" Type="Int32" />
+          <Property Name="Volumen" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="CantidadSolicitada" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="TotalSolicitado" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="TotalReal" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="PrecioUnitario" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="PrecioVolumen" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="FactorPrecio" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="MargenRegla" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="Disponible" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="BodegaCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="RefrigeraCode" Type="Int32" />
+          <Property Name="RefrigeraNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="OrigenCode" Type="Int32" />
+          <Property Name="OrigenNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="MarcaCode" Type="Int32" />
+          <Property Name="MarcaNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="FrmtoVentaNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="AnimalNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="FamiliaNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="SolicitadoAnterior" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="CantidadEntregada" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="Completado" Type="Decimal" Precision="18" Scale="4" />
+        </EntityType>
+        <EntityType Name="ODEV">
+          <Key>
+            <PropertyRef Name="DocEntry" />
+          </Key>
+          <Property Name="DocEntry" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="DocEstado" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+          <Property Name="DocTipo" Type="Int32" />
+          <Property Name="DocFecha" Type="DateTime" Precision="0" />
+          <Property Name="SocioCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ContactoCode" Type="Int32" />
+          <Property Name="CondicionCode" Type="Int32" />
+          <Property Name="DireccionCode" Type="Int32" />
+          <Property Name="VendedorCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="UsuarioCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Neto" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="Iva" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="Total" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="Observaciones" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+          <Property Name="EstadoOperativo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="FechaRegistro" Type="DateTime" Precision="3" />
+          <Property Name="Version" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="UsuarioNombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="EstadoCliente" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="RazonSocial" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+          <Property Name="FechaEntrega" Type="DateTime" Precision="0" />
+          <Property Name="RetiraCliente" Type="Boolean" />
+          <Property Name="AutorizacionEspecial" Type="Boolean" />
+          <Property Name="Costo" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="Margen" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="BandejaCode" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+          <Property Name="MotivoRechazo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="AutorizadoEspecial" Type="Boolean" />
+          <Property Name="CondicionNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="FechaIngresoPrep" Type="DateTime" Precision="3" />
+          <Property Name="Completado" Type="Decimal" Precision="18" Scale="4" />
+          <Property Name="BaseEntry" Type="Int32" />
+          <Property Name="BaseTipo" Type="Int32" />
+          <Property Name="Vehiculo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="scenario_token" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="BaseRuta" Type="Int32" />
+          <Property Name="clientFileDF" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="FolioDF" Type="Int32" />
+          <Property Name="DireccionCodeFact" Type="Int32" />
+          <Property Name="CondicionDF" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="BasePedido" Type="Int32" />
+          <Property Name="RutaExitosa" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="Custodio" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="BaseEntryCustodio" Type="Int32" />
+          <Property Name="BaseTipoCustodio" Type="Int32" />
+          <Property Name="ObservacionesCierre" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+          <Property Name="TipoCustodio" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="TipoEntrega" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="OtraEntrega" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="TipoProblema" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Devolucion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Motivo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="DEV2">
+          <Key>
+            <PropertyRef Name="IdMotivo" />
+          </Key>
+          <Property Name="IdMotivo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="TipoMotivo" Type="Int32" />
+          <Property Name="Descripcion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
         </EntityType>
       </Schema>
     </edmx:ConceptualModels>
@@ -6107,6 +6345,124 @@
                 <ScalarProperty Name="DocTipo" ColumnName="DocTipo" />
                 <ScalarProperty Name="DocEstado" ColumnName="DocEstado" />
                 <ScalarProperty Name="DocEntry" ColumnName="DocEntry" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="DEV1">
+            <EntityTypeMapping TypeName="COLONOSDBModel.DEV1">
+              <MappingFragment StoreEntitySet="DEV1">
+                <ScalarProperty Name="Completado" ColumnName="Completado" />
+                <ScalarProperty Name="CantidadEntregada" ColumnName="CantidadEntregada" />
+                <ScalarProperty Name="SolicitadoAnterior" ColumnName="SolicitadoAnterior" />
+                <ScalarProperty Name="FamiliaNombre" ColumnName="FamiliaNombre" />
+                <ScalarProperty Name="AnimalNombre" ColumnName="AnimalNombre" />
+                <ScalarProperty Name="FrmtoVentaNombre" ColumnName="FrmtoVentaNombre" />
+                <ScalarProperty Name="MarcaNombre" ColumnName="MarcaNombre" />
+                <ScalarProperty Name="MarcaCode" ColumnName="MarcaCode" />
+                <ScalarProperty Name="OrigenNombre" ColumnName="OrigenNombre" />
+                <ScalarProperty Name="OrigenCode" ColumnName="OrigenCode" />
+                <ScalarProperty Name="RefrigeraNombre" ColumnName="RefrigeraNombre" />
+                <ScalarProperty Name="RefrigeraCode" ColumnName="RefrigeraCode" />
+                <ScalarProperty Name="BodegaCode" ColumnName="BodegaCode" />
+                <ScalarProperty Name="Disponible" ColumnName="Disponible" />
+                <ScalarProperty Name="MargenRegla" ColumnName="MargenRegla" />
+                <ScalarProperty Name="FactorPrecio" ColumnName="FactorPrecio" />
+                <ScalarProperty Name="PrecioVolumen" ColumnName="PrecioVolumen" />
+                <ScalarProperty Name="PrecioUnitario" ColumnName="PrecioUnitario" />
+                <ScalarProperty Name="TotalReal" ColumnName="TotalReal" />
+                <ScalarProperty Name="TotalSolicitado" ColumnName="TotalSolicitado" />
+                <ScalarProperty Name="CantidadSolicitada" ColumnName="CantidadSolicitada" />
+                <ScalarProperty Name="Volumen" ColumnName="Volumen" />
+                <ScalarProperty Name="LineaItem" ColumnName="LineaItem" />
+                <ScalarProperty Name="Costo" ColumnName="Costo" />
+                <ScalarProperty Name="Margen" ColumnName="Margen" />
+                <ScalarProperty Name="FormatoVtaCode" ColumnName="FormatoVtaCode" />
+                <ScalarProperty Name="Medida" ColumnName="Medida" />
+                <ScalarProperty Name="TipoCode" ColumnName="TipoCode" />
+                <ScalarProperty Name="AnimalCode" ColumnName="AnimalCode" />
+                <ScalarProperty Name="FamiliaCode" ColumnName="FamiliaCode" />
+                <ScalarProperty Name="FechaConfirma" ColumnName="FechaConfirma" />
+                <ScalarProperty Name="UsuarioCodeConfirma" ColumnName="UsuarioCodeConfirma" />
+                <ScalarProperty Name="BaseTipo" ColumnName="BaseTipo" />
+                <ScalarProperty Name="BaseLinea" ColumnName="BaseLinea" />
+                <ScalarProperty Name="BaseEntry" ColumnName="BaseEntry" />
+                <ScalarProperty Name="CantidadReal" ColumnName="CantidadReal" />
+                <ScalarProperty Name="CantidadPendiente" ColumnName="CantidadPendiente" />
+                <ScalarProperty Name="Descuento" ColumnName="Descuento" />
+                <ScalarProperty Name="PrecioFinal" ColumnName="PrecioFinal" />
+                <ScalarProperty Name="ProdNombre" ColumnName="ProdNombre" />
+                <ScalarProperty Name="ProdCode" ColumnName="ProdCode" />
+                <ScalarProperty Name="LineaEstado" ColumnName="LineaEstado" />
+                <ScalarProperty Name="DocTipo" ColumnName="DocTipo" />
+                <ScalarProperty Name="DocLinea" ColumnName="DocLinea" />
+                <ScalarProperty Name="DocEntry" ColumnName="DocEntry" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ODEV">
+            <EntityTypeMapping TypeName="COLONOSDBModel.ODEV">
+              <MappingFragment StoreEntitySet="ODEV">
+                <ScalarProperty Name="Motivo" ColumnName="Motivo" />
+                <ScalarProperty Name="Devolucion" ColumnName="Devolucion" />
+                <ScalarProperty Name="TipoProblema" ColumnName="TipoProblema" />
+                <ScalarProperty Name="OtraEntrega" ColumnName="OtraEntrega" />
+                <ScalarProperty Name="TipoEntrega" ColumnName="TipoEntrega" />
+                <ScalarProperty Name="TipoCustodio" ColumnName="TipoCustodio" />
+                <ScalarProperty Name="ObservacionesCierre" ColumnName="ObservacionesCierre" />
+                <ScalarProperty Name="BaseTipoCustodio" ColumnName="BaseTipoCustodio" />
+                <ScalarProperty Name="BaseEntryCustodio" ColumnName="BaseEntryCustodio" />
+                <ScalarProperty Name="Custodio" ColumnName="Custodio" />
+                <ScalarProperty Name="RutaExitosa" ColumnName="RutaExitosa" />
+                <ScalarProperty Name="BasePedido" ColumnName="BasePedido" />
+                <ScalarProperty Name="CondicionDF" ColumnName="CondicionDF" />
+                <ScalarProperty Name="DireccionCodeFact" ColumnName="DireccionCodeFact" />
+                <ScalarProperty Name="FolioDF" ColumnName="FolioDF" />
+                <ScalarProperty Name="clientFileDF" ColumnName="clientFileDF" />
+                <ScalarProperty Name="BaseRuta" ColumnName="BaseRuta" />
+                <ScalarProperty Name="scenario_token" ColumnName="scenario_token" />
+                <ScalarProperty Name="Vehiculo" ColumnName="Vehiculo" />
+                <ScalarProperty Name="BaseTipo" ColumnName="BaseTipo" />
+                <ScalarProperty Name="BaseEntry" ColumnName="BaseEntry" />
+                <ScalarProperty Name="Completado" ColumnName="Completado" />
+                <ScalarProperty Name="FechaIngresoPrep" ColumnName="FechaIngresoPrep" />
+                <ScalarProperty Name="CondicionNombre" ColumnName="CondicionNombre" />
+                <ScalarProperty Name="AutorizadoEspecial" ColumnName="AutorizadoEspecial" />
+                <ScalarProperty Name="MotivoRechazo" ColumnName="MotivoRechazo" />
+                <ScalarProperty Name="BandejaCode" ColumnName="BandejaCode" />
+                <ScalarProperty Name="Margen" ColumnName="Margen" />
+                <ScalarProperty Name="Costo" ColumnName="Costo" />
+                <ScalarProperty Name="AutorizacionEspecial" ColumnName="AutorizacionEspecial" />
+                <ScalarProperty Name="RetiraCliente" ColumnName="RetiraCliente" />
+                <ScalarProperty Name="FechaEntrega" ColumnName="FechaEntrega" />
+                <ScalarProperty Name="RazonSocial" ColumnName="RazonSocial" />
+                <ScalarProperty Name="EstadoCliente" ColumnName="EstadoCliente" />
+                <ScalarProperty Name="UsuarioNombre" ColumnName="UsuarioNombre" />
+                <ScalarProperty Name="Version" ColumnName="Version" />
+                <ScalarProperty Name="FechaRegistro" ColumnName="FechaRegistro" />
+                <ScalarProperty Name="EstadoOperativo" ColumnName="EstadoOperativo" />
+                <ScalarProperty Name="Observaciones" ColumnName="Observaciones" />
+                <ScalarProperty Name="Total" ColumnName="Total" />
+                <ScalarProperty Name="Iva" ColumnName="Iva" />
+                <ScalarProperty Name="Neto" ColumnName="Neto" />
+                <ScalarProperty Name="UsuarioCode" ColumnName="UsuarioCode" />
+                <ScalarProperty Name="VendedorCode" ColumnName="VendedorCode" />
+                <ScalarProperty Name="DireccionCode" ColumnName="DireccionCode" />
+                <ScalarProperty Name="CondicionCode" ColumnName="CondicionCode" />
+                <ScalarProperty Name="ContactoCode" ColumnName="ContactoCode" />
+                <ScalarProperty Name="SocioCode" ColumnName="SocioCode" />
+                <ScalarProperty Name="DocFecha" ColumnName="DocFecha" />
+                <ScalarProperty Name="DocTipo" ColumnName="DocTipo" />
+                <ScalarProperty Name="DocEstado" ColumnName="DocEstado" />
+                <ScalarProperty Name="DocEntry" ColumnName="DocEntry" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="DEV2">
+            <EntityTypeMapping TypeName="COLONOSDBModel.DEV2">
+              <MappingFragment StoreEntitySet="DEV2">
+                <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+                <ScalarProperty Name="TipoMotivo" ColumnName="TipoMotivo" />
+                <ScalarProperty Name="IdMotivo" ColumnName="IdMotivo" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

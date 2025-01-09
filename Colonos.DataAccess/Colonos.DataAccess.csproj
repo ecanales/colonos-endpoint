@@ -65,6 +65,12 @@
     <Compile Include="ClienteDF.cs">
       <DependentUpon>ModeloColonos.tt</DependentUpon>
     </Compile>
+    <Compile Include="DEV1.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DEV2.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
     <Compile Include="FAC1.cs">
       <DependentUpon>ModeloColonos.tt</DependentUpon>
     </Compile>
@@ -73,6 +79,7 @@
     </Compile>
     <Compile Include="Implement\Repositorios\Config\PerfilesdeUsuario\Repo_OGRP.cs" />
     <Compile Include="Implement\Repositorios\Config\PerfilesdeUsuario\Repo_OUSR.cs" />
+    <Compile Include="Implement\Repositorios\Devoluciones\Repo_DEV2.cs" />
     <Compile Include="Implement\Repositorios\Informes\Repo_Informes.cs" />
     <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_ITM1.cs" />
     <Compile Include="Implement\Repositorios\Inventario\Productos\Repo_ITM10.cs" />
@@ -94,8 +101,10 @@
     <Compile Include="Implement\Repositorios\Inventario\Transacciones\Repo_OTRX.cs" />
     <Compile Include="Implement\Repositorios\Inventario\Transacciones\Repo_TRX1.cs" />
     <Compile Include="Implement\Repositorios\Listados\Repo_ZON1.cs" />
+    <Compile Include="Implement\Repositorios\Devoluciones\Repo_DEV1.cs" />
     <Compile Include="Implement\Repositorios\Logistica\Repo_LOG1.cs" />
     <Compile Include="Implement\Repositorios\Logistica\Repo_OCUS.cs" />
+    <Compile Include="Implement\Repositorios\Devoluciones\Repo_ODEV.cs" />
     <Compile Include="Implement\Repositorios\Logistica\Repo_OLOG.cs" />
     <Compile Include="Implement\Repositorios\Logistica\Repo_ORUT.cs" />
     <Compile Include="Implement\Repositorios\Preparacion\Repo_OPDC.cs" />
@@ -217,6 +226,9 @@
       <DependentUpon>ModeloColonos.tt</DependentUpon>
     </Compile>
     <Compile Include="OCUS.cs">
+      <DependentUpon>ModeloColonos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ODEV.cs">
       <DependentUpon>ModeloColonos.tt</DependentUpon>
     </Compile>
     <Compile Include="OFAC.cs">

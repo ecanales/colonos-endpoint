@@ -76,6 +76,9 @@
         <EntityTypeShape EntityType="COLONOSDBModel.PED1" Width="1.5" PointX="11.625" PointY="26.375" />
         <AssociationConnector Association="COLONOSDBModel.FK_PED1_OPED" />
         <EntityTypeShape EntityType="COLONOSDBModel.OCUS" Width="1.5" PointX="9.375" PointY="20.75" />
+        <EntityTypeShape EntityType="COLONOSDBModel.DEV1" Width="1.5" PointX="3.375" PointY="28.75" />
+        <EntityTypeShape EntityType="COLONOSDBModel.ODEV" Width="1.5" PointX="5.375" PointY="28.75" />
+        <EntityTypeShape EntityType="COLONOSDBModel.DEV2" Width="1.5" PointX="13.375" PointY="0.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

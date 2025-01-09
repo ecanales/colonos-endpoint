@@ -117,3 +117,13 @@
 2025-01-06 06:56:41.2828 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
 2025-01-06 06:56:42.8821 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=15&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
 2025-01-06 06:56:46.4398 loggerfile request https://localhost:44367/api/documentos/87?doctipo=14 
+2025-01-06 19:47:07.5618 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2025-01-06 19:47:10.1811 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=15&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2025-01-06 19:47:17.4576 loggerfile request https://localhost:44367/api/documentos/86?doctipo=14 
+2025-01-06 19:56:16.5037 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2025-01-06 19:56:16.8605 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=15&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2025-01-06 19:56:21.7367 loggerfile request https://localhost:44367/api/documentos/86?doctipo=14 
+2025-01-06 19:57:09.2420 loggerfile request https://localhost:44367/api/documentos/103?doctipo=14 
+2025-01-06 20:06:37.1624 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=14&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2025-01-06 20:06:37.4443 loggerfile request https://localhost:44367/api/documentos/list?bodegacode=&doctipo=15&estado=A&estadooperativo=&vendedorcode=&fechaini=&fechafin= 
+2025-01-06 20:08:03.7803 loggerfile request https://localhost:44367/api/documentos/86?doctipo=14 

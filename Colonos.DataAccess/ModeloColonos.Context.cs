@@ -97,6 +97,9 @@ namespace Colonos.DataAccess
         public virtual DbSet<OPED> OPED { get; set; }
         public virtual DbSet<PED1> PED1 { get; set; }
         public virtual DbSet<OCUS> OCUS { get; set; }
+        public virtual DbSet<DEV1> DEV1 { get; set; }
+        public virtual DbSet<ODEV> ODEV { get; set; }
+        public virtual DbSet<DEV2> DEV2 { get; set; }
     
         public virtual ObjectResult<spSocio_Busqueda_Result> spSocio_Busqueda(string palabras, string tipo, string usuario)
         {

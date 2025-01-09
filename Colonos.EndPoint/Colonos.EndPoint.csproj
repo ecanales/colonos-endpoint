@@ -168,6 +168,7 @@
     <Compile Include="Controllers\ArchivosController.cs" />
     <Compile Include="Controllers\BandejasController.cs" />
     <Compile Include="Controllers\ContactosController.cs" />
+    <Compile Include="Controllers\DimDevolucionController.cs" />
     <Compile Include="Controllers\DimProductosController.cs" />
     <Compile Include="Controllers\DireccionesController.cs" />
     <Compile Include="Controllers\DocumentoController.cs" />

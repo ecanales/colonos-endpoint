@@ -133,6 +133,10 @@ namespace Colonos.Manager
                             ManagerRendicion mngRend = new ManagerRendicion(logger);
                             msg = mngRend.Add(input);
                             break;
+                        case 19: //Sol Devolucion
+                            ManagerDevoluciones mngDev = new ManagerDevoluciones(logger);
+                            msg = mngDev.Add(input);
+                            break;
                     }
                 }
 
@@ -243,6 +247,34 @@ namespace Colonos.Manager
             }
         }
 
+        public MensajeReturn ModifySetsError(string item)
+        {
+            MensajeReturn msg = new MensajeReturn();
+            try
+            {
+                var input = JsonConvert.DeserializeObject<List<Documento>>(item);
+
+                ManagerLogistica mngLOG = new ManagerLogistica(logger, cnndrivin);
+                msg = mngLOG.ModifySetsError(item);
+
+                return msg;
+            }
+            catch (Exception ex)
+            {
+                //MensajeReturn msg = new MensajeReturn();
+                msg.statuscode = HttpStatusCode.InternalServerError;
+                msg.error = true;
+                msg.msg = ex.Message;
+                msg.data = ex.StackTrace;
+                if (ex.InnerException != null)
+                {
+                    msg.data += JsonConvert.SerializeObject(ex);
+                }
+
+                return msg;
+            }
+        }
+
         public MensajeReturn ModifySets(string item)
         {
             MensajeReturn msg = new MensajeReturn();
@@ -316,6 +348,10 @@ namespace Colonos.Manager
                         ManagerProduccion mngPD = new ManagerProduccion(logger);
                         msg = mngPD.Modify(item);
                         break;
+                    case 19: //solictud devolucion
+                        ManagerDevoluciones mngDev = new ManagerDevoluciones(logger);
+                        msg = mngDev.Modify(item);
+                        break;
 
                 }
 
@@ -382,8 +418,13 @@ namespace Colonos.Manager
                         msg = mngRend.Get(docentry);
                         break;
                     case 4015: //custodia
+                    case 4016:
                         ManagerCustodia mngCus = new ManagerCustodia(logger, cnndrivin);
                         msg = mngCus.Get(docentry);
+                        break;
+                    case 19: //custodia
+                        ManagerDevoluciones mngDev = new ManagerDevoluciones(logger);
+                        msg = mngDev.Get(docentry);
                         break;
                 }
 

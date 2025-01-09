@@ -84,6 +84,9 @@ namespace Colonos.Entidades
         public int? BaseEntryLog { get; set; }
         public string TipoEntrega { get; set; }
         public string OtraEntrega { get; set; }
+        public string TipoProblema { get; set; }
+        public string Devolucion { get; set; }
+        public string Motivo { get; set; }
 
     }
 }

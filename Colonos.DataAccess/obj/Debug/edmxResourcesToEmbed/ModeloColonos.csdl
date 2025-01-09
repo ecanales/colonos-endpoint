@@ -393,6 +393,9 @@
       <Parameter Name="estado" Mode="In" Type="String" />
     </FunctionImport>
     <EntitySet Name="OCUS" EntityType="COLONOSDBModel.OCUS" />
+    <EntitySet Name="DEV1" EntityType="COLONOSDBModel.DEV1" />
+    <EntitySet Name="ODEV" EntityType="COLONOSDBModel.ODEV" />
+    <EntitySet Name="DEV2" EntityType="COLONOSDBModel.DEV2" />
   </EntityContainer>
   <ComplexType Name="spSocio_Busqueda_Result">
     <Property Type="String" Name="SocioCode" Nullable="false" MaxLength="50" />
@@ -2320,5 +2323,121 @@
     <Property Name="Version" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
     <Property Name="UsuarioNombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
     <Property Name="ObservacionesCierre" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="DEV1">
+    <Key>
+      <PropertyRef Name="DocEntry" />
+      <PropertyRef Name="DocLinea" />
+    </Key>
+    <Property Name="DocEntry" Type="Int32" Nullable="false" />
+    <Property Name="DocLinea" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DocTipo" Type="Int32" />
+    <Property Name="LineaEstado" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="ProdCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ProdNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="PrecioFinal" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Descuento" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="CantidadPendiente" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="CantidadReal" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="BaseEntry" Type="Int32" />
+    <Property Name="BaseLinea" Type="Int32" />
+    <Property Name="BaseTipo" Type="Int32" />
+    <Property Name="UsuarioCodeConfirma" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FechaConfirma" Type="DateTime" Precision="3" />
+    <Property Name="FamiliaCode" Type="Int32" />
+    <Property Name="AnimalCode" Type="Int32" />
+    <Property Name="TipoCode" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="Medida" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="FormatoVtaCode" Type="Int32" />
+    <Property Name="Margen" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Costo" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="LineaItem" Type="Int32" />
+    <Property Name="Volumen" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="CantidadSolicitada" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="TotalSolicitado" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="TotalReal" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="PrecioUnitario" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="PrecioVolumen" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="FactorPrecio" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="MargenRegla" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Disponible" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="BodegaCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="RefrigeraCode" Type="Int32" />
+    <Property Name="RefrigeraNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="OrigenCode" Type="Int32" />
+    <Property Name="OrigenNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="MarcaCode" Type="Int32" />
+    <Property Name="MarcaNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="FrmtoVentaNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="AnimalNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="FamiliaNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="SolicitadoAnterior" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="CantidadEntregada" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Completado" Type="Decimal" Precision="18" Scale="4" />
+  </EntityType>
+  <EntityType Name="ODEV">
+    <Key>
+      <PropertyRef Name="DocEntry" />
+    </Key>
+    <Property Name="DocEntry" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DocEstado" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="DocTipo" Type="Int32" />
+    <Property Name="DocFecha" Type="DateTime" Precision="0" />
+    <Property Name="SocioCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ContactoCode" Type="Int32" />
+    <Property Name="CondicionCode" Type="Int32" />
+    <Property Name="DireccionCode" Type="Int32" />
+    <Property Name="VendedorCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="UsuarioCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Neto" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Iva" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Total" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Observaciones" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="EstadoOperativo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="FechaRegistro" Type="DateTime" Precision="3" />
+    <Property Name="Version" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="UsuarioNombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="EstadoCliente" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="RazonSocial" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="FechaEntrega" Type="DateTime" Precision="0" />
+    <Property Name="RetiraCliente" Type="Boolean" />
+    <Property Name="AutorizacionEspecial" Type="Boolean" />
+    <Property Name="Costo" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Margen" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="BandejaCode" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Name="MotivoRechazo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="AutorizadoEspecial" Type="Boolean" />
+    <Property Name="CondicionNombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="FechaIngresoPrep" Type="DateTime" Precision="3" />
+    <Property Name="Completado" Type="Decimal" Precision="18" Scale="4" />
+    <Property Name="BaseEntry" Type="Int32" />
+    <Property Name="BaseTipo" Type="Int32" />
+    <Property Name="Vehiculo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="scenario_token" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="BaseRuta" Type="Int32" />
+    <Property Name="clientFileDF" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FolioDF" Type="Int32" />
+    <Property Name="DireccionCodeFact" Type="Int32" />
+    <Property Name="CondicionDF" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="BasePedido" Type="Int32" />
+    <Property Name="RutaExitosa" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Custodio" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="BaseEntryCustodio" Type="Int32" />
+    <Property Name="BaseTipoCustodio" Type="Int32" />
+    <Property Name="ObservacionesCierre" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="TipoCustodio" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="TipoEntrega" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="OtraEntrega" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="TipoProblema" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Devolucion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Motivo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="DEV2">
+    <Key>
+      <PropertyRef Name="IdMotivo" />
+    </Key>
+    <Property Name="IdMotivo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TipoMotivo" Type="Int32" />
+    <Property Name="Descripcion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
   </EntityType>
 </Schema>
